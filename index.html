@@ -1,0 +1,516 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="ステーブルコインの歴史・現状・未来を、仕組み・準備資産・規制（GENIUS Act/MiCA/日本の資金決済法）まで掘り下げて解説。市場データはリアルタイム表示、出典リンク付き。">
+<title>ステーブルコイン入門 — 歴史・現状・未来を深く学ぶ</title>
+<style>
+  :root{
+    --bg:#0b1220; --bg2:#111a2e; --card:#162237; --card2:#1c2b45;
+    --text:#e8edf6; --muted:#9fb0c9; --line:#26344f;
+    --accent:#4f9dff; --accent2:#36d6a0; --warn:#ffb454; --danger:#ff6b6b;
+    --shadow:0 8px 30px rgba(0,0,0,.35);
+    --r:16px;
+  }
+  *{box-sizing:border-box}
+  html{scroll-behavior:smooth}
+  body{
+    margin:0; background:linear-gradient(180deg,#0b1220,#0c1426 40%,#0b1220);
+    color:var(--text); font-family:"Hiragino Kaku Gothic ProN","Yu Gothic",Meiryo,system-ui,-apple-system,"Segoe UI",sans-serif;
+    line-height:1.85; -webkit-font-smoothing:antialiased;
+  }
+  a{color:var(--accent); text-decoration:none}
+  a:hover{text-decoration:underline}
+  .wrap{max-width:980px; margin:0 auto; padding:0 20px}
+
+  header.nav{position:sticky; top:0; z-index:50; backdrop-filter:blur(10px);
+    background:rgba(11,18,32,.78); border-bottom:1px solid var(--line)}
+  .nav .wrap{display:flex; align-items:center; gap:18px; height:60px}
+  .brand{font-weight:800; letter-spacing:.02em; font-size:1.05rem; white-space:nowrap}
+  .brand span{color:var(--accent2)}
+  .nav nav{margin-left:auto; display:flex; gap:16px; flex-wrap:wrap}
+  .nav nav a{color:var(--muted); font-size:.9rem; font-weight:600}
+  .nav nav a:hover{color:var(--text); text-decoration:none}
+
+  .hero{padding:64px 0 36px; text-align:center}
+  .hero h1{font-size:clamp(1.9rem,5vw,3rem); line-height:1.3; margin:0 0 16px; font-weight:850}
+  .hero h1 em{font-style:normal; background:linear-gradient(90deg,var(--accent),var(--accent2));
+    -webkit-background-clip:text; background-clip:text; color:transparent}
+  .hero p{color:var(--muted); font-size:1.1rem; max-width:700px; margin:0 auto 26px}
+  .hero .cta{display:inline-flex; gap:12px; flex-wrap:wrap; justify-content:center}
+  .btn{display:inline-block; padding:12px 22px; border-radius:999px; font-weight:700; font-size:.95rem; transition:transform .15s ease}
+  .btn.primary{background:linear-gradient(90deg,var(--accent),#3a7fd6); color:#fff}
+  .btn.ghost{border:1px solid var(--line); color:var(--text)}
+  .btn:hover{text-decoration:none; transform:translateY(-1px)}
+
+  .live{margin:10px 0 50px}
+  .live-head{display:flex; align-items:center; gap:10px; margin-bottom:14px}
+  .live-head h2{font-size:1.15rem; margin:0}
+  .dot{width:9px; height:9px; border-radius:50%; background:var(--accent2); box-shadow:0 0 0 0 rgba(54,214,160,.7); animation:pulse 2s infinite}
+  @keyframes pulse{0%{box-shadow:0 0 0 0 rgba(54,214,160,.5)}70%{box-shadow:0 0 0 9px rgba(54,214,160,0)}100%{box-shadow:0 0 0 0 rgba(54,214,160,0)}}
+  .live-note{color:var(--muted); font-size:.82rem; margin-left:auto}
+  .grid{display:grid; grid-template-columns:repeat(auto-fit,minmax(190px,1fr)); gap:14px}
+  .stat{background:var(--card); border:1px solid var(--line); border-radius:var(--r); padding:18px; box-shadow:var(--shadow)}
+  .stat .label{color:var(--muted); font-size:.82rem}
+  .stat .val{font-size:1.5rem; font-weight:800; margin-top:6px}
+  .stat .sub{font-size:.8rem; color:var(--muted); margin-top:2px}
+  .skeleton{color:var(--muted); opacity:.6}
+
+  section.block{padding:46px 0; border-top:1px solid var(--line)}
+  section.block h2{font-size:1.7rem; margin:0 0 8px; display:flex; align-items:center; gap:12px}
+  section.block h2 .num{font-size:.8rem; color:var(--accent2); border:1px solid var(--accent2);
+    border-radius:8px; padding:2px 9px; font-weight:800}
+  .lead{color:var(--muted); margin:0 0 26px; font-size:1.05rem}
+  h3{font-size:1.22rem; margin:32px 0 10px; display:flex; align-items:baseline; gap:10px}
+  h3 .hint{font-size:.74rem; color:var(--accent2); font-weight:700; border:1px solid var(--line); padding:1px 8px; border-radius:6px}
+  p{margin:0 0 16px}
+
+  .card{background:var(--card); border:1px solid var(--line); border-radius:var(--r); padding:22px; margin:16px 0; box-shadow:var(--shadow)}
+  .cols{display:grid; grid-template-columns:1fr 1fr; gap:16px}
+  @media(max-width:680px){.cols{grid-template-columns:1fr}}
+  .tag{display:inline-block; font-size:.74rem; font-weight:700; padding:3px 10px; border-radius:999px; margin-bottom:8px}
+  .t-blue{background:rgba(79,157,255,.15); color:var(--accent)}
+  .t-green{background:rgba(54,214,160,.15); color:var(--accent2)}
+  .t-warn{background:rgba(255,180,84,.15); color:var(--warn)}
+  .t-red{background:rgba(255,107,107,.15); color:var(--danger)}
+
+  .tl{position:relative; margin:24px 0 0; padding-left:28px}
+  .tl::before{content:""; position:absolute; left:7px; top:6px; bottom:6px; width:2px; background:var(--line)}
+  .tl .item{position:relative; padding:0 0 24px 8px}
+  .tl .item::before{content:""; position:absolute; left:-28px; top:6px; width:14px; height:14px; border-radius:50%;
+    background:var(--accent); border:3px solid var(--bg)}
+  .tl .item.bad::before{background:var(--danger)}
+  .tl .item.good::before{background:var(--accent2)}
+  .tl .yr{font-weight:800; color:var(--accent); font-size:1rem}
+  .tl .item.bad .yr{color:var(--danger)} .tl .item.good .yr{color:var(--accent2)}
+  .tl .desc{color:var(--muted); margin-top:2px}
+
+  table{width:100%; border-collapse:collapse; margin:12px 0; font-size:.94rem}
+  th,td{text-align:left; padding:11px 12px; border-bottom:1px solid var(--line); vertical-align:top}
+  th{color:var(--muted); font-weight:700; font-size:.85rem}
+  tr:hover td{background:rgba(255,255,255,.02)}
+
+  .callout{border-left:3px solid var(--accent); background:var(--card2); padding:14px 18px; border-radius:0 12px 12px 0; margin:18px 0}
+  .callout.warn{border-color:var(--warn)} .callout.danger{border-color:var(--danger)}
+  .callout strong{color:var(--text)}
+
+  /* citation */
+  .cite{font-size:.7rem; vertical-align:super; line-height:0; margin-left:1px; white-space:nowrap}
+  .cite a{color:var(--accent2); font-weight:700}
+
+  #news .news-item{border-bottom:1px solid var(--line); padding:16px 0}
+  #news .news-item:last-child{border-bottom:none}
+  #news .date{color:var(--accent2); font-size:.82rem; font-weight:700}
+  #news h4{margin:4px 0 6px; font-size:1.05rem}
+  #news p{color:var(--muted); margin:0; font-size:.95rem}
+
+  details{background:var(--card); border:1px solid var(--line); border-radius:12px; padding:6px 18px; margin:10px 0}
+  details summary{cursor:pointer; font-weight:700; padding:12px 0; list-style:none}
+  details summary::-webkit-details-marker{display:none}
+  details summary::before{content:"＋"; color:var(--accent2); margin-right:10px; font-weight:800}
+  details[open] summary::before{content:"－"}
+  details .a{color:var(--muted); padding:0 0 14px}
+
+  /* references */
+  .refs h4{color:var(--text); margin:20px 0 8px; font-size:1rem}
+  .refs ol{margin:0; padding-left:22px; color:var(--muted); font-size:.9rem; line-height:1.9}
+  .refs li{margin-bottom:5px}
+  .refs li a{word-break:break-word}
+
+  footer{border-top:1px solid var(--line); padding:34px 0; color:var(--muted); font-size:.88rem; text-align:center}
+  footer .updated{display:inline-block; background:var(--card); border:1px solid var(--line); border-radius:999px; padding:6px 16px; margin-bottom:14px}
+  .disclaimer{max-width:760px; margin:14px auto 0; font-size:.8rem; line-height:1.7}
+</style>
+</head>
+<body>
+
+<header class="nav">
+  <div class="wrap">
+    <div class="brand">Stable<span>Coin</span> 入門</div>
+    <nav>
+      <a href="#basics">基礎</a>
+      <a href="#history">歴史</a>
+      <a href="#now">現状</a>
+      <a href="#japan">日本の強み</a>
+      <a href="#future">未来</a>
+      <a href="#news">ニュース</a>
+      <a href="#faq">FAQ</a>
+      <a href="#refs">出典</a>
+    </nav>
+  </div>
+</header>
+
+<div class="wrap">
+
+  <section class="hero">
+    <h1>ステーブルコインを<br><em>歴史・現状・未来</em>から深く学ぶ</h1>
+    <p>価格を法定通貨に連動させたデジタル通貨「ステーブルコイン」。発行と償還の仕組み、準備資産の質、各国の規制（米GENIUS Act・EU MiCA・日本の資金決済法）まで、基礎から実務レベルまで掘り下げます。本文には出典リンク付き。</p>
+    <div class="cta">
+      <a href="#basics" class="btn primary">学び始める</a>
+      <a href="#news" class="btn ghost">最新ニュースを見る</a>
+    </div>
+  </section>
+
+  <!-- LIVE DASHBOARD -->
+  <section class="live">
+    <div class="live-head">
+      <span class="dot"></span>
+      <h2>マーケット・ライブデータ</h2>
+      <span class="live-note" id="live-note">読み込み中…</span>
+    </div>
+    <div class="grid" id="stats">
+      <div class="stat"><div class="label">市場規模（主要銘柄の合計）</div><div class="val skeleton" id="total-mcap">— —</div><div class="sub">USDT・USDC・DAI 他</div></div>
+      <div class="stat"><div class="label">USDT (Tether)</div><div class="val skeleton" id="usdt">—</div><div class="sub" id="usdt-mcap">時価総額 —</div></div>
+      <div class="stat"><div class="label">USDC (Circle)</div><div class="val skeleton" id="usdc">—</div><div class="sub" id="usdc-mcap">時価総額 —</div></div>
+      <div class="stat"><div class="label">DAI / その他</div><div class="val skeleton" id="dai">—</div><div class="sub" id="dai-mcap">時価総額 —</div></div>
+    </div>
+    <p style="color:var(--muted);font-size:.8rem;margin-top:12px">※ データ提供: CoinGecko 公開API<span class="cite"><a href="#ref-17">[17]</a></span>。ページを開くたびに最新値を自動取得します。価格が約1.00ドルから乖離していれば、それ自体が市場の不安を示すシグナルです。</p>
+  </section>
+
+  <!-- BASICS -->
+  <section class="block" id="basics">
+    <h2><span class="num">01</span>基礎 — 仕組みを正しく理解する</h2>
+    <p class="lead">ステーブルコインは、米ドルや円などの価値に連動（ペッグ）させた暗号資産です。ビットコインのような価格変動を抑え、ブロックチェーンの速さ・安さと法定通貨の安定性を両立させることを狙います。ただし「安定」は設計目標であって保証ではありません。安定を支える仕組みを分解して見ていきます。</p>
+
+    <div class="cols">
+      <div class="card">
+        <span class="tag t-green">用途</span>
+        <h3 style="margin-top:0">なぜ使われるのか</h3>
+        <p style="margin:0">送金が速く（数秒〜数分）、手数料が安い。国境をまたぐ送金やネット決済、取引所間の資金移動、DeFi（分散型金融）の基軸通貨として機能します。新興国ではドル資産への実質的なアクセス手段としても需要が拡大しています。</p>
+      </div>
+      <div class="card">
+        <span class="tag t-warn">本質</span>
+        <h3 style="margin-top:0">価値を支える3要素</h3>
+        <p style="margin:0"><strong>① 準備資産</strong>（発行額と同等以上の裏付け）、<strong>② 償還の保証</strong>（いつでも額面で換金できること）、<strong>③ 透明性</strong>（準備資産が本当に存在するかの開示）。この3つが揃って初めて「1コイン＝1ドル」の信頼が成立します。</p>
+      </div>
+    </div>
+
+    <h3>4つのタイプ <span class="hint">担保の違い</span></h3>
+    <table>
+      <thead><tr><th>種類</th><th>裏付け</th><th>代表例</th><th>特徴・リスク</th></tr></thead>
+      <tbody>
+        <tr><td><strong>法定通貨担保型</strong></td><td>現金・短期国債</td><td>USDT, USDC, JPYC</td><td>市場の主流。発行体が準備資産を保有。発行体の信用と準備資産の質に依存</td></tr>
+        <tr><td><strong>暗号資産担保型</strong></td><td>他の暗号資産</td><td>DAI</td><td>価格変動に備え過剰担保（例: 150%）。発行体がいない分散型だが、担保の急落に弱い</td></tr>
+        <tr><td><strong>商品担保型</strong></td><td>金など</td><td>PAXG, XAUT</td><td>金1オンス等に連動。通貨ではなく現物資産の代替</td></tr>
+        <tr><td><strong>無担保・アルゴリズム型</strong></td><td>なし（需給調整）</td><td>旧UST</td><td>裏付け資産を持たずプログラムで価格維持。2022年に大型崩壊。極めて高リスク</td></tr>
+      </tbody>
+    </table>
+
+    <h3>発行と償還 — 1ドルはどう保たれるか <span class="hint">裁定取引</span></h3>
+    <p>法定通貨担保型では、発行体と直接やり取りできるのは主に取引所や機関などの「認定パートナー」です。彼らが1ドルを預けると1コインが新規発行（ミント）され、コインを返すと1ドルが償還されコインは消却（バーン）されます。市場価格が1ドルを下回れば、安く買って額面で償還する裁定取引が働き、価格は1ドル付近へ引き戻されます<span class="cite"><a href="#ref-3">[3]</a></span>。<strong>つまり安定性の生命線は「いつでも額面で償還できる」という信頼そのもの</strong>であり、これが揺らぐと価格は崩れます。</p>
+
+    <h3>準備資産の「質」がリスクを決める <span class="hint">重要</span></h3>
+    <p>同じ「1ドル裏付け」でも中身は同じではありません。現金や残存期間の短い米国債（T-bill）は流動性・信用力が高く、危機時でもすぐ現金化できます。一方、社債・担保付ローン・暗号資産などが混じると、いざという時に額面で換金できないリスクが高まります。たとえば<strong>USDC</strong>は現金・短期米国債・レポ取引が中心で、<strong>USDT</strong>は米国債を約8割保有しつつ、金・ビットコイン・担保付ローンなども含みます<span class="cite"><a href="#ref-4">[4]</a><a href="#ref-5">[5]</a></span>。準備資産の構成は、各銘柄を評価するうえで最初に確認すべきポイントです<span class="cite"><a href="#ref-3">[3]</a></span>。</p>
+
+    <h3>透明性 — 「監査」と「アテステーション」の違い</h3>
+    <p>準備資産が本当に存在するかは、第三者の開示で確認します。ここで重要なのが用語の違いです。<strong>アテステーション（attestation）</strong>はある時点の残高を会計事務所が確認する手続で、企業の財務全体を継続的に検証する<strong>完全な監査（audit）</strong>とは異なります。Circle（USDC）は毎月のアテステーションに加え、保有証券をCUSIP単位（銘柄・満期・時価）まで開示する業界最詳細の透明性を打ち出しています<span class="cite"><a href="#ref-4">[4]</a></span>。Tether（USDT）はBDOによる四半期ごとのカテゴリ別開示で、より粗い粒度です<span class="cite"><a href="#ref-5">[5]</a></span>。開示の頻度・粒度・第三者の関与が、信頼性の差になります。</p>
+
+    <h3>どのブロックチェーンで動くのか</h3>
+    <p>USDTやUSDCは単一のネットワークではなく、Ethereum・Tron・Solana など複数のブロックチェーン上で発行されています（ERC-20 等のトークン規格）。送金にはネットワークごとの「ガス代」（手数料）がかかり、速度・コストはチェーンによって大きく異なります。少額・高頻度の送金では低コストのTronが多用されるなど、用途に応じた使い分けが進んでいます。</p>
+
+    <div class="callout danger"><strong>結論：</strong> 「ステーブル」という名前は安定を保証しません。①準備資産の質、②償還のしやすさ、③開示の透明性 ―― この3点を確認することが、銘柄を見極める基本です。</div>
+  </section>
+
+  <!-- HISTORY -->
+  <section class="block" id="history">
+    <h2><span class="num">02</span>歴史 — 成長と挫折の10年</h2>
+    <p class="lead">実験的プロジェクトから、いまや3,000億ドル超の市場へ。何度かの崩壊・危機を経て、ルールに沿った金融インフラへと姿を変えてきました。</p>
+    <div class="tl">
+      <div class="item"><div class="yr">2014年</div><div>黎明期 — BitUSD と Tether (USDT) 誕生</div><div class="desc">最初期のステーブルコインが登場。USDTは取引所間でドルを動かす手段として普及し始めるが、準備資産の裏付けをめぐる不透明さも長く議論された。</div></div>
+      <div class="item"><div class="yr">2018年</div><div>USDC・Paxos など規制志向の銘柄が登場</div><div class="desc">Circle と Coinbase が USDC を発行。準備資産の透明性と規制順守を前面に出し、USDTとの「信頼の競争」が始まる。</div></div>
+      <div class="item bad"><div class="yr">2019年</div><div>Facebookの「Libra（後のDiem）」構想</div><div class="desc">巨大プラットフォームによるグローバル通貨構想が各国の規制当局を強く警戒させ、ステーブルコイン規制論議を世界的に加速させた（計画は後に頓挫）。</div></div>
+      <div class="item good"><div class="yr">2020–21年</div><div>DeFiブームで爆発的に普及</div><div class="desc">分散型金融の基軸通貨として需要が急増し、市場規模が数百億ドル規模へ。一方USDTは2021年、準備金の表示をめぐり米当局と和解金を支払う。</div></div>
+      <div class="item bad"><div class="yr">2022年5月</div><div>TerraUSD (UST) 崩壊</div><div class="desc">高利回り（年率約20%）を謳ったアルゴリズム型USTがペッグを失い、関連通貨を含め約400億ドルが消失。裏付け資産を持たない設計の脆さを世界に知らしめた。</div></div>
+      <div class="item bad"><div class="yr">2023年3月</div><div>USDC 一時ディペッグ</div><div class="desc">準備金の一部を預けていたシリコンバレー銀行（SVB）破綻で資金が一時凍結し、USDCが0.87ドルまで下落（数日で回復）。準備資産の「預け先」リスクが露呈した。</div></div>
+      <div class="item good"><div class="yr">2024–25年</div><div>制度化の時代へ</div><div class="desc">EUのMiCAが2024年末に全面適用。米国では2025年7月に連邦法「GENIUS Act」が成立し、主流の規制対象金融商品へと位置づけが転換。<span class="cite"><a href="#ref-6">[6]</a></span></div></div>
+      <div class="item good"><div class="yr">2026年</div><div>市場規模が過去最高の3,200億ドル超へ</div><div class="desc">大手銀行・決済企業の参入が加速し、「投機」から「決済インフラ」へと役割がシフト。<span class="cite"><a href="#ref-1">[1]</a></span></div></div>
+    </div>
+  </section>
+
+  <!-- NOW -->
+  <section class="block" id="now">
+    <h2><span class="num">03</span>現状 — 市場構造と規制の現在地</h2>
+    <p class="lead">2026年、市場は過去最高を更新中。同時に米・EU・日本で規制の枠組みが出揃い、伝統的金融機関の本格参入を後押ししています。</p>
+
+    <h3>市場の構図 — 寡占とその実態</h3>
+    <p>2026年5月時点で、ステーブルコインの市場規模は合計で<strong>約3,230億ドル（過去最高）</strong>に到達しました<span class="cite"><a href="#ref-1">[1]</a></span>。<strong>USDT（Tether）が約1,900億ドルでシェア約59%</strong>と首位、次いで<strong>USDC（Circle）が約780億ドル</strong>。この上位2銘柄で市場の95%以上を占める寡占が続きます<span class="cite"><a href="#ref-1">[1]</a><a href="#ref-2">[2]</a></span>。最新の数値は本ページ上部のライブデータをご覧ください。寡占は流動性の高さという利点がある一方、特定発行体への集中リスクという論点も抱えています。</p>
+
+    <h3>準備資産の実像 — USDT と USDC の違い</h3>
+    <p>2大銘柄でも準備資産の中身は対照的です。<strong>USDT</strong>は2025年時点で約1,400億ドル超の米国債・短期資産を保有し、世界有数の米国債保有主体になっています。加えて金・ビットコイン・担保付ローン等の非国債資産も持ちます<span class="cite"><a href="#ref-5">[5]</a></span>。<strong>USDC</strong>は現金・短期米国債・レポ取引を中心に、保有証券をCUSIP単位で開示しています<span class="cite"><a href="#ref-4">[4]</a></span>。準備が高品質・高流動性であるほど、危機時にも償還が滞りにくくなります。</p>
+
+    <h3>規制の三本柱 <span class="hint">米 / EU / 日本</span></h3>
+    <div class="cols">
+      <div class="card">
+        <span class="tag t-blue">🇺🇸 米国 — GENIUS Act</span>
+        <h3 style="margin:6px 0 8px;font-size:1.05rem">連邦法で発行体を限定</h3>
+        <p style="margin:0">2025年7月18日成立<span class="cite"><a href="#ref-6">[6]</a></span>。発行できるのは ①銀行子会社、②OCC認可のノンバンク、③州認可業者（残高100億ドル上限）の3類型に限定。準備は<strong>現金・FRB預け金・93日以内の米国債・レポ・MMF</strong>などで1:1。<strong>毎月の準備資産開示＋登録会計事務所の検証＋CEO/CFOによる証明</strong>を義務付け、保有者への<strong>利息付与は禁止</strong>。施行は2026〜27年。<span class="cite"><a href="#ref-7">[7]</a><a href="#ref-8">[8]</a></span></p>
+      </div>
+      <div class="card">
+        <span class="tag t-warn">🇪🇺 EU — MiCA</span>
+        <h3 style="margin:6px 0 8px;font-size:1.05rem">EMT と ART に分類</h3>
+        <p style="margin:0">2024年末に全面適用。単一通貨ペッグの<strong>EMT（電子マネートークン）</strong>と、バスケット型の<strong>ART（資産参照トークン）</strong>に分類。<strong>額面での即時償還義務</strong>を課し、<strong>利息付与を禁止</strong>。さらに非ユーロ建てEMTが「重要」と指定されると、決済用途で<strong>1日100万件・2億ユーロ</strong>の利用上限がかかります。ドル建ての域内浸透を抑える狙いです。<span class="cite"><a href="#ref-9">[9]</a></span></p>
+      </div>
+      <div class="card">
+        <span class="tag t-green">🇯🇵 日本 — 改正資金決済法</span>
+        <h3 style="margin:6px 0 8px;font-size:1.05rem">3類型＋流通業者の登録制</h3>
+        <p style="margin:0">2023年6月施行。発行は<strong>銀行型・信託型・資金移動業型</strong>の3類型に限定し、流通を担う業者は<strong>電子決済手段等取引業</strong>として登録・監督。利用者資産は国内で同額以上を保全する仕組みで、発行体が破綻しても保護されやすい設計です。<span class="cite"><a href="#ref-11">[11]</a><a href="#ref-12">[12]</a></span></p>
+      </div>
+      <div class="card">
+        <span class="tag t-green">🇯🇵 日本 — JPYC始動</span>
+        <h3 style="margin:6px 0 8px;font-size:1.05rem">円建て第1号</h3>
+        <p style="margin:0">2025年、金融庁が<strong>JPYC</strong>を資金移動業として登録し、日本初の円建てステーブルコインが発行へ<span class="cite"><a href="#ref-10">[10]</a></span>。累計発行額は2026年に入り急成長し、提携カード経由でVISA加盟店での実質利用も可能に。国内決済インフラとしての実需拡大が期待されています。</p>
+      </div>
+    </div>
+
+    <div class="callout"><strong>「利息禁止」の意味：</strong> 規制下のステーブルコイン自体は利息を付けられません。そのため利回りは、DeFiでの運用やキャンペーン的な配布など<strong>間接的な形</strong>で提供され、これが銀行預金との競合や規制の論点になっています。いまの主役は値上がり益ではなく、<strong>速くて安い決済・送金の手段</strong>としての実需です。</div>
+  </section>
+
+  <!-- JAPAN -->
+  <section class="block" id="japan">
+    <h2><span class="num">04</span>日本の強み — なぜ「有利」と言われるのか</h2>
+    <p class="lead">日本は「ステーブルコインで有利な立ち位置にある」としばしば語られます。背景にあるのは、規制を早く整えたこと、利用者保護が厚いこと、そして制度を実需に合わせて柔軟化していることです。一方で制約もあるため、両面から整理します。</p>
+
+    <div class="cols">
+      <div class="card">
+        <span class="tag t-green">① 規制先行</span>
+        <h3 style="margin:6px 0 8px;font-size:1.08rem">世界に先駆けた法整備（2023年）</h3>
+        <p style="margin:0">日本は2023年6月施行の改正資金決済法で、ステーブルコインを<strong>主要国に先駆けて法的に定義</strong>しました<span class="cite"><a href="#ref-11">[11]</a></span>。米国のGENIUS Act成立（2025年）より約2年早く、事業者は「何が合法か」が明確な状態で準備を進められました。<strong>法的不確実性の低さ</strong>は、企業が腰を据えて投資する前提になります。</p>
+      </div>
+      <div class="card">
+        <span class="tag t-blue">② 利用者保護</span>
+        <h3 style="margin:6px 0 8px;font-size:1.08rem">100%保全という安心感</h3>
+        <p style="margin:0">円建てステーブルコインは、発行額の<strong>100%を円で、国内の認可銀行などに保全</strong>することが求められます<span class="cite"><a href="#ref-19">[19]</a></span>。発行体が破綻しても利用者資産が守られやすい設計で、「安全な決済手段」としての社会的信頼を得やすいのが特徴です。</p>
+      </div>
+      <div class="card">
+        <span class="tag t-warn">③ 信託型＋柔軟化</span>
+        <h3 style="margin:6px 0 8px;font-size:1.08rem">参入障壁が低く、収益も出しやすく</h3>
+        <p style="margin:0">信託型では、発行希望者が<strong>自らライセンスを取得しなくても</strong>信託の仕組みで発行できます<span class="cite"><a href="#ref-12">[12]</a></span>。さらに2026年6月施行の改正で、<strong>信託型の裏付け資産運用が柔軟化</strong>（一部を国債等で運用可能に）し、発行体が準備資産から収益を得やすくなりました<span class="cite"><a href="#ref-18">[18]</a></span>。</p>
+      </div>
+      <div class="card">
+        <span class="tag t-blue">④ 海外コインの受け皿</span>
+        <h3 style="margin:6px 0 8px;font-size:1.08rem">アジアの結節点になりうる枠組み</h3>
+        <p style="margin:0">2026年6月施行の改正で、<strong>海外発行のステーブルコインを国内で扱う基準</strong>が整備され、外国の同等規制・ライセンス・監査を条件に解禁へ<span class="cite"><a href="#ref-18">[18]</a></span>。実際にCircleの<strong>USDC</strong>がSBI VC Trade経由で国内初の主要ドル建てSCとして流通し始めています<span class="cite"><a href="#ref-16">[16]</a></span>。</p>
+      </div>
+    </div>
+
+    <h3>⑤ メガバンク・大手金融が担い手になれる設計</h3>
+    <p>日本の制度は発行を<strong>銀行・信託・資金移動業者</strong>に認める形のため、信頼性の高い既存の金融機関が自ら基盤を整備できます。実際、メガバンク系を中心に企業間決済や証券決済を見据えた基盤づくりが進んでいます<span class="cite"><a href="#ref-12">[12]</a></span>。<strong>「規制された金融機関が担い手になる」</strong>という構図は、投機色の強い市場とは異なり、企業の実需（送金・決済・清算）に直結しやすいという見方につながっています。円という主要通貨を持つことも、アジアのクロスボーダー決済のハブとしての期待を後押しします。</p>
+
+    <div class="callout warn"><strong>ただし、過信は禁物：</strong> 円建ての<strong>直接発行は国内の銀行・信託・資金移動業者に限られ</strong>、海外企業の直接参入は制限されます。市場規模もドル建てに比べればまだ小さく、現状は<strong>「制度は先進的だが、普及はこれから」</strong>という段階です。優位性が実を結ぶかは、今後の実利用の広がり次第と言えます。</div>
+  </section>
+
+  <!-- FUTURE -->
+  <section class="block" id="future">
+    <h2><span class="num">05</span>未来 — インフラ化とその論点</h2>
+    <p class="lead">投機の道具から、世界の金融インフラへ。普及を牽引する力と、これから本格化する論点を整理します。</p>
+
+    <div class="cols">
+      <div class="card"><h3 style="margin-top:0;font-size:1.1rem">🏦 銀行・決済大手の参入と相互運用</h3><p style="margin:0">大手銀行が国際送金（SWIFT代替）にステーブルコインを活用し始めています。PayPalの<strong>PYUSD</strong>は70カ国超に拡大し、Fiservの<strong>FIUSD</strong>との相互運用やMastercardの決済網（Multi-Token Network）との連携も進行。発行体の垣根を越えて「つながる」段階に入っています。<span class="cite"><a href="#ref-14">[14]</a><a href="#ref-15">[15]</a></span></p></div>
+      <div class="card"><h3 style="margin-top:0;font-size:1.1rem">💸 国際送金・決済コストの破壊</h3><p style="margin:0">カードや銀行送金より手数料が大幅に安く着金も速いため、企業の越境決済やフリーランスへの支払い、新興国の個人送金で現実的な選択肢に。時価総額の増加より<strong>「決済での実利用」</strong>が次の主戦場と見られています。<span class="cite"><a href="#ref-15">[15]</a></span></p></div>
+      <div class="card"><h3 style="margin-top:0;font-size:1.1rem">🔗 トークン化資産（RWA）との融合</h3><p style="margin:0">米国債やMMF、不動産など現実資産をトークン化する流れの中で、ステーブルコインが決済・清算の基軸として機能。約定と同時に決済が完了する「アトミック決済」を24時間365日支える存在へと向かいます。</p></div>
+      <div class="card"><h3 style="margin-top:0;font-size:1.1rem">⚖️ 規制の出揃いと断片化</h3><p style="margin:0">米GENIUS Act・EU MiCA・日本の資金決済法とルールが整い、大手参入を後押し。一方で国ごとに要件が異なる<strong>規制の断片化</strong>や、準拠コスト、ドル建て一強への各国の警戒が新たな論点です。</p></div>
+    </div>
+
+    <h3>マクロの論点 — 銀行・CBDCとの関係</h3>
+    <p><strong>銀行預金からの資金流出（ディスインターミディエーション）：</strong> 利息が付かなくても、利便性からステーブルコインへ資金が移れば、銀行の預金基盤や信用創造（融資余力）に影響しうる ―― この点は米連邦準備制度（FRB）のスタッフも分析しています<span class="cite"><a href="#ref-13">[13]</a></span>。<strong>CBDC（中央銀行デジタル通貨）との関係：</strong> 米国は民間ステーブルコインを重視しCBDCに慎重な一方、他の多くの国はCBDCを推進しており、両者が競合するのか役割分担するのかが今後の焦点です。</p>
+
+    <div class="callout warn"><strong>残る主要リスク：</strong> ①準備資産の質・預け先に起因するディペッグ、②特定発行体への集中、③規制の国際的な不整合、④CBDCや銀行システムとの摩擦。普及が進むほど、これらが金融システム全体の問題として議論されていきます。</div>
+  </section>
+
+  <!-- NEWS -->
+  <section class="block" id="news">
+    <h2><span class="num">06</span>最新ニュース・動向</h2>
+    <p class="lead">ステーブルコインに関する直近の主な動き。<span style="color:var(--accent2)">この欄は毎日自動更新されます（出典リンク付き）。</span></p>
+    <div class="card" id="news-list">
+      <div class="news-item">
+        <div class="date">2026年5月</div>
+        <h4>市場規模が過去最高の約3,230億ドルに到達</h4>
+        <p>ステーブルコイン全体の時価総額が史上最高を更新。USDTも約1,900億ドルの新高値をつけ、4カ月ぶりにシェアを回復しました。</p>
+      </div>
+      <div class="news-item">
+        <div class="date">2026年3月</div>
+        <h4>PayPalのPYUSD、70カ国に展開拡大</h4>
+        <p>アジア太平洋・欧州を含む70の市場でPYUSDの売買・送受信が可能に。MastercardやFiservとの連携も進み、決済用途での存在感が高まっています。</p>
+      </div>
+      <div class="news-item">
+        <div class="date">2026年3月</div>
+        <h4>米OCC、GENIUS Actの規則案を公表</h4>
+        <p>通貨監督庁（OCC）が発行体向けの具体的な規則案を提示。意見公募を経て、2026年内の本格的な制度運用に向けた整備が進んでいます。</p>
+      </div>
+      <div class="news-item">
+        <div class="date">2026年6月</div>
+        <h4>金融庁、日本円ステーブルコイン「JPYC」を資金移動業で位置づけ</h4>
+        <p>法的枠組みが明確化し、国内決済インフラとしての実需拡大が期待されます。JPYCはシリーズBで約17.8億円の調達も進めています。</p>
+      </div>
+    </div>
+    <p style="color:var(--muted);font-size:.82rem">※ 投資判断の参考情報であり、特定の銘柄の購入を推奨するものではありません。</p>
+  </section>
+
+  <!-- FAQ -->
+  <section class="block" id="faq">
+    <h2><span class="num">07</span>よくある質問</h2>
+    <details><summary>ステーブルコインは本当に「安定」しているの？</summary><div class="a">多くは1ドル前後で安定していますが、保証ではありません。2022年のUST崩壊や2023年のUSDC一時下落のように、裏付け資産や預け先に問題があればペッグが崩れます。準備資産の質・償還のしやすさ・開示の透明性を確認することが重要です。</div></details>
+    <details><summary>準備資産は第三者に監査されているの？</summary><div class="a">多くは「アテステーション」（ある時点の残高確認）であり、企業全体を継続検証する「完全な監査」とは異なります。Circle（USDC）は毎月のアテステーションとCUSIP単位の開示、Tether（USDT）はBDOによる四半期のカテゴリ別開示です。開示の頻度と粒度に差があります。</div></details>
+    <details><summary>利息（金利）はつくの？</summary><div class="a">米GENIUS ActやEU MiCAでは、規制対象のステーブルコイン自体への利息付与は禁止されています。利回りはDeFiでの運用やキャンペーン的な配布など、間接的な形で提供されることが多く、これが銀行預金との競合の論点になっています。</div></details>
+    <details><summary>ビットコインとは何が違うの？</summary><div class="a">ビットコインは市場で価格が大きく変動しますが、ステーブルコインは法定通貨などに価値を固定し変動を抑える設計です。投機よりも「決済・送金・価値の保存」に向いています。</div></details>
+    <details><summary>日本で使えるの？</summary><div class="a">2023年の改正資金決済法でステーブルコインが法的に定義され、発行は銀行型・信託型・資金移動業型の3類型に限定されています。2025年には円建ての「JPYC」が資金移動業として登録され、利用できる場面は拡大途上です。</div></details>
+    <details><summary>銀行預金と何が違う？</summary><div class="a">銀行預金は預金保険で一定額が保護されますが、ステーブルコインは原則その対象外です（日本では発行体に資産保全が義務付けられています）。一方で送金の速さ・安さ・国境を越えやすさという利点があります。</div></details>
+  </section>
+
+  <!-- REFERENCES -->
+  <section class="block refs" id="refs">
+    <h2><span class="num">08</span>参考文献・出典</h2>
+    <p class="lead">本ページの記述は、以下の一次情報・専門メディアに基づいています（市場データはCoinGeckoのライブ取得）。</p>
+
+    <h4>市場データ</h4>
+    <ol>
+      <li id="ref-1"><a href="https://www.coindesk.com/research/stablecoins-and-tokenized-asset-report-april-2026" target="_blank" rel="noopener">CoinDesk — Stablecoins and Tokenized Asset Report（市場規模・シェア）</a></li>
+      <li id="ref-2"><a href="https://defillama.com/stablecoins" target="_blank" rel="noopener">DeFiLlama — Stablecoins Dashboard（銘柄別時価総額）</a></li>
+    </ol>
+
+    <h4>仕組み・準備資産・透明性</h4>
+    <ol start="3">
+      <li id="ref-3"><a href="https://metamask.io/news/how-stablecoin-reserves-work-and-how-to-evaluate-them" target="_blank" rel="noopener">MetaMask — How stablecoin reserves work and how to evaluate them</a></li>
+      <li id="ref-4"><a href="https://www.circle.com/transparency" target="_blank" rel="noopener">Circle — Transparency &amp; Stability（USDC準備資産の開示）</a></li>
+      <li id="ref-5"><a href="https://stableregistry.com/stablecoins/usdt/reserves/" target="_blank" rel="noopener">StableRegistry — Tether (USDT) Reserves Composition</a></li>
+    </ol>
+
+    <h4>規制 — 米国 GENIUS Act</h4>
+    <ol start="6">
+      <li id="ref-6"><a href="https://www.congress.gov/bill/119th-congress/senate-bill/1582/text" target="_blank" rel="noopener">Congress.gov — S.1582 GENIUS Act（法文）</a></li>
+      <li id="ref-7"><a href="https://www.richmondfed.org/banking/banker_resources/news_flash/2025/20251118_genius_act" target="_blank" rel="noopener">Richmond Fed — Stablecoins and the GENIUS Act: An Overview</a></li>
+      <li id="ref-8"><a href="https://www.wilmerhale.com/en/insights/client-alerts/20250718-what-the-genius-act-means-for-payment-stablecoin-issuers-banks-and-custodians" target="_blank" rel="noopener">WilmerHale — What the GENIUS Act Means for Payment Stablecoin Issuers</a></li>
+    </ol>
+
+    <h4>規制 — EU MiCA</h4>
+    <ol start="9">
+      <li id="ref-9"><a href="https://www.scorechain.com/blog/eu-stablecoin-regulation-mica" target="_blank" rel="noopener">Scorechain — EU Stablecoin Regulation Under MiCA（EMT/ART・利用上限）</a></li>
+    </ol>
+
+    <h4>規制 — 日本</h4>
+    <ol start="10">
+      <li id="ref-10"><a href="https://www.nikkei.com/article/DGXZQOUB186IJ0Y5A810C2000000/" target="_blank" rel="noopener">日本経済新聞 — 金融庁、JPYCを資金移動業に登録</a></li>
+      <li id="ref-11"><a href="https://www.ey.com/ja_jp/insights/financial-services/outline-and-points-of-laws-and-regulations-related-to-stablecoins" target="_blank" rel="noopener">EY Japan — ステーブルコインに関する法規制の概要とポイント</a></li>
+      <li id="ref-12"><a href="https://www.dir.co.jp/world/entry/solution/stablecoin" target="_blank" rel="noopener">大和総研 — ステーブルコインの仕組みと法制度</a></li>
+    </ol>
+
+    <h4>日本の強み・最新制度（2026年改正・海外コイン受け入れ）</h4>
+    <ol start="16">
+      <li id="ref-16"><a href="https://www.coindesk.com/markets/2025/03/04/circle-s-usdc-to-be-first-usd-stablecoin-in-japan" target="_blank" rel="noopener">CoinDesk — Circle's USDC to be First USD Stablecoin in Japan（SBI VC Trade経由）</a></li>
+      <li id="ref-18"><a href="https://www.curvegrid.com/blog/2026-02-24-japan%E2%80%99s-stablecoin-moment-the-new-licensing-regime-what-came-before-and-what-comes-next" target="_blank" rel="noopener">Curvegrid — Japan's Stablecoin Moment: The New Licensing Regime（2026年改正・信託型の柔軟化）</a></li>
+      <li id="ref-19"><a href="https://news.bitcoin.com/japan-stablecoin-regulation-explained-psa-rules-jpy-coins-and-bank-issuers/" target="_blank" rel="noopener">Bitcoin.com News — Japan Stablecoin Regulation Explained（100%準備・発行体要件）</a></li>
+    </ol>
+
+    <h4>未来・マクロ・決済</h4>
+    <ol start="13">
+      <li id="ref-13"><a href="https://www.federalreserve.gov/econres/notes/feds-notes/banks-in-the-age-of-stablecoins-implications-for-deposits-credit-and-financial-intermediation-accessible-20251217.htm" target="_blank" rel="noopener">米連邦準備制度(FRB) — Banks in the Age of Stablecoins</a></li>
+      <li id="ref-14"><a href="https://www.americanbanker.com/news/payment-fintechs-push-stablecoin-tech-for-2026" target="_blank" rel="noopener">American Banker — Payment fintechs push stablecoin tech for 2026</a></li>
+      <li id="ref-15"><a href="https://thedefiant.io/newsletter/real-world/halfway-to-the-future-can-paypals-pyusd-grow-into-a-true-payments-powerhouse" target="_blank" rel="noopener">The Defiant — Can PayPal's PYUSD Grow Into a True Payments Powerhouse?</a></li>
+    </ol>
+
+    <h4>データAPI</h4>
+    <ol start="17">
+      <li id="ref-17"><a href="https://www.coingecko.com" target="_blank" rel="noopener">CoinGecko — 価格・時価総額API（本ページのライブデータ提供元）</a></li>
+    </ol>
+    <p style="color:var(--muted);font-size:.8rem;margin-top:14px">※ 各リンク先の内容は更新・変更される場合があります。数値は閲覧時点の各ソースに基づきます。</p>
+  </section>
+
+</div>
+
+<footer>
+  <div class="wrap">
+    <div class="updated">最終更新: <span id="last-updated">—</span></div>
+    <p>このサイトはステーブルコインを学ぶための教育目的のコンテンツです。</p>
+    <p class="disclaimer">本サイトの情報は一般的な情報提供のみを目的としており、投資・法務・税務上の助言ではありません。暗号資産・ステーブルコインには価格変動や発行体の信用リスク等が伴います。最終的な判断はご自身の責任で、必要に応じて専門家にご相談ください。データはCoinGecko等の外部ソースに基づき、正確性・最新性を保証するものではありません。</p>
+  </div>
+</footer>
+
+<script>
+  // ---- Live market data from CoinGecko (free public API) ----
+  function fmtUSD(n){
+    if(n==null) return "—";
+    if(n>=1e9) return "$"+(n/1e9).toFixed(1)+"B";
+    if(n>=1e6) return "$"+(n/1e6).toFixed(1)+"M";
+    return "$"+n.toLocaleString();
+  }
+  function fmtPrice(n){ return n==null ? "—" : "$"+n.toFixed(4); }
+
+  function setStat(id,val){
+    var el=document.getElementById(id);
+    if(el){ el.textContent=val; el.classList.remove('skeleton'); }
+  }
+
+  async function loadMarket(){
+    var note = document.getElementById('live-note');
+    try{
+      var ids = "tether,usd-coin,dai,paypal-usd,first-digital-usd,ethena-usde";
+      var url = "https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&ids="+ids+"&order=market_cap_desc&per_page=20&page=1";
+      var res = await fetch(url);
+      if(!res.ok) throw new Error("HTTP "+res.status);
+      var data = await res.json();
+      var by = {}; data.forEach(function(c){ by[c.id]=c; });
+
+      var total = 0;
+      data.forEach(function(c){ total += (c.market_cap||0); });
+      setStat('total-mcap', fmtUSD(total));
+
+      [["tether","usdt"],["usd-coin","usdc"]].forEach(function(pair){
+        var c = by[pair[0]];
+        if(c){
+          setStat(pair[1], fmtPrice(c.current_price));
+          document.getElementById(pair[1]+'-mcap').textContent = "時価総額 "+fmtUSD(c.market_cap);
+        }
+      });
+      var dai = by["dai"];
+      if(dai){
+        setStat('dai', fmtPrice(dai.current_price));
+        document.getElementById('dai-mcap').textContent = "時価総額 "+fmtUSD(dai.market_cap);
+      }
+      note.textContent = "更新: "+ new Date().toLocaleString('ja-JP');
+    }catch(e){
+      note.textContent = "データ取得に失敗（時間をおいて再読み込みしてください）";
+      ['total-mcap','usdt','usdc','dai'].forEach(function(id){
+        var el=document.getElementById(id);
+        if(el && el.textContent.indexOf('—')>=0) el.textContent="取得不可";
+      });
+    }
+  }
+
+  // ---- Auto-updated news from news.json (refreshed daily by GitHub Actions) ----
+  function escapeHtml(s){
+    return (s||"").replace(/[&<>"']/g, function(c){
+      return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];
+    });
+  }
+  async function loadNews(){
+    try{
+      var res = await fetch('./news.json?_=' + Date.now());
+      if(!res.ok) throw new Error('no news.json');
+      var data = await res.json();
+      if(!data.items || !data.items.length) return; // keep static fallback
+      var html = data.items.slice(0,6).map(function(it){
+        var title = it.url
+          ? '<a href="'+escapeHtml(it.url)+'" target="_blank" rel="noopener">'+escapeHtml(it.title)+'</a>'
+          : escapeHtml(it.title);
+        return '<div class="news-item"><div class="date">'+escapeHtml(it.date||'')+'</div>'
+             + '<h4>'+title+'</h4>'
+             + (it.summary ? '<p>'+escapeHtml(it.summary)+'</p>' : '')
+             + '</div>';
+      }).join('');
+      document.getElementById('news-list').innerHTML = html;
+      if(data.updated){
+        var d = new Date(data.updated);
+        if(!isNaN(d)) document.getElementById('last-updated').textContent =
+          d.getFullYear()+'年'+(d.getMonth()+1)+'月'+d.getDate()+'日';
+      }
+    }catch(e){ /* keep the static fallback already in the HTML */ }
+  }
+
+  // fallback date before news.json loads
+  document.getElementById('last-updated').textContent = "2026年6月19日";
+  loadMarket();
+  loadNews();
+</script>
+</body>
+</html>
