@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19T23:47:17+09:00",
+  "updated": "2026-06-20T08:50:07+09:00",
   "items": [
     {
       "date": "2026-06-19",
@@ -27,15 +27,15 @@
     },
     {
       "date": "2026-06-19",
-      "title": "米当局、ステーブルコイン発行体の規制案を公開 ジーニアス法施行で銀行と同水準の本人確認要請の方針",
-      "summary": "FRBは、決済向けステーブルコインの発行体を対象にした規制案を他の当局と共同で公開。ジーニアス法の施行で銀行と同水準の本人確認を要請する方針であることを示した。",
-      "url": "https://coinpost.jp/?p=718291"
-    },
-    {
-      "date": "2026-06-19",
       "title": "AllUnity debuts SEKAU, a fully reserved Swedish krona stablecoin",
       "summary": "AllUnity launches Swedish krona-backed stablecoin SEKAU with multi-chain support, expanding its stablecoin por…",
       "url": "https://cointelegraph.com/news/allunity-debut-fully-reserved-swedish-krona-stablecoin-sekau?utm_source=rss&utm_medium=rss&utm_campaign=rss"
+    },
+    {
+      "date": "2026-06-19",
+      "title": "US regulators push user ID requirements for stablecoin issuers akin to regulated banks",
+      "summary": "The proposed rules by US government agencies suggested that stablecoin issuers be subject to customer identifi…",
+      "url": "https://cointelegraph.com/news/us-agencies-user-identification-stablecoin-issuers?utm_source=rss&utm_medium=rss&utm_campaign=rss"
     }
   ]
 }
