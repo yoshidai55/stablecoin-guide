@@ -1,29 +1,41 @@
 {
-  "updated": "2026-06-19T05:00:00+09:00",
+  "updated": "2026-06-19T23:47:17+09:00",
   "items": [
     {
-      "date": "2026-05",
-      "title": "ステーブルコイン市場規模が過去最高の約3,230億ドルに到達",
-      "summary": "全体の時価総額が史上最高を更新。USDTも約1,900億ドルの新高値をつけ、4カ月ぶりにシェアを回復した。",
-      "url": ""
+      "date": "2026-06-19",
+      "title": "【6/19話題】GENIUS法ステーブルコイン発行者向け顧客識別プログラム規則案公表、EFのワン共同エグゼクティブディレクター兼理事が退任など（音声ニュース）",
+      "summary": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif…",
+      "url": "https://www.neweconomy.jp/posts/584539"
     },
     {
-      "date": "2026-03",
-      "title": "PayPalのPYUSD、70カ国に展開拡大",
-      "summary": "アジア太平洋・欧州を含む70市場でPYUSDの売買・送受信が可能に。MastercardやFiservとの連携も進む。",
-      "url": ""
+      "date": "2026-06-19",
+      "title": "テザー、XAUT担保ドル連動資産「aUSDT」終了へ、中核製品にリソース集中で",
+      "summary": "テザーがaUSDTとアロイ・バイ・テザーを終了へ ステーブルコイン「USDT」発行元のテザー（Tether）が、デジタル資産「aUSDT」および関連プラットフォーム「アロイ・バイ・テザー（Alloy by Tether）…",
+      "url": "https://www.neweconomy.jp/posts/584486"
     },
     {
-      "date": "2026-03",
-      "title": "米OCC、GENIUS Actの規則案を公表",
-      "summary": "通貨監督庁が発行体向けの具体的な規則案を提示。意見公募を経て2026年内の本格運用に向け整備が進む。",
-      "url": ""
+      "date": "2026-06-19",
+      "title": "米当局、GENIUS法に基づくステーブルコイン発行者向け顧客識別プログラム規則案を公表",
+      "summary": "GENIUS法の実施ルール整備進む 米国の複数の規制当局が、ステーブルコイン規制法「ジーニアス法（GENIUS Act）」に基づき、許可済み決済ステーブルコイン発行者（PPSI）に対して、銀行や信用組合に適用される顧客識…",
+      "url": "https://www.neweconomy.jp/posts/584462"
     },
     {
-      "date": "2026-06",
-      "title": "金融庁、円建てステーブルコイン「JPYC」を資金移動業で位置づけ",
-      "summary": "法的枠組みが明確化し、国内決済インフラとしての実需拡大が期待される。シリーズBで約17.8億円の調達も進行。",
-      "url": ""
+      "date": "2026-06-19",
+      "title": "フィデリティ、ステーブルコイン発行体向け短期運用ファンドを設定",
+      "summary": "フィデリティが15日、ステーブルコイン発行体向けの政府系ファンド（FYMXX）を設定。ジーニアス法が規定する準備資産に限定投資する。ステート・ストリートも同週に類似ファンドを設定しており、大手金融機関による対応が相次いで…",
+      "url": "https://coinpost.jp/?p=718418"
+    },
+    {
+      "date": "2026-06-19",
+      "title": "米当局、ステーブルコイン発行体の規制案を公開 ジーニアス法施行で銀行と同水準の本人確認要請の方針",
+      "summary": "FRBは、決済向けステーブルコインの発行体を対象にした規制案を他の当局と共同で公開。ジーニアス法の施行で銀行と同水準の本人確認を要請する方針であることを示した。",
+      "url": "https://coinpost.jp/?p=718291"
+    },
+    {
+      "date": "2026-06-19",
+      "title": "AllUnity debuts SEKAU, a fully reserved Swedish krona stablecoin",
+      "summary": "AllUnity launches Swedish krona-backed stablecoin SEKAU with multi-chain support, expanding its stablecoin por…",
+      "url": "https://cointelegraph.com/news/allunity-debut-fully-reserved-swedish-krona-stablecoin-sekau?utm_source=rss&utm_medium=rss&utm_campaign=rss"
     }
   ]
 }
