@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T08:50:07+09:00",
+  "updated": "2026-06-21T08:52:49+09:00",
   "items": [
     {
       "date": "2026-06-19",
@@ -20,10 +20,10 @@
       "url": "https://www.neweconomy.jp/posts/584462"
     },
     {
-      "date": "2026-06-19",
-      "title": "フィデリティ、ステーブルコイン発行体向け短期運用ファンドを設定",
-      "summary": "フィデリティが15日、ステーブルコイン発行体向けの政府系ファンド（FYMXX）を設定。ジーニアス法が規定する準備資産に限定投資する。ステート・ストリートも同週に類似ファンドを設定しており、大手金融機関による対応が相次いで…",
-      "url": "https://coinpost.jp/?p=718418"
+      "date": "2026-06-20",
+      "title": "Crypto industry looks to stablecoins and DeFi revisions in MiCA 2.0",
+      "summary": "The European Commission is seeking comment on how it can tweak MiCA, its regulatory framework for the crypto a…",
+      "url": "https://cointelegraph.com/features/crypto-industry-stablecoins-defi-mica?utm_source=rss&utm_medium=rss&utm_campaign=rss"
     },
     {
       "date": "2026-06-19",
@@ -33,9 +33,9 @@
     },
     {
       "date": "2026-06-19",
-      "title": "US regulators push user ID requirements for stablecoin issuers akin to regulated banks",
-      "summary": "The proposed rules by US government agencies suggested that stablecoin issuers be subject to customer identifi…",
-      "url": "https://cointelegraph.com/news/us-agencies-user-identification-stablecoin-issuers?utm_source=rss&utm_medium=rss&utm_campaign=rss"
+      "title": "U.S. agencies seek stablecoin customer-ID rules akin to banks in new GENIUS Act pitch",
+      "summary": "The Federal Reserve, Treasury and other regulators have issued a proposed rule that would set identification s…",
+      "url": "https://www.coindesk.com/policy/2026/06/18/u-s-agencies-seek-stablecoin-customer-id-rules-akin-to-banks-in-new-genius-act-rule"
     }
   ]
 }
