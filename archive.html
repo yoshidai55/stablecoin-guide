@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="ステーブルコインの重要ニュース・動向のアーカイブ。規制・市場・日本の動きを時系列で記録。">
+<title>ニュース・アーカイブ — ステーブルコイン入門</title>
+<style>
+  :root{
+    --bg:#0b1220; --card:#162237; --card2:#1c2b45;
+    --text:#e8edf6; --muted:#9fb0c9; --line:#26344f;
+    --accent:#4f9dff; --accent2:#36d6a0; --warn:#ffb454;
+    --shadow:0 8px 30px rgba(0,0,0,.35); --r:16px;
+  }
+  *{box-sizing:border-box}
+  html{scroll-behavior:smooth}
+  body{margin:0; background:linear-gradient(180deg,#0b1220,#0c1426 40%,#0b1220);
+    color:var(--text); font-family:"Hiragino Kaku Gothic ProN","Yu Gothic",Meiryo,system-ui,-apple-system,"Segoe UI",sans-serif;
+    line-height:1.85; -webkit-font-smoothing:antialiased;}
+  a{color:var(--accent); text-decoration:none}
+  a:hover{text-decoration:underline}
+  .wrap{max-width:920px; margin:0 auto; padding:0 20px}
+
+  header.nav{position:sticky; top:0; z-index:50; backdrop-filter:blur(10px);
+    background:rgba(11,18,32,.78); border-bottom:1px solid var(--line)}
+  .nav .wrap{display:flex; align-items:center; gap:18px; height:60px}
+  .brand{font-weight:800; font-size:1.05rem; white-space:nowrap}
+  .brand span{color:var(--accent2)}
+  .nav nav{margin-left:auto; display:flex; gap:16px; flex-wrap:wrap}
+  .nav nav a{color:var(--muted); font-size:.92rem; font-weight:600}
+  .nav nav a:hover, .nav nav a.active{color:var(--text); text-decoration:none}
+
+  .head{padding:48px 0 18px}
+  .head h1{font-size:clamp(1.6rem,4vw,2.3rem); margin:0 0 10px; font-weight:850}
+  .head p{color:var(--muted); margin:0; font-size:1.02rem}
+  .backlink{display:inline-block; margin-top:14px; color:var(--accent2); font-weight:700; font-size:.9rem}
+
+  .toolbar{display:flex; align-items:center; gap:12px; flex-wrap:wrap; margin:24px 0 8px}
+  .toolbar input{flex:1; min-width:200px; background:var(--card); border:1px solid var(--line);
+    border-radius:10px; padding:11px 14px; color:var(--text); font-size:.95rem}
+  .toolbar input::placeholder{color:var(--muted)}
+  .count{color:var(--muted); font-size:.85rem; white-space:nowrap}
+
+  .section-title{font-size:1.15rem; font-weight:800; margin:34px 0 6px; display:flex; align-items:center; gap:10px}
+  .section-title.imp{color:var(--warn)}
+  .month-title{font-size:.95rem; font-weight:800; color:var(--accent2); margin:26px 0 6px;
+    border-bottom:1px solid var(--line); padding-bottom:6px}
+
+  .item{background:var(--card); border:1px solid var(--line); border-radius:12px;
+    padding:15px 18px; margin:10px 0; box-shadow:var(--shadow)}
+  .item.important{border-color:rgba(255,180,84,.45); background:linear-gradient(180deg,rgba(255,180,84,.06),var(--card))}
+  .item .meta{display:flex; align-items:center; gap:10px; margin-bottom:4px; flex-wrap:wrap}
+  .item .date{color:var(--accent2); font-size:.8rem; font-weight:700}
+  .badge{font-size:.7rem; font-weight:800; padding:2px 8px; border-radius:999px;
+    background:rgba(255,180,84,.18); color:var(--warn)}
+  .item h3{margin:0 0 5px; font-size:1.04rem; line-height:1.5}
+  .item p{margin:0; color:var(--muted); font-size:.92rem}
+
+  .empty{color:var(--muted); padding:30px 0; text-align:center}
+  footer{border-top:1px solid var(--line); margin-top:40px; padding:30px 0; color:var(--muted); font-size:.85rem; text-align:center}
+  .hidden{display:none !important}
+</style>
+</head>
+<body>
+
+<header class="nav">
+  <div class="wrap">
+    <div class="brand">Stable<span>Coin</span> 入門</div>
+    <nav>
+      <a href="index.html">メイン</a>
+      <a href="index.html#news">最新ニュース</a>
+      <a href="archive.html" class="active">アーカイブ</a>
+    </nav>
+  </div>
+</header>
+
+<div class="wrap">
+  <section class="head">
+    <h1>ニュース・アーカイブ</h1>
+    <p>これまでに掲載したステーブルコイン関連ニュースの記録です。規制・市場・日本の動きなど、特に重要なものは上部に強調表示しています。新しい記事は毎日自動で追加されます。</p>
+    <a href="index.html" class="backlink">← メインページに戻る</a>
+  </section>
+
+  <div class="toolbar">
+    <input id="search" type="text" placeholder="キーワードで絞り込み（例: 規制、JPYC、USDC）">
+    <span class="count" id="count">読み込み中…</span>
+  </div>
+
+  <div id="important-wrap">
+    <div class="section-title imp">★ 重要ニュース</div>
+    <div id="important-list"></div>
+  </div>
+
+  <div class="section-title">すべての記録</div>
+  <div id="all-list"></div>
+  <div class="empty hidden" id="empty">該当するニュースが見つかりませんでした。</div>
+</div>
+
+<footer>
+  <div class="wrap">
+    <p>このアーカイブは <a href="index.html">ステーブルコイン入門</a> の一部です。教育目的のコンテンツであり、投資助言ではありません。</p>
+  </div>
+</footer>
+
+<script>
+  var ALL = [];
+
+  function esc(s){
+    return (s||"").replace(/[&<>"']/g, function(c){
+      return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];
+    });
+  }
+  function monthLabel(date){
+    if(!date) return "日付不明";
+    var m = /^(\d{4})-(\d{2})/.exec(date);
+    if(!m) return date;
+    return m[1] + "年" + parseInt(m[2],10) + "月";
+  }
+  function itemHTML(it){
+    var title = it.url
+      ? '<a href="'+esc(it.url)+'" target="_blank" rel="noopener">'+esc(it.title)+'</a>'
+      : esc(it.title);
+    var badge = it.important ? '<span class="badge">★ 重要</span>' : '';
+    return '<div class="item'+(it.important?' important':'')+'">'
+         + '<div class="meta"><span class="date">'+esc(it.date||'')+'</span>'+badge+'</div>'
+         + '<h3>'+title+'</h3>'
+         + (it.summary ? '<p>'+esc(it.summary)+'</p>' : '')
+         + '</div>';
+  }
+
+  function render(q){
+    q = (q||"").trim().toLowerCase();
+    var items = ALL.filter(function(it){
+      if(!q) return true;
+      return ((it.title||'')+' '+(it.summary||'')).toLowerCase().indexOf(q) >= 0;
+    });
+
+    // important section
+    var imp = items.filter(function(it){return it.important;});
+    var impWrap = document.getElementById('important-wrap');
+    if(imp.length){
+      document.getElementById('important-list').innerHTML = imp.map(itemHTML).join('');
+      impWrap.classList.remove('hidden');
+    } else {
+      impWrap.classList.add('hidden');
+    }
+
+    // all, grouped by month
+    var all = document.getElementById('all-list');
+    if(items.length){
+      var html = '', curMonth = null;
+      items.forEach(function(it){
+        var ml = monthLabel(it.date);
+        if(ml !== curMonth){ curMonth = ml; html += '<div class="month-title">'+esc(ml)+'</div>'; }
+        html += itemHTML(it);
+      });
+      all.innerHTML = html;
+      document.getElementById('empty').classList.add('hidden');
+    } else {
+      all.innerHTML = '';
+      document.getElementById('empty').classList.remove('hidden');
+    }
+
+    document.getElementById('count').textContent =
+      '全' + ALL.length + '件' + (q ? '（該当 '+items.length+'件）' : '') + '・うち重要 '
+      + ALL.filter(function(it){return it.important;}).length + '件';
+  }
+
+  async function load(){
+    try{
+      var res = await fetch('./archive.json?_=' + Date.now());
+      if(!res.ok) throw new Error('no archive');
+      var data = await res.json();
+      ALL = (data.items || []).slice().sort(function(a,b){
+        return (b.date||'').localeCompare(a.date||'');
+      });
+      render('');
+    }catch(e){
+      document.getElementById('count').textContent = 'アーカイブを読み込めませんでした。';
+    }
+  }
+
+  document.getElementById('search').addEventListener('input', function(e){ render(e.target.value); });
+  load();
+</script>
+</body>
+</html>

@@ -11,6 +11,8 @@
 |---|---|
 | `index.html` | サイト本体（HTML/CSS/JS すべて1ファイルに同梱） |
 | `news.json` | 最新ニュース（GitHub Actions が毎日自動更新） |
+| `archive.html` | ニュース・アーカイブ（重要ニュース強調＋月別一覧＋検索） |
+| `archive.json` | アーカイブ用データ（出てきたニュースを全件累積） |
 | `scripts/update_news.py` | RSSからニュースを取得する更新スクリプト |
 | `.github/workflows/update-news.yml` | 毎日5時(JST)に上記を実行するワークフロー |
 | `README.md` | このファイル |
