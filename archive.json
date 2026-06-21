@@ -1,6 +1,48 @@
 {
-  "updated": "2026-06-19T12:00:00+09:00",
+  "updated": "2026-06-22T00:12:04+09:00",
   "items": [
+    {
+      "date": "2026-06-21",
+      "title": "Ethereum's biggest 'sandwich' bot drained of $7.5 million in ironic exploit",
+      "summary": "Blockaid said an attacker tricked Jaredfromsubway.eth into approving fake trading routes, then used those appr…",
+      "url": "https://www.coindesk.com/tech/2026/06/21/ethereum-s-biggest-sandwich-bot-drained-of-usd7-5-million-in-ironic-exploit",
+      "important": false
+    },
+    {
+      "date": "2026-06-20",
+      "title": "Crypto industry looks to stablecoins and DeFi revisions in MiCA 2.0",
+      "summary": "The European Commission is seeking comment on how it can tweak MiCA, its regulatory framework for the crypto a…",
+      "url": "https://cointelegraph.com/features/crypto-industry-stablecoins-defi-mica?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "important": true
+    },
+    {
+      "date": "2026-06-19",
+      "title": "【6/19話題】GENIUS法ステーブルコイン発行者向け顧客識別プログラム規則案公表、EFのワン共同エグゼクティブディレクター兼理事が退任など（音声ニュース）",
+      "summary": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif…",
+      "url": "https://www.neweconomy.jp/posts/584539",
+      "important": true
+    },
+    {
+      "date": "2026-06-19",
+      "title": "テザー、XAUT担保ドル連動資産「aUSDT」終了へ、中核製品にリソース集中で",
+      "summary": "テザーがaUSDTとアロイ・バイ・テザーを終了へ ステーブルコイン「USDT」発行元のテザー（Tether）が、デジタル資産「aUSDT」および関連プラットフォーム「アロイ・バイ・テザー（Alloy by Tether）…",
+      "url": "https://www.neweconomy.jp/posts/584486",
+      "important": false
+    },
+    {
+      "date": "2026-06-19",
+      "title": "米当局、GENIUS法に基づくステーブルコイン発行者向け顧客識別プログラム規則案を公表",
+      "summary": "GENIUS法の実施ルール整備進む 米国の複数の規制当局が、ステーブルコイン規制法「ジーニアス法（GENIUS Act）」に基づき、許可済み決済ステーブルコイン発行者（PPSI）に対して、銀行や信用組合に適用される顧客識…",
+      "url": "https://www.neweconomy.jp/posts/584462",
+      "important": true
+    },
+    {
+      "date": "2026-06-19",
+      "title": "U.S. agencies seek stablecoin customer-ID rules akin to banks in new GENIUS Act pitch",
+      "summary": "The Federal Reserve, Treasury and other regulators have issued a proposed rule that would set identification s…",
+      "url": "https://www.coindesk.com/policy/2026/06/18/u-s-agencies-seek-stablecoin-customer-id-rules-akin-to-banks-in-new-genius-act-rule",
+      "important": true
+    },
     {
       "date": "2026-06",
       "title": "金融庁、円建てステーブルコイン「JPYC」を資金移動業で位置づけ",
