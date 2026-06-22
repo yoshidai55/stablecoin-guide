@@ -1,6 +1,41 @@
 {
-  "updated": "2026-06-22T00:12:04+09:00",
+  "updated": "2026-06-23T08:57:01+09:00",
   "items": [
+    {
+      "date": "2026-06-22",
+      "title": "LINEミニアプリ版ステーブルコイン基盤サービス「Unifi mini」、LINE NEXTが日本で提供開始",
+      "summary": "Unifi miniが日本で提供開始 ラインネクスト（LINE NEXT）が、ステーブルコイン基盤のフィンテックサービス「ユニファイミニ（Unifi mini）」をLINEミニアプリ（MINI App）として日本国内向け…",
+      "url": "https://www.neweconomy.jp/posts/584979",
+      "important": false
+    },
+    {
+      "date": "2026-06-22",
+      "title": "MoneyGram joins Solana as validator amid stablecoin payment push",
+      "summary": "The remittances firm has become a validator on the Solana blockchain, helping process and secure transactions …",
+      "url": "https://www.coindesk.com/business/2026/06/22/moneygram-joins-solana-as-validator-amid-stablecoin-payment-push",
+      "important": true
+    },
+    {
+      "date": "2026-06-22",
+      "title": "Bank of England eases stablecoin rules, introduces 40B pound issuance cap",
+      "summary": "The Bank of England published draft rules for systemic stablecoins, easing reserve requirements and replacing …",
+      "url": "https://cointelegraph.com/news/bank-of-england-stablecoin-rules-clears-path-for-2027-launch?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "important": true
+    },
+    {
+      "date": "2026-06-22",
+      "title": "Bank of England backs down on strict stablecoin holding limits, sets $50 billion issuance cap",
+      "summary": "The U.K. central bank abandons retail holding limits for a 40-billion-pound aggregate cap and sweetens yield t…",
+      "url": "https://www.coindesk.com/policy/2026/06/22/bank-of-england-backs-down-on-strict-stablecoin-holding-limits-sets-usd50-billion-issuance-cap",
+      "important": true
+    },
+    {
+      "date": "2026-06-22",
+      "title": "MoneyGram joins Solana as validator, expanding role in blockchain infrastructure",
+      "summary": "The remittance giant is staking SOL and processing transaction blocks as stablecoin adoption accelerates acros…",
+      "url": "https://cointelegraph.com/news/moneygram-joins-solana-validator-expanding-role-blockchain-infrastructure?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "important": false
+    },
     {
       "date": "2026-06-21",
       "title": "Ethereum's biggest 'sandwich' bot drained of $7.5 million in ironic exploit",

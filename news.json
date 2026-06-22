@@ -1,35 +1,35 @@
 {
-  "updated": "2026-06-22T09:21:38+09:00",
+  "updated": "2026-06-23T08:57:01+09:00",
   "items": [
     {
-      "date": "2026-06-19",
-      "title": "【6/19話題】GENIUS法ステーブルコイン発行者向け顧客識別プログラム規則案公表、EFのワン共同エグゼクティブディレクター兼理事が退任など（音声ニュース）",
-      "summary": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif…",
-      "url": "https://www.neweconomy.jp/posts/584539"
+      "date": "2026-06-22",
+      "title": "LINEミニアプリ版ステーブルコイン基盤サービス「Unifi mini」、LINE NEXTが日本で提供開始",
+      "summary": "Unifi miniが日本で提供開始 ラインネクスト（LINE NEXT）が、ステーブルコイン基盤のフィンテックサービス「ユニファイミニ（Unifi mini）」をLINEミニアプリ（MINI App）として日本国内向け…",
+      "url": "https://www.neweconomy.jp/posts/584979"
     },
     {
-      "date": "2026-06-19",
-      "title": "テザー、XAUT担保ドル連動資産「aUSDT」終了へ、中核製品にリソース集中で",
-      "summary": "テザーがaUSDTとアロイ・バイ・テザーを終了へ ステーブルコイン「USDT」発行元のテザー（Tether）が、デジタル資産「aUSDT」および関連プラットフォーム「アロイ・バイ・テザー（Alloy by Tether）…",
-      "url": "https://www.neweconomy.jp/posts/584486"
+      "date": "2026-06-22",
+      "title": "MoneyGram joins Solana as validator amid stablecoin payment push",
+      "summary": "The remittances firm has become a validator on the Solana blockchain, helping process and secure transactions …",
+      "url": "https://www.coindesk.com/business/2026/06/22/moneygram-joins-solana-as-validator-amid-stablecoin-payment-push"
     },
     {
-      "date": "2026-06-19",
-      "title": "米当局、GENIUS法に基づくステーブルコイン発行者向け顧客識別プログラム規則案を公表",
-      "summary": "GENIUS法の実施ルール整備進む 米国の複数の規制当局が、ステーブルコイン規制法「ジーニアス法（GENIUS Act）」に基づき、許可済み決済ステーブルコイン発行者（PPSI）に対して、銀行や信用組合に適用される顧客識…",
-      "url": "https://www.neweconomy.jp/posts/584462"
+      "date": "2026-06-22",
+      "title": "Bank of England eases stablecoin rules, introduces 40B pound issuance cap",
+      "summary": "The Bank of England published draft rules for systemic stablecoins, easing reserve requirements and replacing …",
+      "url": "https://cointelegraph.com/news/bank-of-england-stablecoin-rules-clears-path-for-2027-launch?utm_source=rss&utm_medium=rss&utm_campaign=rss"
     },
     {
-      "date": "2026-06-21",
-      "title": "Ethereum's biggest 'sandwich' bot drained of $7.5 million in ironic exploit",
-      "summary": "Blockaid said an attacker tricked Jaredfromsubway.eth into approving fake trading routes, then used those appr…",
-      "url": "https://www.coindesk.com/tech/2026/06/21/ethereum-s-biggest-sandwich-bot-drained-of-usd7-5-million-in-ironic-exploit"
+      "date": "2026-06-22",
+      "title": "Bank of England backs down on strict stablecoin holding limits, sets $50 billion issuance cap",
+      "summary": "The U.K. central bank abandons retail holding limits for a 40-billion-pound aggregate cap and sweetens yield t…",
+      "url": "https://www.coindesk.com/policy/2026/06/22/bank-of-england-backs-down-on-strict-stablecoin-holding-limits-sets-usd50-billion-issuance-cap"
     },
     {
-      "date": "2026-06-19",
-      "title": "U.S. agencies seek stablecoin customer-ID rules akin to banks in new GENIUS Act pitch",
-      "summary": "The Federal Reserve, Treasury and other regulators have issued a proposed rule that would set identification s…",
-      "url": "https://www.coindesk.com/policy/2026/06/18/u-s-agencies-seek-stablecoin-customer-id-rules-akin-to-banks-in-new-genius-act-rule"
+      "date": "2026-06-22",
+      "title": "MoneyGram joins Solana as validator, expanding role in blockchain infrastructure",
+      "summary": "The remittance giant is staking SOL and processing transaction blocks as stablecoin adoption accelerates acros…",
+      "url": "https://cointelegraph.com/news/moneygram-joins-solana-validator-expanding-role-blockchain-infrastructure?utm_source=rss&utm_medium=rss&utm_campaign=rss"
     }
   ]
 }
