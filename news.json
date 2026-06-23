@@ -1,35 +1,41 @@
 {
-  "updated": "2026-06-23T08:57:01+09:00",
+  "updated": "2026-06-24T08:38:45+09:00",
   "items": [
     {
-      "date": "2026-06-22",
-      "title": "LINEミニアプリ版ステーブルコイン基盤サービス「Unifi mini」、LINE NEXTが日本で提供開始",
-      "summary": "Unifi miniが日本で提供開始 ラインネクスト（LINE NEXT）が、ステーブルコイン基盤のフィンテックサービス「ユニファイミニ（Unifi mini）」をLINEミニアプリ（MINI App）として日本国内向け…",
-      "url": "https://www.neweconomy.jp/posts/584979"
+      "date": "2026-06-23",
+      "title": "【6/23話題】イーサリアム財団の元研究者ら設立のEthlabs、英中銀がステーブルコイン規制を緩和、ストラテジーとビットマインの追加取得など（音声ニュース）",
+      "summary": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif…",
+      "url": "https://www.neweconomy.jp/posts/586066"
     },
     {
-      "date": "2026-06-22",
-      "title": "MoneyGram joins Solana as validator amid stablecoin payment push",
-      "summary": "The remittances firm has become a validator on the Solana blockchain, helping process and secure transactions …",
-      "url": "https://www.coindesk.com/business/2026/06/22/moneygram-joins-solana-as-validator-amid-stablecoin-payment-push"
+      "date": "2026-06-23",
+      "title": "SBI新生信託銀行、円連動ステーブルコイン「JPYSC」を6月中に発行 信託型で国内初＝日本経済新聞",
+      "summary": "SBIグループが日本円連動のステーブルコイン「JPYSC」を週内にも発行する。SBI新生信託銀行が発行体となる信託型では国内初。発行額の上限がなく機関投資家・グローバル企業の大口利用を見込む。3メガバンクの共同発行構想に…",
+      "url": "https://coinpost.jp/?p=719292"
     },
     {
-      "date": "2026-06-22",
-      "title": "Bank of England eases stablecoin rules, introduces 40B pound issuance cap",
-      "summary": "The Bank of England published draft rules for systemic stablecoins, easing reserve requirements and replacing …",
-      "url": "https://cointelegraph.com/news/bank-of-england-stablecoin-rules-clears-path-for-2027-launch?utm_source=rss&utm_medium=rss&utm_campaign=rss"
+      "date": "2026-06-23",
+      "title": "米サークル「USDC」と「EURC」、クロノスに対応へ。CCTPも導入予定",
+      "summary": "USDC・EURC・CCTPがCronosに導入へ 米サークル（Circle Internet Financial）発行の米ドル建てステーブルコイン「USDC」とユーロ建てステーブルコイン「EURC」が、レイヤー1ブロッ…",
+      "url": "https://www.neweconomy.jp/posts/585645"
     },
     {
-      "date": "2026-06-22",
-      "title": "Bank of England backs down on strict stablecoin holding limits, sets $50 billion issuance cap",
-      "summary": "The U.K. central bank abandons retail holding limits for a 40-billion-pound aggregate cap and sweetens yield t…",
-      "url": "https://www.coindesk.com/policy/2026/06/22/bank-of-england-backs-down-on-strict-stablecoin-holding-limits-sets-usd50-billion-issuance-cap"
+      "date": "2026-06-23",
+      "title": "仮想通貨市場、6月の下落銘柄比率が87％ 「年間最弱月」の可能性＝CryptoRank",
+      "summary": "CryptoRankのデータによると、ステーブルコインを除くトップ100銘柄のうち87.1％が6月に下落し、2026年最高水準を記録した。平均リターンはマイナス8.6％、中央値はマイナス12.3％と広範な下落となっている…",
+      "url": "https://coinpost.jp/?p=719215"
     },
     {
-      "date": "2026-06-22",
-      "title": "MoneyGram joins Solana as validator, expanding role in blockchain infrastructure",
-      "summary": "The remittance giant is staking SOL and processing transaction blocks as stablecoin adoption accelerates acros…",
-      "url": "https://cointelegraph.com/news/moneygram-joins-solana-validator-expanding-role-blockchain-infrastructure?utm_source=rss&utm_medium=rss&utm_campaign=rss"
+      "date": "2026-06-23",
+      "title": "英中銀がステーブルコイン規制を緩和、保有上限見送りで発行総額上限方式へ",
+      "summary": "業界からは歓迎と懸念の声 英中央銀行のイングランド銀行（BoE）が、英ポンド建てシステミック・ステーブルコイン発行体の規制に関する政策声明および実務規範（コード・オブ・プラクティス）草案を6月22日に公表した。昨年11月…",
+      "url": "https://www.neweconomy.jp/posts/585577"
+    },
+    {
+      "date": "2026-06-23",
+      "title": "英中銀、ポンド建てステーブルコインの行動規範案を公開 発行上限や利回り禁止など提案",
+      "summary": "イングランド銀行は、金融システム上重要なポンド建てステーブルコインを対象とした行動規範草案を公開した。発行上限、利回り禁止、償還などの内容を盛り込んでいる。",
+      "url": "https://coinpost.jp/?p=719027"
     }
   ]
 }

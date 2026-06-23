@@ -1,6 +1,104 @@
 {
-  "updated": "2026-06-23T08:57:01+09:00",
+  "updated": "2026-06-24T08:38:45+09:00",
   "items": [
+    {
+      "date": "2026-06-24",
+      "title": "Chainlink joins European and Korean bank consortia to develop FX settlement network",
+      "summary": "Banks across Europe and South Korea will study whether regulated euro and won stablecoins can enable real-time…",
+      "url": "https://cointelegraph.com/news/chainlink-europe-korea-banks-stablecoin-fx-settlement-project-pangea?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "important": true
+    },
+    {
+      "date": "2026-06-24",
+      "title": "Chainlink teams up with 47 South Korean, European banks to speed up international money transfers",
+      "summary": "The alliance, called Project Pangea, plans to use stablecoins to settle multimillion-dollar currency trades be…",
+      "url": "https://www.coindesk.com/markets/2026/06/23/chainlink-teams-up-with-47-south-korean-european-banks-to-speed-up-international-money-transfers",
+      "important": true
+    },
+    {
+      "date": "2026-06-23",
+      "title": "【6/23話題】イーサリアム財団の元研究者ら設立のEthlabs、英中銀がステーブルコイン規制を緩和、ストラテジーとビットマインの追加取得など（音声ニュース）",
+      "summary": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif…",
+      "url": "https://www.neweconomy.jp/posts/586066",
+      "important": true
+    },
+    {
+      "date": "2026-06-23",
+      "title": "SBI新生信託銀行、円連動ステーブルコイン「JPYSC」を6月中に発行 信託型で国内初＝日本経済新聞",
+      "summary": "SBIグループが日本円連動のステーブルコイン「JPYSC」を週内にも発行する。SBI新生信託銀行が発行体となる信託型では国内初。発行額の上限がなく機関投資家・グローバル企業の大口利用を見込む。3メガバンクの共同発行構想に…",
+      "url": "https://coinpost.jp/?p=719292",
+      "important": false
+    },
+    {
+      "date": "2026-06-23",
+      "title": "米サークル「USDC」と「EURC」、クロノスに対応へ。CCTPも導入予定",
+      "summary": "USDC・EURC・CCTPがCronosに導入へ 米サークル（Circle Internet Financial）発行の米ドル建てステーブルコイン「USDC」とユーロ建てステーブルコイン「EURC」が、レイヤー1ブロッ…",
+      "url": "https://www.neweconomy.jp/posts/585645",
+      "important": false
+    },
+    {
+      "date": "2026-06-23",
+      "title": "仮想通貨市場、6月の下落銘柄比率が87％ 「年間最弱月」の可能性＝CryptoRank",
+      "summary": "CryptoRankのデータによると、ステーブルコインを除くトップ100銘柄のうち87.1％が6月に下落し、2026年最高水準を記録した。平均リターンはマイナス8.6％、中央値はマイナス12.3％と広範な下落となっている…",
+      "url": "https://coinpost.jp/?p=719215",
+      "important": false
+    },
+    {
+      "date": "2026-06-23",
+      "title": "英中銀がステーブルコイン規制を緩和、保有上限見送りで発行総額上限方式へ",
+      "summary": "業界からは歓迎と懸念の声 英中央銀行のイングランド銀行（BoE）が、英ポンド建てシステミック・ステーブルコイン発行体の規制に関する政策声明および実務規範（コード・オブ・プラクティス）草案を6月22日に公表した。昨年11月…",
+      "url": "https://www.neweconomy.jp/posts/585577",
+      "important": true
+    },
+    {
+      "date": "2026-06-23",
+      "title": "英中銀、ポンド建てステーブルコインの行動規範案を公開 発行上限や利回り禁止など提案",
+      "summary": "イングランド銀行は、金融システム上重要なポンド建てステーブルコインを対象とした行動規範草案を公開した。発行上限、利回り禁止、償還などの内容を盛り込んでいる。",
+      "url": "https://coinpost.jp/?p=719027",
+      "important": true
+    },
+    {
+      "date": "2026-06-23",
+      "title": "Former Robinhood Crypto COO Tanya Denisova joins stablecoin issuer Agora as head of operations",
+      "summary": "The former Robinhood Crypto executive will oversee operations as Agora scales its rapidly growing AUSD stablec…",
+      "url": "https://www.coindesk.com/business/2026/06/23/former-robinhood-crypto-coo-tanya-denisova-joins-stablecoin-issuer-agora-as-head-of-operations",
+      "important": false
+    },
+    {
+      "date": "2026-06-23",
+      "title": "The ECB digital euro takes step forward after winning key European Parliament vote",
+      "summary": "EU lawmakers backed a legal framework to develop an ECB digital currency by 2029 so the continent can stop rel…",
+      "url": "https://www.coindesk.com/policy/2026/06/23/european-parliament-clears-last-step-for-a-digital-euro-to-break-u-s-payment-grip",
+      "important": false
+    },
+    {
+      "date": "2026-06-23",
+      "title": "Former BIS chief softens stance on stablecoins, backs coexistence with fiat",
+      "summary": "Former BIS general manager Agustín Carstens said stablecoins can enhance financial inclusion and innovation bu…",
+      "url": "https://cointelegraph.com/news/former-bis-chief-softens-stance-stablecoins-coexistence-fiat?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "important": false
+    },
+    {
+      "date": "2026-06-23",
+      "title": "Ripple targets EU, wins preliminary MiCA approval from Luxembourg financial regulator",
+      "summary": "The license will enable Ripple to offer its stablecoin payment systems to European companies and expand into b…",
+      "url": "https://www.coindesk.com/policy/2026/06/23/ripple-targets-eu-wins-preliminary-mica-approval-from-luxembourg-financial-regulator",
+      "important": true
+    },
+    {
+      "date": "2026-06-23",
+      "title": "Opera's MiniPay launches Visa debit card for stablecoin spending",
+      "summary": "The card will allow MiniPay's 16 million users to spend stablecoins through Visa's network as adoption of digi…",
+      "url": "https://cointelegraph.com/news/operas-minipay-launches-visa-debit-card-for-stablecoin-spending?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "important": true
+    },
+    {
+      "date": "2026-06-23",
+      "title": "Bitmine, Sharplink and Joe Lubin back Ethereum R&D nonprofit",
+      "summary": "Sharplink says the new nonprofit, Ethlabs, “exists to ensure the network is ready to absorb” the demand that i…",
+      "url": "https://cointelegraph.com/news/bitmine-sharplink-and-joe-lubin-back-ethereum-rd-nonprofit?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "important": false
+    },
     {
       "date": "2026-06-22",
       "title": "LINEミニアプリ版ステーブルコイン基盤サービス「Unifi mini」、LINE NEXTが日本で提供開始",
