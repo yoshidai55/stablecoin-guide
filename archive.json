@@ -1,6 +1,27 @@
 {
-  "updated": "2026-06-24T08:38:45+09:00",
+  "updated": "2026-06-25T08:52:58+09:00",
   "items": [
+    {
+      "date": "2026-06-25",
+      "title": "【6/24話題】国内初、SBIが信託型円ステーブルコイン「JPYSC」提供開始、SBI VCトレードはリップルの「RLUSD」取扱開始、イーサリアム財団の新体制など（音声ニュース）",
+      "summary": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif…",
+      "url": "https://www.neweconomy.jp/posts/586348",
+      "important": false
+    },
+    {
+      "date": "2026-06-25",
+      "title": "Credit unions managing $25B in assets join stablecoin infrastructure program",
+      "summary": "A new pilot from Stablecore, Circuit and Curql gives participating US credit unions access to test stablecoin …",
+      "url": "https://cointelegraph.com/news/credit-unions-join-stablecoin-infrastructure-program?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "important": false
+    },
+    {
+      "date": "2026-06-25",
+      "title": "Trump cancels signing of housing bill with CBDC ban",
+      "summary": "The 21st Century ROAD to Housing Act included a provision that the US Federal Reserve was barred from issuing …",
+      "url": "https://cointelegraph.com/news/donald-trump-cancels-signing-housing-bill-cbdc-ban?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "important": true
+    },
     {
       "date": "2026-06-24",
       "title": "Chainlink joins European and Korean bank consortia to develop FX settlement network",
@@ -13,6 +34,69 @@
       "title": "Chainlink teams up with 47 South Korean, European banks to speed up international money transfers",
       "summary": "The alliance, called Project Pangea, plans to use stablecoins to settle multimillion-dollar currency trades be…",
       "url": "https://www.coindesk.com/markets/2026/06/23/chainlink-teams-up-with-47-south-korean-european-banks-to-speed-up-international-money-transfers",
+      "important": true
+    },
+    {
+      "date": "2026-06-24",
+      "title": "SBI VCトレード、米ドル建てステーブルコイン「RLUSD」取扱い開始",
+      "summary": "SBI VCトレードがVCTRADEで米ドル建てステーブルコイン「RLUSD」の取扱いを開始。同社は国内初の4号電子決済手段と位置づける。USDCに続く2銘柄目で入出庫手数料は無料、対応チェーンはイーサリアム。発行体や裏…",
+      "url": "https://coinpost.jp/?p=719591",
+      "important": false
+    },
+    {
+      "date": "2026-06-24",
+      "title": "【国内初】SBI VCトレード、リップルの米ドルステーブルコイン「RLUSD」取扱開始。イーサリアムのみ対応",
+      "summary": "国内初の4号電子決済手段が取扱開始 国内暗号資産（仮想通貨）取引所SBI VCトレードが、米ドル連動型ステーブルコイン「リップルUSD（RLUSD）」の取扱開始を6月24日に発表した。対応チェーンはイーサリアム（Ethe…",
+      "url": "https://www.neweconomy.jp/posts/586315",
+      "important": false
+    },
+    {
+      "date": "2026-06-24",
+      "title": "SBIグループ、国内初の信託型円建てステーブルコイン「JPYSC」提供開始",
+      "summary": "SBIグループとStartale Groupが信託型円建てステーブルコイン「JPYSC」を2026年6月24日に発行。SBI VCトレードの口座内で先行提供を開始し、100万円の送金上限がない第3号電子決済手段として国内…",
+      "url": "https://coinpost.jp/?p=719565",
+      "important": false
+    },
+    {
+      "date": "2026-06-24",
+      "title": "【速報】国内初、SBIが信託型円ステーブルコイン「JPYSC」提供開始。イーサ上に100億円分発行へ",
+      "summary": "JPYSCは初日から100億円分発行へ SBIグループおよびスターテイルグループ（Startale Group）が共同開発する、信託型円建てステーブルコイン「JPYSC」の発行および提供の開始が6月24日に発表された。信…",
+      "url": "https://www.neweconomy.jp/posts/586241",
+      "important": false
+    },
+    {
+      "date": "2026-06-24",
+      "title": "韓国大手保険会社、ウォン建てステーブルコインで保険料納付などの概念実証完了",
+      "summary": "韓国の大手生命保険会社・教保生命がブロックチェーン企業EQBRと共同で、ウォン建てステーブルコインによる保険料収納・保険金支払いの技術検証（PoC）を完了。法制化前の先手対応として保険業界初と位置づけた。",
+      "url": "https://coinpost.jp/?p=719515",
+      "important": false
+    },
+    {
+      "date": "2026-06-24",
+      "title": "チェーンリンク、外為決済の短縮プロジェクトに参画 韓国・欧州の金融機関と",
+      "summary": "チェーンリンクは、ステーブルコインを活用した国際決済モデルを構築して外国為替市場を再定義する共同プロジェクトProject Pangeaを発表。韓国・欧州の金融機関などと協業する。",
+      "url": "https://coinpost.jp/?p=719402",
+      "important": false
+    },
+    {
+      "date": "2026-06-24",
+      "title": "SBIとスターテイルのステーブルコイン「JPYSC」が近日発行開始か、金融庁が承認＝報道",
+      "summary": "JPYSCが近日に発行開始か SBIホールディングスとスターテイルグループ（Startale Group）が共同開発を進めている日本円ステーブルコイン「JPYSC」が、今週内にも発行開始されると、「日本経済新聞」が6月2…",
+      "url": "https://www.neweconomy.jp/posts/586128",
+      "important": true
+    },
+    {
+      "date": "2026-06-24",
+      "title": "The banking lobby is wrong about stablecoins and community banks",
+      "summary": "Congress should not kneecap one of the clearest advances in payment infrastructure to protect community banks …",
+      "url": "https://www.coindesk.com/opinion/2026/06/24/the-banking-lobby-is-wrong-about-stablecoins-and-community-banks",
+      "important": true
+    },
+    {
+      "date": "2026-06-24",
+      "title": "OpenPayd secures MiCA license as stablecoin adoption grows in Europe",
+      "summary": "OpenPayd, which provides infrastructure to companies including Kraken crypto exchange, can now offer regulated…",
+      "url": "https://cointelegraph.com/news/openpayd-mica-license-stablecoin-adoption-europe?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "important": true
     },
     {
