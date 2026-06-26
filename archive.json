@@ -1,6 +1,69 @@
 {
-  "updated": "2026-06-25T08:52:58+09:00",
+  "updated": "2026-06-26T17:36:59+09:00",
   "items": [
+    {
+      "date": "2026-06-26",
+      "title": "Slash Card、イーサリアムUSDCのソラナへのブリッジ機能を実装",
+      "summary": "Slash Cardに新機能 ステーブルコインでカード決済可能な「Slash Card」に、新機能として「ブリッジ機能」が実装された。スラッシュビジョン（SLASH VISION）が6月25日に発表した。 ブリッジ機能実…",
+      "url": "https://www.neweconomy.jp/posts/587178",
+      "important": false
+    },
+    {
+      "date": "2026-06-26",
+      "title": "【正式発表】野村HDと米サークル、ステーブルコイン活用の次世代金融インフラ検討",
+      "summary": "野村HDとサークルが協業へ 野村ホールディングスが、米ドル建てステーブルコイン「USDC」発行元のサークル・インターネット・フィナンシャル（Circle Internet Financial：以下、サークル）と、デジタル…",
+      "url": "https://www.neweconomy.jp/posts/587122",
+      "important": false
+    },
+    {
+      "date": "2026-06-26",
+      "title": "予測市場ユーザーの6割、DEX未経験 W杯が大衆の入り口に＝Bitget Wallet調査",
+      "summary": "Bitget Walletが公表したポリマーケット利用者85万人超の90日間調査で、アクティブユーザーの約60％がDEX取引経験なしで参入していたことが判明。ステーブルコイン主体の資金流入やアプリ完結型の行動パターンが明…",
+      "url": "https://coinpost.jp/?p=720308",
+      "important": false
+    },
+    {
+      "date": "2026-06-26",
+      "title": "米インベスコ、ステーブルコイン準備金ファンドをSECに申請",
+      "summary": "インベスコが米SECにステーブルコイン準備金運用特化のMMF設立を申請した。ブラックロックやステートストリートなど大手も参入し、準備金ファンド市場の競争が激化している。",
+      "url": "https://coinpost.jp/?p=720169",
+      "important": true
+    },
+    {
+      "date": "2026-06-26",
+      "title": "Tether stablecoin flips Ether by market cap as ETH routs to $1.5K",
+      "summary": "Ether prices are currently back at crucial long-term support levels last visited in October 2023 and April 202…",
+      "url": "https://cointelegraph.com/news/tether-stablecoin-flips-ether-by-market-cap-as-eth-routs-to-15k?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "important": false
+    },
+    {
+      "date": "2026-06-26",
+      "title": "StablecoinX bets on Ethena ecosystem with Nasdaq debut",
+      "summary": "USDe circulating supply has shrunk by 70% since the October bull market peak, when it topped $14 billion.",
+      "url": "https://cointelegraph.com/news/stablecoinx-merges-with-tlgy-and-begins-trading-on-nasdaq-friday?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "important": false
+    },
+    {
+      "date": "2026-06-26",
+      "title": "BitGo cuts 15% of staff to sharpen focus on AI, stablecoins",
+      "summary": "BitGo co-founder and CEO Mike Belshe says the layoffs are “a one-time action” and the company doesn’t see the …",
+      "url": "https://cointelegraph.com/news/crypto-infrastructure-firm-bitgo-lays-off-15-of-staff?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "important": false
+    },
+    {
+      "date": "2026-06-26",
+      "title": "Asset management giant Invesco files for tokenized fund targeting stablecoin reserve market",
+      "summary": "The $2.5 trillion asset manager deepens its blockchain push after taking over Superstate's tokenized money mar…",
+      "url": "https://www.coindesk.com/business/2026/06/25/asset-management-giant-invesco-files-for-tokenized-fund-targeting-stablecoin-reserve-market",
+      "important": false
+    },
+    {
+      "date": "2026-06-26",
+      "title": "21shares trims 2026 crypto forecasts despite institutional adoption gains",
+      "summary": "Asset manager 21shares sees crypto infrastructure advancing faster than prices, as ETFs, stablecoins and predi…",
+      "url": "https://cointelegraph.com/news/21shares-trims-2026-crypto-forecasts-etf-adoption?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "important": false
+    },
     {
       "date": "2026-06-25",
       "title": "【6/24話題】国内初、SBIが信託型円ステーブルコイン「JPYSC」提供開始、SBI VCトレードはリップルの「RLUSD」取扱開始、イーサリアム財団の新体制など（音声ニュース）",
@@ -21,6 +84,41 @@
       "summary": "The 21st Century ROAD to Housing Act included a provision that the US Federal Reserve was barred from issuing …",
       "url": "https://cointelegraph.com/news/donald-trump-cancels-signing-housing-bill-cbdc-ban?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "important": true
+    },
+    {
+      "date": "2026-06-25",
+      "title": "SBI to acquire Bitbank in $289M deal creating Japan's biggest crypto exchange",
+      "summary": "The Japanese financial conglomerate plans to take full control of Bitbank as it expands an ecosystem spanning …",
+      "url": "https://cointelegraph.com/news/sbi-acquire-bitbank-289-million-deal?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "important": true
+    },
+    {
+      "date": "2026-06-25",
+      "title": "Uniswap, Spark aim to build stablecoin FX market as banks, fintechs enter the industry",
+      "summary": "The protocols are building shared liquidity and trading infrastructure for a future with hundreds of competing…",
+      "url": "https://www.coindesk.com/business/2026/06/25/uniswap-spark-aim-to-build-stablecoin-fx-market-as-banks-fintechs-enter-the-industry",
+      "important": true
+    },
+    {
+      "date": "2026-06-25",
+      "title": "Spark migrates $150M in stablecoin to Uniswap to advance shared liquidity",
+      "summary": "Spark deployed approximately $150 million across two Uniswap v4 pools on Ethereum, while its DualPool hook and…",
+      "url": "https://cointelegraph.com/news/spark-deploys-150m-stablecoin-liquidity-uniswap-v4?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "important": false
+    },
+    {
+      "date": "2026-06-25",
+      "title": "Circle and Nomura join forces to target a $440 billion daily foreign exchange market in Japan",
+      "summary": "The stablecoin giant and the Japanese financial corporation plan to deploy cross-border foreign exchange settl…",
+      "url": "https://www.coindesk.com/markets/2026/06/25/circle-and-nomura-join-forces-to-target-a-usd750-billion-daily-foreign-exchange-market-in-japan",
+      "important": false
+    },
+    {
+      "date": "2026-06-25",
+      "title": "Circle, Nomura eye Japan corporate FX with stablecoin settlement: Report",
+      "summary": "Circle and Nomura are reportedly partnering to enable stablecoin-based foreign exchange settlement for Japanes…",
+      "url": "https://cointelegraph.com/news/circle-nomura-partner-instant-fx-settlement-business?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "important": false
     },
     {
       "date": "2026-06-24",
