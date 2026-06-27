@@ -1,6 +1,12 @@
 {
-  "updated": "2026-06-27T08:48:21+09:00",
+  "updated": "2026-06-28T08:39:00+09:00",
   "items": [
+    {
+      "date": "2026-06-27",
+      "title": "エテナ関連トレジャリー企業「ステーブルコインX」がナスダック上場、450億円相当ENAを保有",
+      "summary": "仮想通貨エテナ（ENA）特化のトレジャリー企業ステーブルコインXがナスダックにSPAC上場。約30億枚のENAを保有し、「USDE」ティッカーで取引開始する。",
+      "url": "https://coinpost.jp/?p=720496"
+    },
     {
       "date": "2026-06-26",
       "title": "Slash Card、イーサリアムUSDCのソラナへのブリッジ機能を実装",
@@ -20,16 +26,16 @@
       "url": "https://coinpost.jp/?p=720308"
     },
     {
-      "date": "2026-06-26",
-      "title": "米インベスコ、ステーブルコイン準備金ファンドをSECに申請",
-      "summary": "インベスコが米SECにステーブルコイン準備金運用特化のMMF設立を申請した。ブラックロックやステートストリートなど大手も参入し、準備金ファンド市場の競争が激化している。",
-      "url": "https://coinpost.jp/?p=720169"
+      "date": "2026-06-28",
+      "title": "Tether putting $23 billion gold stockpile to work with bullion-backed loans",
+      "summary": "The stablecoin issuer is extending its tokenized gold strategy by allowing holders of XAUT to borrow against t…",
+      "url": "https://www.coindesk.com/business/2026/06/27/tether-putting-usd23-billion-gold-stockpile-to-work-with-bullion-backed-loans"
     },
     {
-      "date": "2026-06-26",
-      "title": "Asset management giant Invesco files for tokenized fund targeting stablecoin reserve market",
-      "summary": "The $2.5 trillion asset manager deepens its blockchain push after taking over Superstate's tokenized money mar…",
-      "url": "https://www.coindesk.com/business/2026/06/25/asset-management-giant-invesco-files-for-tokenized-fund-targeting-stablecoin-reserve-market"
+      "date": "2026-06-27",
+      "title": "Crypto Biz: The cost of stacking sats",
+      "summary": "CryptoQuant urged Strategy to pause Bitcoin buying as dividend coverage shrank. Meanwhile, CBOE eyes crypto pe…",
+      "url": "https://cointelegraph.com/news/cryptoquant-strategy-bitcoin-cboe-perpetual-futures-chainlink-stablecoin-fx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     }
   ]
 }

@@ -1,6 +1,27 @@
 {
-  "updated": "2026-06-26T17:36:59+09:00",
+  "updated": "2026-06-28T08:39:00+09:00",
   "items": [
+    {
+      "date": "2026-06-28",
+      "title": "Tether putting $23 billion gold stockpile to work with bullion-backed loans",
+      "summary": "The stablecoin issuer is extending its tokenized gold strategy by allowing holders of XAUT to borrow against t…",
+      "url": "https://www.coindesk.com/business/2026/06/27/tether-putting-usd23-billion-gold-stockpile-to-work-with-bullion-backed-loans",
+      "important": false
+    },
+    {
+      "date": "2026-06-27",
+      "title": "エテナ関連トレジャリー企業「ステーブルコインX」がナスダック上場、450億円相当ENAを保有",
+      "summary": "仮想通貨エテナ（ENA）特化のトレジャリー企業ステーブルコインXがナスダックにSPAC上場。約30億枚のENAを保有し、「USDE」ティッカーで取引開始する。",
+      "url": "https://coinpost.jp/?p=720496",
+      "important": true
+    },
+    {
+      "date": "2026-06-27",
+      "title": "Crypto Biz: The cost of stacking sats",
+      "summary": "CryptoQuant urged Strategy to pause Bitcoin buying as dividend coverage shrank. Meanwhile, CBOE eyes crypto pe…",
+      "url": "https://cointelegraph.com/news/cryptoquant-strategy-bitcoin-cboe-perpetual-futures-chainlink-stablecoin-fx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
     {
       "date": "2026-06-26",
       "title": "Slash Card、イーサリアムUSDCのソラナへのブリッジ機能を実装",
@@ -62,6 +83,27 @@
       "title": "21shares trims 2026 crypto forecasts despite institutional adoption gains",
       "summary": "Asset manager 21shares sees crypto infrastructure advancing faster than prices, as ETFs, stablecoins and predi…",
       "url": "https://cointelegraph.com/news/21shares-trims-2026-crypto-forecasts-etf-adoption?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "important": false
+    },
+    {
+      "date": "2026-06-26",
+      "title": "Tether stablecoin flips Ether by market cap as ETH routs to $1.5K",
+      "summary": "Ether prices are currently back at crucial long-term support levels last visited in October 2023 and April 202…",
+      "url": "https://cointelegraph.com/news/tether-stablecoin-flips-ether-by-market-cap-as-eth-routs-to-15k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-06-26",
+      "title": "StablecoinX bets on Ethena ecosystem with Nasdaq debut",
+      "summary": "USDe circulating supply has shrunk by 70% since the October bull market peak, when it topped $14 billion.",
+      "url": "https://cointelegraph.com/news/stablecoinx-merges-with-tlgy-and-begins-trading-on-nasdaq-friday?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-06-26",
+      "title": "BitGo cuts 15% of staff to sharpen focus on AI, stablecoins",
+      "summary": "BitGo co-founder and CEO Mike Belshe says the layoffs are “a one-time action” and the company doesn’t see the …",
+      "url": "https://cointelegraph.com/news/crypto-infrastructure-firm-bitgo-lays-off-15-of-staff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "important": false
     },
     {
