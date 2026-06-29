@@ -1,35 +1,41 @@
 {
-  "updated": "2026-06-29T08:48:13+09:00",
+  "updated": "2026-06-30T08:42:47+09:00",
   "items": [
     {
-      "date": "2026-06-26",
-      "title": "Slash Card、イーサリアムUSDCのソラナへのブリッジ機能を実装",
-      "summary": "Slash Cardに新機能 ステーブルコインでカード決済可能な「Slash Card」に、新機能として「ブリッジ機能」が実装された。スラッシュビジョン（SLASH VISION）が6月25日に発表した。 ブリッジ機能実…",
-      "url": "https://www.neweconomy.jp/posts/587178"
+      "date": "2026-06-30",
+      "title": "米金融大手BNY、USDCを機関向けカストディに初統合 サークルと連携拡大",
+      "summary": "米金融大手BNY（旧：BNYメロン）が29日、サークルとの提携拡大を発表。USDCをデジタル資産カストディ基盤の第一号ステーブルコインとして統合し、機関投資家向けにUSDCの保管・発行・償還機能をワンストップで提供する。",
+      "url": "https://coinpost.jp/?p=720854"
     },
     {
-      "date": "2026-06-26",
-      "title": "【正式発表】野村HDと米サークル、ステーブルコイン活用の次世代金融インフラ検討",
-      "summary": "野村HDとサークルが協業へ 野村ホールディングスが、米ドル建てステーブルコイン「USDC」発行元のサークル・インターネット・フィナンシャル（Circle Internet Financial：以下、サークル）と、デジタル…",
-      "url": "https://www.neweconomy.jp/posts/587122"
+      "date": "2026-06-30",
+      "title": "JPモルガン、ステーブルコインの「影の銀行化」警告 規制枠組みで提言",
+      "summary": "米メガバンクJPモルガンは6月29日、仮想通貨規制の枠組みに関するレポートを公開し、利回り型ステーブルコインには従来の預金と同等の監督基準が必要だと主張。",
+      "url": "https://coinpost.jp/?p=720856"
     },
     {
       "date": "2026-06-29",
-      "title": "BIS warns stablecoins risk fragmenting global financial system",
-      "summary": "The Basel-based institution said that private digital tokens fall short of the requirements for sound money an…",
-      "url": "https://cointelegraph.com/news/bis-warns-stablecoins-risk-fragmenting-global-financial-system?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      "title": "SOWAKA、日本法人設立 JPYC決済アプリ「ミセペイ」を7月トライアル開始",
+      "summary": "SOWAKA PTE.LTD.が2026年6月1日付で株式会社Sowaka Japanを設立。第一弾事業として、JPYC対応QR決済アプリ「MisePay（ミセペイ）」の7月トライアル開始と加盟店の追加募集を発表した。決…",
+      "url": "https://coinpost.jp/?p=720751"
     },
     {
-      "date": "2026-06-28",
-      "title": "Tether putting $23 billion gold stockpile to work with bullion-backed loans",
-      "summary": "The stablecoin issuer is extending its tokenized gold strategy by allowing holders of XAUT to borrow against t…",
-      "url": "https://www.coindesk.com/business/2026/06/27/tether-putting-usd23-billion-gold-stockpile-to-work-with-bullion-backed-loans"
+      "date": "2026-06-29",
+      "title": "DeFiプロトコル「スパーク」、ユニスワップv4へ1.5億ドルのステーブルコイン流動性を移行",
+      "summary": "SparkがUniswap v4へステーブルコイン流動性を移行 ステーブルコイン流動性に注力するDeFi（分散型金融）プロトコル「スパーク（Spark）」に関連する1.5億ドル（約242億円）相当のステーブルコイン流動性…",
+      "url": "https://www.neweconomy.jp/posts/587499"
     },
     {
-      "date": "2026-06-27",
-      "title": "Crypto Biz: The cost of stacking sats",
-      "summary": "CryptoQuant urged Strategy to pause Bitcoin buying as dividend coverage shrank. Meanwhile, CBOE eyes crypto pe…",
-      "url": "https://cointelegraph.com/news/cryptoquant-strategy-bitcoin-cboe-perpetual-futures-chainlink-stablecoin-fx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      "date": "2026-06-29",
+      "title": "BIS年次報告、ステーブルコインは「貨幣の要件を満たさず」",
+      "summary": "BISが2026年版年次経済報告書でステーブルコインの構造的課題を指摘。貨幣の等価交換性の欠如や金融安定リスクを分析し、中央銀行主導の統合台帳構想を次世代通貨システムの道筋として提言した。",
+      "url": "https://coinpost.jp/?p=720563"
+    },
+    {
+      "date": "2026-06-29",
+      "title": "ハイパーリキッド、USDH運用終了に伴い 総額16億円の移行助成金を支給",
+      "summary": "仮想通貨ハイパーリキッドを支援するハイプ財団が、ステーブルコインUSDH運用終了とUSDCへの移行に対応するため総額約1,000万ドルの助成金を提供すると発表した。",
+      "url": "https://coinpost.jp/?p=720533"
     }
   ]
 }
