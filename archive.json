@@ -1,6 +1,41 @@
 {
-  "updated": "2026-06-30T08:42:47+09:00",
+  "updated": "2026-07-01T08:54:16+09:00",
   "items": [
+    {
+      "date": "2026-07-01",
+      "title": "ビザやブラックロックなど140社超、新ステーブルコインOUSD立ち上げ",
+      "summary": "決済向けステーブルコインを手がけるオープン・スタンダードが30日、OUSD（オープンUSD）を発表した。ビザやブラックロック、コインベースなど140社超が参加し、準備金収益の大半をパートナーに還元する。",
+      "url": "https://coinpost.jp/?p=721192",
+      "important": false
+    },
+    {
+      "date": "2026-07-01",
+      "title": "U.S. senators seek to block foreign adversaries from AI technology in new bill",
+      "summary": "Senators Tim Scott and Bill Hagerty, who managed to push the crypto GENIUS Act into law, introduced the bill t…",
+      "url": "https://www.coindesk.com/policy/2026/06/30/u-s-senators-seek-to-block-foreign-adversaries-from-ai-technology-in-new-bill",
+      "important": true
+    },
+    {
+      "date": "2026-07-01",
+      "title": "Financial companies join forces for US dollar stablecoin, keeping reserve earnings",
+      "summary": "The project, supported by Visa, Mastercard and many crypto companies, could be in a position to challenge Teth…",
+      "url": "https://cointelegraph.com/news/financial-companies-us-dollar-payment-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-07-01",
+      "title": "Why OpenUSD's 'real threat' that tanked Circle stock still faces a steep uphill battle for adoption",
+      "summary": "The Stripe- and Coinbase-backed stablecoin consortium can challenge Circle's business model, but analysts say …",
+      "url": "https://www.coindesk.com/business/2026/06/30/why-the-openusd-s-real-threat-that-tanked-circle-stock-still-faces-a-steep-uphill-battle-for-adoption",
+      "important": false
+    },
+    {
+      "date": "2026-07-01",
+      "title": "Business use of stablecoins set for growth surge: Cybrid report",
+      "summary": "The majority of businesses surveyed are likely to use stablecoins within the next 12 months, while regulatory …",
+      "url": "https://cointelegraph.com/news/42-of-businesses-surveyed-use-stablecoins-for-cross-border-payments-cybrid-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
     {
       "date": "2026-06-30",
       "title": "米金融大手BNY、USDCを機関向けカストディに初統合 サークルと連携拡大",
@@ -21,6 +56,97 @@
       "summary": "The move deepens BNY's partnership with Circle and builds on the bank's role as the primary custodian of USDC …",
       "url": "https://cointelegraph.com/news/bny-adds-usdc-minting-and-redemption-to-institutional-custody-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "important": true
+    },
+    {
+      "date": "2026-06-30",
+      "title": "英FCA、暗号資産規制を来年10月に施行へ。ステーブルコイン要件は緩和",
+      "summary": "英国の暗号資産規制は来年10月25日に施行へ 英国の金融行動監視機構（FCA）は6月30日、特定の暗号資産（仮想通貨）関連活動を本格的に監督対象に組み入れる規制を公表するなか、業界からの反発を受け、ステーブルコイン発行者…",
+      "url": "https://www.neweconomy.jp/posts/587998",
+      "important": true
+    },
+    {
+      "date": "2026-06-30",
+      "title": "米サークル「USDC」と「EURC」、クロノスに対応開始。CCTPも導入",
+      "summary": "USDC・EURC・CCTPがCronosに導入 米サークル（Circle Internet Financial）発行の米ドル建てステーブルコイン「USDC」とユーロ建てステーブルコイン「EURC」が、レイヤー1ブロック…",
+      "url": "https://www.neweconomy.jp/posts/587983",
+      "important": false
+    },
+    {
+      "date": "2026-06-30",
+      "title": "LINE NEXT、Unifi Pay第3四半期グローバルローンチへ",
+      "summary": "LINE NEXTがステーブルコイン決済インフラ「Unifi Pay」を第3四半期にグローバルローンチ予定と発表。USDT・JPYC・IDRPに対応し、決済手数料ゼロを実現。開発者向け事前登録を開始した。",
+      "url": "https://coinpost.jp/?p=721069",
+      "important": true
+    },
+    {
+      "date": "2026-06-30",
+      "title": "米BNY、サークルとの提携拡大。USDCの保有・ミント・バーン機能を実装へ",
+      "summary": "機関向けステーブルコインサービスを拡充 米金融サービス大手のバンク・オブ・ニューヨーク・メロン（The Bank of New York Mellon Corporation：BNY）が、ステーブルコイン発行企業のサーク…",
+      "url": "https://www.neweconomy.jp/posts/587976",
+      "important": true
+    },
+    {
+      "date": "2026-06-30",
+      "title": "データチェーン、法人向けWeb3ウォレット「Datachain Wallet」でSOC2 Type1保証報告書を受領",
+      "summary": "Datachain WalletがSOC2 Type1保証報告書受領 ブロックチェーンのインターオペラビリティ（相互運用性）やステーブルコイン決済事業を手がけるデータチェーン（Datachain）が、「Datachain…",
+      "url": "https://www.neweconomy.jp/posts/587915",
+      "important": false
+    },
+    {
+      "date": "2026-06-30",
+      "title": "Ethena特化のステーブルコインXがナスダック上場、ENA総供給量の約20%保有",
+      "summary": "SPACとの企業結合完了、ナスダックで取引開始 エセナ（Ethena）のデジタルドル・エコシステムに特化した上場ステーブルコイン・インフラ企業ステーブルコインX（StablecoinX）が、特別買収目的会社（SPAC）の…",
+      "url": "https://www.neweconomy.jp/posts/587891",
+      "important": true
+    },
+    {
+      "date": "2026-06-30",
+      "title": "エテナのUSDe、ブラックロックの運用システムに採用 BUIDL交換に1億ドル供与",
+      "summary": "エテナは運用資産20兆ドル超のブラックロック運用システムにUSDeを採用すると発表。BUIDLをホワイトラベル製品の主要準備資産に採用するほか、BUIDLとステーブルコインの交換用に1億ドルの流動性ファシリティを供与する…",
+      "url": "https://coinpost.jp/?p=720960",
+      "important": false
+    },
+    {
+      "date": "2026-06-30",
+      "title": "Circle craters 17% as Stripe, Coinbase and BlackRock back rival stablecoin network",
+      "summary": "Open Standard's Open USD aims to let partners keep reserve income and eliminate minting fees, challenging Circ…",
+      "url": "https://www.coindesk.com/business/2026/06/30/circle-slides-8-as-stripe-coinbase-and-blackrock-back-rival-stablecoin-network",
+      "important": false
+    },
+    {
+      "date": "2026-06-30",
+      "title": "MetaMask launches Money Account with stablecoin yield and spending in one wallet",
+      "summary": "The launch reflects a broader push to make stablecoins more useful beyond trading and transfers.",
+      "url": "https://www.coindesk.com/tech/2026/06/30/metamask-launches-money-account-with-stablecoin-yield-and-spending-in-one-wallet",
+      "important": true
+    },
+    {
+      "date": "2026-06-30",
+      "title": "MetaMask launches stablecoin yield account with card spending",
+      "summary": "MetaMask launches Money Account it says offers up to 4% variable APY on mUSD stablecoin balances and card spen…",
+      "url": "https://cointelegraph.com/news/metamask-money-account-musd-stablecoin-yield?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-06-30",
+      "title": "Spiko links EU regulated T-bill funds to Coinbase stablecoin rails",
+      "summary": "Spiko integrated Coinbase Payments into two EU regulated UCITS Treasury funds, enabling USDC and EURC subscrip…",
+      "url": "https://cointelegraph.com/news/spiko-coinbase-stablecoin-payments-treasury-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-06-30",
+      "title": "UK to lower stablecoin capital buffers, undercutting EU's MiCA requirements",
+      "summary": "The Financial Conduct Authority's proposal follows the Bank of England's backtracking on the limit to the valu…",
+      "url": "https://www.coindesk.com/policy/2026/06/30/uk-to-lower-stablecoin-capital-buffers-undercutting-eu-s-mica-requirements",
+      "important": true
+    },
+    {
+      "date": "2026-06-30",
+      "title": "Tether trades at 7% to 10% premium in India. Exchanges say it's just supply and demand",
+      "summary": "Executives at major platforms CoinDCX and CoinSwitch say the premium reflects a demand-supply imbalance and th…",
+      "url": "https://www.coindesk.com/markets/2026/06/30/usdt-s-premium-in-india-jumps-to-10-exchanges-say-its-just-supply-and-demand",
+      "important": false
     },
     {
       "date": "2026-06-29",
