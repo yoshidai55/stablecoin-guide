@@ -1,41 +1,41 @@
 {
-  "updated": "2026-07-01T08:54:16+09:00",
+  "updated": "2026-07-02T08:59:21+09:00",
   "items": [
     {
       "date": "2026-07-01",
-      "title": "ビザやブラックロックなど140社超、新ステーブルコインOUSD立ち上げ",
-      "summary": "決済向けステーブルコインを手がけるオープン・スタンダードが30日、OUSD（オープンUSD）を発表した。ビザやブラックロック、コインベースなど140社超が参加し、準備金収益の大半をパートナーに還元する。",
-      "url": "https://coinpost.jp/?p=721192"
+      "title": "サークル、ラッセル成長株指数の主要5指数から除外",
+      "summary": "米サークル・インターネット・グループが、ラッセル指数の半期リバランスで主要成長株指数5本の構成銘柄から除外された。同日発表の競合ステーブルコイン連合「Open USD」も株価急落の一因とされ、パッシブ資金の流出観測も浮上…",
+      "url": "https://coinpost.jp/?p=721375"
     },
     {
-      "date": "2026-06-30",
-      "title": "英FCA、暗号資産規制を来年10月に施行へ。ステーブルコイン要件は緩和",
-      "summary": "英国の暗号資産規制は来年10月25日に施行へ 英国の金融行動監視機構（FCA）は6月30日、特定の暗号資産（仮想通貨）関連活動を本格的に監督対象に組み入れる規制を公表するなか、業界からの反発を受け、ステーブルコイン発行者…",
-      "url": "https://www.neweconomy.jp/posts/587998"
+      "date": "2026-07-01",
+      "title": "ハイパー財団、USDH段階的終了対応で約10Mドルの助成金",
+      "summary": "ハイパー財団が約10Mドルの助成金 ハイパー財団（Hyper Foundation）が、米ドル連動型ステーブルコイン「USDH」の段階的終了の影響を受ける開発者に対し、総額約1,000万ドル（約16.2億円）の助成金を用…",
+      "url": "https://www.neweconomy.jp/posts/588389"
     },
     {
-      "date": "2026-06-30",
-      "title": "米サークル「USDC」と「EURC」、クロノスに対応開始。CCTPも導入",
-      "summary": "USDC・EURC・CCTPがCronosに導入 米サークル（Circle Internet Financial）発行の米ドル建てステーブルコイン「USDC」とユーロ建てステーブルコイン「EURC」が、レイヤー1ブロック…",
-      "url": "https://www.neweconomy.jp/posts/587983"
+      "date": "2026-07-01",
+      "title": "台湾、仮想通貨包括規制法が成立 ステーブルコインに認可制導入",
+      "summary": "台湾の立法院は2026年6月30日、仮想通貨サービス業者を包括的に規制する新法を可決した。交換業や保管業など7業態を定義し、ステーブルコイン発行には中央銀行の同意と金管会の許可を義務付ける。不正行為には最大10年の懲役や…",
+      "url": "https://coinpost.jp/?p=721354"
     },
     {
-      "date": "2026-06-30",
-      "title": "LINE NEXT、Unifi Pay第3四半期グローバルローンチへ",
-      "summary": "LINE NEXTがステーブルコイン決済インフラ「Unifi Pay」を第3四半期にグローバルローンチ予定と発表。USDT・JPYC・IDRPに対応し、決済手数料ゼロを実現。開発者向け事前登録を開始した。",
-      "url": "https://coinpost.jp/?p=721069"
+      "date": "2026-07-01",
+      "title": "メタマスク、利回り得られるオールインワン金融口座「マネーアカウント」立ち上げ",
+      "summary": "仮想通貨ウォレット「メタマスク」は、独自ステーブルコインmUSD預け入れで利回りを得られる新機能「マネーアカウント」を発表。各種取引や送金などもワンストップで行える。",
+      "url": "https://coinpost.jp/?p=721281"
     },
     {
-      "date": "2026-06-30",
-      "title": "米BNY、サークルとの提携拡大。USDCの保有・ミント・バーン機能を実装へ",
-      "summary": "機関向けステーブルコインサービスを拡充 米金融サービス大手のバンク・オブ・ニューヨーク・メロン（The Bank of New York Mellon Corporation：BNY）が、ステーブルコイン発行企業のサーク…",
-      "url": "https://www.neweconomy.jp/posts/587976"
+      "date": "2026-07-02",
+      "title": "Tradeweb executes real-time tokenized US Treasury transaction on Canton Network",
+      "summary": "Franklin Templeton transferred a tokenized US Treasury to Virtu Financial in what Tradeweb said was the first …",
+      "url": "https://cointelegraph.com/news/tradeweb-executes-real-time-tokenized-us-treasury-transaction-on-canton-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     },
     {
-      "date": "2026-06-30",
-      "title": "データチェーン、法人向けWeb3ウォレット「Datachain Wallet」でSOC2 Type1保証報告書を受領",
-      "summary": "Datachain WalletがSOC2 Type1保証報告書受領 ブロックチェーンのインターオペラビリティ（相互運用性）やステーブルコイン決済事業を手がけるデータチェーン（Datachain）が、「Datachain…",
-      "url": "https://www.neweconomy.jp/posts/587915"
+      "date": "2026-07-02",
+      "title": "Jefferies warns against buying the dip in Circle as Open USD raises new competition fears",
+      "summary": "The investment bank said new competition from the Stripe- and Coinbase-backed stablecoin consortium could pres…",
+      "url": "https://www.coindesk.com/markets/2026/07/01/jefferies-warns-against-buying-the-dip-in-circle-as-open-usd-raises-new-competition-fears"
     }
   ]
 }
