@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-02T08:59:21+09:00",
+  "updated": "2026-07-03T08:44:46+09:00",
   "items": [
+    {
+      "date": "2026-07-03",
+      "title": "スタンダードチャータード、USDCの発行・償還の機能を機関の顧客に提供開始",
+      "summary": "スタンダードチャータードは、機関の顧客がサークルのステーブルコインUSDCの発行・償還サービスにアクセスできる機能をローンチしたと発表。機能の概要やユースケースを説明した。",
+      "url": "https://coinpost.jp/?p=721799",
+      "important": false
+    },
     {
       "date": "2026-07-02",
       "title": "Tradeweb executes real-time tokenized US Treasury transaction on Canton Network",
@@ -14,6 +21,62 @@
       "summary": "The investment bank said new competition from the Stripe- and Coinbase-backed stablecoin consortium could pres…",
       "url": "https://www.coindesk.com/markets/2026/07/01/jefferies-warns-against-buying-the-dip-in-circle-as-open-usd-raises-new-competition-fears",
       "important": true
+    },
+    {
+      "date": "2026-07-02",
+      "title": "台湾、「虚擬資産服務法」が立法院で可決。ステーブルコイン発行制度など包括規制を整備",
+      "summary": "暗号資産事業者への包括的規制枠組み法制化へ 台湾の金融監督管理委員会（金管会）が、立法院本会議において「虚擬資産服務法（Virtual Asset Service Act）」案が三読（法案の最終可決手続き）を経て可決され…",
+      "url": "https://www.neweconomy.jp/posts/588698",
+      "important": true
+    },
+    {
+      "date": "2026-07-02",
+      "title": "オープンスタンダード、Visaやストライプら140社超参画のステーブルコイン「Open USD」提供へ",
+      "summary": "140社超が共同ガバナンス型ステーブルコインを発表 独立企業オープン・スタンダード（Open Standard）が、140社超の企業が利用に署名した共同ガバナンス型ステーブルコイン「オープンUSD（Open USD：OU…",
+      "url": "https://www.neweconomy.jp/posts/588646",
+      "important": false
+    },
+    {
+      "date": "2026-07-02",
+      "title": "サークルCEOがOUSDの優位性主張に反論、有識者「DAOと同じ末路」と懸念",
+      "summary": "140社超が支援するOUSDの登場を受け、ステーブルコイン大手サークルのCEOがコンソーシアム型モデルの限界を公開反論。米系証券各社はUSDCの競争優位が維持されるとの見方を示した。",
+      "url": "https://coinpost.jp/?p=721495",
+      "important": false
+    },
+    {
+      "date": "2026-07-02",
+      "title": "US Treasury sanctions over 100 ISIS-K crypto addresses that moved over $1.4 million",
+      "summary": "ISIS-K allegedly used its media wing to solicit donations via Tron, Monero, and Bitcoin, highlighting stableco…",
+      "url": "https://www.coindesk.com/policy/2026/07/02/us-treasury-sanctions-over-100-isis-k-crypto-addresses-in-latest-enforcement-action",
+      "important": false
+    },
+    {
+      "date": "2026-07-02",
+      "title": "Aave brings V3 lending and GHO stablecoin to Monad",
+      "summary": "Aave launched its V3 lending protocol on Monad with 12 supported assets as the network commits $15 million in …",
+      "url": "https://cointelegraph.com/news/aave-v3-lending-gho-stablecoin-monad?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-07-02",
+      "title": "Standard Chartered, Circle bring USDC minting onto banking rails",
+      "summary": "Standard Chartered and Circle launch bank-led USDC minting and redemption for institutions, starting in Dubai’…",
+      "url": "https://cointelegraph.com/news/standard-chartered-circle-usdc-minting-banking-rails?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-07-02",
+      "title": "Yield-bearing stablecoin slowdown ends 3-year run for crypto-native products",
+      "summary": "Yield-bearing stablecoin supply fell 15% in Q2 as sUSDe and sUSDS contracted, while Treasury-backed products i…",
+      "url": "https://cointelegraph.com/news/yield-bearing-stablecoins-lose-3-5-billion-q2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-07-02",
+      "title": "OFAC sanctions 134 ISIS-K crypto wallet addresses as Tether freezes funds",
+      "summary": "OFAC added 134 crypto wallet addresses linked to ISIS-K to its sanctions list, including 131 Tron addresses th…",
+      "url": "https://cointelegraph.com/news/ofac-134-isis-k-crypto-wallets-tether-freezes-131?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
     },
     {
       "date": "2026-07-01",

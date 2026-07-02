@@ -1,41 +1,41 @@
 {
-  "updated": "2026-07-02T08:59:21+09:00",
+  "updated": "2026-07-03T08:44:46+09:00",
   "items": [
     {
-      "date": "2026-07-01",
-      "title": "サークル、ラッセル成長株指数の主要5指数から除外",
-      "summary": "米サークル・インターネット・グループが、ラッセル指数の半期リバランスで主要成長株指数5本の構成銘柄から除外された。同日発表の競合ステーブルコイン連合「Open USD」も株価急落の一因とされ、パッシブ資金の流出観測も浮上…",
-      "url": "https://coinpost.jp/?p=721375"
-    },
-    {
-      "date": "2026-07-01",
-      "title": "ハイパー財団、USDH段階的終了対応で約10Mドルの助成金",
-      "summary": "ハイパー財団が約10Mドルの助成金 ハイパー財団（Hyper Foundation）が、米ドル連動型ステーブルコイン「USDH」の段階的終了の影響を受ける開発者に対し、総額約1,000万ドル（約16.2億円）の助成金を用…",
-      "url": "https://www.neweconomy.jp/posts/588389"
-    },
-    {
-      "date": "2026-07-01",
-      "title": "台湾、仮想通貨包括規制法が成立 ステーブルコインに認可制導入",
-      "summary": "台湾の立法院は2026年6月30日、仮想通貨サービス業者を包括的に規制する新法を可決した。交換業や保管業など7業態を定義し、ステーブルコイン発行には中央銀行の同意と金管会の許可を義務付ける。不正行為には最大10年の懲役や…",
-      "url": "https://coinpost.jp/?p=721354"
-    },
-    {
-      "date": "2026-07-01",
-      "title": "メタマスク、利回り得られるオールインワン金融口座「マネーアカウント」立ち上げ",
-      "summary": "仮想通貨ウォレット「メタマスク」は、独自ステーブルコインmUSD預け入れで利回りを得られる新機能「マネーアカウント」を発表。各種取引や送金などもワンストップで行える。",
-      "url": "https://coinpost.jp/?p=721281"
+      "date": "2026-07-03",
+      "title": "スタンダードチャータード、USDCの発行・償還の機能を機関の顧客に提供開始",
+      "summary": "スタンダードチャータードは、機関の顧客がサークルのステーブルコインUSDCの発行・償還サービスにアクセスできる機能をローンチしたと発表。機能の概要やユースケースを説明した。",
+      "url": "https://coinpost.jp/?p=721799"
     },
     {
       "date": "2026-07-02",
-      "title": "Tradeweb executes real-time tokenized US Treasury transaction on Canton Network",
-      "summary": "Franklin Templeton transferred a tokenized US Treasury to Virtu Financial in what Tradeweb said was the first …",
-      "url": "https://cointelegraph.com/news/tradeweb-executes-real-time-tokenized-us-treasury-transaction-on-canton-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      "title": "台湾、「虚擬資産服務法」が立法院で可決。ステーブルコイン発行制度など包括規制を整備",
+      "summary": "暗号資産事業者への包括的規制枠組み法制化へ 台湾の金融監督管理委員会（金管会）が、立法院本会議において「虚擬資産服務法（Virtual Asset Service Act）」案が三読（法案の最終可決手続き）を経て可決され…",
+      "url": "https://www.neweconomy.jp/posts/588698"
     },
     {
       "date": "2026-07-02",
-      "title": "Jefferies warns against buying the dip in Circle as Open USD raises new competition fears",
-      "summary": "The investment bank said new competition from the Stripe- and Coinbase-backed stablecoin consortium could pres…",
-      "url": "https://www.coindesk.com/markets/2026/07/01/jefferies-warns-against-buying-the-dip-in-circle-as-open-usd-raises-new-competition-fears"
+      "title": "オープンスタンダード、Visaやストライプら140社超参画のステーブルコイン「Open USD」提供へ",
+      "summary": "140社超が共同ガバナンス型ステーブルコインを発表 独立企業オープン・スタンダード（Open Standard）が、140社超の企業が利用に署名した共同ガバナンス型ステーブルコイン「オープンUSD（Open USD：OU…",
+      "url": "https://www.neweconomy.jp/posts/588646"
+    },
+    {
+      "date": "2026-07-02",
+      "title": "サークルCEOがOUSDの優位性主張に反論、有識者「DAOと同じ末路」と懸念",
+      "summary": "140社超が支援するOUSDの登場を受け、ステーブルコイン大手サークルのCEOがコンソーシアム型モデルの限界を公開反論。米系証券各社はUSDCの競争優位が維持されるとの見方を示した。",
+      "url": "https://coinpost.jp/?p=721495"
+    },
+    {
+      "date": "2026-07-02",
+      "title": "US Treasury sanctions over 100 ISIS-K crypto addresses that moved over $1.4 million",
+      "summary": "ISIS-K allegedly used its media wing to solicit donations via Tron, Monero, and Bitcoin, highlighting stableco…",
+      "url": "https://www.coindesk.com/policy/2026/07/02/us-treasury-sanctions-over-100-isis-k-crypto-addresses-in-latest-enforcement-action"
+    },
+    {
+      "date": "2026-07-02",
+      "title": "Aave brings V3 lending and GHO stablecoin to Monad",
+      "summary": "Aave launched its V3 lending protocol on Monad with 12 supported assets as the network commits $15 million in …",
+      "url": "https://cointelegraph.com/news/aave-v3-lending-gho-stablecoin-monad?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     }
   ]
 }
