@@ -1,41 +1,41 @@
 {
-  "updated": "2026-07-03T08:44:46+09:00",
+  "updated": "2026-07-04T08:39:43+09:00",
   "items": [
     {
+      "date": "2026-07-04",
+      "title": "ストライプ傘下のブリッジ、EUでMiCAとEMIの認可取得 ステーブルコイン事業拡大へ",
+      "summary": "ストライプ傘下のブリッジは、仮想通貨のEU規制MiCAと電子マネー機関のライセンスを取得したと発表。ステーブルコインサービスを拡大すると説明している。",
+      "url": "https://coinpost.jp/?p=722088"
+    },
+    {
+      "date": "2026-07-04",
+      "title": "サムスン電子など韓国複数社、OUSDのパートナー無断掲載に異議",
+      "summary": "ドルステーブルコインOUSDのコンソーシアムにパートナーとして名前が掲載されたサムスン電子や新韓フィナンシャルグループなど韓国企業の多くが、正式な合意なしに掲載されたと表明し困惑していると報じられた。",
+      "url": "https://coinpost.jp/?p=722061"
+    },
+    {
       "date": "2026-07-03",
-      "title": "スタンダードチャータード、USDCの発行・償還の機能を機関の顧客に提供開始",
-      "summary": "スタンダードチャータードは、機関の顧客がサークルのステーブルコインUSDCの発行・償還サービスにアクセスできる機能をローンチしたと発表。機能の概要やユースケースを説明した。",
-      "url": "https://coinpost.jp/?p=721799"
+      "title": "仏金融大手クレディ・アグリコル、ユーロ建てステーブルコイン「EURXT」ローンチ",
+      "summary": "Credit Agricoleがユーロ建てステーブルコイン提供開始 仏金融大手クレディ・アグリコル（Credit Agricole）が、ユーロ建てステーブルコイン「ユーロエクスチェンジトークン（EURO eXchange…",
+      "url": "https://www.neweconomy.jp/posts/589161"
     },
     {
-      "date": "2026-07-02",
-      "title": "台湾、「虚擬資産服務法」が立法院で可決。ステーブルコイン発行制度など包括規制を整備",
-      "summary": "暗号資産事業者への包括的規制枠組み法制化へ 台湾の金融監督管理委員会（金管会）が、立法院本会議において「虚擬資産服務法（Virtual Asset Service Act）」案が三読（法案の最終可決手続き）を経て可決され…",
-      "url": "https://www.neweconomy.jp/posts/588698"
+      "date": "2026-07-03",
+      "title": "スタンダードチャータード、USDC発行・償還へのアクセス提供開始。G-SIB初",
+      "summary": "G-SIB初、USDC発行 償還への統合アクセス提供 ・英大手銀行スタンダードチャータード（Standard Chartered）が、USDC発行体のサークル・インターネット・グループ（Circle Internet G…",
+      "url": "https://www.neweconomy.jp/posts/589156"
     },
     {
-      "date": "2026-07-02",
-      "title": "オープンスタンダード、Visaやストライプら140社超参画のステーブルコイン「Open USD」提供へ",
-      "summary": "140社超が共同ガバナンス型ステーブルコインを発表 独立企業オープン・スタンダード（Open Standard）が、140社超の企業が利用に署名した共同ガバナンス型ステーブルコイン「オープンUSD（Open USD：OU…",
-      "url": "https://www.neweconomy.jp/posts/588646"
+      "date": "2026-07-03",
+      "title": "IMF、トークン化で金融の構造変化 政策次第で強化も分断も",
+      "summary": "IMFのアドリアン金融顧問兼MCM局長は7月2日、トークン化が金融システムの構造を変えると分析するブログを公開。トークン化銀行預金・ステーブルコイン・トークン化準備金という3類型の決済資産の特性と、政策選択が強化・分断を…",
+      "url": "https://coinpost.jp/?p=721904"
     },
     {
-      "date": "2026-07-02",
-      "title": "サークルCEOがOUSDの優位性主張に反論、有識者「DAOと同じ末路」と懸念",
-      "summary": "140社超が支援するOUSDの登場を受け、ステーブルコイン大手サークルのCEOがコンソーシアム型モデルの限界を公開反論。米系証券各社はUSDCの競争優位が維持されるとの見方を示した。",
-      "url": "https://coinpost.jp/?p=721495"
-    },
-    {
-      "date": "2026-07-02",
-      "title": "US Treasury sanctions over 100 ISIS-K crypto addresses that moved over $1.4 million",
-      "summary": "ISIS-K allegedly used its media wing to solicit donations via Tron, Monero, and Bitcoin, highlighting stableco…",
-      "url": "https://www.coindesk.com/policy/2026/07/02/us-treasury-sanctions-over-100-isis-k-crypto-addresses-in-latest-enforcement-action"
-    },
-    {
-      "date": "2026-07-02",
-      "title": "Aave brings V3 lending and GHO stablecoin to Monad",
-      "summary": "Aave launched its V3 lending protocol on Monad with 12 supported assets as the network commits $15 million in …",
-      "url": "https://cointelegraph.com/news/aave-v3-lending-gho-stablecoin-monad?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      "date": "2026-07-03",
+      "title": "ロシア、対外貿易での仮想通貨決済を正式解禁 7月1日施行",
+      "summary": "ロシアは7月1日、ビットコインとステーブルコインを対外貿易決済に正式解禁した。認可プラットフォーム8社経由に限定され、中国・インド・トルコとの取引が主な対象。国内決済は引き続きルーブル専用となる。",
+      "url": "https://coinpost.jp/?p=721880"
     }
   ]
 }
