@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T08:39:43+09:00",
+  "updated": "2026-07-05T08:42:13+09:00",
   "items": [
     {
       "date": "2026-07-04",
@@ -28,6 +28,20 @@
       "summary": "Strategy authorizes Bitcoin sales, Open USD takes on USDT and USDC, Fidelity defends Bitcoin security and cryp…",
       "url": "https://cointelegraph.com/news/crypto-biz-bitcoin-maximalism-meets-capital-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "important": true
+    },
+    {
+      "date": "2026-07-04",
+      "title": "欧州フィンテック大手レボリュート、MiCA遵守でUSDT取扱いを8月末終了予定",
+      "summary": "欧州最大のフィンテック企業レボリュートが8月31日にUSDT（テザー）のサポートを終了すると発表した。EUのMiCA規制に対応するため7月30日から新規入金を停止し、期日後の残高は法定通貨に自動換算される。",
+      "url": "https://coinpost.jp/?p=722117",
+      "important": true
+    },
+    {
+      "date": "2026-07-04",
+      "title": "Revolut to delist USDT in August, citing regulatory and risk concerns",
+      "summary": "Revolut notified some customers it will delist USDT after Aug. 31, with remaining holdings automatically conve…",
+      "url": "https://cointelegraph.com/news/revolut-usdt-delisting-regulatory-risk-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
     },
     {
       "date": "2026-07-03",
