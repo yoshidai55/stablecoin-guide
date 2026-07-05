@@ -1,24 +1,6 @@
 {
-  "updated": "2026-07-05T08:42:13+09:00",
+  "updated": "2026-07-06T08:44:08+09:00",
   "items": [
-    {
-      "date": "2026-07-04",
-      "title": "欧州フィンテック大手レボリュート、MiCA遵守でUSDT取扱いを8月末終了予定",
-      "summary": "欧州最大のフィンテック企業レボリュートが8月31日にUSDT（テザー）のサポートを終了すると発表した。EUのMiCA規制に対応するため7月30日から新規入金を停止し、期日後の残高は法定通貨に自動換算される。",
-      "url": "https://coinpost.jp/?p=722117"
-    },
-    {
-      "date": "2026-07-04",
-      "title": "ストライプ傘下のブリッジ、EUでMiCAとEMIの認可取得 ステーブルコイン事業拡大へ",
-      "summary": "ストライプ傘下のブリッジは、仮想通貨のEU規制MiCAと電子マネー機関のライセンスを取得したと発表。ステーブルコインサービスを拡大すると説明している。",
-      "url": "https://coinpost.jp/?p=722088"
-    },
-    {
-      "date": "2026-07-04",
-      "title": "サムスン電子など韓国複数社、OUSDのパートナー無断掲載に異議",
-      "summary": "ドルステーブルコインOUSDのコンソーシアムにパートナーとして名前が掲載されたサムスン電子や新韓フィナンシャルグループなど韓国企業の多くが、正式な合意なしに掲載されたと表明し困惑していると報じられた。",
-      "url": "https://coinpost.jp/?p=722061"
-    },
     {
       "date": "2026-07-03",
       "title": "仏金融大手クレディ・アグリコル、ユーロ建てステーブルコイン「EURXT」ローンチ",
@@ -32,10 +14,28 @@
       "url": "https://www.neweconomy.jp/posts/589156"
     },
     {
-      "date": "2026-07-03",
-      "title": "IMF、トークン化で金融の構造変化 政策次第で強化も分断も",
-      "summary": "IMFのアドリアン金融顧問兼MCM局長は7月2日、トークン化が金融システムの構造を変えると分析するブログを公開。トークン化銀行預金・ステーブルコイン・トークン化準備金という3類型の決済資産の特性と、政策選択が強化・分断を…",
-      "url": "https://coinpost.jp/?p=721904"
+      "date": "2026-07-05",
+      "title": "Banks have stopped asking if stablecoins belong in finance, now they're considering how",
+      "summary": "Financial institutions are racing to become the secure gateways for stablecoins as digital asset volume is pro…",
+      "url": "https://www.coindesk.com/business/2026/07/05/banks-have-stopped-asking-if-stablecoins-belong-in-finance-now-they-re-considering-how"
+    },
+    {
+      "date": "2026-07-05",
+      "title": "Collateral, not yield, will decide which stablecoins win",
+      "summary": "As yield-bearing stablecoins race toward a $50 billion market capitalization, the industry is optimizing for t…",
+      "url": "https://www.coindesk.com/opinion/2026/07/05/collateral-not-yield-will-decide-which-stablecoins-win"
+    },
+    {
+      "date": "2026-07-04",
+      "title": "Revolut to delist USDT in August, citing regulatory and risk concerns",
+      "summary": "Revolut notified some customers it will delist USDT after Aug. 31, with remaining holdings automatically conve…",
+      "url": "https://cointelegraph.com/news/revolut-usdt-delisting-regulatory-risk-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "date": "2026-07-04",
+      "title": "This sanctioned Russian stablecoin claims it processes billions, but blockchain analysts disagree",
+      "summary": "A7A5 claims crypto data providers understate its trading activity, while blockchain analytics firms say the ru…",
+      "url": "https://www.coindesk.com/business/2026/07/03/this-sanctioned-russian-stablecoin-claims-it-processes-billions-but-blockchain-analysts-disagree"
     }
   ]
 }

@@ -1,6 +1,20 @@
 {
-  "updated": "2026-07-05T08:42:13+09:00",
+  "updated": "2026-07-06T08:44:08+09:00",
   "items": [
+    {
+      "date": "2026-07-05",
+      "title": "Banks have stopped asking if stablecoins belong in finance, now they're considering how",
+      "summary": "Financial institutions are racing to become the secure gateways for stablecoins as digital asset volume is pro…",
+      "url": "https://www.coindesk.com/business/2026/07/05/banks-have-stopped-asking-if-stablecoins-belong-in-finance-now-they-re-considering-how",
+      "important": true
+    },
+    {
+      "date": "2026-07-05",
+      "title": "Collateral, not yield, will decide which stablecoins win",
+      "summary": "As yield-bearing stablecoins race toward a $50 billion market capitalization, the industry is optimizing for t…",
+      "url": "https://www.coindesk.com/opinion/2026/07/05/collateral-not-yield-will-decide-which-stablecoins-win",
+      "important": false
+    },
     {
       "date": "2026-07-04",
       "title": "ストライプ傘下のブリッジ、EUでMiCAとEMIの認可取得 ステーブルコイン事業拡大へ",
