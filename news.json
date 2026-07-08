@@ -1,41 +1,41 @@
 {
-  "updated": "2026-07-08T08:31:18+09:00",
+  "updated": "2026-07-09T08:44:56+09:00",
   "items": [
     {
-      "date": "2026-07-08",
-      "title": "【7/7話題】ソニー銀行が米国でステーブルコイン事業展開へ、ネットスターズがカントン財団とMOU、ストラテジーが3588BTC売却など（音声ニュース）",
-      "summary": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif…",
-      "url": "https://www.neweconomy.jp/posts/590195"
-    },
-    {
-      "date": "2026-07-07",
-      "title": "日本初、「JPYC」での自動販売機決済を実証実験。INSPAY主導で",
-      "summary": "京都の自動販売機でJPYC決済の実証実験 日本円ステーブルコイン「JPYC」を活用した自動販売機決済の実証実験が7月1日より開始した。同実証実験を行う、Web3決済インフラを構築するテクノロジー企業インスペイ（INSPA…",
-      "url": "https://www.neweconomy.jp/posts/590130"
-    },
-    {
-      "date": "2026-07-07",
-      "title": "ネットスターズがカントン財団とMOU、Web3決済普及に向け",
-      "summary": "ネットスターズとカントン財団がMOU マルチキャッシュレス決済ソリューション「スターペイ（StarPay）」提供のネットスターズが、カントン財団（Canton Foundation）と、ステーブルコインをはじめとするWe…",
-      "url": "https://www.neweconomy.jp/posts/590121"
-    },
-    {
-      "date": "2026-07-07",
-      "title": "OKX、ベネズエラ地震支援で対象ユーザーに20USDT付与",
-      "summary": "OKXがベネズエラ地震支援で20USDT付与 暗号資産（仮想通貨）取引所OKXのラテンアメリカ部門が、ベネズエラで発生した地震の被災地域を支援するため、対象ユーザーに米ドル建てステーブルコイン「USDT」を20USDT（…",
-      "url": "https://www.neweconomy.jp/posts/590110"
+      "date": "2026-07-09",
+      "title": "x402で決済にステーブルコインを活用、クラウドフレアがAIエージェントの普及に備えた新機能提供へ",
+      "summary": "クラウドフレアが、新機能Monetization Gatewayの利用者を募集。これは主にAIエージェントの普及に備えた機能で、x402を使い、最初にステーブルコインを決済に活用する。",
+      "url": "https://coinpost.jp/?p=723134"
     },
     {
       "date": "2026-07-08",
-      "title": "Vanguard seeks digital assets chief after years of crypto skepticism",
-      "summary": "The asset manager is hiring a head of digital assets to lead its strategy for tokenization, stablecoins, block…",
-      "url": "https://cointelegraph.com/news/vanguard-seeks-digital-assets-chief-after-years-of-crypto-skepticism?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      "title": "データチェーン、三菱UFJ銀行にオンチェーン金融インフラ技術基盤構築に向けた技術アドバイザリー開始",
+      "summary": "データチェーンが三菱UFJ銀行に技術アドバイス ブロックチェーン技術に関する企画・開発を行う国内企業のデータチェーン（Datachain）が、三菱UFJ銀行に対し、ステーブルコインをはじめとするオンチェーン金融インフラの…",
+      "url": "https://www.neweconomy.jp/posts/590490"
     },
     {
       "date": "2026-07-08",
-      "title": "USDT wins payments, USDC wins DeFi as stablecoins diverge: Dune",
-      "summary": "Dune data shows Tether's USDT has become crypto’s dominant payments stablecoin while Circle's USDC powers DeFi…",
-      "url": "https://cointelegraph.com/news/usdt-wins-payments-usdc-wins-defi-as-stablecoins-diverge-dune?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      "title": "「USDT対USDC」構図に変化、決済はUSDT DeFiはUSDCが優勢に＝Dune分析",
+      "summary": "Duneの最新レポートで、USDTとUSDCの役割分化が鮮明になった。決済分野はUSDTが圧倒的シェアを握る一方、DeFiエコシステムではUSDCが優勢となっている。一方、Visaのオンチェーン分析では取引量におけるUS…",
+      "url": "https://coinpost.jp/?p=722918"
+    },
+    {
+      "date": "2026-07-08",
+      "title": "堀江貴文氏、全東信破産動画でビットコインやJPYC決済に言及 WebXでJPYC岡部CEOと対談",
+      "summary": "堀江貴文氏が動画内で全東信破産後の代替決済としてJPYCに言及。WebX 2026では「AIがお金を使う日」をテーマに、JPYC岡部典孝CEOとの特別対談セッションが予定されている。",
+      "url": "https://coinpost.jp/?p=722878"
+    },
+    {
+      "date": "2026-07-08",
+      "title": "テザー、ビットコインネイティブのUSDT展開へ。UTEXO活用で＝報道",
+      "summary": "Bitcoin MagazineがUTEXOの取り組みを紹介 米ドル建てステーブルコイン「USDT」発行企業のテザー（Tether）が、ビットコイン（Bitcoin）でネイティブUSDTの提供を準備していると、米暗号資産…",
+      "url": "https://www.neweconomy.jp/posts/590450"
+    },
+    {
+      "date": "2026-07-08",
+      "title": "O2Pay、7月WebX2026に参加へ 6月はアジア3カ国を歴訪",
+      "summary": "ステーブルコイン決済インフラを手がけるO2Payが6月、東京でのシェアリングセッションを皮切りに、マカオ・マニラなど3カ国のイベントに参加。バイナンスAMA登壇に続き、7月のWebX2026参加も予定している。",
+      "url": "https://coinpost.jp/?p=722830"
     }
   ]
 }

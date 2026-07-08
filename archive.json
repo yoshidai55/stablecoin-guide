@@ -1,6 +1,27 @@
 {
-  "updated": "2026-07-08T08:31:18+09:00",
+  "updated": "2026-07-09T08:44:56+09:00",
   "items": [
+    {
+      "date": "2026-07-09",
+      "title": "x402で決済にステーブルコインを活用、クラウドフレアがAIエージェントの普及に備えた新機能提供へ",
+      "summary": "クラウドフレアが、新機能Monetization Gatewayの利用者を募集。これは主にAIエージェントの普及に備えた機能で、x402を使い、最初にステーブルコインを決済に活用する。",
+      "url": "https://coinpost.jp/?p=723134",
+      "important": false
+    },
+    {
+      "date": "2026-07-09",
+      "title": "Officials set to revise MiCA to cover non-EU stablecoin issuers: Report",
+      "summary": "EU officials reportedly plan to consider changes to the Markets in Crypto-Assets framework, dubbed by some as …",
+      "url": "https://cointelegraph.com/news/officials-revise-mica-non-eu-issuers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-07-09",
+      "title": "Stablecoin-settled TradFi perpetual trading tops $1.1T: Binance Research",
+      "summary": "A new Binance Research report said stablecoins are fast becoming a preferred settlement layer for tokenized Tr…",
+      "url": "https://cointelegraph.com/news/tradfi-perpetual-trading-surpasses-11t-in-2026-binance-research-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
     {
       "date": "2026-07-08",
       "title": "【7/7話題】ソニー銀行が米国でステーブルコイン事業展開へ、ネットスターズがカントン財団とMOU、ストラテジーが3588BTC売却など（音声ニュース）",
@@ -27,6 +48,69 @@
       "title": "Tether invests in Mercado Bitcoin as blockchain finance expands in Latin America",
       "summary": "Mercado Bitcoin will use the funding to expand tokenized finance across Latin America, adding to Tether's grow…",
       "url": "https://cointelegraph.com/news/tether-invests-20m-in-mercado-bitcoin-to-expand-tokenized-finance-in-latin-america?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-07-08",
+      "title": "データチェーン、三菱UFJ銀行にオンチェーン金融インフラ技術基盤構築に向けた技術アドバイザリー開始",
+      "summary": "データチェーンが三菱UFJ銀行に技術アドバイス ブロックチェーン技術に関する企画・開発を行う国内企業のデータチェーン（Datachain）が、三菱UFJ銀行に対し、ステーブルコインをはじめとするオンチェーン金融インフラの…",
+      "url": "https://www.neweconomy.jp/posts/590490",
+      "important": false
+    },
+    {
+      "date": "2026-07-08",
+      "title": "「USDT対USDC」構図に変化、決済はUSDT DeFiはUSDCが優勢に＝Dune分析",
+      "summary": "Duneの最新レポートで、USDTとUSDCの役割分化が鮮明になった。決済分野はUSDTが圧倒的シェアを握る一方、DeFiエコシステムではUSDCが優勢となっている。一方、Visaのオンチェーン分析では取引量におけるUS…",
+      "url": "https://coinpost.jp/?p=722918",
+      "important": false
+    },
+    {
+      "date": "2026-07-08",
+      "title": "堀江貴文氏、全東信破産動画でビットコインやJPYC決済に言及 WebXでJPYC岡部CEOと対談",
+      "summary": "堀江貴文氏が動画内で全東信破産後の代替決済としてJPYCに言及。WebX 2026では「AIがお金を使う日」をテーマに、JPYC岡部典孝CEOとの特別対談セッションが予定されている。",
+      "url": "https://coinpost.jp/?p=722878",
+      "important": true
+    },
+    {
+      "date": "2026-07-08",
+      "title": "テザー、ビットコインネイティブのUSDT展開へ。UTEXO活用で＝報道",
+      "summary": "Bitcoin MagazineがUTEXOの取り組みを紹介 米ドル建てステーブルコイン「USDT」発行企業のテザー（Tether）が、ビットコイン（Bitcoin）でネイティブUSDTの提供を準備していると、米暗号資産…",
+      "url": "https://www.neweconomy.jp/posts/590450",
+      "important": false
+    },
+    {
+      "date": "2026-07-08",
+      "title": "O2Pay、7月WebX2026に参加へ 6月はアジア3カ国を歴訪",
+      "summary": "ステーブルコイン決済インフラを手がけるO2Payが6月、東京でのシェアリングセッションを皮切りに、マカオ・マニラなど3カ国のイベントに参加。バイナンスAMA登壇に続き、7月のWebX2026参加も予定している。",
+      "url": "https://coinpost.jp/?p=722830",
+      "important": false
+    },
+    {
+      "date": "2026-07-08",
+      "title": "欧州議会、DeFi・ステーキング・NFTへのMiCA適用検討を欧州委員会に要請",
+      "summary": "欧州議会が仮想通貨に関する方針文書を採択。DeFIやステーキング、レンディングなどへのMiCA適用評価を欧州委員会に求めた。ユーロ建てステーブルコインに前向きな姿勢も示す。",
+      "url": "https://coinpost.jp/?p=722818",
+      "important": true
+    },
+    {
+      "date": "2026-07-08",
+      "title": "Kazakhstan president signs decree to accelerate crypto adoption",
+      "summary": "Kazakhstan targets gas-powered electricity for mining, income tax exemptions for regulated crypto transactions…",
+      "url": "https://cointelegraph.com/news/kazakhstan-president-decree-accelerate-crypto-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-07-08",
+      "title": "Mobile app Toss and blockchain Optimism to conduct Korean won stablecoin POC: report",
+      "summary": "Toss has reportedly partnered with Optimism and Sunnyside Labs for a proof of concept on the feasibility of a …",
+      "url": "https://cointelegraph.com/news/south-korea-toss-partners-optimism-won-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-07-08",
+      "title": "Base to activate B20 standard for stablecoins, RWAs and other tokens",
+      "summary": "Base is scheduled to activate its B20 token standard on Wednesday at 6 pm UTC, allowing developers to begin cr…",
+      "url": "https://cointelegraph.com/news/base-to-activate-b20-standard-for-stablecoins-rwas-and-other-tokens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "important": false
     },
     {
