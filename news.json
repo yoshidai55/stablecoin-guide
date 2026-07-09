@@ -1,6 +1,30 @@
 {
-  "updated": "2026-07-09T08:44:56+09:00",
+  "updated": "2026-07-10T06:26:13+09:00",
   "items": [
+    {
+      "date": "2026-07-09",
+      "title": "ソニー銀行、米信託子会社設立へ OCC条件付き承認取得",
+      "summary": "ソニーフィナンシャルグループ傘下のソニー銀行が、米国に信託子会社を設立へ。米OCCから条件付き承認を取得し、米ドルステーブルコインの発行・管理事業化に向けた布石とする。同社の中長期的なデジタル資産戦略の一環。",
+      "url": "https://coinpost.jp/?p=723436"
+    },
+    {
+      "date": "2026-07-09",
+      "title": "テザーがブラジルの「メルカド・ビットコイン」へ20Mドル出資へ",
+      "summary": "ブラジルのオンチェーン金融サービス企業へ出資 米ドル建てステーブルコイン「USDT」発行企業のテザー（Tether）が、ブラジルのオンチェーン金融サービス企業メルカド・ビットコイン（Mercado Bitcoin）の戦略…",
+      "url": "https://www.neweconomy.jp/posts/590827"
+    },
+    {
+      "date": "2026-07-09",
+      "title": "Base、B20トークン規格をメインネットで有効化",
+      "summary": "コインベース支援のL2「Base」が7月8日、メインネットでB20トークン規格を有効化した。ERC-20互換を保ちつつプロトコル層に組み込まれた新規格で、ステーブルコインやRWAの発行コストを削減する。",
+      "url": "https://coinpost.jp/?p=723231"
+    },
+    {
+      "date": "2026-07-09",
+      "title": "AIエージェントの円建て自律決済、国内企業が技術検証完了",
+      "summary": "外貨両替サービスのエクスチェンジャーズが、AIエージェント向け決済プロトコル「x402」を用い、日本円電子マネー（XJPY）での自律決済フローの完結を公表。KYC済みウォレット・ガスレスを一体提供するx402実装は国内初…",
+      "url": "https://coinpost.jp/?p=723201"
+    },
     {
       "date": "2026-07-09",
       "title": "x402で決済にステーブルコインを活用、クラウドフレアがAIエージェントの普及に備えた新機能提供へ",
@@ -8,34 +32,10 @@
       "url": "https://coinpost.jp/?p=723134"
     },
     {
-      "date": "2026-07-08",
-      "title": "データチェーン、三菱UFJ銀行にオンチェーン金融インフラ技術基盤構築に向けた技術アドバイザリー開始",
-      "summary": "データチェーンが三菱UFJ銀行に技術アドバイス ブロックチェーン技術に関する企画・開発を行う国内企業のデータチェーン（Datachain）が、三菱UFJ銀行に対し、ステーブルコインをはじめとするオンチェーン金融インフラの…",
-      "url": "https://www.neweconomy.jp/posts/590490"
-    },
-    {
-      "date": "2026-07-08",
-      "title": "「USDT対USDC」構図に変化、決済はUSDT DeFiはUSDCが優勢に＝Dune分析",
-      "summary": "Duneの最新レポートで、USDTとUSDCの役割分化が鮮明になった。決済分野はUSDTが圧倒的シェアを握る一方、DeFiエコシステムではUSDCが優勢となっている。一方、Visaのオンチェーン分析では取引量におけるUS…",
-      "url": "https://coinpost.jp/?p=722918"
-    },
-    {
-      "date": "2026-07-08",
-      "title": "堀江貴文氏、全東信破産動画でビットコインやJPYC決済に言及 WebXでJPYC岡部CEOと対談",
-      "summary": "堀江貴文氏が動画内で全東信破産後の代替決済としてJPYCに言及。WebX 2026では「AIがお金を使う日」をテーマに、JPYC岡部典孝CEOとの特別対談セッションが予定されている。",
-      "url": "https://coinpost.jp/?p=722878"
-    },
-    {
-      "date": "2026-07-08",
-      "title": "テザー、ビットコインネイティブのUSDT展開へ。UTEXO活用で＝報道",
-      "summary": "Bitcoin MagazineがUTEXOの取り組みを紹介 米ドル建てステーブルコイン「USDT」発行企業のテザー（Tether）が、ビットコイン（Bitcoin）でネイティブUSDTの提供を準備していると、米暗号資産…",
-      "url": "https://www.neweconomy.jp/posts/590450"
-    },
-    {
-      "date": "2026-07-08",
-      "title": "O2Pay、7月WebX2026に参加へ 6月はアジア3カ国を歴訪",
-      "summary": "ステーブルコイン決済インフラを手がけるO2Payが6月、東京でのシェアリングセッションを皮切りに、マカオ・マニラなど3カ国のイベントに参加。バイナンスAMA登壇に続き、7月のWebX2026参加も予定している。",
-      "url": "https://coinpost.jp/?p=722830"
+      "date": "2026-07-09",
+      "title": "Aave rolls out vaults for yield-hungry fintech investors",
+      "summary": "Aave's new Stable Vaults product lets wallets, exchanges and payment apps offer yields on stablecoin deposits",
+      "url": "https://www.coindesk.com/business/2026/07/09/aave-rolls-out-vaults-for-yield-hungry-fintech-investors"
     }
   ]
 }

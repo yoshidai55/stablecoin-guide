@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T08:44:56+09:00",
+  "updated": "2026-07-10T06:26:13+09:00",
   "items": [
     {
       "date": "2026-07-09",
@@ -21,6 +21,69 @@
       "summary": "A new Binance Research report said stablecoins are fast becoming a preferred settlement layer for tokenized Tr…",
       "url": "https://cointelegraph.com/news/tradfi-perpetual-trading-surpasses-11t-in-2026-binance-research-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "important": false
+    },
+    {
+      "date": "2026-07-09",
+      "title": "ソニー銀行、米信託子会社設立へ OCC条件付き承認取得",
+      "summary": "ソニーフィナンシャルグループ傘下のソニー銀行が、米国に信託子会社を設立へ。米OCCから条件付き承認を取得し、米ドルステーブルコインの発行・管理事業化に向けた布石とする。同社の中長期的なデジタル資産戦略の一環。",
+      "url": "https://coinpost.jp/?p=723436",
+      "important": false
+    },
+    {
+      "date": "2026-07-09",
+      "title": "テザーがブラジルの「メルカド・ビットコイン」へ20Mドル出資へ",
+      "summary": "ブラジルのオンチェーン金融サービス企業へ出資 米ドル建てステーブルコイン「USDT」発行企業のテザー（Tether）が、ブラジルのオンチェーン金融サービス企業メルカド・ビットコイン（Mercado Bitcoin）の戦略…",
+      "url": "https://www.neweconomy.jp/posts/590827",
+      "important": false
+    },
+    {
+      "date": "2026-07-09",
+      "title": "Base、B20トークン規格をメインネットで有効化",
+      "summary": "コインベース支援のL2「Base」が7月8日、メインネットでB20トークン規格を有効化した。ERC-20互換を保ちつつプロトコル層に組み込まれた新規格で、ステーブルコインやRWAの発行コストを削減する。",
+      "url": "https://coinpost.jp/?p=723231",
+      "important": false
+    },
+    {
+      "date": "2026-07-09",
+      "title": "AIエージェントの円建て自律決済、国内企業が技術検証完了",
+      "summary": "外貨両替サービスのエクスチェンジャーズが、AIエージェント向け決済プロトコル「x402」を用い、日本円電子マネー（XJPY）での自律決済フローの完結を公表。KYC済みウォレット・ガスレスを一体提供するx402実装は国内初…",
+      "url": "https://coinpost.jp/?p=723201",
+      "important": false
+    },
+    {
+      "date": "2026-07-09",
+      "title": "Aave rolls out vaults for yield-hungry fintech investors",
+      "summary": "Aave's new Stable Vaults product lets wallets, exchanges and payment apps offer yields on stablecoin deposits",
+      "url": "https://www.coindesk.com/business/2026/07/09/aave-rolls-out-vaults-for-yield-hungry-fintech-investors",
+      "important": false
+    },
+    {
+      "date": "2026-07-09",
+      "title": "Sony Bank gets US regulator nod to issue stablecoins",
+      "summary": "Sony Bank received preliminary approval from the Office of the Comptroller of the Currency to establish a US s…",
+      "url": "https://cointelegraph.com/news/sony-bank-preliminary-approval-us-stablecoin-business?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-07-09",
+      "title": "Revolut says USDT delisting is limited to EEA, Switzerland",
+      "summary": "Revolut said USDT support remains unchanged outside EEA and Switzerland as it winds down the stablecoin offeri…",
+      "url": "https://cointelegraph.com/news/revolut-usdt-delisting-limited-eea-switzerland?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-07-09",
+      "title": "Sony secures conditional approval to set up U.S. stablecoin trust bank",
+      "summary": "The New York-based subsidiary, fully owned by Sony Bank, will be capitalized with $40 million to support its u…",
+      "url": "https://www.coindesk.com/business/2026/07/09/sony-secures-conditional-approval-to-set-up-u-s-stablecoin-trust-bank",
+      "important": true
+    },
+    {
+      "date": "2026-07-09",
+      "title": "Bank of Korea stands firm on bank-led stablecoin push as deposit token pilots advance",
+      "summary": "The Bank of Korea reiterated its call for bank-led won stablecoin issuance while advancing deposit token pilot…",
+      "url": "https://cointelegraph.com/news/bank-of-korea-bank-led-stablecoins-deposit-token-pilots?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
     },
     {
       "date": "2026-07-08",
