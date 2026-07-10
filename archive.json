@@ -1,6 +1,83 @@
 {
-  "updated": "2026-07-10T06:26:13+09:00",
+  "updated": "2026-07-11T06:08:01+09:00",
   "items": [
+    {
+      "date": "2026-07-11",
+      "title": "USDC発行企業サークル、信託銀行設立の最終承認を取得",
+      "summary": "米ステーブルコイン発行大手のサークルは10日、米通貨監督庁から国法信託銀行の設立最終承認を受けた。デジタル資産の機関向けカストディ提供と、将来的なUSDCの準備資産管理を計画中。",
+      "url": "https://coinpost.jp/?p=723896",
+      "important": false
+    },
+    {
+      "date": "2026-07-11",
+      "title": "Crypto Biz: How stablecoins found their niche",
+      "summary": "Stablecoins are carving out specialized roles as regulation reshapes the market, while Strategy’s Bitcoin sale…",
+      "url": "https://cointelegraph.com/news/crypto-biz-how-stablecoins-found-their-niche?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-07-11",
+      "title": "Hyundai becomes first major South Korean company to introduce internal stablecoin transfers",
+      "summary": "The initiative builds on a broader shift by companies exploring stablecoins to move money between internationa…",
+      "url": "https://www.coindesk.com/business/2026/07/10/hyundai-becomes-first-major-south-korean-company-to-introduce-internal-stablecoin-transfers",
+      "important": false
+    },
+    {
+      "date": "2026-07-10",
+      "title": "メタプラネット・JPYCら4社、デジタルクレジット共同検討",
+      "summary": "メタプラネットとJPYC、Progmatなど4社が、ビットコインとステーブルコイン、セキュリティトークンを組み合わせたデジタルクレジット領域の共同検討を開始した。中堅企業の資金調達課題や「Project NOVA」構想と…",
+      "url": "https://coinpost.jp/?p=723820",
+      "important": true
+    },
+    {
+      "date": "2026-07-10",
+      "title": "INSPAY、Suiのステーブルコイン決済を日本の実店舗へ。ミステンラボと協業",
+      "summary": "WebX 2026で自動販売機の決済デモ公開 実店舗向けステーブルコイン決済基盤を開発するインスペイ（INSPAY）が、レイヤー1ブロックチェーン「スイ（Sui）」のオリジナルコントリビューターである米ミステンラボ（My…",
+      "url": "https://www.neweconomy.jp/posts/591135",
+      "important": false
+    },
+    {
+      "date": "2026-07-10",
+      "title": "ペイパルの「PYUSD」、ポリゴンでネイティブ発行。対応チェーンは5例目に",
+      "summary": "Open Money Stackで企業の国際決済に活用へ 米決済大手ペイパル（PayPal）の米ドル建てステーブルコイン「PayPal USD（PYUSD）」が、ポリゴンチェーン（Polygon Chain）上でネイティ…",
+      "url": "https://www.neweconomy.jp/posts/591153",
+      "important": false
+    },
+    {
+      "date": "2026-07-10",
+      "title": "INSPAY、Sui上のステーブルコイン決済を日本の実店舗へ",
+      "summary": "INSPAYが米Mysten Labsと戦略協業を発表。Suiのガスレス送金を基盤に、自動販売機や飲食店などの実店舗向けステーブルコイン決済をWebX 2026で初公開し、実証パートナーの募集も開始する。",
+      "url": "https://coinpost.jp/?p=723771",
+      "important": false
+    },
+    {
+      "date": "2026-07-10",
+      "title": "ビットワイズの仮想通貨指数15.4％安 ETFも流出最大",
+      "summary": "ビットワイズ・アセット・マネジメントが公表した四半期レポートを解説。仮想通貨指数は15.4％下落し現物ETFも記録的流出となったが、予測市場やRWA、ステーブルコインは拡大し業界規模は前回サイクルの底値時の2倍に達したと…",
+      "url": "https://coinpost.jp/?p=723697",
+      "important": false
+    },
+    {
+      "date": "2026-07-10",
+      "title": "USDC issuer Circle wins final approval for US national trust bank charter",
+      "summary": "Circle announces it received final OCC approval for a national trust bank that will initially serve the compan…",
+      "url": "https://cointelegraph.com/news/circle-final-occ-approval-national-trust-bank-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-07-10",
+      "title": "Metaplanet explores Bitcoin-backed digital credit with JPYC in Japan",
+      "summary": "Metaplanet said it is studying Bitcoin-backed digital credit products in Japan with JPYC and Progmat, but no p…",
+      "url": "https://cointelegraph.com/news/metaplanet-studies-bitcoin-digital-bonds-japan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-07-10",
+      "title": "Metaplanet explores bringing bitcoin-backed digital credit to Japan",
+      "summary": "The bitcoin treasury company is working with JPYC and Progmat to explore tokenized credit products backed by b…",
+      "url": "https://www.coindesk.com/markets/2026/07/10/metaplanet-explores-bringing-bitcoin-backed-digital-credit-to-japan",
+      "important": true
+    },
     {
       "date": "2026-07-09",
       "title": "x402で決済にステーブルコインを活用、クラウドフレアがAIエージェントの普及に備えた新機能提供へ",
