@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T06:08:01+09:00",
+  "updated": "2026-07-12T05:52:12+09:00",
   "items": [
     {
       "date": "2026-07-11",
@@ -20,6 +20,27 @@
       "title": "Hyundai becomes first major South Korean company to introduce internal stablecoin transfers",
       "summary": "The initiative builds on a broader shift by companies exploring stablecoins to move money between internationa…",
       "url": "https://www.coindesk.com/business/2026/07/10/hyundai-becomes-first-major-south-korean-company-to-introduce-internal-stablecoin-transfers",
+      "important": false
+    },
+    {
+      "date": "2026-07-11",
+      "title": "暗号屋、銀行振込対応のステーブルコイン決済「すてぶるペイ」を発表",
+      "summary": "合同会社暗号屋は10日、銀行振込でステーブルコイン決済を実現する「すてぶるペイ（STBLpay）」を発表した。利用者はウォレット不要、加盟店は与信審査なしで導入でき、7月開催のWebX2026でもデモ展示を実施する。",
+      "url": "https://coinpost.jp/?p=723911",
+      "important": false
+    },
+    {
+      "date": "2026-07-11",
+      "title": "Dollar stablecoins could improve FX access but amplify currency runs: IMF paper",
+      "summary": "An IMF working paper says dollar stablecoins can improve access to foreign currency but may also help coordina…",
+      "url": "https://cointelegraph.com/news/imf-stablecoins-fx-access-currency-runs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-07-11",
+      "title": "Meta's Chief Data Officer Says Agentic Commerce is the \"Next Tier of Business\"",
+      "summary": "Alex Schultz says stablecoins are assumed inside Meta. The harder problem is getting the rest of the world the…",
+      "url": "https://www.coindesk.com/coindesk-news/2026/07/10/meta-s-chief-data-officer-says-agentic-commerce-is-the-next-tier-of-business",
       "important": false
     },
     {
