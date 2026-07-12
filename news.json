@@ -1,24 +1,6 @@
 {
-  "updated": "2026-07-12T05:52:12+09:00",
+  "updated": "2026-07-13T05:52:58+09:00",
   "items": [
-    {
-      "date": "2026-07-11",
-      "title": "暗号屋、銀行振込対応のステーブルコイン決済「すてぶるペイ」を発表",
-      "summary": "合同会社暗号屋は10日、銀行振込でステーブルコイン決済を実現する「すてぶるペイ（STBLpay）」を発表した。利用者はウォレット不要、加盟店は与信審査なしで導入でき、7月開催のWebX2026でもデモ展示を実施する。",
-      "url": "https://coinpost.jp/?p=723911"
-    },
-    {
-      "date": "2026-07-11",
-      "title": "USDC発行企業サークル、信託銀行設立の最終承認を取得",
-      "summary": "米ステーブルコイン発行大手のサークルは10日、米通貨監督庁から国法信託銀行の設立最終承認を受けた。デジタル資産の機関向けカストディ提供と、将来的なUSDCの準備資産管理を計画中。",
-      "url": "https://coinpost.jp/?p=723896"
-    },
-    {
-      "date": "2026-07-10",
-      "title": "メタプラネット・JPYCら4社、デジタルクレジット共同検討",
-      "summary": "メタプラネットとJPYC、Progmatなど4社が、ビットコインとステーブルコイン、セキュリティトークンを組み合わせたデジタルクレジット領域の共同検討を開始した。中堅企業の資金調達課題や「Project NOVA」構想と…",
-      "url": "https://coinpost.jp/?p=723820"
-    },
     {
       "date": "2026-07-10",
       "title": "INSPAY、Suiのステーブルコイン決済を日本の実店舗へ。ミステンラボと協業",
@@ -32,10 +14,28 @@
       "url": "https://www.neweconomy.jp/posts/591153"
     },
     {
-      "date": "2026-07-10",
-      "title": "INSPAY、Sui上のステーブルコイン決済を日本の実店舗へ",
-      "summary": "INSPAYが米Mysten Labsと戦略協業を発表。Suiのガスレス送金を基盤に、自動販売機や飲食店などの実店舗向けステーブルコイン決済をWebX 2026で初公開し、実証パートナーの募集も開始する。",
-      "url": "https://coinpost.jp/?p=723771"
+      "date": "2026-07-12",
+      "title": "Stablecoin market cap has shrunk by $10 billion since May, but analyst sees no reason to panic",
+      "summary": "The market shrank by $7.7 billion in June alone, the largest dollar amount since May 2022's Terra-Luna crash, …",
+      "url": "https://www.coindesk.com/markets/2026/07/12/stablecoin-market-cap-has-shrunk-by-usd10-billion-since-may-but-analyst-sees-no-reason-to-panic"
+    },
+    {
+      "date": "2026-07-11",
+      "title": "Dollar stablecoins could improve FX access but amplify currency runs: IMF",
+      "summary": "An IMF working paper says US dollar stablecoins can improve access to foreign currency but may also help coord…",
+      "url": "https://cointelegraph.com/news/imf-stablecoins-fx-access-currency-runs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "date": "2026-07-11",
+      "title": "Meta's Chief Data Officer Says Agentic Commerce is the \"Next Tier of Business\"",
+      "summary": "Alex Schultz says stablecoins are assumed inside Meta. The harder problem is getting the rest of the world the…",
+      "url": "https://www.coindesk.com/coindesk-news/2026/07/10/meta-s-chief-data-officer-says-agentic-commerce-is-the-next-tier-of-business"
+    },
+    {
+      "date": "2026-07-11",
+      "title": "Crypto Biz: How stablecoins found their niche",
+      "summary": "Stablecoins are carving out specialized roles as regulation reshapes the market, while Strategy’s Bitcoin sale…",
+      "url": "https://cointelegraph.com/news/crypto-biz-how-stablecoins-found-their-niche?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     }
   ]
 }
