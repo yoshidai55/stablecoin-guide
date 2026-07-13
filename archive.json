@@ -1,6 +1,118 @@
 {
-  "updated": "2026-07-13T05:52:58+09:00",
+  "updated": "2026-07-14T05:58:38+09:00",
   "items": [
+    {
+      "date": "2026-07-14",
+      "title": "Bolivia mulls recognizing USDT as payment currency amid dollar shortage",
+      "summary": "As foreign currency reserves remain under pressure, Bolivia is considering a framework to let the world’s larg…",
+      "url": "https://cointelegraph.com/news/bolivia-weighs-usdt-payment-currency-amid-dollar-shortage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-07-14",
+      "title": "Hyundai completes USDT treasury settlement pilot between US and Mexico",
+      "summary": "Hyundai completed a proof-of-concept using Tether's USDT to settle a cross-border treasury transfer between it…",
+      "url": "https://cointelegraph.com/news/hyundai-completes-usdt-treasury-settlement-pilot-between-us-and-mexico?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-07-14",
+      "title": "Mizuho says Circle bank approval doesn't solve USDC growth, stablecoin competition risks",
+      "summary": "Japanese investment bank Mizuho reiterated its neutral rating on Circle, saying OCC approval for a national tr…",
+      "url": "https://www.coindesk.com/business/2026/07/13/mizuho-says-circle-bank-approval-doesn-t-solve-usdc-growth-stablecoin-competition-risks",
+      "important": true
+    },
+    {
+      "date": "2026-07-13",
+      "title": "【7/13話題】SBI VCトレードがJPYSCのレンディング受付開始、ローソンで円ステーブルコイン店頭決済実証（音声ニュース）",
+      "summary": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif…",
+      "url": "https://www.neweconomy.jp/posts/591664",
+      "important": false
+    },
+    {
+      "date": "2026-07-13",
+      "title": "アーベラボ、企業向け「Stable Vaults」の提供開始。ステーブルコイン利回り機能の組み込みを支援",
+      "summary": "企業向けステーブルコイン利回り基盤を提供 分散型金融（DeFi）プロトコル「アーベ（Aave）」の開発を主導するアーベ・ラボ（Aave Labs）が、企業向けのステーブルコイン利回り基盤「ステーブル・ボールツ（Stabl…",
+      "url": "https://www.neweconomy.jp/posts/591686",
+      "important": false
+    },
+    {
+      "date": "2026-07-13",
+      "title": "スターテイル、金融機関向けオンチェーン金融基盤「Startale OFK」提供開始",
+      "summary": "ステーブルコインやウォレットなどをモジュール化 ブロックチェーンインフラを開発するスターテイル・グループ（Startale Group）が、金融機関・事業会社向けのオンチェーン金融基盤「スターテイルOFK（Startal…",
+      "url": "https://www.neweconomy.jp/posts/591667",
+      "important": false
+    },
+    {
+      "date": "2026-07-13",
+      "title": "片山財務大臣、日本の金融インフラ戦略を示す 物流・商流・決済の一体化で経済底上げ｜WebX2026",
+      "summary": "WebX 2026に登壇した片山さつき財務大臣が、円建てステーブルコインの普及状況や国債オンチェーン化の動向を解説。金融庁が推進するPIPの3つの実証プロジェクトを公開し、ブロックチェーンで物流・商流・決済を一体化する日…",
+      "url": "https://coinpost.jp/?p=724395",
+      "important": true
+    },
+    {
+      "date": "2026-07-13",
+      "title": "SBI VCトレード、JPYSCレンディング16日申し込み開始 当初年率3％",
+      "summary": "SBI VCトレードは7月16日、円建て電子決済手段JPYSCを貸し出し利用料を得られる「JPYSCレンディング」の申込みを開始する。貸出開始は23日から、当初12週間は年率3％で提供。税区分や取扱いラインナップも解説す…",
+      "url": "https://coinpost.jp/?p=724327",
+      "important": false
+    },
+    {
+      "date": "2026-07-13",
+      "title": "SBI VCトレード、円建てステーブルコイン「JPYSC」のレンディング受付開始。年率3％で",
+      "summary": "「JPYSCレンディング」、7月16日から申込受付 国内暗号資産（仮想通貨）取引所SBI VCトレードが、信託型円建てステーブルコイン「JPYSC」を対象としたレンディングサービス「JPYSCレンディング」の申し込み受付…",
+      "url": "https://www.neweconomy.jp/posts/591630",
+      "important": false
+    },
+    {
+      "date": "2026-07-13",
+      "title": "AIメビウスの輪と日本の活路 シンプレクス金子氏が語るWeb3時代の戦略｜WebX2026",
+      "summary": "シンプレクス・金子英樹CEOがWebX 2026で語った講演レポート。FX市場を日本独自に育てた歴史を振り返りつつ、生成AIの利用料が米国企業の輪の中を循環する「メビウスの輪」構造を提示。その外側にいる日本がWeb3と円…",
+      "url": "https://coinpost.jp/?p=724164",
+      "important": false
+    },
+    {
+      "date": "2026-07-13",
+      "title": "Bolivia weighs adding Tether's USDT to its national payments system",
+      "summary": "Crypto usage has spiked in the country, with transaction volumes hitting $430 million in the year after the ce…",
+      "url": "https://www.coindesk.com/business/2026/07/13/bolivia-weighs-adding-tether-s-usdt-to-its-national-payments-system",
+      "important": false
+    },
+    {
+      "date": "2026-07-13",
+      "title": "SBI Holdings' blockchain initiative pivots to Solana for tokenization, stablecoin issuance",
+      "summary": "The SBI Solana Global joint venture now includes the Solana Foundation, the Swiss organization that oversees t…",
+      "url": "https://www.coindesk.com/business/2026/07/13/sbi-holdings-blockchain-initiative-pivots-to-solana-for-tokenization-stablecoin-issuance",
+      "important": false
+    },
+    {
+      "date": "2026-07-13",
+      "title": "Japan’s SBI to launch yen stablecoin lending with 3% yield",
+      "summary": "SBI VC Trade will open JPYSC lending applications on July 16, offering an initial 3% annual rate for a 12-week…",
+      "url": "https://cointelegraph.com/news/sbi-stablecoin-lending-service-3-yield-japan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-07-13",
+      "title": "Japan stablecoin payments advance with Lawson trial, Netstars launch",
+      "summary": "Lawson will test yen stablecoin payments in Tokyo as Netstars launches a merchant service supporting USDC, USD…",
+      "url": "https://cointelegraph.com/news/japan-lawson-netstars-stablecoin-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-07-13",
+      "title": "AI microbusinesses could drive $262B in stablecoin volume by 2033: Swyftx",
+      "summary": "The AI-native cohort of the expanding gig economy could increasingly use stablecoins to avoid slow and expensi…",
+      "url": "https://cointelegraph.com/news/ai-enabled-businesses-freelancers-could-add-262b-in-stablecoin-volumes-swyftx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-07-13",
+      "title": "Bank of Thailand targets USDT and cash flows in gray money crackdown",
+      "summary": "Thailand has been plagued by Chinese-affiliated scam centers, with illicit gains flowing through a “gray money…",
+      "url": "https://cointelegraph.com/news/thailand-targets-stablecoins-in-latest-laundering-crackdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
     {
       "date": "2026-07-12",
       "title": "Stablecoin market cap has shrunk by $10 billion since May, but analyst sees no reason to panic",
