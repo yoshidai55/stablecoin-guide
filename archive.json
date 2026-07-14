@@ -1,6 +1,41 @@
 {
-  "updated": "2026-07-14T05:58:38+09:00",
+  "updated": "2026-07-15T06:02:19+09:00",
   "items": [
+    {
+      "date": "2026-07-15",
+      "title": "Velocity raises $38M to build stablecoin treasury infrastructure for enterprises",
+      "summary": "Backed by Dragonfly, FirstMark and Coinbase Ventures, the startup is expanding software that helps businesses …",
+      "url": "https://cointelegraph.com/news/velocity-raises-38m-to-build-stablecoin-treasury-infrastructure-for-enterprises?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-07-15",
+      "title": "US, UK treasuries to align transatlantic rules on tokenization and stablecoins",
+      "summary": "The two governments issued recommendations on the treatment of digital assets as the US prepares to implement …",
+      "url": "https://cointelegraph.com/news/us-uk-treasuries-rules-tokenized-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-07-15",
+      "title": "Binance bets on becoming a crypto 'super app' as stablecoins reshape growth",
+      "summary": "Shunyet Jan, Binance’s head of spot trading and derivatives, said the exchange is focusing more on payments an…",
+      "url": "https://www.coindesk.com/business/2026/07/14/binance-bets-on-becoming-a-crypto-super-app-as-stablecoins-reshape-growth",
+      "important": false
+    },
+    {
+      "date": "2026-07-15",
+      "title": "JCB signs Circle MOU to test stablecoin payments in Japan",
+      "summary": "The companies will explore using USDC for JCB’s cross-border treasury operations and merchant payments in Japa…",
+      "url": "https://cointelegraph.com/news/japans-jcb-signs-mou-with-circle-to-explore-usdc-payments-and-cross-border-settlements?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-07-15",
+      "title": "Anchorage Digital expands Tron support with institutional TRX staking",
+      "summary": "Institutions can now stake Tron's native token directly from Anchorage's custody platform as the company expan…",
+      "url": "https://cointelegraph.com/news/anchorage-digital-expands-tron-support-with-institutional-trx-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
     {
       "date": "2026-07-14",
       "title": "Bolivia mulls recognizing USDT as payment currency amid dollar shortage",
@@ -21,6 +56,90 @@
       "summary": "Japanese investment bank Mizuho reiterated its neutral rating on Circle, saying OCC approval for a national tr…",
       "url": "https://www.coindesk.com/business/2026/07/13/mizuho-says-circle-bank-approval-doesn-t-solve-usdc-growth-stablecoin-competition-risks",
       "important": true
+    },
+    {
+      "date": "2026-07-14",
+      "title": "ハッシュポート、企業向けステーブルコイン決済を機能拡張。ウォレットからプライバシー送金可能に",
+      "summary": "外部ウォレット対応や動的QRなど5機能を順次提供 ブロックチェーン関連事業を手がけるハッシュポート（HashPort）が、企業・店舗向けステーブルコイン決済サービス「ハッシュポート・ウォレット・フォー・ビズ（HashPo…",
+      "url": "https://www.neweconomy.jp/posts/592017",
+      "important": false
+    },
+    {
+      "date": "2026-07-14",
+      "title": "JCBとサークルがMOU、「USDC」でクロスボーダー決済と国内加盟店決済を検討",
+      "summary": "JCBの社内資金移動でPoC検討 決済大手のジェーシービー（JCB）が、米ステーブルコイン発行企業サークル・インターネット・グループ（Circle Internet Group：サークル）の関連会社と、ステーブルコインを…",
+      "url": "https://www.neweconomy.jp/posts/591963",
+      "important": false
+    },
+    {
+      "date": "2026-07-14",
+      "title": "データチェーンとフィノジェクト、ステーブルコイン事業の参入支援で基本合意",
+      "summary": "Datachainとfinojectがステーブルコイン参入支援へ ブロックチェーン技術に関する企画・開発を手がける国内企業データチェーン（Datachain）が、金融とデジタルの領域でコンサルティングを手がけるフィノジェ…",
+      "url": "https://www.neweconomy.jp/posts/591954",
+      "important": false
+    },
+    {
+      "date": "2026-07-14",
+      "title": "DJT、暗号資産・ステーブルコイン会計「RIKYU」を完全子会社化へ",
+      "summary": "DJTがRIKYUを完全子会社化へ ブロックチェーン技術を活用したサービス開発や法人向けウォレット提供のダブルジャンプトウキョウ（double jump.tokyo：DJT）が、暗号資産（仮想通貨）・ステーブルコイン会計…",
+      "url": "https://www.neweconomy.jp/posts/591948",
+      "important": false
+    },
+    {
+      "date": "2026-07-14",
+      "title": "100億円から1兆円規模へ、JPYC・JPYSC両代表が語る円ステーブルコインの事業戦略",
+      "summary": "現在130億円規模にとどまる円ステーブルコイン市場。WebX 2026でJPYC・SBI VCトレード・Startale Group 3社が語った1兆円シナリオ、規制緩和の課題、機関投資家向け展開の全容をレポートする。",
+      "url": "https://coinpost.jp/?p=724639",
+      "important": true
+    },
+    {
+      "date": "2026-07-14",
+      "title": "次世代決済の分岐点、サークル・JPモルガン・ソラナ責任者が対談｜WebX2026",
+      "summary": "ステーブルコインかトークン化デポジットか、サークル・JPモルガンキネクシス・ソラナ財団が「競合ではなく用途別の共存」と言う答えを示した。アジアでのUSDC実装事例から、エージェンティックコマースという次の波まで、WebX…",
+      "url": "https://coinpost.jp/?p=724288",
+      "important": false
+    },
+    {
+      "date": "2026-07-14",
+      "title": "JCB、ステーブルコインUSDCの訪日客向け決済を検証へ サークル関連企業と協業＝日経",
+      "summary": "JCBは、サークルの関連企業と協業することで合意。訪日客向けに都内の1店舗で米ドルステーブルコインUSDCの決済の検証を開始し、他の加盟店への拡大を検討する。",
+      "url": "https://coinpost.jp/?p=724535",
+      "important": false
+    },
+    {
+      "date": "2026-07-14",
+      "title": "JPYSCが描く信託型円ステーブルコインの未来｜WebX2026",
+      "summary": ".rp-wrap{font-family:-apple-system,BlinkMacSystemFont,\"SegoeUI\",\"HiraginoKakuGothicProN\",Meiryo,sans-serif;col…",
+      "url": "https://coinpost.jp/?p=724362",
+      "important": false
+    },
+    {
+      "date": "2026-07-14",
+      "title": "JPMorgan says Hyperliquid's rise threatens Circle's USDC economics",
+      "summary": "Hyperliquid's deal with Circle and Coinbase creates a \"prisoner's dilemma\" that puts pressure on earnings from…",
+      "url": "https://www.coindesk.com/business/2026/07/14/jpmorgan-says-hyperliquid-s-rise-threatens-circle-s-usdc-economics",
+      "important": false
+    },
+    {
+      "date": "2026-07-14",
+      "title": "Japan’s biggest card network taps Circle to bring stablecoins to 40 million merchants",
+      "summary": "JCB and Circle will explore using USDC for cross-border payments and merchant transactions as Japan ramps up e…",
+      "url": "https://www.coindesk.com/business/2026/07/14/circle-signs-mou-with-japan-s-largest-card-network-to-explore-stablecoin-payments",
+      "important": false
+    },
+    {
+      "date": "2026-07-14",
+      "title": "ABA, state banking groups push back on CLARITY Act stablecoin yield provisions",
+      "summary": "ABA and state banking associations published a joint letter calling for more detail on the CLARITY Act’s stabl…",
+      "url": "https://cointelegraph.com/news/aba-banking-associations-clarity-act-yield?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-07-14",
+      "title": "Thai scammer's $122M wallet, Japan embraces crypto credit: Asia Express",
+      "summary": "Bitcoin backed mortgages and stablecoin yield are hot topics in Japan right now, as Hyundai experiments with A…",
+      "url": "https://cointelegraph.com/features/thai-scammer-japan-crypto-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
     },
     {
       "date": "2026-07-13",
