@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T06:02:19+09:00",
+  "updated": "2026-07-16T06:02:34+09:00",
   "items": [
     {
       "date": "2026-07-15",
@@ -34,6 +34,27 @@
       "title": "Anchorage Digital expands Tron support with institutional TRX staking",
       "summary": "Institutions can now stake Tron's native token directly from Anchorage's custody platform as the company expan…",
       "url": "https://cointelegraph.com/news/anchorage-digital-expands-tron-support-with-institutional-trx-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-07-15",
+      "title": "SBIグローバルAMとDigiFT、日本株ファンド戦略のトークン「JX」をソラナで提供開始",
+      "summary": "USDC決済に対応、将来はJPYSCやDeFiとの連携も SBIグローバルアセットマネジメント（SBI Global Asset Management）と、シンガポールのデジタル資産取引所デジフト（DigiFT）が、日本…",
+      "url": "https://www.neweconomy.jp/posts/592304",
+      "important": false
+    },
+    {
+      "date": "2026-07-15",
+      "title": "英国と米国、ステーブルコインで共同声明。相互市場アクセスの道筋を模索",
+      "summary": "保有者保護と越境倒産への協力を推進 英国政府と米国政府が、ステーブルコインに関する共同声明を7月14日に発表した。両国はステーブルコインをデジタルマネーの革新における重要な手段と位置付け、クロスボーダー金融での利用を可能…",
+      "url": "https://www.neweconomy.jp/posts/592335",
+      "important": false
+    },
+    {
+      "date": "2026-07-15",
+      "title": "Open USD poses biggest threat yet to Circle's USDC, CoinShares says",
+      "summary": "The consortium-backed stablecoin would share reserve income with partners instead of the issuer, pressuring Ci…",
+      "url": "https://www.coindesk.com/business/2026/07/15/open-usd-poses-biggest-threat-yet-to-circle-s-usdc-coinshares-says",
       "important": false
     },
     {
