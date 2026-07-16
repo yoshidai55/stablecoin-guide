@@ -1,6 +1,97 @@
 {
-  "updated": "2026-07-16T06:02:34+09:00",
+  "updated": "2026-07-17T06:02:25+09:00",
   "items": [
+    {
+      "date": "2026-07-17",
+      "title": "BitPay secures Dutch licensing under MiCA, plans to expand stablecoin payments",
+      "summary": "The Dutch Authority for the Financial Markets approved BitPay’s application as a crypto-asset service provider…",
+      "url": "https://cointelegraph.com/news/bitpay-licensing-mica-stablecoin-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-07-17",
+      "title": "Stripe’s $53 billion PayPal bid is a high-stakes play to own the future of digital payments",
+      "summary": "If Stripe acquires PayPal, the real prize could be consumer wallets, stablecoin issuance or the infrastructure…",
+      "url": "https://www.coindesk.com/business/2026/07/16/stripe-s-usd53-billion-paypal-bid-is-a-high-stakes-play-to-own-the-future-of-digital-payments",
+      "important": false
+    },
+    {
+      "date": "2026-07-17",
+      "title": "Visa backs Open USD with new stablecoin platform as Circle faces fresh competition",
+      "summary": "Visa launched a stablecoin platform that lets banks and fintechs issue, manage and settle digital dollars thro…",
+      "url": "https://www.coindesk.com/business/2026/07/16/visa-backs-open-usd-with-new-stablecoin-platform-as-circle-faces-fresh-competition",
+      "important": true
+    },
+    {
+      "date": "2026-07-16",
+      "title": "FRBウォーシュ議長、仮想通貨も救済せずと証言",
+      "summary": "FRBのケビン・ウォーシュ議長は7月14日の米下院公聴会で、仮想通貨業界が危機に陥った場合でも救済しない方針を示した。ステーブルコイン破綻時の対応を問われたが、明確な確約は避けリスク抑制に努める姿勢を強調した。",
+      "url": "https://coinpost.jp/?p=725395",
+      "important": true
+    },
+    {
+      "date": "2026-07-16",
+      "title": "暗号屋、銀行振込で利用できるステーブルコイン決済「すてぶるペイ」提供へ",
+      "summary": "ウォレット不要で日本円建てステーブルコイン決済を導入可能に 国内ブロックチェーン関連開発企業の暗号屋が、日本円の銀行振込で支払えるステーブルコイン決済サービス「すてぶるペイ（STBLpay）」の提供予定を7月10日に発表…",
+      "url": "https://www.neweconomy.jp/posts/592650",
+      "important": false
+    },
+    {
+      "date": "2026-07-16",
+      "title": "企業コンソーシアム型の新ステーブルコイン「OUSD」が「USDC」に与える影響、コインシェアーズ考察",
+      "summary": "多数の大手企業が参画予定の新ステーブルコイン「OUSD」の登場は、既存のUSDCやUSDTにどのような影響を与えるのか。コインシェアーズが分析した。",
+      "url": "https://coinpost.jp/?p=725336",
+      "important": false
+    },
+    {
+      "date": "2026-07-16",
+      "title": "RWA永久先物取引所Ostium、約29億円のUSDCが不正流出か",
+      "summary": "RWA永久先物取引所Ostiumから約29億円のUSDCが不正流出した可能性が浮上。問題が発生したことはOstiumのチームも認めており、現在も対応を継続している。",
+      "url": "https://coinpost.jp/?p=725302",
+      "important": false
+    },
+    {
+      "date": "2026-07-16",
+      "title": "Prediction markets defy crypto downturn with record Q2 volume: CoinGecko",
+      "summary": "Prediction markets reached a record $113.8 billion in notional volume in Q2 as spot CEX trading, derivatives v…",
+      "url": "https://cointelegraph.com/news/crypto-cool-q2-prediction-markets-hit-records-coingecko?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-07-16",
+      "title": "FATF urges faster crypto AML enforcement as stablecoin crime increases",
+      "summary": "The global task force said criminal networks are using stablecoins and developing proprietary tokens to evade …",
+      "url": "https://cointelegraph.com/news/fatf-urges-crypto-aml-enforcement-stablecoin-crime?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-07-16",
+      "title": "Galaxy targets institutional stablecoin yield with new DeFi vaults",
+      "summary": "The crypto financial services firm launched Galaxy Curator, a Morpho-based platform that gives Fireblocks' 2,4…",
+      "url": "https://www.coindesk.com/tech/2026/07/16/galaxy-targets-institutional-stablecoin-yield-with-new-defi-vaults",
+      "important": true
+    },
+    {
+      "date": "2026-07-16",
+      "title": "Tether invests $20 million in Argentine neobank Ualá as it expands Latin America push",
+      "summary": "Ualá’s CEO clarified Tether is acting solely as a financial investor, citing current regional regulations prev…",
+      "url": "https://www.coindesk.com/business/2026/07/16/tether-invests-usd20-million-in-argentine-neobank-uala-as-it-expands-latin-america-push",
+      "important": true
+    },
+    {
+      "date": "2026-07-16",
+      "title": "U.S. adds four Iran central bank crypto wallets to sanctions, Tether freezes $131 million of contents",
+      "summary": "The freeze targets TRON-based addresses that held over $165 million, preventing those specific funds from bein…",
+      "url": "https://www.coindesk.com/business/2026/07/16/u-s-adds-four-iran-central-bank-crypto-wallets-to-sanctions-tether-freezes-usd131-million-of-contents",
+      "important": true
+    },
+    {
+      "date": "2026-07-16",
+      "title": "Tether invests $20M into Argentine neobank Ualá",
+      "summary": "Tether reportedly invested $20 million into Ualá, as part of the Argentine neobank’s $197 million funding roun…",
+      "url": "https://cointelegraph.com/news/tether-invests-20m-argentine-neobank-uala?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
     {
       "date": "2026-07-15",
       "title": "Velocity raises $38M to build stablecoin treasury infrastructure for enterprises",
