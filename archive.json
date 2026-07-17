@@ -1,6 +1,20 @@
 {
-  "updated": "2026-07-17T06:02:25+09:00",
+  "updated": "2026-07-18T05:58:22+09:00",
   "items": [
+    {
+      "date": "2026-07-18",
+      "title": "Crypto Biz: When dollars disappear, stablecoins step in",
+      "summary": "Bolivia moves to recognize USDT amid a dollar shortage, while Bitcoin miners’ AI ambitions face fresh investor…",
+      "url": "https://cointelegraph.com/news/crypto-biz-when-dollars-disappear-stablecoins-step-in?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-07-18",
+      "title": "OKX Europe lets users convert USDT to MiCA-compliant USDC",
+      "summary": "The feature offers European customers a voluntary path away from Tether’s USDT as MiCA rules reshape the regio…",
+      "url": "https://cointelegraph.com/news/okx-europe-lets-users-convert-usdt-to-mica-compliant-usdc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
     {
       "date": "2026-07-17",
       "title": "BitPay secures Dutch licensing under MiCA, plans to expand stablecoin payments",
@@ -20,6 +34,34 @@
       "title": "Visa backs Open USD with new stablecoin platform as Circle faces fresh competition",
       "summary": "Visa launched a stablecoin platform that lets banks and fintechs issue, manage and settle digital dollars thro…",
       "url": "https://www.coindesk.com/business/2026/07/16/visa-backs-open-usd-with-new-stablecoin-platform-as-circle-faces-fresh-competition",
+      "important": true
+    },
+    {
+      "date": "2026-07-17",
+      "title": "【7/17話題】SBIと米オンドファイナンスがトークン化日本株式の提供へ、Visaの企業向けステーブルコイン基盤「VSP」がβ提供開始など（音声ニュース）",
+      "summary": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif…",
+      "url": "https://www.neweconomy.jp/posts/593002",
+      "important": false
+    },
+    {
+      "date": "2026-07-17",
+      "title": "現金・MMF・株式、次の主役は トークン化RWAの現在地｜WebX2026",
+      "summary": "フランクリン・テンプルトン、オンド・ファイナンス、パンテラ・キャピタルの幹部が登壇し、トークン化MMFの現状、RWA急拡大の要因、ステーブルコインとの棲み分け、リテール普及の鍵を徹底討論したWebX 2026セッションレ…",
+      "url": "https://coinpost.jp/?p=724585",
+      "important": false
+    },
+    {
+      "date": "2026-07-17",
+      "title": "SBI acquires Singaporean crypto platform Coinhako after MAS approval",
+      "summary": "SBI Holdings received regulatory approval to acquire a majority stake in Singapore-based crypto exchange Coinh…",
+      "url": "https://cointelegraph.com/news/sbi-receives-mas-approval-to-acquire-singaporean-coinhako?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-07-17",
+      "title": "Stablecoin growth will erode bank deposits, says ECB’s Cipollone",
+      "summary": "ECB’s Piero Cipollone said stablecoin adoption could erode bank deposits, but the digital euro will keep banks…",
+      "url": "https://cointelegraph.com/news/stablecoin-growth-bank-deposits-ecbs-cipollone?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "important": true
     },
     {

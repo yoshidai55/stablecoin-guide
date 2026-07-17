@@ -1,41 +1,41 @@
 {
-  "updated": "2026-07-17T06:02:25+09:00",
+  "updated": "2026-07-18T05:58:22+09:00",
   "items": [
     {
-      "date": "2026-07-16",
-      "title": "FRBウォーシュ議長、仮想通貨も救済せずと証言",
-      "summary": "FRBのケビン・ウォーシュ議長は7月14日の米下院公聴会で、仮想通貨業界が危機に陥った場合でも救済しない方針を示した。ステーブルコイン破綻時の対応を問われたが、明確な確約は避けリスク抑制に努める姿勢を強調した。",
-      "url": "https://coinpost.jp/?p=725395"
-    },
-    {
-      "date": "2026-07-16",
-      "title": "暗号屋、銀行振込で利用できるステーブルコイン決済「すてぶるペイ」提供へ",
-      "summary": "ウォレット不要で日本円建てステーブルコイン決済を導入可能に 国内ブロックチェーン関連開発企業の暗号屋が、日本円の銀行振込で支払えるステーブルコイン決済サービス「すてぶるペイ（STBLpay）」の提供予定を7月10日に発表…",
-      "url": "https://www.neweconomy.jp/posts/592650"
-    },
-    {
-      "date": "2026-07-16",
-      "title": "企業コンソーシアム型の新ステーブルコイン「OUSD」が「USDC」に与える影響、コインシェアーズ考察",
-      "summary": "多数の大手企業が参画予定の新ステーブルコイン「OUSD」の登場は、既存のUSDCやUSDTにどのような影響を与えるのか。コインシェアーズが分析した。",
-      "url": "https://coinpost.jp/?p=725336"
-    },
-    {
-      "date": "2026-07-16",
-      "title": "RWA永久先物取引所Ostium、約29億円のUSDCが不正流出か",
-      "summary": "RWA永久先物取引所Ostiumから約29億円のUSDCが不正流出した可能性が浮上。問題が発生したことはOstiumのチームも認めており、現在も対応を継続している。",
-      "url": "https://coinpost.jp/?p=725302"
+      "date": "2026-07-17",
+      "title": "【7/17話題】SBIと米オンドファイナンスがトークン化日本株式の提供へ、Visaの企業向けステーブルコイン基盤「VSP」がβ提供開始など（音声ニュース）",
+      "summary": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif…",
+      "url": "https://www.neweconomy.jp/posts/593002"
     },
     {
       "date": "2026-07-17",
-      "title": "BitPay secures Dutch licensing under MiCA, plans to expand stablecoin payments",
-      "summary": "The Dutch Authority for the Financial Markets approved BitPay’s application as a crypto-asset service provider…",
-      "url": "https://cointelegraph.com/news/bitpay-licensing-mica-stablecoin-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      "title": "現金・MMF・株式、次の主役は トークン化RWAの現在地｜WebX2026",
+      "summary": "フランクリン・テンプルトン、オンド・ファイナンス、パンテラ・キャピタルの幹部が登壇し、トークン化MMFの現状、RWA急拡大の要因、ステーブルコインとの棲み分け、リテール普及の鍵を徹底討論したWebX 2026セッションレ…",
+      "url": "https://coinpost.jp/?p=724585"
+    },
+    {
+      "date": "2026-07-18",
+      "title": "Crypto Biz: When dollars disappear, stablecoins step in",
+      "summary": "Bolivia moves to recognize USDT amid a dollar shortage, while Bitcoin miners’ AI ambitions face fresh investor…",
+      "url": "https://cointelegraph.com/news/crypto-biz-when-dollars-disappear-stablecoins-step-in?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "date": "2026-07-18",
+      "title": "OKX Europe lets users convert USDT to MiCA-compliant USDC",
+      "summary": "The feature offers European customers a voluntary path away from Tether’s USDT as MiCA rules reshape the regio…",
+      "url": "https://cointelegraph.com/news/okx-europe-lets-users-convert-usdt-to-mica-compliant-usdc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     },
     {
       "date": "2026-07-17",
-      "title": "Stripe’s $53 billion PayPal bid is a high-stakes play to own the future of digital payments",
-      "summary": "If Stripe acquires PayPal, the real prize could be consumer wallets, stablecoin issuance or the infrastructure…",
-      "url": "https://www.coindesk.com/business/2026/07/16/stripe-s-usd53-billion-paypal-bid-is-a-high-stakes-play-to-own-the-future-of-digital-payments"
+      "title": "SBI acquires Singaporean crypto platform Coinhako after MAS approval",
+      "summary": "SBI Holdings received regulatory approval to acquire a majority stake in Singapore-based crypto exchange Coinh…",
+      "url": "https://cointelegraph.com/news/sbi-receives-mas-approval-to-acquire-singaporean-coinhako?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "date": "2026-07-17",
+      "title": "Stablecoin growth will erode bank deposits, says ECB’s Cipollone",
+      "summary": "ECB’s Piero Cipollone said stablecoin adoption could erode bank deposits, but the digital euro will keep banks…",
+      "url": "https://cointelegraph.com/news/stablecoin-growth-bank-deposits-ecbs-cipollone?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     }
   ]
 }
