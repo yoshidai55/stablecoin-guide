@@ -1,12 +1,33 @@
 {
-  "updated": "2026-07-19T05:52:16+09:00",
+  "updated": "2026-07-20T05:53:01+09:00",
   "items": [
+    {
+      "date": "2026-07-20",
+      "title": "The GENIUS Act turns 1: State of Crypto",
+      "summary": "The stablecoin-focused GENIUS Act became a law a year ago.",
+      "url": "https://www.coindesk.com/policy/2026/07/19/the-genius-act-turns-1-state-of-crypto",
+      "important": true
+    },
     {
       "date": "2026-07-19",
       "title": "Trump targets Brazil's payments system while dollar stablecoins are quietly overtaking country's payments",
       "summary": "Washington views Brazil’s promotion of non-dollar payment channels, including Pix and the growth of stablecoin…",
       "url": "https://www.coindesk.com/business/2026/07/18/trump-targets-brazil-s-payments-system-while-dollar-stablecoins-quietly-dominate-country-s-payments",
       "important": false
+    },
+    {
+      "date": "2026-07-19",
+      "title": "Tether's USDT hits 2-year countdown threatening its position on U.S. crypto platforms",
+      "summary": "The GENIUS Act has hit its first anniversary without U.S. regulators yet meeting deadlines to write regulation…",
+      "url": "https://www.coindesk.com/news-analysis/2026/07/17/tether-s-usdt-hits-2-year-countdown-threatening-its-position-on-u-s-crypto-platforms",
+      "important": true
+    },
+    {
+      "date": "2026-07-19",
+      "title": "US agencies miss GENIUS Act deadline for final stablecoin rules",
+      "summary": "US regulators failed to finalize implementing regulations by the GENIUS Act’s one-year deadline, issuing 10 pr…",
+      "url": "https://cointelegraph.com/news/federal-agencies-miss-genius-act-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
     },
     {
       "date": "2026-07-18",
