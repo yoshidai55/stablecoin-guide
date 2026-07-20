@@ -1,6 +1,18 @@
 {
-  "updated": "2026-07-20T05:53:01+09:00",
+  "updated": "2026-07-21T06:13:56+09:00",
   "items": [
+    {
+      "date": "2026-07-20",
+      "title": "物流大手AZ-COM丸和ホールディングス、JPYC導入へ 企業による大規模採用事例に",
+      "summary": "物流大手AZ-COM丸和ホールディングスが、協力会社約2,300社への支払いに日本円建てステーブルコイン「JPYC」を導入する。国内企業による大規模採用の初事例となる見通しだ。",
+      "url": "https://coinpost.jp/?p=725970"
+    },
+    {
+      "date": "2026-07-20",
+      "title": "韓国政府、ウォン建てステーブルコイン発行の法的根拠整備へ",
+      "summary": "韓国政府がウォン国際化ロードマップを発表。デジタル資産基本法制定に合わせ、ウォン建てステーブルコインの発行・流通根拠を整備するほか、CBDC連動の国債トークン化実証やBIS主導プロジェクトへの参加も打ち出した。",
+      "url": "https://coinpost.jp/?p=725962"
+    },
     {
       "date": "2026-07-17",
       "title": "【7/17話題】SBIと米オンドファイナンスがトークン化日本株式の提供へ、Visaの企業向けステーブルコイン基盤「VSP」がβ提供開始など（音声ニュース）",
@@ -9,33 +21,21 @@
     },
     {
       "date": "2026-07-20",
-      "title": "The GENIUS Act turns 1: State of Crypto",
-      "summary": "The stablecoin-focused GENIUS Act became a law a year ago.",
-      "url": "https://www.coindesk.com/policy/2026/07/19/the-genius-act-turns-1-state-of-crypto"
+      "title": "Amazon Japan supplier AZ-Com Maruwa to adopt yen stablecoin JPYC for payments",
+      "summary": "The Japanese logistics firm plans to pay 2,300 partners, including truck drivers, using JPYC in Japan’s first …",
+      "url": "https://www.coindesk.com/business/2026/07/20/amazon-japan-supplier-az-com-maruwa-to-adopt-yen-stablecoin-jpyc-for-payments"
     },
     {
-      "date": "2026-07-19",
-      "title": "Tether's USDT hits 2-year countdown threatening its position on U.S. crypto platforms",
-      "summary": "The GENIUS Act has hit its first anniversary without U.S. regulators yet meeting deadlines to write regulation…",
-      "url": "https://www.coindesk.com/news-analysis/2026/07/17/tether-s-usdt-hits-2-year-countdown-threatening-its-position-on-u-s-crypto-platforms"
+      "date": "2026-07-20",
+      "title": "Allbridge pauses cross-chain bridge after $1.65M exploit",
+      "summary": "The attacker allegedly used a flash loan and rapid swaps to manipulate the bridge’s stablecoin exchange rate.",
+      "url": "https://cointelegraph.com/news/allbridge-core-pauses-cross-chain-bridge-after-165m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     },
     {
-      "date": "2026-07-19",
-      "title": "US agencies miss GENIUS Act deadline for final stablecoin rules",
-      "summary": "US regulators failed to finalize implementing regulations by the GENIUS Act’s one-year deadline, issuing 10 pr…",
-      "url": "https://cointelegraph.com/news/federal-agencies-miss-genius-act-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "date": "2026-07-19",
-      "title": "Trump targets Brazil's payments system while dollar stablecoins are quietly overtaking country's payments",
-      "summary": "Washington views Brazil’s promotion of non-dollar payment channels, including Pix and the growth of stablecoin…",
-      "url": "https://www.coindesk.com/business/2026/07/18/trump-targets-brazil-s-payments-system-while-dollar-stablecoins-quietly-dominate-country-s-payments"
-    },
-    {
-      "date": "2026-07-18",
-      "title": "Crypto Biz: When dollars disappear, stablecoins step in",
-      "summary": "Bolivia moves to recognize USDT amid a dollar shortage, while Bitcoin miners’ AI ambitions face fresh investor…",
-      "url": "https://cointelegraph.com/news/crypto-biz-when-dollars-disappear-stablecoins-step-in?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      "date": "2026-07-20",
+      "title": "Japanese logistics company eyes JPYC stablecoin to pay drivers",
+      "summary": "The planned rollout would let thousands of transportation contractors receive digital yen payments more freque…",
+      "url": "https://cointelegraph.com/news/japanese-logistics-company-eyes-jpyc-stablecoin-to-pay-drivers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     }
   ]
 }
