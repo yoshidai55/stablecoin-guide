@@ -1,41 +1,41 @@
 {
-  "updated": "2026-07-21T06:13:56+09:00",
+  "updated": "2026-07-22T06:12:31+09:00",
   "items": [
     {
-      "date": "2026-07-20",
-      "title": "物流大手AZ-COM丸和ホールディングス、JPYC導入へ 企業による大規模採用事例に",
-      "summary": "物流大手AZ-COM丸和ホールディングスが、協力会社約2,300社への支払いに日本円建てステーブルコイン「JPYC」を導入する。国内企業による大規模採用の初事例となる見通しだ。",
-      "url": "https://coinpost.jp/?p=725970"
-    },
-    {
-      "date": "2026-07-20",
-      "title": "韓国政府、ウォン建てステーブルコイン発行の法的根拠整備へ",
-      "summary": "韓国政府がウォン国際化ロードマップを発表。デジタル資産基本法制定に合わせ、ウォン建てステーブルコインの発行・流通根拠を整備するほか、CBDC連動の国債トークン化実証やBIS主導プロジェクトへの参加も打ち出した。",
-      "url": "https://coinpost.jp/?p=725962"
-    },
-    {
-      "date": "2026-07-17",
-      "title": "【7/17話題】SBIと米オンドファイナンスがトークン化日本株式の提供へ、Visaの企業向けステーブルコイン基盤「VSP」がβ提供開始など（音声ニュース）",
+      "date": "2026-07-21",
+      "title": "【7/21話題】高市政権の骨太の方針にオンチェーン金融、AZ-COM丸和HDがJPYC導入へ、ストラテジーが4週連続BTC追加見送りなど（音声ニュース）",
       "summary": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif…",
-      "url": "https://www.neweconomy.jp/posts/593002"
+      "url": "https://www.neweconomy.jp/posts/593712"
     },
     {
-      "date": "2026-07-20",
-      "title": "Amazon Japan supplier AZ-Com Maruwa to adopt yen stablecoin JPYC for payments",
-      "summary": "The Japanese logistics firm plans to pay 2,300 partners, including truck drivers, using JPYC in Japan’s first …",
-      "url": "https://www.coindesk.com/business/2026/07/20/amazon-japan-supplier-az-com-maruwa-to-adopt-yen-stablecoin-jpyc-for-payments"
+      "date": "2026-07-21",
+      "title": "骨太方針2026、オンチェーン金融推進を初明記",
+      "summary": "政府が21日に閣議決定した「骨太方針2026」は、トークン化預金やステーブルコインを活用する「オンチェーン金融」の推進を初めて明記した。脚注で定義や活用分野を示し、資産運用立国政策との関係も明らかにしている。",
+      "url": "https://coinpost.jp/?p=726323"
     },
     {
-      "date": "2026-07-20",
-      "title": "Allbridge pauses cross-chain bridge after $1.65M exploit",
-      "summary": "The attacker allegedly used a flash loan and rapid swaps to manipulate the bridge’s stablecoin exchange rate.",
-      "url": "https://cointelegraph.com/news/allbridge-core-pauses-cross-chain-bridge-after-165m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      "date": "2026-07-21",
+      "title": "物流大手AZ-COM丸和HD、協力会社2300社への支払いに「JPYC」導入へ。10億円強出資も検討＝日経",
+      "summary": "迅速な支払いで小規模物流事業者を支援 物流大手AZ-COM（アズコム）丸和ホールディングスが、個人のトラック運転手などを含む協力会社約2,300社への委託費などの支払いに、日本円建てステーブルコイン「JPYC」を導入する…",
+      "url": "https://www.neweconomy.jp/posts/593528"
     },
     {
-      "date": "2026-07-20",
-      "title": "Japanese logistics company eyes JPYC stablecoin to pay drivers",
-      "summary": "The planned rollout would let thousands of transportation contractors receive digital yen payments more freque…",
-      "url": "https://cointelegraph.com/news/japanese-logistics-company-eyes-jpyc-stablecoin-to-pay-drivers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      "date": "2026-07-21",
+      "title": "ステーブルコイン流出35日連続、ビットコイン需要不足映す＝アナリスト",
+      "summary": "アナリストのアクセル・アドラーJr.氏が7月21日、ビットコインとステーブルコインの取引所フローを分析。ステーブルコインは35日連続で流出が続き、価格上昇を支える買い需要の資金が乏しい状況を指摘した。",
+      "url": "https://coinpost.jp/?p=726278"
+    },
+    {
+      "date": "2026-07-21",
+      "title": "金融とWeb3の架け橋、金融機関が共同で築く次世代決済インフラ｜WebX2026",
+      "summary": "WebX2026「金融とWeb3の架け橋」セッションレポート。Circle榊原健太氏、野村稲井田洋右氏、JCB久保寺晋也氏、住友商事内村直哉氏が登壇。ステーブルコインは決済の脅威か補完か、円建て・ドル建ての普及戦略、各社…",
+      "url": "https://coinpost.jp/?p=725552"
+    },
+    {
+      "date": "2026-07-21",
+      "title": "香港ステーブルコインHKDAP、月内発行へ＝報道",
+      "summary": "スタンダードチャータード系のアンカーポイントが、香港ドル型ステーブルコイン「HKDAP」を月内に発行すると香港メディアが報道。OSLとHashKey Exchangeが取扱事業者を担う見通しで、規制下での展開となる。",
+      "url": "https://coinpost.jp/?p=726260"
     }
   ]
 }
