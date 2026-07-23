@@ -1,12 +1,103 @@
 {
-  "updated": "2026-07-23T06:11:07+09:00",
+  "updated": "2026-07-24T06:06:36+09:00",
   "items": [
+    {
+      "date": "2026-07-24",
+      "title": "ゴールドマン・サックスCEOがクラリティー法案支持、銀行業界と対立か",
+      "summary": "ゴールドマン・サックスのソロモンCEOが米「クラリティー法案」への支持を表明した。JPモルガンなど大手銀行がステーブルコイン規定への反対を続ける中、業界内立場の違いが鮮明になっている。",
+      "url": "https://coinpost.jp/?p=726926",
+      "important": true
+    },
+    {
+      "date": "2026-07-24",
+      "title": "Coinbase lets businesses accept USDC payments from AI agents",
+      "summary": "The exchange also introduced AI trading tools and a developer kit as part of a broader push to build financial…",
+      "url": "https://cointelegraph.com/news/coinbase-lets-businesses-accept-usdc-payments-from-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-07-24",
+      "title": "Tassat wants to help smaller banks tap the trillion-dollar stablecoin boom before Wall Street lock them out",
+      "summary": "The former Signet developer aims to launch early next year a marketplace connecting stablecoin issuers with re…",
+      "url": "https://www.coindesk.com/business/2026/07/23/tassat-wants-to-help-smaller-banks-tap-the-trillion-dollar-stablecoin-boom-before-wall-street-lock-them-out",
+      "important": true
+    },
+    {
+      "date": "2026-07-24",
+      "title": "Goldman Sachs CEO backs ‘not perfect’ CLARITY Act as vote expected soon",
+      "summary": "Goldman chief David Solomon will support the crypto market structure bill now in Congress, even as financial c…",
+      "url": "https://cointelegraph.com/news/goldman-sachs-ceo-clarity-act-stablecoin-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
     {
       "date": "2026-07-23",
       "title": "UK digital bond plans hinge on one missing piece: onchain cash",
       "summary": "Experts say Britain's digital gilt pilot can unlock trapped liquidity in financial markets only if regulators …",
       "url": "https://www.coindesk.com/business/2026/07/22/uk-digital-bond-plans-hinge-on-one-missing-piece-onchain-cash",
       "important": false
+    },
+    {
+      "date": "2026-07-23",
+      "title": "テザーの金連動トークン「XAUT」、ADGMの受入対象現物商品に認定",
+      "summary": "XAUTがADGMの受入対象現物商品に認定 金連動トークン「テザーゴールド（XAUT）」が、アブダビの国際金融センター「アブダビグローバルマーケット（ADGM）」の受入対象現物商品として認定された。大手ステーブルコイン発…",
+      "url": "https://www.neweconomy.jp/posts/594196",
+      "important": false
+    },
+    {
+      "date": "2026-07-23",
+      "title": "AFXのアービトラム向けUSDCブリッジで約2,415万USDC流出、原因調査続く",
+      "summary": "Arbitrumはネイティブブリッジへの影響を否定 パーペチュアル分散型取引所（DEX）を展開するAFX（AFX Trade）がアービトラム（Arbitrum）上で運営するUSDCカストディブリッジで、不正な資金流出が発…",
+      "url": "https://www.neweconomy.jp/posts/594183",
+      "important": false
+    },
+    {
+      "date": "2026-07-23",
+      "title": "オンチェーン金融の現在地、政策・市場・技術が描く日本の針路｜WebX2026",
+      "summary": "WebX2026「オンチェーン金融の現在地」セッションレポート。平将明・齋藤正勝・蓮尾聡・神田潤一の4氏が登壇し、AI・オンチェーン金融構想PTの提言をもとに、ステーブルコインやトークン化預金が変える金融の未来と日本の針…",
+      "url": "https://coinpost.jp/?p=725309",
+      "important": false
+    },
+    {
+      "date": "2026-07-23",
+      "title": "ステーブルコイン実装へ Stripe・Visaが描くアジアのリテール決済｜WebX2026",
+      "summary": "WebX2026のセッション「ステーブルコイン実装期」レポート。Stripe傘下のPrivy、Visa、NERO Chainの登壇者が、ステーブルコインの実装状況とアジア太平洋地域における決済インフラの変化、エージェント…",
+      "url": "https://coinpost.jp/?p=726293",
+      "important": false
+    },
+    {
+      "date": "2026-07-23",
+      "title": "ステーブルコイン流入、資本規制を無効化か＝BIS分析",
+      "summary": "国際決済銀行（BIS）の作業論文が、預金ドル化とステーブルコインの流入動向を130超の国・地域のデータで比較分析。資本規制は預金ドル化の抑制に効果があるが、ステーブルコインの流入には統計的に有意な効果が見られないと指摘し…",
+      "url": "https://coinpost.jp/?p=726661",
+      "important": true
+    },
+    {
+      "date": "2026-07-23",
+      "title": "みずほ証券、クラリティー法でサークルのUSDC競合加速を懸念",
+      "summary": "みずほ証券のアナリストがUSDC発行企業サークルへの投資評価を「アンダーパフォーム」に引き下げた。クラリティー法の成立でステーブルコイン競合が加速し、収益基盤が侵食されるとの見解を示した。",
+      "url": "https://coinpost.jp/?p=726604",
+      "important": true
+    },
+    {
+      "date": "2026-07-23",
+      "title": "Goldman Sachs CEO backs Clarity Act despite banking industry's concerns over stablecoin rules",
+      "summary": "The Goldman Sachs CEO said the crypto market structure bill would create a more stable regulatory framework, b…",
+      "url": "https://www.coindesk.com/policy/2026/07/23/goldman-sachs-ceo-backs-clarity-act-despite-banking-industry-s-concerns-over-stablecoin-rules",
+      "important": true
+    },
+    {
+      "date": "2026-07-23",
+      "title": "Kakao taps Circle to explore won stablecoin payment infrastructure",
+      "summary": "Kakao Group and Circle signed an MOU to explore won stablecoin payments, remittances, merchant settlement and …",
+      "url": "https://cointelegraph.com/news/kakao-circle-won-stablecoin-payment-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-07-23",
+      "title": "Arbitrum-based AFX Trade drained of $24 million after bridge keys compromised",
+      "summary": "Security firms said the attacker used enough hot-validator signatures to approve a 24.15 million USDC withdraw…",
+      "url": "https://www.coindesk.com/tech/2026/07/23/arbitrum-based-afx-trade-drained-of-usd24-million-after-bridge-keys-compromised",
+      "important": true
     },
     {
       "date": "2026-07-22",
