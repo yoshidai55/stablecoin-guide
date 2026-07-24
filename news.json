@@ -1,41 +1,41 @@
 {
-  "updated": "2026-07-24T06:06:36+09:00",
+  "updated": "2026-07-25T06:06:17+09:00",
   "items": [
     {
       "date": "2026-07-24",
-      "title": "ゴールドマン・サックスCEOがクラリティー法案支持、銀行業界と対立か",
-      "summary": "ゴールドマン・サックスのソロモンCEOが米「クラリティー法案」への支持を表明した。JPモルガンなど大手銀行がステーブルコイン規定への反対を続ける中、業界内立場の違いが鮮明になっている。",
-      "url": "https://coinpost.jp/?p=726926"
+      "title": "米コインベース、AIエージェントからのUSDC決済受付を企業向けに開始",
+      "summary": "個人向け取引機能や開発者向け「x402 SDK」も拡充 米暗号資産（仮想通貨）取引所コインベース（Coinbase）が、企業向けサービス「コインベース・ビジネス（Coinbase Business）」でAIエージェントか…",
+      "url": "https://www.neweconomy.jp/posts/594616"
     },
     {
-      "date": "2026-07-23",
-      "title": "テザーの金連動トークン「XAUT」、ADGMの受入対象現物商品に認定",
-      "summary": "XAUTがADGMの受入対象現物商品に認定 金連動トークン「テザーゴールド（XAUT）」が、アブダビの国際金融センター「アブダビグローバルマーケット（ADGM）」の受入対象現物商品として認定された。大手ステーブルコイン発…",
-      "url": "https://www.neweconomy.jp/posts/594196"
+      "date": "2026-07-24",
+      "title": "米サークル、韓国カカオグループとMOU。USDC活用など共同検討",
+      "summary": "韓国で決済・清算・デジタル資産連携の活用機会を評価 米ドル建てステーブルコイン「USDC」の発行元サークル（Circle）が、韓国のカカオグループ（Kakao Group）と、韓国におけるブロックチェーン基盤の決済インフ…",
+      "url": "https://www.neweconomy.jp/posts/594589"
     },
     {
-      "date": "2026-07-23",
-      "title": "AFXのアービトラム向けUSDCブリッジで約2,415万USDC流出、原因調査続く",
-      "summary": "Arbitrumはネイティブブリッジへの影響を否定 パーペチュアル分散型取引所（DEX）を展開するAFX（AFX Trade）がアービトラム（Arbitrum）上で運営するUSDCカストディブリッジで、不正な資金流出が発…",
-      "url": "https://www.neweconomy.jp/posts/594183"
+      "date": "2026-07-24",
+      "title": "Samsung Wallet plans stablecoin support in digital payments expansion",
+      "summary": "Samsung Electronics plans to add stablecoin support to Samsung Wallet, expanding its mobile payments and rewar…",
+      "url": "https://cointelegraph.com/news/samsung-wallet-stablecoin-support-galaxy-unpacked?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     },
     {
-      "date": "2026-07-23",
-      "title": "オンチェーン金融の現在地、政策・市場・技術が描く日本の針路｜WebX2026",
-      "summary": "WebX2026「オンチェーン金融の現在地」セッションレポート。平将明・齋藤正勝・蓮尾聡・神田潤一の4氏が登壇し、AI・オンチェーン金融構想PTの提言をもとに、ステーブルコインやトークン化預金が変える金融の未来と日本の針…",
-      "url": "https://coinpost.jp/?p=725309"
+      "date": "2026-07-24",
+      "title": "Philippine bank BPI plans stablecoin payments pilot",
+      "summary": "The Philippine bank is preparing a stablecoin settlement pilot intended to speed up and reduce the cost of ove…",
+      "url": "https://cointelegraph.com/news/philippine-bank-bpi-plans-stablecoin-payments-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     },
     {
-      "date": "2026-07-23",
-      "title": "ステーブルコイン実装へ Stripe・Visaが描くアジアのリテール決済｜WebX2026",
-      "summary": "WebX2026のセッション「ステーブルコイン実装期」レポート。Stripe傘下のPrivy、Visa、NERO Chainの登壇者が、ステーブルコインの実装状況とアジア太平洋地域における決済インフラの変化、エージェント…",
-      "url": "https://coinpost.jp/?p=726293"
+      "date": "2026-07-24",
+      "title": "South Korea’s Korbit to rebrand as Digital X under Mirae: Report",
+      "summary": "Mirae Asset reportedly plans to use the South Korean crypto exchange as a hub for tokenized assets, stablecoin…",
+      "url": "https://cointelegraph.com/news/korbit-rebrand-digital-x-mirae-asset?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     },
     {
-      "date": "2026-07-23",
-      "title": "ステーブルコイン流入、資本規制を無効化か＝BIS分析",
-      "summary": "国際決済銀行（BIS）の作業論文が、預金ドル化とステーブルコインの流入動向を130超の国・地域のデータで比較分析。資本規制は預金ドル化の抑制に効果があるが、ステーブルコインの流入には統計的に有意な効果が見られないと指摘し…",
-      "url": "https://coinpost.jp/?p=726661"
+      "date": "2026-07-24",
+      "title": "Ripple launches Mint to expand institutional access to RLUSD",
+      "summary": "Ripple launches Mint to expand RLUSD access for institutions as the stablecoin’s market cap approaches $1.6 bi…",
+      "url": "https://cointelegraph.com/news/ripple-mint-expand-institutional-access-rlusd?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T06:06:36+09:00",
+  "updated": "2026-07-25T06:06:17+09:00",
   "items": [
     {
       "date": "2026-07-24",
@@ -27,6 +27,62 @@
       "title": "Goldman Sachs CEO backs ‘not perfect’ CLARITY Act as vote expected soon",
       "summary": "Goldman chief David Solomon will support the crypto market structure bill now in Congress, even as financial c…",
       "url": "https://cointelegraph.com/news/goldman-sachs-ceo-clarity-act-stablecoin-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-07-24",
+      "title": "米コインベース、AIエージェントからのUSDC決済受付を企業向けに開始",
+      "summary": "個人向け取引機能や開発者向け「x402 SDK」も拡充 米暗号資産（仮想通貨）取引所コインベース（Coinbase）が、企業向けサービス「コインベース・ビジネス（Coinbase Business）」でAIエージェントか…",
+      "url": "https://www.neweconomy.jp/posts/594616",
+      "important": false
+    },
+    {
+      "date": "2026-07-24",
+      "title": "米サークル、韓国カカオグループとMOU。USDC活用など共同検討",
+      "summary": "韓国で決済・清算・デジタル資産連携の活用機会を評価 米ドル建てステーブルコイン「USDC」の発行元サークル（Circle）が、韓国のカカオグループ（Kakao Group）と、韓国におけるブロックチェーン基盤の決済インフ…",
+      "url": "https://www.neweconomy.jp/posts/594589",
+      "important": false
+    },
+    {
+      "date": "2026-07-24",
+      "title": "Samsung Wallet plans stablecoin support in digital payments expansion",
+      "summary": "Samsung Electronics plans to add stablecoin support to Samsung Wallet, expanding its mobile payments and rewar…",
+      "url": "https://cointelegraph.com/news/samsung-wallet-stablecoin-support-galaxy-unpacked?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-07-24",
+      "title": "Philippine bank BPI plans stablecoin payments pilot",
+      "summary": "The Philippine bank is preparing a stablecoin settlement pilot intended to speed up and reduce the cost of ove…",
+      "url": "https://cointelegraph.com/news/philippine-bank-bpi-plans-stablecoin-payments-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-07-24",
+      "title": "South Korea’s Korbit to rebrand as Digital X under Mirae: Report",
+      "summary": "Mirae Asset reportedly plans to use the South Korean crypto exchange as a hub for tokenized assets, stablecoin…",
+      "url": "https://cointelegraph.com/news/korbit-rebrand-digital-x-mirae-asset?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-07-24",
+      "title": "Ripple launches Mint to expand institutional access to RLUSD",
+      "summary": "Ripple launches Mint to expand RLUSD access for institutions as the stablecoin’s market cap approaches $1.6 bi…",
+      "url": "https://cointelegraph.com/news/ripple-mint-expand-institutional-access-rlusd?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-07-24",
+      "title": "Ripple’s RLUSD gets two boosts as transfer volume drops 25%",
+      "summary": "Ripple launched an institutional minting platform and added RLUSD to Notabene’s compliance network as holder g…",
+      "url": "https://www.coindesk.com/business/2026/07/24/ripple-s-rlusd-gets-two-boosts-as-transfer-volume-drops-25",
+      "important": true
+    },
+    {
+      "date": "2026-07-24",
+      "title": "Mirae plans to turn crypto exchange Korbit into something Korea hasn't seen before",
+      "summary": "The South Korean financial giant says its Korbit – soon to be rebranded as Digital X – is just the starting po…",
+      "url": "https://www.coindesk.com/markets/2026/07/24/mirae-asset-has-a-name-for-what-it-s-building-with-korbit-an-intelligent-platform",
       "important": false
     },
     {
