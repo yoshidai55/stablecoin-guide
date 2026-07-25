@@ -1,6 +1,34 @@
 {
-  "updated": "2026-07-25T06:06:17+09:00",
+  "updated": "2026-07-26T05:55:00+09:00",
   "items": [
+    {
+      "date": "2026-07-26",
+      "title": "Wise to resubmit US charter application under GENIUS Act",
+      "summary": "The OCC denied the UK company’s application this week citing AML/CFT risks, despite approving similar charters…",
+      "url": "https://cointelegraph.com/news/wise-resubmit-occ-charter-application-genius-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-07-25",
+      "title": "米ラトニック商務長官ら、ジーニアス法をテザー社有利に進めた疑い浮上＝報道",
+      "summary": "ラトニック米商務長官と元政権高官ハインズ氏がステーブルコイン規制「ジーニアス法」をテザー社有利に導いた疑いをブルームバーグが報じた。テザー社は否定している。",
+      "url": "https://coinpost.jp/?p=727296",
+      "important": true
+    },
+    {
+      "date": "2026-07-25",
+      "title": "リップル、ステーブルコインRLUSDの新プラットフォーム「Ripple Mint」をローンチ",
+      "summary": "リップルは、米ドルステーブルコインRLUSDの機関向けプラットフォームRipple Mintをローンチ。RLUSDを利用する機関に柔軟性を提供する。",
+      "url": "https://coinpost.jp/?p=727286",
+      "important": false
+    },
+    {
+      "date": "2026-07-25",
+      "title": "Robinhood Chain's real-world assets jump fivefold as tokenized stocks start trading in bigger size",
+      "summary": "The chain built to put equities onchain has tripled in size since mid-July, and a dozen tokenized stocks are n…",
+      "url": "https://www.coindesk.com/business/2026/07/25/robinhood-chain-s-real-world-assets-jump-fivefold-as-tokenized-stocks-start-trading-in-bigger-size",
+      "important": false
+    },
     {
       "date": "2026-07-24",
       "title": "ゴールドマン・サックスCEOがクラリティー法案支持、銀行業界と対立か",
@@ -83,6 +111,20 @@
       "title": "Mirae plans to turn crypto exchange Korbit into something Korea hasn't seen before",
       "summary": "The South Korean financial giant says its Korbit – soon to be rebranded as Digital X – is just the starting po…",
       "url": "https://www.coindesk.com/markets/2026/07/24/mirae-asset-has-a-name-for-what-it-s-building-with-korbit-an-intelligent-platform",
+      "important": false
+    },
+    {
+      "date": "2026-07-24",
+      "title": "伝統金融とDeFiの融合、新しい金融商品が問う市場の境界線｜WebX2026",
+      "summary": "WebX 2026のパネル「伝統金融×DeFi」をレポート。Wintermute、Gauntlet、イタリア中央銀行が、トークン化やボールト、非ドル・ステーブルコインを軸に、DeFiと伝統金融が交わる市場の境界線を論じた…",
+      "url": "https://coinpost.jp/?p=724390",
+      "important": false
+    },
+    {
+      "date": "2026-07-24",
+      "title": "円ステーブルコイン決済の実装期、5社が語る現在地｜WebX2026",
+      "summary": "WebX2026「円ステーブルコインの実装期」セッションレポート。Binance Japan・HashPort・Slash Vision・ネットスターズ・トレーダムが決済実績と普及への課題を議論。",
+      "url": "https://coinpost.jp/?p=724284",
       "important": false
     },
     {
