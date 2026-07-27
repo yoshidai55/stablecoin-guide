@@ -1,41 +1,41 @@
 {
-  "updated": "2026-07-26T05:55:00+09:00",
+  "updated": "2026-07-28T06:12:49+09:00",
   "items": [
     {
-      "date": "2026-07-25",
-      "title": "米ラトニック商務長官ら、ジーニアス法をテザー社有利に進めた疑い浮上＝報道",
-      "summary": "ラトニック米商務長官と元政権高官ハインズ氏がステーブルコイン規制「ジーニアス法」をテザー社有利に導いた疑いをブルームバーグが報じた。テザー社は否定している。",
-      "url": "https://coinpost.jp/?p=727296"
+      "date": "2026-07-28",
+      "title": "サークル、約1000件のIBMブロックチェーン特許を取得",
+      "summary": "ステーブルコイン大手サークルがIBMのブロックチェーン特許ポートフォリオを取得したと発表した。680件超の特許ファミリーを獲得し、米国内最大の保有企業となった。USDC等の基盤強化に活用する方針。",
+      "url": "https://coinpost.jp/?p=727914"
     },
     {
-      "date": "2026-07-25",
-      "title": "リップル、ステーブルコインRLUSDの新プラットフォーム「Ripple Mint」をローンチ",
-      "summary": "リップルは、米ドルステーブルコインRLUSDの機関向けプラットフォームRipple Mintをローンチ。RLUSDを利用する機関に柔軟性を提供する。",
-      "url": "https://coinpost.jp/?p=727286"
+      "date": "2026-07-27",
+      "title": "サムスンの「Samsung Wallet」がステーブルコイン対応へ、主要スマホブランドとして先駆け目指す",
+      "summary": "Galaxy向け金融基盤を拡張、決済・リワード・デジタル資産を統合へ サムスン電子（Samsung Electronics）が、スマートフォン向けウォレット「サムスンウォレット（Samsung Wallet）」について、…",
+      "url": "https://www.neweconomy.jp/posts/595145"
     },
     {
-      "date": "2026-07-24",
-      "title": "伝統金融とDeFiの融合、新しい金融商品が問う市場の境界線｜WebX2026",
-      "summary": "WebX 2026のパネル「伝統金融×DeFi」をレポート。Wintermute、Gauntlet、イタリア中央銀行が、トークン化やボールト、非ドル・ステーブルコインを軸に、DeFiと伝統金融が交わる市場の境界線を論じた…",
-      "url": "https://coinpost.jp/?p=724390"
+      "date": "2026-07-27",
+      "title": "リップル、機関向けRLUSD管理基盤「Ripple Mint」提供開始",
+      "summary": "企業システムへのRLUSD導入を支援、マルチチェーン展開も推進 リップル（Ripple）が、米ドル建てステーブルコイン「リップルUSD（Ripple USD：RLUSD）」の機関向け管理基盤「リップル・ミント（Rippl…",
+      "url": "https://www.neweconomy.jp/posts/595059"
     },
     {
-      "date": "2026-07-24",
-      "title": "円ステーブルコイン決済の実装期、5社が語る現在地｜WebX2026",
-      "summary": "WebX2026「円ステーブルコインの実装期」セッションレポート。Binance Japan・HashPort・Slash Vision・ネットスターズ・トレーダムが決済実績と普及への課題を議論。",
-      "url": "https://coinpost.jp/?p=724284"
+      "date": "2026-07-27",
+      "title": "コインベースCEO「仮想通貨はAI時代に重要性増す」",
+      "summary": "コインベースのアームストロングCEOがX（旧Twitter）で、AIエージェント向け金融基盤「AiFi」構想を発信。仮想通貨はAIの台頭で重要性を増すとし、x402プロトコルとBase、USDCによる自律決済の広がりを説…",
+      "url": "https://coinpost.jp/?p=727369"
     },
     {
-      "date": "2026-07-24",
-      "title": "米コインベース、AIエージェントからのUSDC決済受付を企業向けに開始",
-      "summary": "個人向け取引機能や開発者向け「x402 SDK」も拡充 米暗号資産（仮想通貨）取引所コインベース（Coinbase）が、企業向けサービス「コインベース・ビジネス（Coinbase Business）」でAIエージェントか…",
-      "url": "https://www.neweconomy.jp/posts/594616"
+      "date": "2026-07-27",
+      "title": "韓国発ゲームWEMIX、独自ステーブルコイン不正発行 約10億円流出",
+      "summary": "韓国発のブロックチェーンゲームプラットフォームWEMIXが発行する独自のステーブルコインで、スマートコントラクトのオーナー権限が乗っ取られる不正発行事件が発生。約10億円相当が流出し、WEMIXが対応状況を公表した。",
+      "url": "https://coinpost.jp/?p=727360"
     },
     {
-      "date": "2026-07-24",
-      "title": "米サークル、韓国カカオグループとMOU。USDC活用など共同検討",
-      "summary": "韓国で決済・清算・デジタル資産連携の活用機会を評価 米ドル建てステーブルコイン「USDC」の発行元サークル（Circle）が、韓国のカカオグループ（Kakao Group）と、韓国におけるブロックチェーン基盤の決済インフ…",
-      "url": "https://www.neweconomy.jp/posts/594589"
+      "date": "2026-07-28",
+      "title": "Tether’s XAUt gold token receives Shariah certification to expand Islamic finance access",
+      "summary": "The certification could expand access to Tether’s gold-backed token among Islamic financial institutions and i…",
+      "url": "https://cointelegraph.com/news/tether-xaut-gold-token-receives-shariah-certification-islamic-finance-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     }
   ]
 }
