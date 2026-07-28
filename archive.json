@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T06:12:49+09:00",
+  "updated": "2026-07-29T06:09:55+09:00",
   "items": [
     {
       "date": "2026-07-28",
@@ -13,6 +13,34 @@
       "title": "Tether’s XAUt gold token receives Shariah certification to expand Islamic finance access",
       "summary": "The certification could expand access to Tether’s gold-backed token among Islamic financial institutions and i…",
       "url": "https://cointelegraph.com/news/tether-xaut-gold-token-receives-shariah-certification-islamic-finance-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-07-28",
+      "title": "ウィミックスのステーブルコイン「WEMIX$」、約522万枚が不正発行",
+      "summary": "管理権限侵害でWEMIX$約522万枚を不正発行 韓国のゲーム会社ウィメイド（Wemade）が展開するブロックチェーンエコシステム「ウィミックス（WEMIX）」のチームが、米ドルに価値を連動させたステーブルコイン「WEM…",
+      "url": "https://www.neweconomy.jp/posts/595529",
+      "important": false
+    },
+    {
+      "date": "2026-07-28",
+      "title": "サムスン電子、Galaxyスマホのウォレットでステーブルコイン導入の方針",
+      "summary": "サムスン電子はGalaxyスマホ「Samsung Wallet」にステーブルコインを導入する計画だと発表した。USDCを想定したデモを披露したが、対応銘柄や開始時期、地域は未定だ。",
+      "url": "https://coinpost.jp/?p=728017",
+      "important": false
+    },
+    {
+      "date": "2026-07-28",
+      "title": "PayPal expands stablecoin push as crypto assets factor into Q2 results",
+      "summary": "PayPal highlighted growth of stablecoins and AI-driven payment tools in Q2 while reporting $8.68 billion in re…",
+      "url": "https://cointelegraph.com/markets/paypal-expands-stablecoin-push-crypto-assets-q2-results?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-07-28",
+      "title": "IMF warns Brazil’s stablecoin activity outpaces traditional capital flows",
+      "summary": "The IMF said Brazil’s stablecoin market has expanded rapidly since 2017, with cross-border crypto flows growin…",
+      "url": "https://cointelegraph.com/news/imf-brazil-stablecoin-activity-outpaces-traditional-capital-flows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "important": false
     },
     {

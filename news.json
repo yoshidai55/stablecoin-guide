@@ -1,35 +1,29 @@
 {
-  "updated": "2026-07-28T06:12:49+09:00",
+  "updated": "2026-07-29T06:09:55+09:00",
   "items": [
     {
       "date": "2026-07-28",
-      "title": "サークル、約1000件のIBMブロックチェーン特許を取得",
-      "summary": "ステーブルコイン大手サークルがIBMのブロックチェーン特許ポートフォリオを取得したと発表した。680件超の特許ファミリーを獲得し、米国内最大の保有企業となった。USDC等の基盤強化に活用する方針。",
-      "url": "https://coinpost.jp/?p=727914"
+      "title": "ウィミックスのステーブルコイン「WEMIX$」、約522万枚が不正発行",
+      "summary": "管理権限侵害でWEMIX$約522万枚を不正発行 韓国のゲーム会社ウィメイド（Wemade）が展開するブロックチェーンエコシステム「ウィミックス（WEMIX）」のチームが、米ドルに価値を連動させたステーブルコイン「WEM…",
+      "url": "https://www.neweconomy.jp/posts/595529"
     },
     {
-      "date": "2026-07-27",
-      "title": "サムスンの「Samsung Wallet」がステーブルコイン対応へ、主要スマホブランドとして先駆け目指す",
-      "summary": "Galaxy向け金融基盤を拡張、決済・リワード・デジタル資産を統合へ サムスン電子（Samsung Electronics）が、スマートフォン向けウォレット「サムスンウォレット（Samsung Wallet）」について、…",
-      "url": "https://www.neweconomy.jp/posts/595145"
+      "date": "2026-07-28",
+      "title": "サムスン電子、Galaxyスマホのウォレットでステーブルコイン導入の方針",
+      "summary": "サムスン電子はGalaxyスマホ「Samsung Wallet」にステーブルコインを導入する計画だと発表した。USDCを想定したデモを披露したが、対応銘柄や開始時期、地域は未定だ。",
+      "url": "https://coinpost.jp/?p=728017"
     },
     {
-      "date": "2026-07-27",
-      "title": "リップル、機関向けRLUSD管理基盤「Ripple Mint」提供開始",
-      "summary": "企業システムへのRLUSD導入を支援、マルチチェーン展開も推進 リップル（Ripple）が、米ドル建てステーブルコイン「リップルUSD（Ripple USD：RLUSD）」の機関向け管理基盤「リップル・ミント（Rippl…",
-      "url": "https://www.neweconomy.jp/posts/595059"
+      "date": "2026-07-28",
+      "title": "PayPal expands stablecoin push as crypto assets factor into Q2 results",
+      "summary": "PayPal highlighted growth of stablecoins and AI-driven payment tools in Q2 while reporting $8.68 billion in re…",
+      "url": "https://cointelegraph.com/markets/paypal-expands-stablecoin-push-crypto-assets-q2-results?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     },
     {
-      "date": "2026-07-27",
-      "title": "コインベースCEO「仮想通貨はAI時代に重要性増す」",
-      "summary": "コインベースのアームストロングCEOがX（旧Twitter）で、AIエージェント向け金融基盤「AiFi」構想を発信。仮想通貨はAIの台頭で重要性を増すとし、x402プロトコルとBase、USDCによる自律決済の広がりを説…",
-      "url": "https://coinpost.jp/?p=727369"
-    },
-    {
-      "date": "2026-07-27",
-      "title": "韓国発ゲームWEMIX、独自ステーブルコイン不正発行 約10億円流出",
-      "summary": "韓国発のブロックチェーンゲームプラットフォームWEMIXが発行する独自のステーブルコインで、スマートコントラクトのオーナー権限が乗っ取られる不正発行事件が発生。約10億円相当が流出し、WEMIXが対応状況を公表した。",
-      "url": "https://coinpost.jp/?p=727360"
+      "date": "2026-07-28",
+      "title": "IMF warns Brazil’s stablecoin activity outpaces traditional capital flows",
+      "summary": "The IMF said Brazil’s stablecoin market has expanded rapidly since 2017, with cross-border crypto flows growin…",
+      "url": "https://cointelegraph.com/news/imf-brazil-stablecoin-activity-outpaces-traditional-capital-flows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     },
     {
       "date": "2026-07-28",
