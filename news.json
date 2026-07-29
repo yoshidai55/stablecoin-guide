@@ -1,35 +1,41 @@
 {
-  "updated": "2026-07-29T06:09:55+09:00",
+  "updated": "2026-07-30T05:58:40+09:00",
   "items": [
     {
-      "date": "2026-07-28",
-      "title": "ウィミックスのステーブルコイン「WEMIX$」、約522万枚が不正発行",
-      "summary": "管理権限侵害でWEMIX$約522万枚を不正発行 韓国のゲーム会社ウィメイド（Wemade）が展開するブロックチェーンエコシステム「ウィミックス（WEMIX）」のチームが、米ドルに価値を連動させたステーブルコイン「WEM…",
-      "url": "https://www.neweconomy.jp/posts/595529"
+      "date": "2026-07-29",
+      "title": "カートの先へ、決済大手3社が語るステーブルコイン決済の未来｜WebX2026",
+      "summary": "WebX2026のBinanceステージで、Mastercard・Binance Japan・Ellipticの3社がステーブルコイン決済の現在地を議論。加盟店決済の変化からAIエージェント時代の決済インフラ、断片化する…",
+      "url": "https://coinpost.jp/?p=728433"
     },
     {
-      "date": "2026-07-28",
-      "title": "サムスン電子、Galaxyスマホのウォレットでステーブルコイン導入の方針",
-      "summary": "サムスン電子はGalaxyスマホ「Samsung Wallet」にステーブルコインを導入する計画だと発表した。USDCを想定したデモを披露したが、対応銘柄や開始時期、地域は未定だ。",
-      "url": "https://coinpost.jp/?p=728017"
+      "date": "2026-07-29",
+      "title": "金裏付けトークン「テザーゴールド（XAUT）」、シャリア準拠認証を取得。イスラム金融での活用拡大を後押し",
+      "summary": "イスラム金融でのXAUT活用拡大を後押し 金裏付けトークン「テザーゴールド（Tether Gold：XAUT）」が、イスラム金融・シャリア助言会社アマナアドバイザーズ（Amanah Advisors）からシャリア準拠認証…",
+      "url": "https://www.neweconomy.jp/posts/595893"
     },
     {
-      "date": "2026-07-28",
-      "title": "PayPal expands stablecoin push as crypto assets factor into Q2 results",
-      "summary": "PayPal highlighted growth of stablecoins and AI-driven payment tools in Q2 while reporting $8.68 billion in re…",
-      "url": "https://cointelegraph.com/markets/paypal-expands-stablecoin-push-crypto-assets-q2-results?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      "date": "2026-07-29",
+      "title": "テザー、ケニアのナイロビ証券取引所とMoU締結。証券トークン化や即時決済を検討",
+      "summary": "Tetherがナイロビ証券取引所とMoU締結 大手ステーブルコイン発行企業テザー（Tether）が、ケニアのナイロビ証券取引所（Nairobi Securities Exchange：NSE）と覚書（MoU）を締結したと…",
+      "url": "https://www.neweconomy.jp/posts/595873"
     },
     {
-      "date": "2026-07-28",
-      "title": "IMF warns Brazil’s stablecoin activity outpaces traditional capital flows",
-      "summary": "The IMF said Brazil’s stablecoin market has expanded rapidly since 2017, with cross-border crypto flows growin…",
-      "url": "https://cointelegraph.com/news/imf-brazil-stablecoin-activity-outpaces-traditional-capital-flows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      "date": "2026-07-30",
+      "title": "Stablecoin firm Brale says new protocol can remove a major hurdle to scaling custom tokens",
+      "summary": "Today's bridge model won't scale as hundreds of companies issue their own stablecoins, fragmenting liquidity, …",
+      "url": "https://www.coindesk.com/business/2026/07/29/stablecoin-firm-brale-says-new-protocol-can-remove-a-major-hurdle-to-scaling-custom-tokens"
     },
     {
-      "date": "2026-07-28",
-      "title": "Tether’s XAUt gold token receives Shariah certification to expand Islamic finance access",
-      "summary": "The certification could expand access to Tether’s gold-backed token among Islamic financial institutions and i…",
-      "url": "https://cointelegraph.com/news/tether-xaut-gold-token-receives-shariah-certification-islamic-finance-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      "date": "2026-07-29",
+      "title": "UK policy sprint finds cross-border payments are stablecoins’ top use case",
+      "summary": "Industry participants said stablecoins offer the biggest near-term benefits for cross-border payments, while d…",
+      "url": "https://cointelegraph.com/news/uk-policy-cross-border-payments-stablecoins-use-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "date": "2026-07-29",
+      "title": "South Korea plans stablecoin rules as opposition pushes crypto tax repeal",
+      "summary": "The FSC reportedly plans a government-backed digital asset bill covering stablecoins and exchanges, while oppo…",
+      "url": "https://cointelegraph.com/news/south-korea-consolidated-crypto-law-tax-repeal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     }
   ]
 }

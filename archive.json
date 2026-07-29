@@ -1,6 +1,62 @@
 {
-  "updated": "2026-07-29T06:09:55+09:00",
+  "updated": "2026-07-30T05:58:40+09:00",
   "items": [
+    {
+      "date": "2026-07-30",
+      "title": "Stablecoin firm Brale says new protocol can remove a major hurdle to scaling custom tokens",
+      "summary": "Today's bridge model won't scale as hundreds of companies issue their own stablecoins, fragmenting liquidity, …",
+      "url": "https://www.coindesk.com/business/2026/07/29/stablecoin-firm-brale-says-new-protocol-can-remove-a-major-hurdle-to-scaling-custom-tokens",
+      "important": false
+    },
+    {
+      "date": "2026-07-29",
+      "title": "カートの先へ、決済大手3社が語るステーブルコイン決済の未来｜WebX2026",
+      "summary": "WebX2026のBinanceステージで、Mastercard・Binance Japan・Ellipticの3社がステーブルコイン決済の現在地を議論。加盟店決済の変化からAIエージェント時代の決済インフラ、断片化する…",
+      "url": "https://coinpost.jp/?p=728433",
+      "important": false
+    },
+    {
+      "date": "2026-07-29",
+      "title": "金裏付けトークン「テザーゴールド（XAUT）」、シャリア準拠認証を取得。イスラム金融での活用拡大を後押し",
+      "summary": "イスラム金融でのXAUT活用拡大を後押し 金裏付けトークン「テザーゴールド（Tether Gold：XAUT）」が、イスラム金融・シャリア助言会社アマナアドバイザーズ（Amanah Advisors）からシャリア準拠認証…",
+      "url": "https://www.neweconomy.jp/posts/595893",
+      "important": false
+    },
+    {
+      "date": "2026-07-29",
+      "title": "テザー、ケニアのナイロビ証券取引所とMoU締結。証券トークン化や即時決済を検討",
+      "summary": "Tetherがナイロビ証券取引所とMoU締結 大手ステーブルコイン発行企業テザー（Tether）が、ケニアのナイロビ証券取引所（Nairobi Securities Exchange：NSE）と覚書（MoU）を締結したと…",
+      "url": "https://www.neweconomy.jp/posts/595873",
+      "important": true
+    },
+    {
+      "date": "2026-07-29",
+      "title": "UK policy sprint finds cross-border payments are stablecoins’ top use case",
+      "summary": "Industry participants said stablecoins offer the biggest near-term benefits for cross-border payments, while d…",
+      "url": "https://cointelegraph.com/news/uk-policy-cross-border-payments-stablecoins-use-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-07-29",
+      "title": "South Korea plans stablecoin rules as opposition pushes crypto tax repeal",
+      "summary": "The FSC reportedly plans a government-backed digital asset bill covering stablecoins and exchanges, while oppo…",
+      "url": "https://cointelegraph.com/news/south-korea-consolidated-crypto-law-tax-repeal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-07-29",
+      "title": "Tether signs tokenization deal with Nairobi Securities Exchange",
+      "summary": "The agreement covers tokenized securities, blockchain-based market infrastructure and the potential use of USD…",
+      "url": "https://cointelegraph.com/markets/tether-signs-tokenization-deal-with-nairobi-securities-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-07-29",
+      "title": "Visa outlines stablecoin strategy during Q3 earnings call",
+      "summary": "Visa said it is investing across the stablecoin stack, highlighting OpenUSD, tokenized deposits and AI-powered…",
+      "url": "https://cointelegraph.com/markets/visa-earnings-stablecoin-strategy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
     {
       "date": "2026-07-28",
       "title": "サークル、約1000件のIBMブロックチェーン特許を取得",
