@@ -1,6 +1,12 @@
 {
-  "updated": "2026-07-30T05:58:40+09:00",
+  "updated": "2026-07-31T06:12:48+09:00",
   "items": [
+    {
+      "date": "2026-07-30",
+      "title": "テザー支援の米国向けステーブルコイン「USAT」、セロで稼働開始。ガス代支払いにも対応",
+      "summary": "イーサリアムメインネット以外で初の展開 テザー（Tether）が支援する米国市場向け米ドル建てステーブルコイン「USAT」が、イーサリアム（Ethereum）のレイヤー2ブロックチェーン「セロ（Celo）」で稼働を開始し…",
+      "url": "https://www.neweconomy.jp/posts/596314"
+    },
     {
       "date": "2026-07-29",
       "title": "カートの先へ、決済大手3社が語るステーブルコイン決済の未来｜WebX2026",
@@ -8,34 +14,22 @@
       "url": "https://coinpost.jp/?p=728433"
     },
     {
-      "date": "2026-07-29",
-      "title": "金裏付けトークン「テザーゴールド（XAUT）」、シャリア準拠認証を取得。イスラム金融での活用拡大を後押し",
-      "summary": "イスラム金融でのXAUT活用拡大を後押し 金裏付けトークン「テザーゴールド（Tether Gold：XAUT）」が、イスラム金融・シャリア助言会社アマナアドバイザーズ（Amanah Advisors）からシャリア準拠認証…",
-      "url": "https://www.neweconomy.jp/posts/595893"
-    },
-    {
-      "date": "2026-07-29",
-      "title": "テザー、ケニアのナイロビ証券取引所とMoU締結。証券トークン化や即時決済を検討",
-      "summary": "Tetherがナイロビ証券取引所とMoU締結 大手ステーブルコイン発行企業テザー（Tether）が、ケニアのナイロビ証券取引所（Nairobi Securities Exchange：NSE）と覚書（MoU）を締結したと…",
-      "url": "https://www.neweconomy.jp/posts/595873"
+      "date": "2026-07-31",
+      "title": "Coinbase Q2 profit misses estimates despite record crypto market share",
+      "summary": "The crypto exchange blamed softer spot trading and low volatility for the earnings miss while highlighting gro…",
+      "url": "https://cointelegraph.com/markets/coinbase-q2-earnings-record-crypto-market-share?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     },
     {
       "date": "2026-07-30",
-      "title": "Stablecoin firm Brale says new protocol can remove a major hurdle to scaling custom tokens",
-      "summary": "Today's bridge model won't scale as hundreds of companies issue their own stablecoins, fragmenting liquidity, …",
-      "url": "https://www.coindesk.com/business/2026/07/29/stablecoin-firm-brale-says-new-protocol-can-remove-a-major-hurdle-to-scaling-custom-tokens"
+      "title": "Samsung unit explores stablecoin infrastructure with Upbit’s operator",
+      "summary": "Samsung SDS is discussing stablecoin infrastructure and AI-based payment models with Dunamu, the operator of S…",
+      "url": "https://cointelegraph.com/news/samsung-sds-stablecoin-infrastructure-dunamu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     },
     {
-      "date": "2026-07-29",
-      "title": "UK policy sprint finds cross-border payments are stablecoins’ top use case",
-      "summary": "Industry participants said stablecoins offer the biggest near-term benefits for cross-border payments, while d…",
-      "url": "https://cointelegraph.com/news/uk-policy-cross-border-payments-stablecoins-use-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "date": "2026-07-29",
-      "title": "South Korea plans stablecoin rules as opposition pushes crypto tax repeal",
-      "summary": "The FSC reportedly plans a government-backed digital asset bill covering stablecoins and exchanges, while oppo…",
-      "url": "https://cointelegraph.com/news/south-korea-consolidated-crypto-law-tax-repeal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      "date": "2026-07-30",
+      "title": "South Korea report proposes stablecoin rules before crypto law",
+      "summary": "Policy report recommends interim licensing guidance, greater flexibility for stablecoin issuers and rules ahea…",
+      "url": "https://cointelegraph.com/news/south-korea-report-stablecoin-rules-crypto-law?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     }
   ]
 }

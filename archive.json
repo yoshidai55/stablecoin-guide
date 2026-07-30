@@ -1,11 +1,39 @@
 {
-  "updated": "2026-07-30T05:58:40+09:00",
+  "updated": "2026-07-31T06:12:48+09:00",
   "items": [
+    {
+      "date": "2026-07-31",
+      "title": "Coinbase Q2 profit misses estimates despite record crypto market share",
+      "summary": "The crypto exchange blamed softer spot trading and low volatility for the earnings miss while highlighting gro…",
+      "url": "https://cointelegraph.com/markets/coinbase-q2-earnings-record-crypto-market-share?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
     {
       "date": "2026-07-30",
       "title": "Stablecoin firm Brale says new protocol can remove a major hurdle to scaling custom tokens",
       "summary": "Today's bridge model won't scale as hundreds of companies issue their own stablecoins, fragmenting liquidity, …",
       "url": "https://www.coindesk.com/business/2026/07/29/stablecoin-firm-brale-says-new-protocol-can-remove-a-major-hurdle-to-scaling-custom-tokens",
+      "important": false
+    },
+    {
+      "date": "2026-07-30",
+      "title": "テザー支援の米国向けステーブルコイン「USAT」、セロで稼働開始。ガス代支払いにも対応",
+      "summary": "イーサリアムメインネット以外で初の展開 テザー（Tether）が支援する米国市場向け米ドル建てステーブルコイン「USAT」が、イーサリアム（Ethereum）のレイヤー2ブロックチェーン「セロ（Celo）」で稼働を開始し…",
+      "url": "https://www.neweconomy.jp/posts/596314",
+      "important": false
+    },
+    {
+      "date": "2026-07-30",
+      "title": "Samsung unit explores stablecoin infrastructure with Upbit’s operator",
+      "summary": "Samsung SDS is discussing stablecoin infrastructure and AI-based payment models with Dunamu, the operator of S…",
+      "url": "https://cointelegraph.com/news/samsung-sds-stablecoin-infrastructure-dunamu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-07-30",
+      "title": "South Korea report proposes stablecoin rules before crypto law",
+      "summary": "Policy report recommends interim licensing guidance, greater flexibility for stablecoin issuers and rules ahea…",
+      "url": "https://cointelegraph.com/news/south-korea-report-stablecoin-rules-crypto-law?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "important": false
     },
     {
