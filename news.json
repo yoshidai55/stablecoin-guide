@@ -1,35 +1,41 @@
 {
-  "updated": "2026-07-31T06:12:48+09:00",
+  "updated": "2026-08-01T06:07:36+09:00",
   "items": [
     {
-      "date": "2026-07-30",
-      "title": "テザー支援の米国向けステーブルコイン「USAT」、セロで稼働開始。ガス代支払いにも対応",
-      "summary": "イーサリアムメインネット以外で初の展開 テザー（Tether）が支援する米国市場向け米ドル建てステーブルコイン「USAT」が、イーサリアム（Ethereum）のレイヤー2ブロックチェーン「セロ（Celo）」で稼働を開始し…",
-      "url": "https://www.neweconomy.jp/posts/596314"
-    },
-    {
-      "date": "2026-07-29",
-      "title": "カートの先へ、決済大手3社が語るステーブルコイン決済の未来｜WebX2026",
-      "summary": "WebX2026のBinanceステージで、Mastercard・Binance Japan・Ellipticの3社がステーブルコイン決済の現在地を議論。加盟店決済の変化からAIエージェント時代の決済インフラ、断片化する…",
-      "url": "https://coinpost.jp/?p=728433"
+      "date": "2026-08-01",
+      "title": "USDC発行企業サークル、ニューヨーク州から信託免許を取得",
+      "summary": "サークルがニューヨーク州金融サービス局から限定目的信託免許を取得したと発表した。ステーブルコインUSDCの発行体制強化に向け、規制対応をさらに深める。",
+      "url": "https://coinpost.jp/?p=729175"
     },
     {
       "date": "2026-07-31",
-      "title": "Coinbase Q2 profit misses estimates despite record crypto market share",
-      "summary": "The crypto exchange blamed softer spot trading and low volatility for the earnings miss while highlighting gro…",
-      "url": "https://cointelegraph.com/markets/coinbase-q2-earnings-record-crypto-market-share?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      "title": "【7/31話題】ケネディクスら4社が不動産STとステーブルコインのクロスチェーンDvP実証、ストラテジーのQ2決算は83億ドルの営業損失など（音声ニュース）",
+      "summary": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif…",
+      "url": "https://www.neweconomy.jp/posts/596853"
     },
     {
-      "date": "2026-07-30",
-      "title": "Samsung unit explores stablecoin infrastructure with Upbit’s operator",
-      "summary": "Samsung SDS is discussing stablecoin infrastructure and AI-based payment models with Dunamu, the operator of S…",
-      "url": "https://cointelegraph.com/news/samsung-sds-stablecoin-infrastructure-dunamu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      "date": "2026-07-31",
+      "title": "サムスンSDS、アップビット運営元ドゥナムとデジタル資産協業を検討。ステーブルコイン基盤など",
+      "summary": "サムスンSDSがDunamuと協業検討 サムスンSDS（Samsung SDS）が、韓国最大の暗号資産（仮想通貨）取引所アップビット（Upbit）を運営するドゥナム（Dunamu）とのデジタル資産分野における協業案を検討…",
+      "url": "https://www.neweconomy.jp/posts/596761"
     },
     {
-      "date": "2026-07-30",
-      "title": "South Korea report proposes stablecoin rules before crypto law",
-      "summary": "Policy report recommends interim licensing guidance, greater flexibility for stablecoin issuers and rules ahea…",
-      "url": "https://cointelegraph.com/news/south-korea-report-stablecoin-rules-crypto-law?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      "date": "2026-07-31",
+      "title": "バイナンスジャパン、熊本地震の被災地に1000万円拠出",
+      "summary": "バイナンスジャパンが令和8年熊本地震の被災地支援として1000万円の拠出を決定。拠出先は救援・復旧で活動する国内NGOで選定は調整中。2018年の西日本豪雨での寄付実績や、JPYCが進める寄附スキームの金融庁照会も解説す…",
+      "url": "https://coinpost.jp/?p=728995"
+    },
+    {
+      "date": "2026-07-31",
+      "title": "コインベース決算発表、予測市場収益倍増も577億円純損失を計上",
+      "summary": "コインベースが2026年4-6月期決算を発表した。純損失は3億5,950万ドルとなり、市場予想を上回る規模となった。一方でステーブルコイン事業や予測市場は伸びを示した。",
+      "url": "https://coinpost.jp/?p=728904"
+    },
+    {
+      "date": "2026-07-31",
+      "title": "AIエージェントは誰が支配するのか、所有権と通貨主権のゆくえ｜WebX2026",
+      "summary": "WebX2026で開催されたAIエージェント経済パネルを詳報。Animoca Yat Siu氏、元FRB幹部Sunayna Tuteja氏、Perplexity森田俊氏が、AI活用の実態からステーブルコイン、通貨主権まで…",
+      "url": "https://coinpost.jp/?p=728892"
     }
   ]
 }

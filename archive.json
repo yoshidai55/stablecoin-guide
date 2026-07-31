@@ -1,12 +1,82 @@
 {
-  "updated": "2026-07-31T06:12:48+09:00",
+  "updated": "2026-08-01T06:07:36+09:00",
   "items": [
+    {
+      "date": "2026-08-01",
+      "title": "USDC発行企業サークル、ニューヨーク州から信託免許を取得",
+      "summary": "サークルがニューヨーク州金融サービス局から限定目的信託免許を取得したと発表した。ステーブルコインUSDCの発行体制強化に向け、規制対応をさらに深める。",
+      "url": "https://coinpost.jp/?p=729175",
+      "important": true
+    },
+    {
+      "date": "2026-08-01",
+      "title": "Bank of Italy finds no consistent cost advantage for stablecoin remittances",
+      "summary": "Researchers found that fiat conversion costs and payment infrastructure, rather than blockchain fees, accounte…",
+      "url": "https://cointelegraph.com/news/bank-of-italy-study-no-stablecoin-remittance-cost-advantages?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-08-01",
+      "title": "Tether posts $1.5 billion operating profit in Q2 as reserve buffer falls by half",
+      "summary": "The world’s largest stablecoin issuer added 14 metric tons of gold and about 1,800 bitcoin to its reserves dur…",
+      "url": "https://www.coindesk.com/business/2026/07/31/tether-posts-usd1-5-billion-operating-profit-in-q2-as-reserve-buffer-falls-by-half",
+      "important": false
+    },
+    {
+      "date": "2026-08-01",
+      "title": "Tether earns $1.5B in Q2 as US Treasury holdings fuel profits",
+      "summary": "Tether’s reserve surplus grew to $4.11 billion in the second quarter as USDT supply rose despite a weaker stab…",
+      "url": "https://cointelegraph.com/news/tether-q2-profit-us-treasury-holdings-usdt-supply?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
     {
       "date": "2026-07-31",
       "title": "Coinbase Q2 profit misses estimates despite record crypto market share",
       "summary": "The crypto exchange blamed softer spot trading and low volatility for the earnings miss while highlighting gro…",
       "url": "https://cointelegraph.com/markets/coinbase-q2-earnings-record-crypto-market-share?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "important": false
+    },
+    {
+      "date": "2026-07-31",
+      "title": "【7/31話題】ケネディクスら4社が不動産STとステーブルコインのクロスチェーンDvP実証、ストラテジーのQ2決算は83億ドルの営業損失など（音声ニュース）",
+      "summary": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif…",
+      "url": "https://www.neweconomy.jp/posts/596853",
+      "important": false
+    },
+    {
+      "date": "2026-07-31",
+      "title": "サムスンSDS、アップビット運営元ドゥナムとデジタル資産協業を検討。ステーブルコイン基盤など",
+      "summary": "サムスンSDSがDunamuと協業検討 サムスンSDS（Samsung SDS）が、韓国最大の暗号資産（仮想通貨）取引所アップビット（Upbit）を運営するドゥナム（Dunamu）とのデジタル資産分野における協業案を検討…",
+      "url": "https://www.neweconomy.jp/posts/596761",
+      "important": false
+    },
+    {
+      "date": "2026-07-31",
+      "title": "バイナンスジャパン、熊本地震の被災地に1000万円拠出",
+      "summary": "バイナンスジャパンが令和8年熊本地震の被災地支援として1000万円の拠出を決定。拠出先は救援・復旧で活動する国内NGOで選定は調整中。2018年の西日本豪雨での寄付実績や、JPYCが進める寄附スキームの金融庁照会も解説す…",
+      "url": "https://coinpost.jp/?p=728995",
+      "important": true
+    },
+    {
+      "date": "2026-07-31",
+      "title": "コインベース決算発表、予測市場収益倍増も577億円純損失を計上",
+      "summary": "コインベースが2026年4-6月期決算を発表した。純損失は3億5,950万ドルとなり、市場予想を上回る規模となった。一方でステーブルコイン事業や予測市場は伸びを示した。",
+      "url": "https://coinpost.jp/?p=728904",
+      "important": false
+    },
+    {
+      "date": "2026-07-31",
+      "title": "AIエージェントは誰が支配するのか、所有権と通貨主権のゆくえ｜WebX2026",
+      "summary": "WebX2026で開催されたAIエージェント経済パネルを詳報。Animoca Yat Siu氏、元FRB幹部Sunayna Tuteja氏、Perplexity森田俊氏が、AI活用の実態からステーブルコイン、通貨主権まで…",
+      "url": "https://coinpost.jp/?p=728892",
+      "important": false
+    },
+    {
+      "date": "2026-07-31",
+      "title": "Circle secures New York trust charter as crypto regulatory push accelerates",
+      "summary": "The approval lets the USDC issuer offer fiduciary and custody services under New York banking law.",
+      "url": "https://www.coindesk.com/policy/2026/07/31/circle-secures-new-york-trust-charter-as-crypto-regulatory-push-accelerates",
+      "important": true
     },
     {
       "date": "2026-07-30",
