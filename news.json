@@ -1,6 +1,18 @@
 {
-  "updated": "2026-08-01T06:07:36+09:00",
+  "updated": "2026-08-02T05:55:29+09:00",
   "items": [
+    {
+      "date": "2026-08-01",
+      "title": "イタリア中央銀行、ステーブルコイン送金にコスト優位性なしと結論",
+      "summary": "イタリア中央銀行がステーブルコイン送金の実証実験結果を公表。伝統的な送金手段と比べ体系的なコスト優位性は確認できなかったとしている。",
+      "url": "https://coinpost.jp/?p=729183"
+    },
+    {
+      "date": "2026-08-01",
+      "title": "テザー財務報告書、ビットコイン冬相場でステーブルコインの超過準備金が半減",
+      "summary": "ステーブルコイン発行大手テザーは2026年第2四半期の決算で、資産が負債を上回る超過準備金が82億ドルから41億ドルへと半減したことを開示した。ビットコインや貴金属の評価額低下が背景にある。",
+      "url": "https://coinpost.jp/?p=729186"
+    },
     {
       "date": "2026-08-01",
       "title": "USDC発行企業サークル、ニューヨーク州から信託免許を取得",
@@ -20,22 +32,10 @@
       "url": "https://www.neweconomy.jp/posts/596761"
     },
     {
-      "date": "2026-07-31",
-      "title": "バイナンスジャパン、熊本地震の被災地に1000万円拠出",
-      "summary": "バイナンスジャパンが令和8年熊本地震の被災地支援として1000万円の拠出を決定。拠出先は救援・復旧で活動する国内NGOで選定は調整中。2018年の西日本豪雨での寄付実績や、JPYCが進める寄附スキームの金融庁照会も解説す…",
-      "url": "https://coinpost.jp/?p=728995"
-    },
-    {
-      "date": "2026-07-31",
-      "title": "コインベース決算発表、予測市場収益倍増も577億円純損失を計上",
-      "summary": "コインベースが2026年4-6月期決算を発表した。純損失は3億5,950万ドルとなり、市場予想を上回る規模となった。一方でステーブルコイン事業や予測市場は伸びを示した。",
-      "url": "https://coinpost.jp/?p=728904"
-    },
-    {
-      "date": "2026-07-31",
-      "title": "AIエージェントは誰が支配するのか、所有権と通貨主権のゆくえ｜WebX2026",
-      "summary": "WebX2026で開催されたAIエージェント経済パネルを詳報。Animoca Yat Siu氏、元FRB幹部Sunayna Tuteja氏、Perplexity森田俊氏が、AI活用の実態からステーブルコイン、通貨主権まで…",
-      "url": "https://coinpost.jp/?p=728892"
+      "date": "2026-08-02",
+      "title": "Bank of Italy research suggests stablecoins aren't necessarily cheaper for remittances",
+      "summary": "A mystery-shopping experiment found that exchange fees, foreign exchange spreads and banking rails mean stable…",
+      "url": "https://www.coindesk.com/business/2026/08/01/bank-of-italy-research-suggests-stablecoins-aren-t-necessarily-cheaper-for-remittances"
     }
   ]
 }
