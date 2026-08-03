@@ -1,41 +1,41 @@
 {
-  "updated": "2026-08-02T05:55:29+09:00",
+  "updated": "2026-08-04T06:05:22+09:00",
   "items": [
     {
-      "date": "2026-08-01",
-      "title": "イタリア中央銀行、ステーブルコイン送金にコスト優位性なしと結論",
-      "summary": "イタリア中央銀行がステーブルコイン送金の実証実験結果を公表。伝統的な送金手段と比べ体系的なコスト優位性は確認できなかったとしている。",
-      "url": "https://coinpost.jp/?p=729183"
+      "date": "2026-08-03",
+      "title": "イタリア中銀、ステーブルコイン「USDC」の送金効率を実取引で検証＝レポート",
+      "summary": "コスト優位は「ルート次第」 イタリア銀行（バンカ・ディタリア）が、ステーブルコインを使った国際送金の実態を検証したレポート「Are Stablecoins Efficient for Remittances? Evide…",
+      "url": "https://www.neweconomy.jp/posts/597298"
     },
     {
-      "date": "2026-08-01",
-      "title": "テザー財務報告書、ビットコイン冬相場でステーブルコインの超過準備金が半減",
-      "summary": "ステーブルコイン発行大手テザーは2026年第2四半期の決算で、資産が負債を上回る超過準備金が82億ドルから41億ドルへと半減したことを開示した。ビットコインや貴金属の評価額低下が背景にある。",
-      "url": "https://coinpost.jp/?p=729186"
+      "date": "2026-08-03",
+      "title": "リップルの米ドルステーブルコイン「RLUSD」、韓国4取引所で取引可能に。アップビット・ビッサムなど",
+      "summary": "RLUSDが韓国の4取引所で取引可能に 米ドル裏付け型ステーブルコイン「リップルUSD（RLUSD）」が、韓国の暗号資産（仮想通貨）取引所アップビット（Upbit）、ビッサム（Bithumb）、コインワン（Coinone…",
+      "url": "https://www.neweconomy.jp/posts/597274"
     },
     {
-      "date": "2026-08-01",
-      "title": "USDC発行企業サークル、ニューヨーク州から信託免許を取得",
-      "summary": "サークルがニューヨーク州金融サービス局から限定目的信託免許を取得したと発表した。ステーブルコインUSDCの発行体制強化に向け、規制対応をさらに深める。",
-      "url": "https://coinpost.jp/?p=729175"
+      "date": "2026-08-04",
+      "title": "BlackRock launches tokenized money market funds for stablecoin reserves",
+      "summary": "The asset manager introduced two blockchain-based money market funds designed to qualify as stablecoin reserve…",
+      "url": "https://cointelegraph.com/news/blackrock-launches-tokenized-money-market-funds-stablecoin-reserves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     },
     {
-      "date": "2026-07-31",
-      "title": "【7/31話題】ケネディクスら4社が不動産STとステーブルコインのクロスチェーンDvP実証、ストラテジーのQ2決算は83億ドルの営業損失など（音声ニュース）",
-      "summary": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif…",
-      "url": "https://www.neweconomy.jp/posts/596853"
+      "date": "2026-08-03",
+      "title": "Circle slides after Morgan Stanley downgrade, cut in price target",
+      "summary": "The bank said tokenized money market funds, Open USD and slower USDC growth could weigh on the stablecoin issu…",
+      "url": "https://www.coindesk.com/markets/2026/08/03/circle-internet-slides-after-morgan-stanley-downgrade-cut-in-price-target"
     },
     {
-      "date": "2026-07-31",
-      "title": "サムスンSDS、アップビット運営元ドゥナムとデジタル資産協業を検討。ステーブルコイン基盤など",
-      "summary": "サムスンSDSがDunamuと協業検討 サムスンSDS（Samsung SDS）が、韓国最大の暗号資産（仮想通貨）取引所アップビット（Upbit）を運営するドゥナム（Dunamu）とのデジタル資産分野における協業案を検討…",
-      "url": "https://www.neweconomy.jp/posts/596761"
+      "date": "2026-08-03",
+      "title": "BlackRock expands tokenized cash with new blockchain-based money market offerings",
+      "summary": "Both funds intend to qualify as eligible reserve assets for permitted U.S. payment stablecoin issuers under th…",
+      "url": "https://www.coindesk.com/business/2026/08/03/blackrock-expands-tokenized-cash-with-new-blockchain-based-money-market-offerings"
     },
     {
-      "date": "2026-08-02",
-      "title": "Bank of Italy research suggests stablecoins aren't necessarily cheaper for remittances",
-      "summary": "A mystery-shopping experiment found that exchange fees, foreign exchange spreads and banking rails mean stable…",
-      "url": "https://www.coindesk.com/business/2026/08/01/bank-of-italy-research-suggests-stablecoins-aren-t-necessarily-cheaper-for-remittances"
+      "date": "2026-08-03",
+      "title": "South Korean stablecoin outflows top $367M in June: Report",
+      "summary": "Stablecoins have been flowing out of South Korean exchanges for 18 consecutive months as regulators weigh tigh…",
+      "url": "https://cointelegraph.com/news/south-korea-stablecoin-outflows-overseas-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     }
   ]
 }

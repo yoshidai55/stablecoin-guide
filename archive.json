@@ -1,6 +1,48 @@
 {
-  "updated": "2026-08-02T05:55:29+09:00",
+  "updated": "2026-08-04T06:05:22+09:00",
   "items": [
+    {
+      "date": "2026-08-04",
+      "title": "BlackRock launches tokenized money market funds for stablecoin reserves",
+      "summary": "The asset manager introduced two blockchain-based money market funds designed to qualify as stablecoin reserve…",
+      "url": "https://cointelegraph.com/news/blackrock-launches-tokenized-money-market-funds-stablecoin-reserves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-08-03",
+      "title": "イタリア中銀、ステーブルコイン「USDC」の送金効率を実取引で検証＝レポート",
+      "summary": "コスト優位は「ルート次第」 イタリア銀行（バンカ・ディタリア）が、ステーブルコインを使った国際送金の実態を検証したレポート「Are Stablecoins Efficient for Remittances? Evide…",
+      "url": "https://www.neweconomy.jp/posts/597298",
+      "important": false
+    },
+    {
+      "date": "2026-08-03",
+      "title": "リップルの米ドルステーブルコイン「RLUSD」、韓国4取引所で取引可能に。アップビット・ビッサムなど",
+      "summary": "RLUSDが韓国の4取引所で取引可能に 米ドル裏付け型ステーブルコイン「リップルUSD（RLUSD）」が、韓国の暗号資産（仮想通貨）取引所アップビット（Upbit）、ビッサム（Bithumb）、コインワン（Coinone…",
+      "url": "https://www.neweconomy.jp/posts/597274",
+      "important": false
+    },
+    {
+      "date": "2026-08-03",
+      "title": "Circle slides after Morgan Stanley downgrade, cut in price target",
+      "summary": "The bank said tokenized money market funds, Open USD and slower USDC growth could weigh on the stablecoin issu…",
+      "url": "https://www.coindesk.com/markets/2026/08/03/circle-internet-slides-after-morgan-stanley-downgrade-cut-in-price-target",
+      "important": true
+    },
+    {
+      "date": "2026-08-03",
+      "title": "BlackRock expands tokenized cash with new blockchain-based money market offerings",
+      "summary": "Both funds intend to qualify as eligible reserve assets for permitted U.S. payment stablecoin issuers under th…",
+      "url": "https://www.coindesk.com/business/2026/08/03/blackrock-expands-tokenized-cash-with-new-blockchain-based-money-market-offerings",
+      "important": false
+    },
+    {
+      "date": "2026-08-03",
+      "title": "South Korean stablecoin outflows top $367M in June: Report",
+      "summary": "Stablecoins have been flowing out of South Korean exchanges for 18 consecutive months as regulators weigh tigh…",
+      "url": "https://cointelegraph.com/news/south-korea-stablecoin-outflows-overseas-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
     {
       "date": "2026-08-02",
       "title": "Bank of Italy research suggests stablecoins aren't necessarily cheaper for remittances",
