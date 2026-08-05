@@ -1,41 +1,41 @@
 {
-  "updated": "2026-08-05T06:13:51+09:00",
+  "updated": "2026-08-06T06:12:16+09:00",
   "items": [
     {
-      "date": "2026-08-04",
-      "title": "【8/4話題】ブーストリーとデジタルアセットがマルチチェーンウォレット年内提供へ、ネットスターズがローソンでUSDC・USDT・JPYC決済実証へなど（音声ニュース）",
-      "summary": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif…",
-      "url": "https://www.neweconomy.jp/posts/597881"
+      "date": "2026-08-05",
+      "title": "マスターカード、ステーブルコイン決済基盤BVNKの買収完了。法定通貨との接続強化へ",
+      "summary": "法定通貨とデジタル通貨の相互運用性を強化 米決済大手マスターカード（Mastercard）が、ステーブルコイン決済インフラ企業BVNKの買収を完了したと8月3日に発表した。 マスターカードは3月17日、BVNKを最大18…",
+      "url": "https://www.neweconomy.jp/posts/598179"
     },
     {
-      "date": "2026-08-04",
-      "title": "テザー、Q2純営業利益約15億ドル。USDT準備の現物金保有量146トン超に",
-      "summary": "米国債とレポ取引の収益が寄与、準備金余剰は前四半期からほぼ半減 米ドル建てステーブルコイン「USDT」の発行元テザー（Tether）が、2026年第2四半期（4〜6月）の純営業利益が約15億ドル（約2,366億円）となっ…",
-      "url": "https://www.neweconomy.jp/posts/597786"
+      "date": "2026-08-06",
+      "title": "Western Union brings stablecoin remittances to Visa network with Stablecard",
+      "summary": "The remittance giant is rolling out Stablecard across 37 markets, targeting cross-border payments and consumer…",
+      "url": "https://cointelegraph.com/news/western-union-stablecard-stablecoin-remittances-visa?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     },
     {
       "date": "2026-08-05",
-      "title": "US, UK reaffirm support for stablecoins, tokenization in joint financial regulation talks",
-      "summary": "In a July 8 meeting, US and UK regulators highlighted the implementation of the GENIUS Act, payment modernizat…",
-      "url": "https://cointelegraph.com/news/us-uk-deepen-crypto-regulatory-cooperation-genius-act-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      "title": "Mastercard, Borderless test shared identity checks for stablecoin transfers",
+      "summary": "Mastercard and Borderless are exploring ways to bring more trust into cross-border stablecoin transfers throug…",
+      "url": "https://cointelegraph.com/news/mastercard-borderless-test-identity-checks-stablecoin-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     },
     {
       "date": "2026-08-05",
-      "title": "Open USD rattled Circle's stock, but its key backers still support USDC",
-      "summary": "Executives at Coinbase, Visa and Mastercard said they plan to support multiple stablecoins, suggesting Open US…",
-      "url": "https://www.coindesk.com/business/2026/08/03/open-usd-rattled-circle-s-stock-but-its-key-backers-still-support-usdc"
+      "title": "Yellow Card raises $40 million to link banks to stablecoin processing",
+      "summary": "The funds bring Yellow Card’s total financing to more than $120 million since being founded 10 years ago.",
+      "url": "https://www.coindesk.com/business/2026/08/05/yellow-card-raises-usd40-million-to-link-banks-to-stablecoin-processing"
     },
     {
       "date": "2026-08-05",
-      "title": "Samsung is poised to become a dominant stablecoin distributor, analysts say",
-      "summary": "Samsung seeks to turn 800 million Galaxy phones into wallets for digital assets and blockchain payments, backe…",
-      "url": "https://www.coindesk.com/business/2026/08/04/samsung-is-poised-to-become-a-dominant-stablecoin-distributor-analysts-say"
+      "title": "Circle Q2 revenue falls short of Wall Street estimates",
+      "summary": "Stablecoin issuer Circle reported $701 million in Q2 revenue, missing Wall Street estimates of about $713 mill…",
+      "url": "https://cointelegraph.com/news/circle-q2-revenue-misses-wall-street-estimates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     },
     {
-      "date": "2026-08-04",
-      "title": "Tether Gold reserves rise 9.5% as gold posts worst quarter in 13 years",
-      "summary": "XAUt added to its bullion backing during gold’s worst quarter since 2013, as tokenized commodity holder counts…",
-      "url": "https://cointelegraph.com/news/tether-gold-rise-q2-sharpest-quarterly-gold-correction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      "date": "2026-08-05",
+      "title": "Circle shares fall 3% despite earnings beat as stablecoin issuer misses on revenue",
+      "summary": "Shares initially jumped 10% but later fell 3% in pre-market trading as the stablecoin issuer revealed institut…",
+      "url": "https://www.coindesk.com/markets/2026/08/05/circle-shares-jump-as-earnings-beat-offsets-revenue-miss-arc-blockchain-gains-wall-street-backing"
     }
   ]
 }

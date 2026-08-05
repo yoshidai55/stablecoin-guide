@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-05T06:13:51+09:00",
+  "updated": "2026-08-06T06:12:16+09:00",
   "items": [
+    {
+      "date": "2026-08-06",
+      "title": "Western Union brings stablecoin remittances to Visa network with Stablecard",
+      "summary": "The remittance giant is rolling out Stablecard across 37 markets, targeting cross-border payments and consumer…",
+      "url": "https://cointelegraph.com/news/western-union-stablecard-stablecoin-remittances-visa?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
     {
       "date": "2026-08-05",
       "title": "US, UK reaffirm support for stablecoins, tokenization in joint financial regulation talks",
@@ -20,6 +27,55 @@
       "title": "Samsung is poised to become a dominant stablecoin distributor, analysts say",
       "summary": "Samsung seeks to turn 800 million Galaxy phones into wallets for digital assets and blockchain payments, backe…",
       "url": "https://www.coindesk.com/business/2026/08/04/samsung-is-poised-to-become-a-dominant-stablecoin-distributor-analysts-say",
+      "important": false
+    },
+    {
+      "date": "2026-08-05",
+      "title": "マスターカード、ステーブルコイン決済基盤BVNKの買収完了。法定通貨との接続強化へ",
+      "summary": "法定通貨とデジタル通貨の相互運用性を強化 米決済大手マスターカード（Mastercard）が、ステーブルコイン決済インフラ企業BVNKの買収を完了したと8月3日に発表した。 マスターカードは3月17日、BVNKを最大18…",
+      "url": "https://www.neweconomy.jp/posts/598179",
+      "important": false
+    },
+    {
+      "date": "2026-08-05",
+      "title": "Mastercard, Borderless test shared identity checks for stablecoin transfers",
+      "summary": "Mastercard and Borderless are exploring ways to bring more trust into cross-border stablecoin transfers throug…",
+      "url": "https://cointelegraph.com/news/mastercard-borderless-test-identity-checks-stablecoin-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-08-05",
+      "title": "Yellow Card raises $40 million to link banks to stablecoin processing",
+      "summary": "The funds bring Yellow Card’s total financing to more than $120 million since being founded 10 years ago.",
+      "url": "https://www.coindesk.com/business/2026/08/05/yellow-card-raises-usd40-million-to-link-banks-to-stablecoin-processing",
+      "important": true
+    },
+    {
+      "date": "2026-08-05",
+      "title": "Circle Q2 revenue falls short of Wall Street estimates",
+      "summary": "Stablecoin issuer Circle reported $701 million in Q2 revenue, missing Wall Street estimates of about $713 mill…",
+      "url": "https://cointelegraph.com/news/circle-q2-revenue-misses-wall-street-estimates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-08-05",
+      "title": "Circle shares fall 3% despite earnings beat as stablecoin issuer misses on revenue",
+      "summary": "Shares initially jumped 10% but later fell 3% in pre-market trading as the stablecoin issuer revealed institut…",
+      "url": "https://www.coindesk.com/markets/2026/08/05/circle-shares-jump-as-earnings-beat-offsets-revenue-miss-arc-blockchain-gains-wall-street-backing",
+      "important": false
+    },
+    {
+      "date": "2026-08-05",
+      "title": "S&P gives BlackRock tokenized reserve fund top stability rating",
+      "summary": "The rating recognizes the fund’s ability to maintain a stable net asset value, while S&P separately reaffirmed…",
+      "url": "https://cointelegraph.com/news/sp-blackrock-tokenized-reserve-fund-stability?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-08-05",
+      "title": "Cloudflare introduces wallets for AI agents, plans stablecoin payments",
+      "summary": "Cloudflare introduced programmable Wallets for AI agents and said payment features using stablecoins will laun…",
+      "url": "https://cointelegraph.com/news/cloudflare-wallets-ai-agents-stablecoin-payments-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "important": false
     },
     {
