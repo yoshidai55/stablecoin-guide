@@ -1,6 +1,27 @@
 {
-  "updated": "2026-08-07T09:53:05+09:00",
+  "updated": "2026-08-08T05:42:39+09:00",
   "items": [
+    {
+      "date": "2026-08-08",
+      "title": "U.S. widens Iran crypto crackdown with sanctions on two exchanges",
+      "summary": "The Treasury's OFAC targeted Shelbit and Aban Tether as Washington continues its effort to cut Tehran's access…",
+      "url": "https://www.coindesk.com/policy/2026/08/07/u-s-widens-iran-crypto-crackdown-with-sanctions-on-two-exchanges",
+      "important": true
+    },
+    {
+      "date": "2026-08-08",
+      "title": "Circle expands USDC to OKX ecosystem with X Layer launch",
+      "summary": "The rollout gives X Layer users access to Circle-issued USDC and crosschain transfers as the stablecoin expand…",
+      "url": "https://cointelegraph.com/news/circle-native-usdc-okx-x-layer-cctp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-08-08",
+      "title": "Crypto Biz: Crypto’s biggest business is starting to look a lot like banking",
+      "summary": "Crypto business is converging with banking as stablecoin reserves, tokenized funds, Treasury income and balanc…",
+      "url": "https://cointelegraph.com/news/crypto-biz-crypto-business-converges-traditional-banking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
     {
       "date": "2026-08-07",
       "title": "米サークル、コインベースとのUSDC提携を既存条件で更新 四半期配当導入見送る",
@@ -14,6 +35,34 @@
       "summary": "The stablecoin issuer is extending its tokenization business into Saudi Arabia, starting with institutional re…",
       "url": "https://www.coindesk.com/business/2026/08/06/tether-expands-tokenization-business-into-saudi-arabia-starting-with-real-estate",
       "important": false
+    },
+    {
+      "date": "2026-08-07",
+      "title": "トランプ一族関連USD1、バイナンス累計取引高500億ドル突破＝アナリスト",
+      "summary": "米ドル連動型ステーブルコインUSD1が、バイナンスでの累計取引高500億ドルを突破した。アナリストのDarkfost氏が指摘。トランプ氏一族が関与する新興ステーブルコインの時価総額は40億ドル超まで拡大している。",
+      "url": "https://coinpost.jp/?p=730478",
+      "important": false
+    },
+    {
+      "date": "2026-08-07",
+      "title": "マスターカードとボーダーレス、国際ステーブルコイン決済の信頼性向上へ共同実証",
+      "summary": "「Mastercard Crypto Credential」を活用 米決済大手マスターカード（Mastercard）と、ステーブルコイン決済基盤を提供するボーダーレス（Borderless.xyz）が、国境を越えたステー…",
+      "url": "https://www.neweconomy.jp/posts/598894",
+      "important": false
+    },
+    {
+      "date": "2026-08-07",
+      "title": "ビットトレードとスタンデージ、貿易領域で暗号資産活用の共同実証へ",
+      "summary": "ビットトレードとSTANDAGEが共同実証実験 国内暗号資産（仮想通貨）交換業者のビットトレードが、ブロックチェーンとステーブルコインを活用した新貿易決済システムの開発を行うスタンデージ（STANDAGE）と、貿易領域に…",
+      "url": "https://www.neweconomy.jp/posts/598841",
+      "important": false
+    },
+    {
+      "date": "2026-08-07",
+      "title": "米クラリティー法案、上院採決が9月まで延期＝報道",
+      "summary": "米上院は仮想通貨市場構造法案「クラリティー法」の採決を9月まで先送りする方針を固めた。共和党のチューン院内総務が方針を確認しており、倫理規定・資金洗浄対策・ステーブルコイン収益を巡る与野党対立が続いている。",
+      "url": "https://coinpost.jp/?p=730422",
+      "important": true
     },
     {
       "date": "2026-08-06",
