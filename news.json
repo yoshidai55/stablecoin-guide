@@ -1,41 +1,41 @@
 {
-  "updated": "2026-08-06T06:12:16+09:00",
+  "updated": "2026-08-07T09:53:05+09:00",
   "items": [
     {
-      "date": "2026-08-05",
-      "title": "マスターカード、ステーブルコイン決済基盤BVNKの買収完了。法定通貨との接続強化へ",
-      "summary": "法定通貨とデジタル通貨の相互運用性を強化 米決済大手マスターカード（Mastercard）が、ステーブルコイン決済インフラ企業BVNKの買収を完了したと8月3日に発表した。 マスターカードは3月17日、BVNKを最大18…",
-      "url": "https://www.neweconomy.jp/posts/598179"
+      "date": "2026-08-07",
+      "title": "米サークル、コインベースとのUSDC提携を既存条件で更新 四半期配当導入見送る",
+      "summary": "米サークルはコインベースとのUSDC提携を既存条件で更新し、2029年まで契約を延長した。四半期配当の導入を見送る方針を示し、投資家は資本配分の行方を注視。",
+      "url": "https://coinpost.jp/?p=730304"
     },
     {
       "date": "2026-08-06",
-      "title": "Western Union brings stablecoin remittances to Visa network with Stablecard",
-      "summary": "The remittance giant is rolling out Stablecard across 37 markets, targeting cross-border payments and consumer…",
-      "url": "https://cointelegraph.com/news/western-union-stablecard-stablecoin-remittances-visa?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      "title": "ローソンでJPYC決済を実体験 コンビニのレジで払う円建てステーブルコイン",
+      "summary": "ローソンが国内初となるPOSレジ連動のステーブルコイン決済を実証。CoinPost編集部がHashPort WalletとJPYCで実際に会計を体験した。",
+      "url": "https://coinpost.jp/?p=730281"
     },
     {
-      "date": "2026-08-05",
-      "title": "Mastercard, Borderless test shared identity checks for stablecoin transfers",
-      "summary": "Mastercard and Borderless are exploring ways to bring more trust into cross-border stablecoin transfers throug…",
-      "url": "https://cointelegraph.com/news/mastercard-borderless-test-identity-checks-stablecoin-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      "date": "2026-08-06",
+      "title": "【取材】ローソンでJPYC決済を体験、国内初のコンビニPOS連携実証",
+      "summary": "ローソン実店舗でJPYC決済の実証実験 日本で初となる、コンビニPOSでのステーブルコイン決済の実証実験が8月6日に実施された。 実証実験を行ったのは、ブロックチェーン関連事業を展開する国内企業ハッシュポート（HashP…",
+      "url": "https://www.neweconomy.jp/posts/598504"
     },
     {
-      "date": "2026-08-05",
-      "title": "Yellow Card raises $40 million to link banks to stablecoin processing",
-      "summary": "The funds bring Yellow Card’s total financing to more than $120 million since being founded 10 years ago.",
-      "url": "https://www.coindesk.com/business/2026/08/05/yellow-card-raises-usd40-million-to-link-banks-to-stablecoin-processing"
+      "date": "2026-08-06",
+      "title": "ハイパーリキッド（HYPE）調査報告書、前四半期の独歩高に注目",
+      "summary": "ハイパーリキッド（HYPE）は2026年第2四半期にビットコイン安と逆行し79.2％高、史上最高値76.90ドルを記録。米国上場ETF3本には8週間で3.087億ドルが流入し、USDCへの基軸資産移行も収益構造を変えた。",
+      "url": "https://coinpost.jp/?p=730186"
     },
     {
-      "date": "2026-08-05",
-      "title": "Circle Q2 revenue falls short of Wall Street estimates",
-      "summary": "Stablecoin issuer Circle reported $701 million in Q2 revenue, missing Wall Street estimates of about $713 mill…",
-      "url": "https://cointelegraph.com/news/circle-q2-revenue-misses-wall-street-estimates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      "date": "2026-08-06",
+      "title": "ビザ、ゼロハッシュ採用でステーブルコイン支払い対応へ",
+      "summary": "ビザとゼロハッシュが提携し、Visa Direct利用企業がステーブルコインでのプリファンディング・払出を行えるようにする。決済・送金の迅速化を狙う施策で、国境を越えた資金管理の柔軟性向上が見込まれる。",
+      "url": "https://coinpost.jp/?p=730159"
     },
     {
-      "date": "2026-08-05",
-      "title": "Circle shares fall 3% despite earnings beat as stablecoin issuer misses on revenue",
-      "summary": "Shares initially jumped 10% but later fell 3% in pre-market trading as the stablecoin issuer revealed institut…",
-      "url": "https://www.coindesk.com/markets/2026/08/05/circle-shares-jump-as-earnings-beat-offsets-revenue-miss-arc-blockchain-gains-wall-street-backing"
+      "date": "2026-08-06",
+      "title": "LINE NEXT、ステーブルコイン決済「Unifi Pay」をグローバルで正式提供。韓国観光商品をJPYCで購入可能に",
+      "summary": "K-Pickで韓国観光商品をJPYC決済、MOLTSでも利用可能に LINEヤフーの関連会社でWeb3事業を手がける米国法人ラインネクスト（LINE NEXT）が、ステーブルコイン決済インフラ「ユニファイペイ（Unifi…",
+      "url": "https://www.neweconomy.jp/posts/598441"
     }
   ]
 }
