@@ -1,11 +1,11 @@
 {
-  "updated": "2026-08-08T05:42:39+09:00",
+  "updated": "2026-08-09T05:32:17+09:00",
   "items": [
     {
-      "date": "2026-08-07",
-      "title": "トランプ一族関連USD1、バイナンス累計取引高500億ドル突破＝アナリスト",
-      "summary": "米ドル連動型ステーブルコインUSD1が、バイナンスでの累計取引高500億ドルを突破した。アナリストのDarkfost氏が指摘。トランプ氏一族が関与する新興ステーブルコインの時価総額は40億ドル超まで拡大している。",
-      "url": "https://coinpost.jp/?p=730478"
+      "date": "2026-08-08",
+      "title": "サークル、USDCとCCTPをXレイヤーに導入",
+      "summary": "ステーブルコイン発行企業サークルが、USDCと相互運用プロトコルCCTPをOKXのXレイヤーに導入したと発表した。仮想通貨取引所OKXの利用者はドル建て資産のクロスチェーン移動や分散型金融での活用が可能になる。",
+      "url": "https://coinpost.jp/?p=730607"
     },
     {
       "date": "2026-08-07",
@@ -20,22 +20,22 @@
       "url": "https://www.neweconomy.jp/posts/598841"
     },
     {
-      "date": "2026-08-07",
-      "title": "米クラリティー法案、上院採決が9月まで延期＝報道",
-      "summary": "米上院は仮想通貨市場構造法案「クラリティー法」の採決を9月まで先送りする方針を固めた。共和党のチューン院内総務が方針を確認しており、倫理規定・資金洗浄対策・ステーブルコイン収益を巡る与野党対立が続いている。",
-      "url": "https://coinpost.jp/?p=730422"
+      "date": "2026-08-09",
+      "title": "US Senate to vote on advancing CLARITY Act in September after Thune files cloture",
+      "summary": "The procedural move puts crypto market structure legislation back on track as lawmakers continue negotiations …",
+      "url": "https://cointelegraph.com/news/us-senate-clarity-act-september-vote-thune-cloture?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "date": "2026-08-08",
+      "title": "Domestic stablecoins could boost demand for dollar-backed tokens: IMF",
+      "summary": "IMF first deputy managing director Dan Katz says users may favor digital dollars for their liquidity, network …",
+      "url": "https://cointelegraph.com/news/imf-domestic-stablecoins-dollar-token-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     },
     {
       "date": "2026-08-08",
       "title": "U.S. widens Iran crypto crackdown with sanctions on two exchanges",
       "summary": "The Treasury's OFAC targeted Shelbit and Aban Tether as Washington continues its effort to cut Tehran's access…",
       "url": "https://www.coindesk.com/policy/2026/08/07/u-s-widens-iran-crypto-crackdown-with-sanctions-on-two-exchanges"
-    },
-    {
-      "date": "2026-08-08",
-      "title": "Circle expands USDC to OKX ecosystem with X Layer launch",
-      "summary": "The rollout gives X Layer users access to Circle-issued USDC and crosschain transfers as the stablecoin expand…",
-      "url": "https://cointelegraph.com/news/circle-native-usdc-okx-x-layer-cctp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     }
   ]
 }

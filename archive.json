@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-08T05:42:39+09:00",
+  "updated": "2026-08-09T05:32:17+09:00",
   "items": [
+    {
+      "date": "2026-08-09",
+      "title": "US Senate to vote on advancing CLARITY Act in September after Thune files cloture",
+      "summary": "The procedural move puts crypto market structure legislation back on track as lawmakers continue negotiations …",
+      "url": "https://cointelegraph.com/news/us-senate-clarity-act-september-vote-thune-cloture?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
     {
       "date": "2026-08-08",
       "title": "U.S. widens Iran crypto crackdown with sanctions on two exchanges",
@@ -21,6 +28,20 @@
       "summary": "Crypto business is converging with banking as stablecoin reserves, tokenized funds, Treasury income and balanc…",
       "url": "https://cointelegraph.com/news/crypto-biz-crypto-business-converges-traditional-banking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "important": true
+    },
+    {
+      "date": "2026-08-08",
+      "title": "サークル、USDCとCCTPをXレイヤーに導入",
+      "summary": "ステーブルコイン発行企業サークルが、USDCと相互運用プロトコルCCTPをOKXのXレイヤーに導入したと発表した。仮想通貨取引所OKXの利用者はドル建て資産のクロスチェーン移動や分散型金融での活用が可能になる。",
+      "url": "https://coinpost.jp/?p=730607",
+      "important": false
+    },
+    {
+      "date": "2026-08-08",
+      "title": "Domestic stablecoins could boost demand for dollar-backed tokens: IMF",
+      "summary": "IMF first deputy managing director Dan Katz says users may favor digital dollars for their liquidity, network …",
+      "url": "https://cointelegraph.com/news/imf-domestic-stablecoins-dollar-token-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
     },
     {
       "date": "2026-08-07",
