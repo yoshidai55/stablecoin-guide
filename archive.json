@@ -1,6 +1,41 @@
 {
-  "updated": "2026-08-09T05:32:17+09:00",
+  "updated": "2026-08-11T05:44:20+09:00",
   "items": [
+    {
+      "date": "2026-08-11",
+      "title": "Bitwise's Rasmussen: Circle is mispriced as stablecoins head toward trillions",
+      "summary": "Bitwise's Ryan Rasmussen says investors are underestimating Circle as stablecoins expand and the company build…",
+      "url": "https://www.coindesk.com/coindesk-news/2026/08/10/bitwise-s-rasmussen-circle-is-mispriced-as-stablecoins-head-toward-trillions",
+      "important": false
+    },
+    {
+      "date": "2026-08-11",
+      "title": "TRON USDT supply hits $87.9B as transfers reach $2.1T in Q2: Messari",
+      "summary": "Messari reported that TRON recorded all-time highs in stablecoin supply and network activity during the second…",
+      "url": "https://cointelegraph.com/news/tron-usdt-supply-hits-879b-as-transfers-reach-21t-in-q2-messari?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-08-10",
+      "title": "サムスン電子、今年中にウォレットへステーブルコイン導入＝報道",
+      "summary": "サムスン電子は今年中、一部国でウォレットへステーブルコインの口座開設・海外送金・決済機能を導入すると表明。米サンドマークの取材に書面で回答し、7月のGalaxy Unpacked構想に初めて導入時期を示した。既存機能との…",
+      "url": "https://coinpost.jp/?p=730656",
+      "important": false
+    },
+    {
+      "date": "2026-08-10",
+      "title": "キャシー・ウッドCEO、米雇用統計後も強気 ビットコインへ期待表明",
+      "summary": "アークインベストのキャシー・ウッドCEOが8月9日、雇用統計を受けても景気認識は強気と表明。デフレ懸念やドル指数、原油安を指摘し、ビットコインとステーブルコインをエージェント商取引の受益者に挙げた。",
+      "url": "https://coinpost.jp/?p=730638",
+      "important": false
+    },
+    {
+      "date": "2026-08-10",
+      "title": "Inside stablecoin firm BVNK’s journey to a $1.8B acquisition by Mastercard",
+      "summary": "Early BVNK investor Concentric shares a fascinating inside view on the stablecoin startup’s journey and the ev…",
+      "url": "https://www.coindesk.com/business/2026/08/10/inside-stablecoin-firm-bvnk-s-journey-to-a-usd1-8b-acquisition-by-mastercard",
+      "important": false
+    },
     {
       "date": "2026-08-09",
       "title": "US Senate to vote on advancing CLARITY Act in September after Thune files cloture",
