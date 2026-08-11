@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11T05:44:20+09:00",
+  "updated": "2026-08-12T05:48:02+09:00",
   "items": [
     {
       "date": "2026-08-10",
@@ -8,34 +8,34 @@
       "url": "https://coinpost.jp/?p=730656"
     },
     {
-      "date": "2026-08-10",
-      "title": "キャシー・ウッドCEO、米雇用統計後も強気 ビットコインへ期待表明",
-      "summary": "アークインベストのキャシー・ウッドCEOが8月9日、雇用統計を受けても景気認識は強気と表明。デフレ懸念やドル指数、原油安を指摘し、ビットコインとステーブルコインをエージェント商取引の受益者に挙げた。",
-      "url": "https://coinpost.jp/?p=730638"
-    },
-    {
-      "date": "2026-08-08",
-      "title": "サークル、USDCとCCTPをXレイヤーに導入",
-      "summary": "ステーブルコイン発行企業サークルが、USDCと相互運用プロトコルCCTPをOKXのXレイヤーに導入したと発表した。仮想通貨取引所OKXの利用者はドル建て資産のクロスチェーン移動や分散型金融での活用が可能になる。",
-      "url": "https://coinpost.jp/?p=730607"
-    },
-    {
       "date": "2026-08-07",
       "title": "マスターカードとボーダーレス、国際ステーブルコイン決済の信頼性向上へ共同実証",
       "summary": "「Mastercard Crypto Credential」を活用 米決済大手マスターカード（Mastercard）と、ステーブルコイン決済基盤を提供するボーダーレス（Borderless.xyz）が、国境を越えたステー…",
       "url": "https://www.neweconomy.jp/posts/598894"
     },
     {
-      "date": "2026-08-07",
-      "title": "ビットトレードとスタンデージ、貿易領域で暗号資産活用の共同実証へ",
-      "summary": "ビットトレードとSTANDAGEが共同実証実験 国内暗号資産（仮想通貨）交換業者のビットトレードが、ブロックチェーンとステーブルコインを活用した新貿易決済システムの開発を行うスタンデージ（STANDAGE）と、貿易領域に…",
-      "url": "https://www.neweconomy.jp/posts/598841"
+      "date": "2026-08-12",
+      "title": "ARP Digital secures Dubai VARA broker-dealer license",
+      "summary": "The license allows ARP Digital to offer regulated digital asset and stablecoin conversions into UAE dirhams as…",
+      "url": "https://cointelegraph.com/news/arp-digital-secures-dubai-vara-broker-dealer-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     },
     {
       "date": "2026-08-11",
-      "title": "Bitwise's Rasmussen: Circle is mispriced as stablecoins head toward trillions",
-      "summary": "Bitwise's Ryan Rasmussen says investors are underestimating Circle as stablecoins expand and the company build…",
-      "url": "https://www.coindesk.com/coindesk-news/2026/08/10/bitwise-s-rasmussen-circle-is-mispriced-as-stablecoins-head-toward-trillions"
+      "title": "Russia proposes exchange trading of Bitcoin, Ether and Tether’s USDT",
+      "summary": "Russia’s central bank proposed allowing Bitcoin, Ether and USDT to trade on regulated exchanges, following a l…",
+      "url": "https://cointelegraph.com/news/bank-of-russia-trading-bitcoin-ether-tether-usdt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "date": "2026-08-11",
+      "title": "Bitcoin sell pressure ‘closer to exhaustion’ after $4B USDT market-cap drop: CryptoQuant",
+      "summary": "Bitcoin analysis suggested that sell pressure would not increase given the historically large contraction in U…",
+      "url": "https://cointelegraph.com/markets/bitcoin-sell-pressure-closer-to-exhaustion-after-4b-usdt-market-cap-drop-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "date": "2026-08-11",
+      "title": "Payments platform Decta explores stablecoin-enabled treasury settlement",
+      "summary": "Decta will use USDC through OpenPayd’s infrastructure for international treasury settlement, seeking faster tr…",
+      "url": "https://cointelegraph.com/news/payments-platform-decta-explores-stablecoin-enabled-treasury-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     }
   ]
 }

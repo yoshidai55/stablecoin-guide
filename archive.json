@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-11T05:44:20+09:00",
+  "updated": "2026-08-12T05:48:02+09:00",
   "items": [
+    {
+      "date": "2026-08-12",
+      "title": "ARP Digital secures Dubai VARA broker-dealer license",
+      "summary": "The license allows ARP Digital to offer regulated digital asset and stablecoin conversions into UAE dirhams as…",
+      "url": "https://cointelegraph.com/news/arp-digital-secures-dubai-vara-broker-dealer-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
     {
       "date": "2026-08-11",
       "title": "Bitwise's Rasmussen: Circle is mispriced as stablecoins head toward trillions",
@@ -14,6 +21,27 @@
       "summary": "Messari reported that TRON recorded all-time highs in stablecoin supply and network activity during the second…",
       "url": "https://cointelegraph.com/news/tron-usdt-supply-hits-879b-as-transfers-reach-21t-in-q2-messari?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "important": true
+    },
+    {
+      "date": "2026-08-11",
+      "title": "Russia proposes exchange trading of Bitcoin, Ether and Tether’s USDT",
+      "summary": "Russia’s central bank proposed allowing Bitcoin, Ether and USDT to trade on regulated exchanges, following a l…",
+      "url": "https://cointelegraph.com/news/bank-of-russia-trading-bitcoin-ether-tether-usdt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-08-11",
+      "title": "Bitcoin sell pressure ‘closer to exhaustion’ after $4B USDT market-cap drop: CryptoQuant",
+      "summary": "Bitcoin analysis suggested that sell pressure would not increase given the historically large contraction in U…",
+      "url": "https://cointelegraph.com/markets/bitcoin-sell-pressure-closer-to-exhaustion-after-4b-usdt-market-cap-drop-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-08-11",
+      "title": "Payments platform Decta explores stablecoin-enabled treasury settlement",
+      "summary": "Decta will use USDC through OpenPayd’s infrastructure for international treasury settlement, seeking faster tr…",
+      "url": "https://cointelegraph.com/news/payments-platform-decta-explores-stablecoin-enabled-treasury-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
     },
     {
       "date": "2026-08-10",
