@@ -1,11 +1,17 @@
 {
-  "updated": "2026-08-12T05:48:02+09:00",
+  "updated": "2026-08-13T05:48:03+09:00",
   "items": [
     {
-      "date": "2026-08-10",
-      "title": "サムスン電子、今年中にウォレットへステーブルコイン導入＝報道",
-      "summary": "サムスン電子は今年中、一部国でウォレットへステーブルコインの口座開設・海外送金・決済機能を導入すると表明。米サンドマークの取材に書面で回答し、7月のGalaxy Unpacked構想に初めて導入時期を示した。既存機能との…",
-      "url": "https://coinpost.jp/?p=730656"
+      "date": "2026-08-12",
+      "title": "BCCC、税制部会を新設 ステーブルコイン・DeFi税制提言へ",
+      "summary": "一般社団法人ブロックチェーン推進協会（BCCC）が、暗号資産・ステーブルコインやDeFi活用に伴う税務課題を検討する「税制部会」を新設。9月15日には都内でキックオフイベントを開き、部会長に税理士の八木橋泰仁氏が就く。",
+      "url": "https://coinpost.jp/?p=730828"
+    },
+    {
+      "date": "2026-08-12",
+      "title": "ロシア中銀、一般投資家の仮想通貨購入に年間30万ルーブルの上限案",
+      "summary": "ロシア中央銀行は、非適格投資家（一般投資家）による仮想通貨購入額を仲介業者1社あたり年間30万ルーブルに制限する規則案を公表した。対象はBTC・ETH・USDTの3銘柄。4日にプーチン大統領が署名したデジタル通貨法に基づ…",
+      "url": "https://coinpost.jp/?p=730813"
     },
     {
       "date": "2026-08-07",
@@ -14,28 +20,22 @@
       "url": "https://www.neweconomy.jp/posts/598894"
     },
     {
-      "date": "2026-08-12",
-      "title": "ARP Digital secures Dubai VARA broker-dealer license",
-      "summary": "The license allows ARP Digital to offer regulated digital asset and stablecoin conversions into UAE dirhams as…",
-      "url": "https://cointelegraph.com/news/arp-digital-secures-dubai-vara-broker-dealer-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      "date": "2026-08-13",
+      "title": "Bank of England tests stablecoin, digital pound interoperability in cross-border payments",
+      "summary": "The Digital Pound Lab is testing a cross-border trade finance flow combining stablecoin payments with simulate…",
+      "url": "https://cointelegraph.com/news/bank-of-england-tests-stablecoin-digital-pound-interoperability-in-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     },
     {
-      "date": "2026-08-11",
-      "title": "Russia proposes exchange trading of Bitcoin, Ether and Tether’s USDT",
-      "summary": "Russia’s central bank proposed allowing Bitcoin, Ether and USDT to trade on regulated exchanges, following a l…",
-      "url": "https://cointelegraph.com/news/bank-of-russia-trading-bitcoin-ether-tether-usdt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      "date": "2026-08-13",
+      "title": "HashKey begins beta distribution of Hong Kong-regulated HKDAP stablecoin",
+      "summary": "HashKey has become an authorized distributor for Anchorpoint’s HKDAP, expanding institutional access as Hong K…",
+      "url": "https://cointelegraph.com/news/hashkey-begins-beta-distribution-of-hong-kong-regulated-hkdap-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     },
     {
-      "date": "2026-08-11",
-      "title": "Bitcoin sell pressure ‘closer to exhaustion’ after $4B USDT market-cap drop: CryptoQuant",
-      "summary": "Bitcoin analysis suggested that sell pressure would not increase given the historically large contraction in U…",
-      "url": "https://cointelegraph.com/markets/bitcoin-sell-pressure-closer-to-exhaustion-after-4b-usdt-market-cap-drop-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "date": "2026-08-11",
-      "title": "Payments platform Decta explores stablecoin-enabled treasury settlement",
-      "summary": "Decta will use USDC through OpenPayd’s infrastructure for international treasury settlement, seeking faster tr…",
-      "url": "https://cointelegraph.com/news/payments-platform-decta-explores-stablecoin-enabled-treasury-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      "date": "2026-08-13",
+      "title": "Miden bets on privacy stablecoins with introduction of USDCx",
+      "summary": "USDCx will let users transact without publicly exposing balances, counterparties or transaction histories, whi…",
+      "url": "https://www.coindesk.com/tech/2026/08/12/miden-bets-on-privacy-stablecoins-with-introduction-of-usdcx"
     }
   ]
 }
