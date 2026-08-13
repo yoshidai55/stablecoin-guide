@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-13T05:48:03+09:00",
+  "updated": "2026-08-14T05:45:28+09:00",
   "items": [
+    {
+      "date": "2026-08-14",
+      "title": "Tether says it completed long-promised 'Big Four' audit of finances behind $180 billion USDT stablecoin",
+      "summary": "KPMG U.S. examined Tether's books and even counted its gold bars as the $180 billion USDT issuer said it compl…",
+      "url": "https://www.coindesk.com/business/2026/08/13/tether-says-it-completed-long-promised-big-four-audit-of-finances-behind-usd180-billion-usdt-stablecoin",
+      "important": false
+    },
     {
       "date": "2026-08-13",
       "title": "Bank of England tests stablecoin, digital pound interoperability in cross-border payments",
@@ -20,6 +27,27 @@
       "title": "Miden bets on privacy stablecoins with introduction of USDCx",
       "summary": "USDCx will let users transact without publicly exposing balances, counterparties or transaction histories, whi…",
       "url": "https://www.coindesk.com/tech/2026/08/12/miden-bets-on-privacy-stablecoins-with-introduction-of-usdcx",
+      "important": false
+    },
+    {
+      "date": "2026-08-13",
+      "title": "韓国スマホ決済カカオペイ、ウォン建てステーブルコイン発行を準備中 サークル社と提携も",
+      "summary": "カカオペイがウォン建てステーブルコイン発行や、ステーブルコイン土台の一連の金融サービスを計画している。米サークル社とも提携し基盤整備を進めていく。",
+      "url": "https://coinpost.jp/?p=730881",
+      "important": false
+    },
+    {
+      "date": "2026-08-13",
+      "title": "MUFG、国債レポの即時決済へブロックチェーン活用 27年度＝日経",
+      "summary": "MUFGが2027年度にも日本国債のレポ取引をブロックチェーン上で即時決済する計画が判明した。トークン化預金やステーブルコインを活用し、270兆円規模の市場の資金効率を高める。",
+      "url": "https://coinpost.jp/?p=730882",
+      "important": false
+    },
+    {
+      "date": "2026-08-13",
+      "title": "香港ステーブルコインHKDAPがローンチを開始、まずは国際決済やRWAトークン化などで利用へ",
+      "summary": "アンカーポイントは、香港ドル連動のステーブルコインHKDAPのローンチ開始を発表。まずは機関やプロの投資家向けに提供し、国際決済やRWAトークン化などで利用する。",
+      "url": "https://coinpost.jp/?p=730873",
       "important": false
     },
     {
