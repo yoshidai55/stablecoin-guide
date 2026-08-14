@@ -1,11 +1,25 @@
 {
-  "updated": "2026-08-14T05:45:28+09:00",
+  "updated": "2026-08-15T05:33:12+09:00",
   "items": [
     {
       "date": "2026-08-14",
       "title": "Tether says it completed long-promised 'Big Four' audit of finances behind $180 billion USDT stablecoin",
       "summary": "KPMG U.S. examined Tether's books and even counted its gold bars as the $180 billion USDT issuer said it compl…",
       "url": "https://www.coindesk.com/business/2026/08/13/tether-says-it-completed-long-promised-big-four-audit-of-finances-behind-usd180-billion-usdt-stablecoin",
+      "important": false
+    },
+    {
+      "date": "2026-08-14",
+      "title": "RedotPay said to put $1 billion U.S. IPO plan on hold: Bloomberg",
+      "summary": "A spokesperson for the stablecoin payments company declined to comment on any IPO plans.",
+      "url": "https://www.coindesk.com/business/2026/08/14/redotpay-said-to-put-usd1-billion-u-s-ipo-plan-on-hold-bloomberg",
+      "important": false
+    },
+    {
+      "date": "2026-08-14",
+      "title": "Tether completes first full financial audit, receives clean KPMG opinion",
+      "summary": "KPMG’s audit covered Tether’s 2025 financial statements and found its reserves exceeded liabilities by $6.8 bi…",
+      "url": "https://cointelegraph.com/news/tether-completes-first-full-financial-audit-receives-clean-kpmg-opinion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "important": false
     },
     {

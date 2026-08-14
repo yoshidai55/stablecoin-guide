@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T05:45:28+09:00",
+  "updated": "2026-08-15T05:33:12+09:00",
   "items": [
     {
       "date": "2026-08-13",
@@ -20,22 +20,22 @@
       "url": "https://coinpost.jp/?p=730873"
     },
     {
-      "date": "2026-08-12",
-      "title": "BCCC、税制部会を新設 ステーブルコイン・DeFi税制提言へ",
-      "summary": "一般社団法人ブロックチェーン推進協会（BCCC）が、暗号資産・ステーブルコインやDeFi活用に伴う税務課題を検討する「税制部会」を新設。9月15日には都内でキックオフイベントを開き、部会長に税理士の八木橋泰仁氏が就く。",
-      "url": "https://coinpost.jp/?p=730828"
-    },
-    {
-      "date": "2026-08-12",
-      "title": "ロシア中銀、一般投資家の仮想通貨購入に年間30万ルーブルの上限案",
-      "summary": "ロシア中央銀行は、非適格投資家（一般投資家）による仮想通貨購入額を仲介業者1社あたり年間30万ルーブルに制限する規則案を公表した。対象はBTC・ETH・USDTの3銘柄。4日にプーチン大統領が署名したデジタル通貨法に基づ…",
-      "url": "https://coinpost.jp/?p=730813"
-    },
-    {
       "date": "2026-08-07",
       "title": "マスターカードとボーダーレス、国際ステーブルコイン決済の信頼性向上へ共同実証",
       "summary": "「Mastercard Crypto Credential」を活用 米決済大手マスターカード（Mastercard）と、ステーブルコイン決済基盤を提供するボーダーレス（Borderless.xyz）が、国境を越えたステー…",
       "url": "https://www.neweconomy.jp/posts/598894"
+    },
+    {
+      "date": "2026-08-14",
+      "title": "RedotPay said to put $1 billion U.S. IPO plan on hold: Bloomberg",
+      "summary": "A spokesperson for the stablecoin payments company declined to comment on any IPO plans.",
+      "url": "https://www.coindesk.com/business/2026/08/14/redotpay-said-to-put-usd1-billion-u-s-ipo-plan-on-hold-bloomberg"
+    },
+    {
+      "date": "2026-08-14",
+      "title": "Tether completes first full financial audit, receives clean KPMG opinion",
+      "summary": "KPMG’s audit covered Tether’s 2025 financial statements and found its reserves exceeded liabilities by $6.8 bi…",
+      "url": "https://cointelegraph.com/news/tether-completes-first-full-financial-audit-receives-clean-kpmg-opinion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     }
   ]
 }
