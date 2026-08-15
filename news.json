@@ -1,29 +1,17 @@
 {
-  "updated": "2026-08-15T05:33:12+09:00",
+  "updated": "2026-08-16T05:24:46+09:00",
   "items": [
-    {
-      "date": "2026-08-13",
-      "title": "韓国スマホ決済カカオペイ、ウォン建てステーブルコイン発行を準備中 サークル社と提携も",
-      "summary": "カカオペイがウォン建てステーブルコイン発行や、ステーブルコイン土台の一連の金融サービスを計画している。米サークル社とも提携し基盤整備を進めていく。",
-      "url": "https://coinpost.jp/?p=730881"
-    },
-    {
-      "date": "2026-08-13",
-      "title": "MUFG、国債レポの即時決済へブロックチェーン活用 27年度＝日経",
-      "summary": "MUFGが2027年度にも日本国債のレポ取引をブロックチェーン上で即時決済する計画が判明した。トークン化預金やステーブルコインを活用し、270兆円規模の市場の資金効率を高める。",
-      "url": "https://coinpost.jp/?p=730882"
-    },
-    {
-      "date": "2026-08-13",
-      "title": "香港ステーブルコインHKDAPがローンチを開始、まずは国際決済やRWAトークン化などで利用へ",
-      "summary": "アンカーポイントは、香港ドル連動のステーブルコインHKDAPのローンチ開始を発表。まずは機関やプロの投資家向けに提供し、国際決済やRWAトークン化などで利用する。",
-      "url": "https://coinpost.jp/?p=730873"
-    },
     {
       "date": "2026-08-07",
       "title": "マスターカードとボーダーレス、国際ステーブルコイン決済の信頼性向上へ共同実証",
       "summary": "「Mastercard Crypto Credential」を活用 米決済大手マスターカード（Mastercard）と、ステーブルコイン決済基盤を提供するボーダーレス（Borderless.xyz）が、国境を越えたステー…",
       "url": "https://www.neweconomy.jp/posts/598894"
+    },
+    {
+      "date": "2026-08-15",
+      "title": "Galaxy lowers CLARITY Act odds to 10%",
+      "summary": "Galaxy cited unresolved ethics, stablecoin yield and developer protection issues, along with a narrow Senate w…",
+      "url": "https://cointelegraph.com/news/galaxy-lowers-clarity-act-odds-10?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     },
     {
       "date": "2026-08-14",
@@ -33,9 +21,9 @@
     },
     {
       "date": "2026-08-14",
-      "title": "Tether completes first full financial audit, receives clean KPMG opinion",
-      "summary": "KPMG’s audit covered Tether’s 2025 financial statements and found its reserves exceeded liabilities by $6.8 bi…",
-      "url": "https://cointelegraph.com/news/tether-completes-first-full-financial-audit-receives-clean-kpmg-opinion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      "title": "Tether says it completed long-promised 'Big Four' audit of finances behind $180 billion USDT stablecoin",
+      "summary": "KPMG U.S. examined Tether's books and even counted its gold bars as the $180 billion USDT issuer said it compl…",
+      "url": "https://www.coindesk.com/business/2026/08/13/tether-says-it-completed-long-promised-big-four-audit-of-finances-behind-usd180-billion-usdt-stablecoin"
     }
   ]
 }
