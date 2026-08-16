@@ -1,11 +1,17 @@
 {
-  "updated": "2026-08-16T05:24:46+09:00",
+  "updated": "2026-08-17T05:24:08+09:00",
   "items": [
     {
       "date": "2026-08-07",
       "title": "マスターカードとボーダーレス、国際ステーブルコイン決済の信頼性向上へ共同実証",
       "summary": "「Mastercard Crypto Credential」を活用 米決済大手マスターカード（Mastercard）と、ステーブルコイン決済基盤を提供するボーダーレス（Borderless.xyz）が、国境を越えたステー…",
       "url": "https://www.neweconomy.jp/posts/598894"
+    },
+    {
+      "date": "2026-08-16",
+      "title": "The stablecoin yield clash that won't go away has banks, crypto battling over tradition",
+      "summary": "The bankers want people kept in lower-yield deposits for the good of the financial system as it's existed for …",
+      "url": "https://www.coindesk.com/news-analysis/2026/08/14/the-stablecoin-yield-clash-that-won-t-go-away-has-banks-crypto-battling-over-tradition"
     },
     {
       "date": "2026-08-15",
@@ -18,12 +24,6 @@
       "title": "RedotPay said to put $1 billion U.S. IPO plan on hold: Bloomberg",
       "summary": "A spokesperson for the stablecoin payments company declined to comment on any IPO plans.",
       "url": "https://www.coindesk.com/business/2026/08/14/redotpay-said-to-put-usd1-billion-u-s-ipo-plan-on-hold-bloomberg"
-    },
-    {
-      "date": "2026-08-14",
-      "title": "Tether says it completed long-promised 'Big Four' audit of finances behind $180 billion USDT stablecoin",
-      "summary": "KPMG U.S. examined Tether's books and even counted its gold bars as the $180 billion USDT issuer said it compl…",
-      "url": "https://www.coindesk.com/business/2026/08/13/tether-says-it-completed-long-promised-big-four-audit-of-finances-behind-usd180-billion-usdt-stablecoin"
     }
   ]
 }
