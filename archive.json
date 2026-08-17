@@ -1,6 +1,34 @@
 {
-  "updated": "2026-08-17T05:24:08+09:00",
+  "updated": "2026-08-18T05:29:02+09:00",
   "items": [
+    {
+      "date": "2026-08-18",
+      "title": "US Treasury moves forward with rules on GENIUS Act after July deadline",
+      "summary": "The stablecoin bill signed into law last year is scheduled to go into effect in January 2027, potentially with…",
+      "url": "https://cointelegraph.com/news/us-treasury-public-comment-rules-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-08-17",
+      "title": "【取材】ローソンでステーブルコイン決済実証第2弾、USDC・USDT・JPYCでネットスターズ「Stablecoin Pay」活用",
+      "summary": "ローソンでステーブルコイン決済実証第2弾、3種類・3チェーンを検証 マルチキャッシュレス決済ソリューション「スターペイ（StarPay）」提供のネットスターズが、コンビニエンスストア「ローソン」の店舗で、ステーブルコイン…",
+      "url": "https://www.neweconomy.jp/posts/600287",
+      "important": true
+    },
+    {
+      "date": "2026-08-17",
+      "title": "U.S. Treasury Department proposes GENIUS Act stablecoin rule",
+      "summary": "The Treasury proposal would establish some of the core definitions and jurisdictions in the law Congress compl…",
+      "url": "https://www.coindesk.com/policy/2026/08/17/u-s-treasury-department-proposes-genius-act-stablecoin-rule",
+      "important": true
+    },
+    {
+      "date": "2026-08-17",
+      "title": "Coinbase-Circle USDC collaboration, FOMC minutes, oil price: Crypto Week Ahead",
+      "summary": "Your look at what's coming in the week starting Aug. 17",
+      "url": "https://www.coindesk.com/markets/2026/08/17/coinbase-circle-usdc-collaboration-fomc-minutes-oil-price-crypto-week-ahead",
+      "important": false
+    },
     {
       "date": "2026-08-16",
       "title": "The stablecoin yield clash that won't go away has banks, crypto battling over tradition",

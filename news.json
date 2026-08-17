@@ -1,29 +1,35 @@
 {
-  "updated": "2026-08-17T05:24:08+09:00",
+  "updated": "2026-08-18T05:29:02+09:00",
   "items": [
     {
-      "date": "2026-08-07",
-      "title": "マスターカードとボーダーレス、国際ステーブルコイン決済の信頼性向上へ共同実証",
-      "summary": "「Mastercard Crypto Credential」を活用 米決済大手マスターカード（Mastercard）と、ステーブルコイン決済基盤を提供するボーダーレス（Borderless.xyz）が、国境を越えたステー…",
-      "url": "https://www.neweconomy.jp/posts/598894"
+      "date": "2026-08-17",
+      "title": "【取材】ローソンでステーブルコイン決済実証第2弾、USDC・USDT・JPYCでネットスターズ「Stablecoin Pay」活用",
+      "summary": "ローソンでステーブルコイン決済実証第2弾、3種類・3チェーンを検証 マルチキャッシュレス決済ソリューション「スターペイ（StarPay）」提供のネットスターズが、コンビニエンスストア「ローソン」の店舗で、ステーブルコイン…",
+      "url": "https://www.neweconomy.jp/posts/600287"
     },
     {
-      "date": "2026-08-16",
-      "title": "The stablecoin yield clash that won't go away has banks, crypto battling over tradition",
-      "summary": "The bankers want people kept in lower-yield deposits for the good of the financial system as it's existed for …",
-      "url": "https://www.coindesk.com/news-analysis/2026/08/14/the-stablecoin-yield-clash-that-won-t-go-away-has-banks-crypto-battling-over-tradition"
+      "date": "2026-08-18",
+      "title": "US Treasury moves forward with rules on GENIUS Act after July deadline",
+      "summary": "The stablecoin bill signed into law last year is scheduled to go into effect in January 2027, potentially with…",
+      "url": "https://cointelegraph.com/news/us-treasury-public-comment-rules-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "date": "2026-08-17",
+      "title": "U.S. Treasury Department proposes GENIUS Act stablecoin rule",
+      "summary": "The Treasury proposal would establish some of the core definitions and jurisdictions in the law Congress compl…",
+      "url": "https://www.coindesk.com/policy/2026/08/17/u-s-treasury-department-proposes-genius-act-stablecoin-rule"
+    },
+    {
+      "date": "2026-08-17",
+      "title": "Coinbase-Circle USDC collaboration, FOMC minutes, oil price: Crypto Week Ahead",
+      "summary": "Your look at what's coming in the week starting Aug. 17",
+      "url": "https://www.coindesk.com/markets/2026/08/17/coinbase-circle-usdc-collaboration-fomc-minutes-oil-price-crypto-week-ahead"
     },
     {
       "date": "2026-08-15",
       "title": "Galaxy lowers CLARITY Act odds to 10%",
       "summary": "Galaxy cited unresolved ethics, stablecoin yield and developer protection issues, along with a narrow Senate w…",
       "url": "https://cointelegraph.com/news/galaxy-lowers-clarity-act-odds-10?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "date": "2026-08-14",
-      "title": "RedotPay said to put $1 billion U.S. IPO plan on hold: Bloomberg",
-      "summary": "A spokesperson for the stablecoin payments company declined to comment on any IPO plans.",
-      "url": "https://www.coindesk.com/business/2026/08/14/redotpay-said-to-put-usd1-billion-u-s-ipo-plan-on-hold-bloomberg"
     }
   ]
 }
