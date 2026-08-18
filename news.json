@@ -1,35 +1,41 @@
 {
-  "updated": "2026-08-18T05:29:02+09:00",
+  "updated": "2026-08-19T05:26:07+09:00",
   "items": [
     {
-      "date": "2026-08-17",
-      "title": "【取材】ローソンでステーブルコイン決済実証第2弾、USDC・USDT・JPYCでネットスターズ「Stablecoin Pay」活用",
-      "summary": "ローソンでステーブルコイン決済実証第2弾、3種類・3チェーンを検証 マルチキャッシュレス決済ソリューション「スターペイ（StarPay）」提供のネットスターズが、コンビニエンスストア「ローソン」の店舗で、ステーブルコイン…",
-      "url": "https://www.neweconomy.jp/posts/600287"
+      "date": "2026-08-18",
+      "title": "【8/18話題】 バイナンスがロシア当局に顧客情報提供、ローソンでステーブルコイン決済実証第2弾、トヨタG初の自己募集でのデジタル社債発行へなど（音声ニュース）",
+      "summary": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif…",
+      "url": "https://www.neweconomy.jp/posts/600545"
     },
     {
       "date": "2026-08-18",
-      "title": "US Treasury moves forward with rules on GENIUS Act after July deadline",
-      "summary": "The stablecoin bill signed into law last year is scheduled to go into effect in January 2027, potentially with…",
-      "url": "https://cointelegraph.com/news/us-treasury-public-comment-rules-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      "title": "米財務省、ステーブルコインの発行や販売でジーニアス法のパブコメ募集へ",
+      "summary": "米財務省は、決済向けステーブルコインの法律であるジーニアス法の規制案を公表。ステーブルコインの発行、提供、販売といった行為を定義することで業界のルールを明確化する。",
+      "url": "https://coinpost.jp/?p=731425"
     },
     {
-      "date": "2026-08-17",
-      "title": "U.S. Treasury Department proposes GENIUS Act stablecoin rule",
-      "summary": "The Treasury proposal would establish some of the core definitions and jurisdictions in the law Congress compl…",
-      "url": "https://www.coindesk.com/policy/2026/08/17/u-s-treasury-department-proposes-genius-act-stablecoin-rule"
+      "date": "2026-08-19",
+      "title": "Wyoming joins $15 billion LayerZero exodus with state stablecoin move",
+      "summary": "This is the first time a U.S. government entity has publicly replaced its blockchain infrastructure specifical…",
+      "url": "https://www.coindesk.com/business/2026/08/18/wyoming-joins-usd15-billion-layerzero-exodus-with-state-stablecoin-move"
     },
     {
-      "date": "2026-08-17",
-      "title": "Coinbase-Circle USDC collaboration, FOMC minutes, oil price: Crypto Week Ahead",
-      "summary": "Your look at what's coming in the week starting Aug. 17",
-      "url": "https://www.coindesk.com/markets/2026/08/17/coinbase-circle-usdc-collaboration-fomc-minutes-oil-price-crypto-week-ahead"
+      "date": "2026-08-18",
+      "title": "HashKey taps Hong Kong's first regulated stablecoin to settle insurance and trade deals",
+      "summary": "Following institutional trials, the HKD-pegged asset is being put to work to capture part of Hong Kong's $49 b…",
+      "url": "https://www.coindesk.com/business/2026/08/18/hashkey-taps-hong-kong-s-first-regulated-stablecoin-to-settle-insurance-and-trade-deals"
     },
     {
-      "date": "2026-08-15",
-      "title": "Galaxy lowers CLARITY Act odds to 10%",
-      "summary": "Galaxy cited unresolved ethics, stablecoin yield and developer protection issues, along with a narrow Senate w…",
-      "url": "https://cointelegraph.com/news/galaxy-lowers-clarity-act-odds-10?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      "date": "2026-08-18",
+      "title": "Cash App's crypto support expands beyond bitcoin and USDC via MoonPay",
+      "summary": "Eligible Cash App users will be able to use their balances to purchase digital assets offered by MoonPay, whic…",
+      "url": "https://www.coindesk.com/business/2026/08/18/cash-app-s-crypto-support-expands-beyond-bitcoin-and-usdc-via-moonpay"
+    },
+    {
+      "date": "2026-08-18",
+      "title": "Visa looking for new stablecoin settlement partner after BVNK sale to Mastercard",
+      "summary": "Visa’s request for product (RFP) talks about the need to support a range of stablecoins.",
+      "url": "https://www.coindesk.com/business/2026/08/18/visa-is-looking-for-a-new-stablecoin-settlement-partner-now-that-bvnk-is-owned-by-mastercard"
     }
   ]
 }
