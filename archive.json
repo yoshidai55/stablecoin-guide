@@ -1,12 +1,110 @@
 {
-  "updated": "2026-08-19T05:26:07+09:00",
+  "updated": "2026-08-20T05:29:57+09:00",
   "items": [
+    {
+      "date": "2026-08-20",
+      "title": "【8/19話題】 スラッシュのSVLがコイントレードに上場、ローソンでステーブルコイン決済実証第3弾実施へなど（音声ニュース）",
+      "summary": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif…",
+      "url": "https://www.neweconomy.jp/posts/600800",
+      "important": true
+    },
+    {
+      "date": "2026-08-20",
+      "title": "FalconX, Ethena bring USDe backing assets into $1B institutional credit facility",
+      "summary": "The $1 billion facility will deploy assets backing USDe into overcollateralized institutional loans, expanding…",
+      "url": "https://cointelegraph.com/news/falconx-ethena-launch-1b-usde-backed-institutional-lending-facility?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-08-20",
+      "title": "OCC head promises final GENIUS rules by November",
+      "summary": "The US banking regulator released a 376‑page proposal in February, calling for public comment on rules to impl…",
+      "url": "https://cointelegraph.com/news/occ-head-jonathan-gould-genius-rules-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
     {
       "date": "2026-08-19",
       "title": "Wyoming joins $15 billion LayerZero exodus with state stablecoin move",
       "summary": "This is the first time a U.S. government entity has publicly replaced its blockchain infrastructure specifical…",
       "url": "https://www.coindesk.com/business/2026/08/18/wyoming-joins-usd15-billion-layerzero-exodus-with-state-stablecoin-move",
       "important": false
+    },
+    {
+      "date": "2026-08-19",
+      "title": "UPBOND、アパホテル宿泊者向け観光予約にJPYC決済を検討",
+      "summary": "UPBONDがアパホテル宿泊者向けにJapanTicketの観光体験・飲食店予約を案内するテスト運用を6月に開始した。円建てステーブルコインJPYCを使った決済の実装も視野に入れる。約100万人のウォレット基盤を持つ同社…",
+      "url": "https://coinpost.jp/?p=731818",
+      "important": true
+    },
+    {
+      "date": "2026-08-19",
+      "title": "BCCC、年会費支払いにJPYC導入",
+      "summary": "ブロックチェーン推進協会（BCCC）が2026年7月、年会費の支払いに日本円建て電子決済手段型ステーブルコイン「JPYC」を追加した。unWallet等で受付。JPYC社の岡部典孝代表も歓迎のコメントを寄せた。",
+      "url": "https://coinpost.jp/?p=731808",
+      "important": true
+    },
+    {
+      "date": "2026-08-19",
+      "title": "ユニスワップ、サークル開発L1「Arc」でv4展開へ。9/16のメインネット公開時から",
+      "summary": "Uniswap v4がArcメインネット公開時から利用可能に DEX（分散型取引所）ユニスワップ（Uniswap）の最新プロトコル「ユニスワップv4（Uniswap v4）」が、米ドル建てステーブルコイン「USDC」発行…",
+      "url": "https://www.neweconomy.jp/posts/600688",
+      "important": false
+    },
+    {
+      "date": "2026-08-19",
+      "title": "JCBとデジタルガレージ、ローソンでUSDC決済実証へ。訪日外国人の利用を想定",
+      "summary": "ローソンでステーブルコイン決済実証第3弾実施へ ジェーシービー（JCB）とデジタルガレージが、ローソンとともに、ステーブルコインを用いた店頭決済の実証実験（PoC）に向けた基本合意書を締結した。JCBとデジタルガレージが…",
+      "url": "https://www.neweconomy.jp/posts/600668",
+      "important": false
+    },
+    {
+      "date": "2026-08-19",
+      "title": "デジタルガレージ、JCB・ローソンとステーブルコイン決済の実証実験へ",
+      "summary": "デジタルガレージはJCB、ローソンと基本合意書を締結し、訪日外国人向けにUSDCを用いた店頭決済の実証実験を20日に実施する。国内では加盟店のキャッシュレス対応拡大に伴い、ステーブルコイン活用の動きが広がっている。",
+      "url": "https://coinpost.jp/?p=731734",
+      "important": false
+    },
+    {
+      "date": "2026-08-19",
+      "title": "米ワイオミング州、ステーブルコインの相互運用基盤をチェーンリンクへ移行",
+      "summary": "米ワイオミング州の公式ステーブルコインが、相互運用基盤をレイヤーゼロからチェーンリンクCCIPへ完全移行した。複数年契約でセキュリティを強化し、他州や金融機関の規制対応資産展開の先行例となる。",
+      "url": "https://coinpost.jp/?p=731663",
+      "important": true
+    },
+    {
+      "date": "2026-08-19",
+      "title": "HSBC, Standard Chartered execute first live banking transaction on Swift’s 24/7 ledger",
+      "summary": "The cross-border transaction is Swift’s first in a pilot project as it tests settlement in its push to remain …",
+      "url": "https://www.coindesk.com/business/2026/08/19/hsbc-standard-chartered-execute-first-live-banking-transaction-on-swift-s-24-7-ledger",
+      "important": true
+    },
+    {
+      "date": "2026-08-19",
+      "title": "Beyond crypto funding rates: Ethena diversifies USDe backing with $1 billion FalconX facility",
+      "summary": "The warehouse facility gives Ethena another source of returns for the assets backing USDe while channeling onc…",
+      "url": "https://www.coindesk.com/business/2026/08/19/beyond-crypto-funding-rates-ethena-diversifies-usde-backing-with-usd1-billion-falconx-facility",
+      "important": false
+    },
+    {
+      "date": "2026-08-19",
+      "title": "Centrifuge adds Symbiotic liquidity network across $1.6B in Janus Henderson, NYLIM funds",
+      "summary": "Symbiotic’s Liquid Lane gives eligible holders immediate USDC liquidity across three Centrifuge funds managed …",
+      "url": "https://cointelegraph.com/news/centrifuge-symbiotic-liquidity-network-janus-henderson-nylim-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-08-19",
+      "title": "Nexo launches regulated crypto-backed credit in Australia",
+      "summary": "Nexo introduced regulated, cryptocurrency-backed credit lines that allow users to access liquidity in Australi…",
+      "url": "https://cointelegraph.com/news/nexo-launches-crypto-backed-credit-australia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-08-19",
+      "title": "US accounting board FASB proposes conditions for stablecoins as cash equivalents",
+      "summary": "The FASB said secondary-market liquidity alone would not be enough, with holders needing direct issuer redempt…",
+      "url": "https://cointelegraph.com/news/us-accounting-board-fasb-proposes-conditions-for-stablecoins-as-cash-equivalents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
     },
     {
       "date": "2026-08-18",

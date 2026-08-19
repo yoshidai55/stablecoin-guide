@@ -1,41 +1,41 @@
 {
-  "updated": "2026-08-19T05:26:07+09:00",
+  "updated": "2026-08-20T05:29:57+09:00",
   "items": [
     {
-      "date": "2026-08-18",
-      "title": "【8/18話題】 バイナンスがロシア当局に顧客情報提供、ローソンでステーブルコイン決済実証第2弾、トヨタG初の自己募集でのデジタル社債発行へなど（音声ニュース）",
+      "date": "2026-08-20",
+      "title": "【8/19話題】 スラッシュのSVLがコイントレードに上場、ローソンでステーブルコイン決済実証第3弾実施へなど（音声ニュース）",
       "summary": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif…",
-      "url": "https://www.neweconomy.jp/posts/600545"
-    },
-    {
-      "date": "2026-08-18",
-      "title": "米財務省、ステーブルコインの発行や販売でジーニアス法のパブコメ募集へ",
-      "summary": "米財務省は、決済向けステーブルコインの法律であるジーニアス法の規制案を公表。ステーブルコインの発行、提供、販売といった行為を定義することで業界のルールを明確化する。",
-      "url": "https://coinpost.jp/?p=731425"
+      "url": "https://www.neweconomy.jp/posts/600800"
     },
     {
       "date": "2026-08-19",
-      "title": "Wyoming joins $15 billion LayerZero exodus with state stablecoin move",
-      "summary": "This is the first time a U.S. government entity has publicly replaced its blockchain infrastructure specifical…",
-      "url": "https://www.coindesk.com/business/2026/08/18/wyoming-joins-usd15-billion-layerzero-exodus-with-state-stablecoin-move"
+      "title": "UPBOND、アパホテル宿泊者向け観光予約にJPYC決済を検討",
+      "summary": "UPBONDがアパホテル宿泊者向けにJapanTicketの観光体験・飲食店予約を案内するテスト運用を6月に開始した。円建てステーブルコインJPYCを使った決済の実装も視野に入れる。約100万人のウォレット基盤を持つ同社…",
+      "url": "https://coinpost.jp/?p=731818"
     },
     {
-      "date": "2026-08-18",
-      "title": "HashKey taps Hong Kong's first regulated stablecoin to settle insurance and trade deals",
-      "summary": "Following institutional trials, the HKD-pegged asset is being put to work to capture part of Hong Kong's $49 b…",
-      "url": "https://www.coindesk.com/business/2026/08/18/hashkey-taps-hong-kong-s-first-regulated-stablecoin-to-settle-insurance-and-trade-deals"
+      "date": "2026-08-19",
+      "title": "BCCC、年会費支払いにJPYC導入",
+      "summary": "ブロックチェーン推進協会（BCCC）が2026年7月、年会費の支払いに日本円建て電子決済手段型ステーブルコイン「JPYC」を追加した。unWallet等で受付。JPYC社の岡部典孝代表も歓迎のコメントを寄せた。",
+      "url": "https://coinpost.jp/?p=731808"
     },
     {
-      "date": "2026-08-18",
-      "title": "Cash App's crypto support expands beyond bitcoin and USDC via MoonPay",
-      "summary": "Eligible Cash App users will be able to use their balances to purchase digital assets offered by MoonPay, whic…",
-      "url": "https://www.coindesk.com/business/2026/08/18/cash-app-s-crypto-support-expands-beyond-bitcoin-and-usdc-via-moonpay"
+      "date": "2026-08-19",
+      "title": "ユニスワップ、サークル開発L1「Arc」でv4展開へ。9/16のメインネット公開時から",
+      "summary": "Uniswap v4がArcメインネット公開時から利用可能に DEX（分散型取引所）ユニスワップ（Uniswap）の最新プロトコル「ユニスワップv4（Uniswap v4）」が、米ドル建てステーブルコイン「USDC」発行…",
+      "url": "https://www.neweconomy.jp/posts/600688"
     },
     {
-      "date": "2026-08-18",
-      "title": "Visa looking for new stablecoin settlement partner after BVNK sale to Mastercard",
-      "summary": "Visa’s request for product (RFP) talks about the need to support a range of stablecoins.",
-      "url": "https://www.coindesk.com/business/2026/08/18/visa-is-looking-for-a-new-stablecoin-settlement-partner-now-that-bvnk-is-owned-by-mastercard"
+      "date": "2026-08-19",
+      "title": "JCBとデジタルガレージ、ローソンでUSDC決済実証へ。訪日外国人の利用を想定",
+      "summary": "ローソンでステーブルコイン決済実証第3弾実施へ ジェーシービー（JCB）とデジタルガレージが、ローソンとともに、ステーブルコインを用いた店頭決済の実証実験（PoC）に向けた基本合意書を締結した。JCBとデジタルガレージが…",
+      "url": "https://www.neweconomy.jp/posts/600668"
+    },
+    {
+      "date": "2026-08-19",
+      "title": "デジタルガレージ、JCB・ローソンとステーブルコイン決済の実証実験へ",
+      "summary": "デジタルガレージはJCB、ローソンと基本合意書を締結し、訪日外国人向けにUSDCを用いた店頭決済の実証実験を20日に実施する。国内では加盟店のキャッシュレス対応拡大に伴い、ステーブルコイン活用の動きが広がっている。",
+      "url": "https://coinpost.jp/?p=731734"
     }
   ]
 }
