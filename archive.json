@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T05:29:57+09:00",
+  "updated": "2026-08-21T05:30:26+09:00",
   "items": [
     {
       "date": "2026-08-20",
@@ -20,6 +20,41 @@
       "title": "OCC head promises final GENIUS rules by November",
       "summary": "The US banking regulator released a 376‑page proposal in February, calling for public comment on rules to impl…",
       "url": "https://cointelegraph.com/news/occ-head-jonathan-gould-genius-rules-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-08-20",
+      "title": "ワイオミング州発行ステーブルトークン「FRNT」、クロスチェーン基盤をCCIPへ移行。LayerZeroから切り替え",
+      "summary": "州発行ステーブルトークンFRNTのクロスチェーン基盤を変更 ワイオミング・ステーブル・トークン委員会（Wyoming Stable Token Commission）が、州発行ステーブルトークン「フロンティア・ステーブル…",
+      "url": "https://www.neweconomy.jp/posts/600941",
+      "important": false
+    },
+    {
+      "date": "2026-08-20",
+      "title": "MiCA cracks down on USDT in Europe... but no one else cares",
+      "summary": "USDT is disappearing from regulated European platforms, but there is little sign that it has resulted in weake…",
+      "url": "https://cointelegraph.com/magazine/mica-cracks-down-on-usdt-in-europe-but-global-demand-remains-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-08-20",
+      "title": "Elon Musk's X is exploring stablecoins to pay influencers and content providers",
+      "summary": "Conversations with X are ongoing, according to a person who also works with other social media platforms testi…",
+      "url": "https://www.coindesk.com/business/2026/08/20/elon-musk-s-x-is-exploring-stablecoins-to-pay-influencers-and-content-providers",
+      "important": false
+    },
+    {
+      "date": "2026-08-20",
+      "title": "Trader who made $49 million shorting crypto lost $24 million on ether in 12 seconds",
+      "summary": "The Hyperliquid wallet known as pension-usdt.eth was forced out of a 50,000 ETH short as ether surged, with fi…",
+      "url": "https://www.coindesk.com/markets/2026/08/20/trader-who-made-usd49-million-shorting-crypto-lost-usd24-million-on-ether-in-12-seconds",
+      "important": true
+    },
+    {
+      "date": "2026-08-20",
+      "title": "Bitcoin.com integrates UAE-registered US dollar stablecoin into self-custodial wallet",
+      "summary": "The integration expands access to USDU, the UAE’s first central bank-registered US dollar stablecoin, as it bu…",
+      "url": "https://cointelegraph.com/news/bitcoincom-integrates-uae-registered-usdu-stablecoin-into-self-custodial-wallet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "important": true
     },
     {

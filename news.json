@@ -1,41 +1,41 @@
 {
-  "updated": "2026-08-20T05:29:57+09:00",
+  "updated": "2026-08-21T05:30:26+09:00",
   "items": [
     {
       "date": "2026-08-20",
-      "title": "【8/19話題】 スラッシュのSVLがコイントレードに上場、ローソンでステーブルコイン決済実証第3弾実施へなど（音声ニュース）",
-      "summary": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif…",
-      "url": "https://www.neweconomy.jp/posts/600800"
+      "title": "ワイオミング州発行ステーブルトークン「FRNT」、クロスチェーン基盤をCCIPへ移行。LayerZeroから切り替え",
+      "summary": "州発行ステーブルトークンFRNTのクロスチェーン基盤を変更 ワイオミング・ステーブル・トークン委員会（Wyoming Stable Token Commission）が、州発行ステーブルトークン「フロンティア・ステーブル…",
+      "url": "https://www.neweconomy.jp/posts/600941"
     },
     {
-      "date": "2026-08-19",
-      "title": "UPBOND、アパホテル宿泊者向け観光予約にJPYC決済を検討",
-      "summary": "UPBONDがアパホテル宿泊者向けにJapanTicketの観光体験・飲食店予約を案内するテスト運用を6月に開始した。円建てステーブルコインJPYCを使った決済の実装も視野に入れる。約100万人のウォレット基盤を持つ同社…",
-      "url": "https://coinpost.jp/?p=731818"
+      "date": "2026-08-20",
+      "title": "MiCA cracks down on USDT in Europe... but no one else cares",
+      "summary": "USDT is disappearing from regulated European platforms, but there is little sign that it has resulted in weake…",
+      "url": "https://cointelegraph.com/magazine/mica-cracks-down-on-usdt-in-europe-but-global-demand-remains-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     },
     {
-      "date": "2026-08-19",
-      "title": "BCCC、年会費支払いにJPYC導入",
-      "summary": "ブロックチェーン推進協会（BCCC）が2026年7月、年会費の支払いに日本円建て電子決済手段型ステーブルコイン「JPYC」を追加した。unWallet等で受付。JPYC社の岡部典孝代表も歓迎のコメントを寄せた。",
-      "url": "https://coinpost.jp/?p=731808"
+      "date": "2026-08-20",
+      "title": "Elon Musk's X is exploring stablecoins to pay influencers and content providers",
+      "summary": "Conversations with X are ongoing, according to a person who also works with other social media platforms testi…",
+      "url": "https://www.coindesk.com/business/2026/08/20/elon-musk-s-x-is-exploring-stablecoins-to-pay-influencers-and-content-providers"
     },
     {
-      "date": "2026-08-19",
-      "title": "ユニスワップ、サークル開発L1「Arc」でv4展開へ。9/16のメインネット公開時から",
-      "summary": "Uniswap v4がArcメインネット公開時から利用可能に DEX（分散型取引所）ユニスワップ（Uniswap）の最新プロトコル「ユニスワップv4（Uniswap v4）」が、米ドル建てステーブルコイン「USDC」発行…",
-      "url": "https://www.neweconomy.jp/posts/600688"
+      "date": "2026-08-20",
+      "title": "Trader who made $49 million shorting crypto lost $24 million on ether in 12 seconds",
+      "summary": "The Hyperliquid wallet known as pension-usdt.eth was forced out of a 50,000 ETH short as ether surged, with fi…",
+      "url": "https://www.coindesk.com/markets/2026/08/20/trader-who-made-usd49-million-shorting-crypto-lost-usd24-million-on-ether-in-12-seconds"
     },
     {
-      "date": "2026-08-19",
-      "title": "JCBとデジタルガレージ、ローソンでUSDC決済実証へ。訪日外国人の利用を想定",
-      "summary": "ローソンでステーブルコイン決済実証第3弾実施へ ジェーシービー（JCB）とデジタルガレージが、ローソンとともに、ステーブルコインを用いた店頭決済の実証実験（PoC）に向けた基本合意書を締結した。JCBとデジタルガレージが…",
-      "url": "https://www.neweconomy.jp/posts/600668"
+      "date": "2026-08-20",
+      "title": "Bitcoin.com integrates UAE-registered US dollar stablecoin into self-custodial wallet",
+      "summary": "The integration expands access to USDU, the UAE’s first central bank-registered US dollar stablecoin, as it bu…",
+      "url": "https://cointelegraph.com/news/bitcoincom-integrates-uae-registered-usdu-stablecoin-into-self-custodial-wallet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     },
     {
-      "date": "2026-08-19",
-      "title": "デジタルガレージ、JCB・ローソンとステーブルコイン決済の実証実験へ",
-      "summary": "デジタルガレージはJCB、ローソンと基本合意書を締結し、訪日外国人向けにUSDCを用いた店頭決済の実証実験を20日に実施する。国内では加盟店のキャッシュレス対応拡大に伴い、ステーブルコイン活用の動きが広がっている。",
-      "url": "https://coinpost.jp/?p=731734"
+      "date": "2026-08-20",
+      "title": "FalconX, Ethena bring USDe backing assets into $1B institutional credit facility",
+      "summary": "The $1 billion facility will deploy assets backing USDe into overcollateralized institutional loans, expanding…",
+      "url": "https://cointelegraph.com/news/falconx-ethena-launch-1b-usde-backed-institutional-lending-facility?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     }
   ]
 }
