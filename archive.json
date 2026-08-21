@@ -1,6 +1,34 @@
 {
-  "updated": "2026-08-21T05:30:26+09:00",
+  "updated": "2026-08-22T05:27:44+09:00",
   "items": [
+    {
+      "date": "2026-08-21",
+      "title": "HashPort、JPYC決済対応のNFTマーケット提供開始",
+      "summary": "HashPortが「HashPort Market｜αU」の提供を開始した。電子決済手段型ステーブルコインJPYCでの決済に対応するNFTマーケットで、CryptoGamesと提携したトレカNFTオリパの販売と二次流通も…",
+      "url": "https://coinpost.jp/?p=732516",
+      "important": true
+    },
+    {
+      "date": "2026-08-21",
+      "title": "ビットコインの強気指数、10カ月ぶり60超え＝アナリスト",
+      "summary": "クリプトクアントのブルスコア指数が60を回復し、2025年10月以来となる強気圏入りをアナリストが指摘した。10指標中6指標がグリーン転換し、需要成長やステーブルコイン流動性、実現価格の改善が背景にあるという。",
+      "url": "https://coinpost.jp/?p=732457",
+      "important": false
+    },
+    {
+      "date": "2026-08-21",
+      "title": "ビットコイン7.3万ドル突破、米規制進展とショート清算が上昇を加速｜仮想NISHI",
+      "summary": "仮想通貨ビットコインは8月21日も上昇し3日続伸で7万3,000ドルを突破した。円建てでも過去24時間で約70万円幅の上昇となっている。",
+      "url": "https://coinpost.jp/?p=732243",
+      "important": true
+    },
+    {
+      "date": "2026-08-21",
+      "title": "Ripple backs an RLUSD credit fund amid XRP's best week in months",
+      "summary": "Clearpool and Cicada Partners are building an institutional lending product using RLUSD, though the XRP Ledger…",
+      "url": "https://www.coindesk.com/markets/2026/08/21/ripple-backs-an-rlusd-credit-fund-amid-xrp-s-best-week-in-months",
+      "important": false
+    },
     {
       "date": "2026-08-20",
       "title": "【8/19話題】 スラッシュのSVLがコイントレードに上場、ローソンでステーブルコイン決済実証第3弾実施へなど（音声ニュース）",
