@@ -1,6 +1,27 @@
 {
-  "updated": "2026-08-22T05:27:44+09:00",
+  "updated": "2026-08-23T05:24:47+09:00",
   "items": [
+    {
+      "date": "2026-08-22",
+      "title": "ビットコイン7.9万ドル突破、イラン制裁観測で逃避買い オプション市場は9万ドルを意識｜仮想NISHI",
+      "summary": "仮想通貨ビットコインは8月22日も続騰し、一時7万9,000ドルを突破した。円建てでも過去24時間で約100万円幅の上昇となっており、8万ドルの大台を目前に控える展開となっている。",
+      "url": "https://coinpost.jp/?p=732566",
+      "important": false
+    },
+    {
+      "date": "2026-08-22",
+      "title": "リップル、XRPレジャーで機関投資家向け融資ファンド始動 XRPは前週比46%超上昇",
+      "summary": "リップルはクリアプール、シカダ・パートナーズとともに、ステーブルコインRLUSDを軸とした機関投資家融資ファンドの構築を進めている。実装の可否はバリデーター承認にかかっており、XRP相場にも影響し得る。",
+      "url": "https://coinpost.jp/?p=732565",
+      "important": false
+    },
+    {
+      "date": "2026-08-22",
+      "title": "Bitcoin and Ether bears get decimated amid 'squeeze-led' rally and Musk's X wants to pay creators in stablecoins: Crypto's week in 5 stories",
+      "summary": "Bitcoin and crypto staged their strongest rally in months as Treasury intervention, regulatory moves and a his…",
+      "url": "https://www.coindesk.com/business/2026/08/22/bitcoin-and-ether-bears-get-decimated-amid-squeeze-led-rally-and-musk-s-x-wants-to-pay-creators-in-stablecoins-crypto-week-in-5-stories",
+      "important": false
+    },
     {
       "date": "2026-08-21",
       "title": "HashPort、JPYC決済対応のNFTマーケット提供開始",
