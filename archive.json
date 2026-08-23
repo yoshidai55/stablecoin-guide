@@ -1,6 +1,20 @@
 {
-  "updated": "2026-08-23T05:24:47+09:00",
+  "updated": "2026-08-24T05:25:00+09:00",
   "items": [
+    {
+      "date": "2026-08-24",
+      "title": "Crypto card spending tops $1 billion as stablecoins move into everyday purchases",
+      "summary": "Tracked card volume more than tripled in a year, with USDC and USDT funding over 70% of spending as users incr…",
+      "url": "https://www.coindesk.com/business/2026/08/23/crypto-card-spending-tops-usd1-billion-as-stablecoins-move-into-everyday-purchases",
+      "important": false
+    },
+    {
+      "date": "2026-08-23",
+      "title": "Crypto’s next billion users might be AI agents, and they’re paying with stablecoins",
+      "summary": "According to Coinbase’s head of AI product, we’re currently in the “Napster/LimeWire era” of agentic payments.",
+      "url": "https://www.coindesk.com/business/2026/08/23/crypto-s-next-billion-users-might-be-ai-agents-and-they-re-paying-with-stablecoins",
+      "important": false
+    },
     {
       "date": "2026-08-22",
       "title": "ビットコイン7.9万ドル突破、イラン制裁観測で逃避買い オプション市場は9万ドルを意識｜仮想NISHI",
