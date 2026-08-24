@@ -1,12 +1,54 @@
 {
-  "updated": "2026-08-24T05:25:00+09:00",
+  "updated": "2026-08-25T05:32:15+09:00",
   "items": [
+    {
+      "date": "2026-08-25",
+      "title": "Bernstein sees new USDC growth cycle, sets $140 Circle price target",
+      "summary": "USDC supply increased by roughly $2 billion in seven days, with Bernstein citing higher transaction activity a…",
+      "url": "https://cointelegraph.com/news/bernstein-circle-usdc-growth-140-price-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
     {
       "date": "2026-08-24",
       "title": "Crypto card spending tops $1 billion as stablecoins move into everyday purchases",
       "summary": "Tracked card volume more than tripled in a year, with USDC and USDT funding over 70% of spending as users incr…",
       "url": "https://www.coindesk.com/business/2026/08/23/crypto-card-spending-tops-usd1-billion-as-stablecoins-move-into-everyday-purchases",
       "important": false
+    },
+    {
+      "date": "2026-08-24",
+      "title": "SBIホールディングス、ステーブルコイン企業Fassetへ追加出資 企業価値10億ドルに",
+      "summary": "SBIホールディングスがステーブルコイン企業Fasset社へ追加出資を決定。株式取得価額を基礎にした企業価値は10億米ドルとなった。シリーズC完了後の持分法適用化やマレーシアでの協業計画も明らかにした。",
+      "url": "https://coinpost.jp/?p=732763",
+      "important": false
+    },
+    {
+      "date": "2026-08-24",
+      "title": "ハッシュポート、NFTマーケット「PLT Place」を刷新、JPYC決済対応の「HashPort Market | αU」に",
+      "summary": "NFTマーケットPLT Placeを刷新、JPYC決済に対応 ブロックチェーン関連事業を展開する国内企業ハッシュポート（HashPort）が、日本円ステーブルコイン対応NFTマーケットプレイス「HashPort Mark…",
+      "url": "https://www.neweconomy.jp/posts/601446",
+      "important": true
+    },
+    {
+      "date": "2026-08-24",
+      "title": "Standard Chartered becomes first bank to distribute Hong Kong dollar stablecoin",
+      "summary": "The London-based multinational bank with $850 billion in assets announced it will distribute Anchorpoint's HKD…",
+      "url": "https://www.coindesk.com/business/2026/08/24/standard-chartered-first-bank-to-distribute-anchorpoint-s-hong-kong-dollar-stablecoin",
+      "important": true
+    },
+    {
+      "date": "2026-08-24",
+      "title": "Japan’s SBI leads $68M Fasset round at $1B valuation",
+      "summary": "Fasset raised $68 million in a Series C led by SBI Group as the companies plan a digital bank in Malaysia and …",
+      "url": "https://cointelegraph.com/news/sbi-fasset-round-1b-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-08-24",
+      "title": "Stablecoin neobank Fasset lands $1 billion valuation as SBI backs its payments push",
+      "summary": "The firm raised $68 million as its revenue has grown six-fold as stablecoin payments and settlement expand, CE…",
+      "url": "https://www.coindesk.com/business/2026/08/22/stablecoin-neobank-fasset-lands-usd1-billion-valuation-as-sbi-backs-its-payments-push",
+      "important": true
     },
     {
       "date": "2026-08-23",
