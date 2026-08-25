@@ -1,41 +1,35 @@
 {
-  "updated": "2026-08-25T05:32:15+09:00",
+  "updated": "2026-08-26T05:30:55+09:00",
   "items": [
     {
-      "date": "2026-08-24",
-      "title": "SBIホールディングス、ステーブルコイン企業Fassetへ追加出資 企業価値10億ドルに",
-      "summary": "SBIホールディングスがステーブルコイン企業Fasset社へ追加出資を決定。株式取得価額を基礎にした企業価値は10億米ドルとなった。シリーズC完了後の持分法適用化やマレーシアでの協業計画も明らかにした。",
-      "url": "https://coinpost.jp/?p=732763"
+      "date": "2026-08-25",
+      "title": "金融庁、信託型ステーブルコインの税務手続見直し要望か＝報道",
+      "summary": "金融庁が信託型ステーブルコインの税務手続見直しを要望へ 金融庁が、個人による信託型ステーブルコインの大口決済を促進するため、所得税法や相続税法に基づく書類提出義務の見直しを、近くまとめる税制改正要望に盛り込む方針だと「日…",
+      "url": "https://www.neweconomy.jp/posts/602080"
     },
     {
-      "date": "2026-08-24",
-      "title": "ハッシュポート、NFTマーケット「PLT Place」を刷新、JPYC決済対応の「HashPort Market | αU」に",
-      "summary": "NFTマーケットPLT Placeを刷新、JPYC決済に対応 ブロックチェーン関連事業を展開する国内企業ハッシュポート（HashPort）が、日本円ステーブルコイン対応NFTマーケットプレイス「HashPort Mark…",
-      "url": "https://www.neweconomy.jp/posts/601446"
+      "date": "2026-08-25",
+      "title": "テザー、ウルグアイのビットコインマイニング事業が頓挫か。電力供給巡る対立などで＝報道",
+      "summary": "Tetherのウルグアイマイニング事業が頓挫か ステーブルコイン発行大手のテザー（Tether）がウルグアイで進めていたビットコイン（BTC）マイニング事業が、国営電力会社UTEとの電力供給を巡る対立などを背景に頓挫した…",
+      "url": "https://www.neweconomy.jp/posts/602003"
+    },
+    {
+      "date": "2026-08-25",
+      "title": "スタンダードチャータードの香港法人、HKDAP初の取扱銀行に",
+      "summary": "Standard Chartered香港がHKDAP初の銀行ディストリビューターに 英銀行大手スタンダードチャータード（Standard Chartered）の香港法人が、香港ドル裏付けステーブルコイン「HKDAP」の認…",
+      "url": "https://www.neweconomy.jp/posts/601988"
+    },
+    {
+      "date": "2026-08-25",
+      "title": "Standard Chartered becomes first bank distributor of HKD stablecoin",
+      "summary": "The bank plans tokenized money market fund settlements in the fourth quarter as HKDAP expands its phased rollo…",
+      "url": "https://cointelegraph.com/news/standard-chartered-hkdap-stablecoin-distribution?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     },
     {
       "date": "2026-08-25",
       "title": "Bernstein sees new USDC growth cycle, sets $140 Circle price target",
       "summary": "USDC supply increased by roughly $2 billion in seven days, with Bernstein citing higher transaction activity a…",
       "url": "https://cointelegraph.com/news/bernstein-circle-usdc-growth-140-price-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "date": "2026-08-24",
-      "title": "Standard Chartered becomes first bank to distribute Hong Kong dollar stablecoin",
-      "summary": "The London-based multinational bank with $850 billion in assets announced it will distribute Anchorpoint's HKD…",
-      "url": "https://www.coindesk.com/business/2026/08/24/standard-chartered-first-bank-to-distribute-anchorpoint-s-hong-kong-dollar-stablecoin"
-    },
-    {
-      "date": "2026-08-24",
-      "title": "Japan’s SBI leads $68M Fasset round at $1B valuation",
-      "summary": "Fasset raised $68 million in a Series C led by SBI Group as the companies plan a digital bank in Malaysia and …",
-      "url": "https://cointelegraph.com/news/sbi-fasset-round-1b-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "date": "2026-08-24",
-      "title": "Stablecoin neobank Fasset lands $1 billion valuation as SBI backs its payments push",
-      "summary": "The firm raised $68 million as its revenue has grown six-fold as stablecoin payments and settlement expand, CE…",
-      "url": "https://www.coindesk.com/business/2026/08/22/stablecoin-neobank-fasset-lands-usd1-billion-valuation-as-sbi-backs-its-payments-push"
     }
   ]
 }
