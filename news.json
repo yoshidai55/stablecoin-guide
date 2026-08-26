@@ -1,35 +1,41 @@
 {
-  "updated": "2026-08-26T05:30:55+09:00",
+  "updated": "2026-08-27T07:51:33+09:00",
   "items": [
     {
-      "date": "2026-08-25",
-      "title": "金融庁、信託型ステーブルコインの税務手続見直し要望か＝報道",
-      "summary": "金融庁が信託型ステーブルコインの税務手続見直しを要望へ 金融庁が、個人による信託型ステーブルコインの大口決済を促進するため、所得税法や相続税法に基づく書類提出義務の見直しを、近くまとめる税制改正要望に盛り込む方針だと「日…",
-      "url": "https://www.neweconomy.jp/posts/602080"
+      "date": "2026-08-26",
+      "title": "【8/26話題】政府と日銀が次世代決済インフラ整備へ、ステーブルコインカード決済額は28年に年500億ドルへ、TORICOが2日連続ETH追加取得など（音声ニュース）",
+      "summary": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif…",
+      "url": "https://www.neweconomy.jp/posts/602515"
     },
     {
-      "date": "2026-08-25",
-      "title": "テザー、ウルグアイのビットコインマイニング事業が頓挫か。電力供給巡る対立などで＝報道",
-      "summary": "Tetherのウルグアイマイニング事業が頓挫か ステーブルコイン発行大手のテザー（Tether）がウルグアイで進めていたビットコイン（BTC）マイニング事業が、国営電力会社UTEとの電力供給を巡る対立などを背景に頓挫した…",
-      "url": "https://www.neweconomy.jp/posts/602003"
+      "date": "2026-08-26",
+      "title": "ステーブルコインカード決済額、2028年に年500億ドルへ＝レドットペイ予測",
+      "summary": "7月に月間最高の10億ドル突破 世界のステーブルコインカードによる決済額は、2028年までに現在の4倍となる年間500億ドル（約7兆9,500億円）へ拡大する見通しだ。ステーブルコイン決済企業レドットペイ（RedotPa…",
+      "url": "https://www.neweconomy.jp/posts/602438"
     },
     {
-      "date": "2026-08-25",
-      "title": "スタンダードチャータードの香港法人、HKDAP初の取扱銀行に",
-      "summary": "Standard Chartered香港がHKDAP初の銀行ディストリビューターに 英銀行大手スタンダードチャータード（Standard Chartered）の香港法人が、香港ドル裏付けステーブルコイン「HKDAP」の認…",
-      "url": "https://www.neweconomy.jp/posts/601988"
+      "date": "2026-08-26",
+      "title": "トークン化預金の銀行間決済実証に43社参加、8月20日に本格検証",
+      "summary": "金融庁「FinTech実証実験ハブ」の支援案件、トークン化預金の銀行間決済実証にりそな・横浜銀行など43社が参加。8月20日に本格検証を開始し、24時間365日のオンチェーン決済を目指す。ステーブルコインを使う連携方式も…",
+      "url": "https://coinpost.jp/?p=733386"
     },
     {
-      "date": "2026-08-25",
-      "title": "Standard Chartered becomes first bank distributor of HKD stablecoin",
-      "summary": "The bank plans tokenized money market fund settlements in the fourth quarter as HKDAP expands its phased rollo…",
-      "url": "https://cointelegraph.com/news/standard-chartered-hkdap-stablecoin-distribution?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      "date": "2026-08-26",
+      "title": "ワールドリバティの米ドルステーブルコイン「USD1」、カントンでネイティブ発行開始",
+      "summary": "USD1がカントンでネイティブ発行開始 米ワールドリバティ・ファイナンシャル（World Liberty Financial：WLFI）が手がけ、ビットゴー・バンク＆トラスト（BitGo Bank & Trust […]",
+      "url": "https://www.neweconomy.jp/posts/602411"
     },
     {
-      "date": "2026-08-25",
-      "title": "Bernstein sees new USDC growth cycle, sets $140 Circle price target",
-      "summary": "USDC supply increased by roughly $2 billion in seven days, with Bernstein citing higher transaction activity a…",
-      "url": "https://cointelegraph.com/news/bernstein-circle-usdc-growth-140-price-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      "date": "2026-08-26",
+      "title": "トランプ一族関与のワールド・リバティ、ステーブルコインUSD1をカントンでローンチ",
+      "summary": "トランプ一族関与の仮想通貨関連企業ワールド・リバティ・フィナンシャルは、ステーブルコインUSD1をカントンでローンチしたことを発表。RWAのトークン化を加速させると述べている。",
+      "url": "https://coinpost.jp/?p=733252"
+    },
+    {
+      "date": "2026-08-27",
+      "title": "South Korea’s top financial conglomerate team up with Visa to test stablecoin issuance and B2B settlements",
+      "summary": "Shinhan Financial Group will use Visa’s platform to test stablecoin issuance, remittance, and redemption while…",
+      "url": "https://www.coindesk.com/business/2026/08/26/south-korea-s-shinhan-financial-joins-visa-to-build-stablecoin-infrastructure"
     }
   ]
 }

@@ -1,6 +1,83 @@
 {
-  "updated": "2026-08-26T05:30:55+09:00",
+  "updated": "2026-08-27T07:51:33+09:00",
   "items": [
+    {
+      "date": "2026-08-27",
+      "title": "South Korea’s top financial conglomerate team up with Visa to test stablecoin issuance and B2B settlements",
+      "summary": "Shinhan Financial Group will use Visa’s platform to test stablecoin issuance, remittance, and redemption while…",
+      "url": "https://www.coindesk.com/business/2026/08/26/south-korea-s-shinhan-financial-joins-visa-to-build-stablecoin-infrastructure",
+      "important": false
+    },
+    {
+      "date": "2026-08-26",
+      "title": "【8/26話題】政府と日銀が次世代決済インフラ整備へ、ステーブルコインカード決済額は28年に年500億ドルへ、TORICOが2日連続ETH追加取得など（音声ニュース）",
+      "summary": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif…",
+      "url": "https://www.neweconomy.jp/posts/602515",
+      "important": false
+    },
+    {
+      "date": "2026-08-26",
+      "title": "ステーブルコインカード決済額、2028年に年500億ドルへ＝レドットペイ予測",
+      "summary": "7月に月間最高の10億ドル突破 世界のステーブルコインカードによる決済額は、2028年までに現在の4倍となる年間500億ドル（約7兆9,500億円）へ拡大する見通しだ。ステーブルコイン決済企業レドットペイ（RedotPa…",
+      "url": "https://www.neweconomy.jp/posts/602438",
+      "important": false
+    },
+    {
+      "date": "2026-08-26",
+      "title": "トークン化預金の銀行間決済実証に43社参加、8月20日に本格検証",
+      "summary": "金融庁「FinTech実証実験ハブ」の支援案件、トークン化預金の銀行間決済実証にりそな・横浜銀行など43社が参加。8月20日に本格検証を開始し、24時間365日のオンチェーン決済を目指す。ステーブルコインを使う連携方式も…",
+      "url": "https://coinpost.jp/?p=733386",
+      "important": true
+    },
+    {
+      "date": "2026-08-26",
+      "title": "ワールドリバティの米ドルステーブルコイン「USD1」、カントンでネイティブ発行開始",
+      "summary": "USD1がカントンでネイティブ発行開始 米ワールドリバティ・ファイナンシャル（World Liberty Financial：WLFI）が手がけ、ビットゴー・バンク＆トラスト（BitGo Bank & Trust […]",
+      "url": "https://www.neweconomy.jp/posts/602411",
+      "important": true
+    },
+    {
+      "date": "2026-08-26",
+      "title": "トランプ一族関与のワールド・リバティ、ステーブルコインUSD1をカントンでローンチ",
+      "summary": "トランプ一族関与の仮想通貨関連企業ワールド・リバティ・フィナンシャルは、ステーブルコインUSD1をカントンでローンチしたことを発表。RWAのトークン化を加速させると述べている。",
+      "url": "https://coinpost.jp/?p=733252",
+      "important": false
+    },
+    {
+      "date": "2026-08-26",
+      "title": "The evidence doesn't support the banks' case against stablecoin rewards",
+      "summary": "",
+      "url": "https://www.coindesk.com/opinion/2026/08/25/the-evidence-doesn-t-support-the-banks-case-against-stablecoin-rewards",
+      "important": true
+    },
+    {
+      "date": "2026-08-26",
+      "title": "Euro stablecoins get a mainstream push as Revolut begins rolling out EURR in Europe",
+      "summary": "Revolut said the stablecoin’s rollout will start with a select group of customers within Denmark, Poland, and …",
+      "url": "https://www.coindesk.com/business/2026/08/26/euro-stablecoins-get-a-mainstream-push-as-revolut-begins-rolling-out-eurr-in-europe",
+      "important": false
+    },
+    {
+      "date": "2026-08-26",
+      "title": "Revolut rolls out euro stablecoin in 3 European markets",
+      "summary": "The Bridge-issued EURR token will support multiple blockchains and external wallets, with wider EEA availabili…",
+      "url": "https://cointelegraph.com/news/revolut-eurr-euro-stablecoin-europe-rollout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-08-26",
+      "title": "U.S. state banking associations plan to launch their own nationwide blockchain network",
+      "summary": "The \"BankChain Alliance\" is aiming for a 2027 launch, and would foster stablecoins, payments and tokenized dep…",
+      "url": "https://www.coindesk.com/policy/2026/08/25/u-s-state-banking-associations-plan-to-launch-their-own-nationwide-blockchain-network",
+      "important": true
+    },
+    {
+      "date": "2026-08-26",
+      "title": "World Liberty Financial launches USD1 natively on Canton Network",
+      "summary": "USD1 is the sixth-largest stablecoin, with a market capitalization of more than $4 billion, according to indus…",
+      "url": "https://cointelegraph.com/news/world-liberty-financial-launches-usd1-natively-on-canton-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
     {
       "date": "2026-08-25",
       "title": "Bernstein sees new USDC growth cycle, sets $140 Circle price target",
