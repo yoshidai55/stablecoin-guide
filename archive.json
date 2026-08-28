@@ -1,12 +1,124 @@
 {
-  "updated": "2026-08-27T07:51:33+09:00",
+  "updated": "2026-08-28T13:05:30+09:00",
   "items": [
+    {
+      "date": "2026-08-28",
+      "title": "レボリュート、ユーロ連動ステーブルコイン「EURR」展開。ストライプ傘下ブリッジが発行",
+      "summary": "レボリュートが自社ブランドのステーブルコイン展開 英フィンテック企業のレボリュート（Revolut）が、自社ブランドのユーロ連動型ステーブルコイン「EURR」の段階的な提供を開始したと8月26日に発表した。 EURRはイ…",
+      "url": "https://www.neweconomy.jp/posts/603085",
+      "important": false
+    },
+    {
+      "date": "2026-08-28",
+      "title": "新韓金融とビザがMOU、ステーブルコインの発行・送金・償還やAI決済を検証へ＝報道",
+      "summary": "新韓金融とVisaがMOU 韓国の新韓金融グループ（Shinhan Financial Group）と米決済大手ビザ（Visa）が、デジタル資産やAIを活用した決済などの未来金融事業で戦略的業務協約（MOU）を8月24日…",
+      "url": "https://www.neweconomy.jp/posts/603056",
+      "important": false
+    },
+    {
+      "date": "2026-08-28",
+      "title": "英財務省、イングランド銀行にステーブルコイン等の決済革新責務付与へ",
+      "summary": "英財務省は27日、イングランド銀行に決済システムやステーブルコインなど新興のデジタルマネー分野の技術革新を支援する新たな副次的責務を与えると発表した。金融安定という主目的は維持されつつ、投資家は英国の規制動向を注視する必…",
+      "url": "https://coinpost.jp/?p=733912",
+      "important": true
+    },
+    {
+      "date": "2026-08-28",
+      "title": "SBI、インドネシアのアジャイブに430億円出資し仮想通貨で協業へ",
+      "summary": "SBIホールディングスがインドネシアのネット証券大手アジャイブグループに2億7000万ドルを出資し、20%の株式を取得して持分法適用会社とする見通しだ。仮想通貨事業やステーブルコイン「JPYSC」の東南アジア展開で協業す…",
+      "url": "https://coinpost.jp/?p=733842",
+      "important": false
+    },
+    {
+      "date": "2026-08-28",
+      "title": "Trump cost investors $4.7B through crypto ‘schemes’: Public Citizen",
+      "summary": "While investors in World Liberty Financial‘s USD1 stablecoin “haven’t suffered major losses,” many lost billio…",
+      "url": "https://cointelegraph.com/news/donald-trump-crypto-investors-losses-public-citizen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-08-28",
+      "title": "Mirae Asset lays out crypto, stablecoin, tokenization plans for Digital X",
+      "summary": "The South Korean financial group plans to build a $109 billion digital asset business spanning crypto, stablec…",
+      "url": "https://cointelegraph.com/news/mirae-asset-lays-out-crypto-stablecoin-and-tokenization-plans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-08-28",
+      "title": "Ethena surges as buyback vote, VC unlock overhaul boost token outlook",
+      "summary": "The changes aim to cut investor selling pressure and channel protocol revenue to ENA as Ethena looks to revive…",
+      "url": "https://www.coindesk.com/markets/2026/08/27/ethena-surges-as-buyback-vote-vc-unlock-overhaul-boost-token-outlook",
+      "important": false
+    },
     {
       "date": "2026-08-27",
       "title": "South Korea’s top financial conglomerate team up with Visa to test stablecoin issuance and B2B settlements",
       "summary": "Shinhan Financial Group will use Visa’s platform to test stablecoin issuance, remittance, and redemption while…",
       "url": "https://www.coindesk.com/business/2026/08/26/south-korea-s-shinhan-financial-joins-visa-to-build-stablecoin-infrastructure",
       "important": false
+    },
+    {
+      "date": "2026-08-27",
+      "title": "コインチェック、電子決済手段等取引業登録完了 国内2社目",
+      "summary": "コインチェックが電子決済手段等取引業の登録を2026年8月27日に完了した。登録番号は関東財務局長第00002号で国内2社目となる。米サークル（Circle）社との提携を経て、ステーブルコイン・オンチェーン金融事業を順次…",
+      "url": "https://coinpost.jp/?p=733783",
+      "important": false
+    },
+    {
+      "date": "2026-08-27",
+      "title": "ハイパーリキッド、USDC準備資産収益の蓄積開始。HYPE買い戻し原資に＝報道",
+      "summary": "AQAv2でUSDC準備資産収益をHYPE買い戻しへ 分散型取引所（DEX）ハイパーリキッド（Hyperliquid）で、ステーブルコイン「USDC」の準備資産収益の蓄積が8月26日に始まったと報じられている。ハイパーリ…",
+      "url": "https://www.neweconomy.jp/posts/602838",
+      "important": false
+    },
+    {
+      "date": "2026-08-27",
+      "title": "【速報】国内2社目、コインチェックが「電子決済手段等取引業」登録完了。ステーブルコイン事業に本格参入へ",
+      "summary": "2024年にサークルと提携、USDC取り扱いへ前進 国内暗号資産（仮想通貨）取引所「Coincheck」を運営するコインチェックが、「電子決済手段等取引業」の登録を8月27日に完了したと同日発表した。 登録番号は「関東財…",
+      "url": "https://www.neweconomy.jp/posts/602823",
+      "important": false
+    },
+    {
+      "date": "2026-08-27",
+      "title": "大阪府、金融実証4事業に交付決定 3件はJPYC・USDC決済",
+      "summary": "大阪府が先駆的金融市場等形成支援事業補助金の交付対象4事業を決定。応募12件中、JPYC・USDCを活用した決済実証3件が採択された。三井住友カードも決済端末上での実証に参画し、交付決定額は総額2,889万円。",
+      "url": "https://coinpost.jp/?p=733766",
+      "important": true
+    },
+    {
+      "date": "2026-08-27",
+      "title": "リップルのステーブルコイン「RLUSD」、時価総額2Bドル突破。XRPL上の発行額は約1Bドル",
+      "summary": "RLUSDが時価総額20億ドル突破 米リップル（Ripple）が、米ドル裏付け型ステーブルコイン「リップルUSD（Ripple USD：RLUSD）」の時価総額が前週に20億ドル（約3,187億円）を突破したと公式Xで8…",
+      "url": "https://www.neweconomy.jp/posts/602810",
+      "important": false
+    },
+    {
+      "date": "2026-08-27",
+      "title": "Bank of England set for new innovation mandate covering stablecoins",
+      "summary": "The UK plans to expand the Bank of England’s remit to support digital payments innovation, including stablecoi…",
+      "url": "https://cointelegraph.com/news/uk-boe-innovation-mandate-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-08-27",
+      "title": "The Clarity Act will put Main Street banks at a disadvantage",
+      "summary": "The Blockchain Association’s Summer Mersinger dismisses the harm to community banks in defending the stablecoi…",
+      "url": "https://www.coindesk.com/opinion/2026/08/27/the-clarity-act-will-put-main-street-banks-at-a-disadvantage",
+      "important": true
+    },
+    {
+      "date": "2026-08-27",
+      "title": "Mirae Asset eyes $109 billion crypto empire after acquiring Digital X",
+      "summary": "Park Hyeon-joo, Mirae Asset Financial Group’s founder, outlined his ambitious stablecoin, RWAs, and STOs plan …",
+      "url": "https://www.coindesk.com/business/2026/08/27/mirae-asset-eyes-usd109-billion-crypto-empire-after-acquiring-digital-x",
+      "important": false
+    },
+    {
+      "date": "2026-08-27",
+      "title": "Britain plans new Bank of England objective for stablecoins",
+      "summary": "Financial stability would remain its primary duty, with annual reports to Parliament on the new objective bein…",
+      "url": "https://www.coindesk.com/policy/2026/08/27/britain-plans-new-bank-of-england-objective-for-stablecoins",
+      "important": true
     },
     {
       "date": "2026-08-26",
