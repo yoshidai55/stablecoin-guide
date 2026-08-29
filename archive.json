@@ -1,6 +1,34 @@
 {
-  "updated": "2026-08-28T13:05:30+09:00",
+  "updated": "2026-08-29T11:44:59+09:00",
   "items": [
+    {
+      "date": "2026-08-29",
+      "title": "ビザ、アップビットの運営企業と提携 ステーブルコインとAIで金融サービス提供を計画",
+      "summary": "仮想通貨取引所アップビットの運営企業ドゥナムは、ビザと提携したことを発表。両社はステーブルコインやAIを活用した金融サービスと決済サービスの開発を模索する。",
+      "url": "https://coinpost.jp/?p=734155",
+      "important": false
+    },
+    {
+      "date": "2026-08-29",
+      "title": "USDC発行企業サークル、英チェルシーとスポンサー契約",
+      "summary": "米サークル社が英プレミアリーグのチェルシーFCと提携し、2026/27シーズンからフロントスポンサーとしてUSDCブランドをユニフォームに掲出する。仮想通貨企業によるスポーツ協賛の一例で、初披露は30日のブライトン戦とな…",
+      "url": "https://coinpost.jp/?p=734135",
+      "important": false
+    },
+    {
+      "date": "2026-08-29",
+      "title": "Chelsea FC gets a stablecoin sponsor after UK FCA warning to clubs",
+      "summary": "According to Circle, the USDC stablecoin name will appear on the front of club jerseys for Chelsea’s upcoming …",
+      "url": "https://cointelegraph.com/news/chelsea-football-circle-sponsor-fca-warning-questionable-deals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-08-29",
+      "title": "Bullish provides USD.AI $100M stablecoin facility for GPU-backed lending",
+      "summary": "The institutional crypto exchange is providing $100 million in stablecoin liquidity to support loans backed by…",
+      "url": "https://cointelegraph.com/news/bullish-provides-usdai-100m-stablecoin-facility-gpu-backed-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
     {
       "date": "2026-08-28",
       "title": "レボリュート、ユーロ連動ステーブルコイン「EURR」展開。ストライプ傘下ブリッジが発行",
@@ -48,6 +76,62 @@
       "title": "Ethena surges as buyback vote, VC unlock overhaul boost token outlook",
       "summary": "The changes aim to cut investor selling pressure and channel protocol revenue to ENA as Ethena looks to revive…",
       "url": "https://www.coindesk.com/markets/2026/08/27/ethena-surges-as-buyback-vote-vc-unlock-overhaul-boost-token-outlook",
+      "important": false
+    },
+    {
+      "date": "2026-08-28",
+      "title": "アップビット運営元ドゥナムとVisaが提携、ステーブルコイン決済・送金で協業",
+      "summary": "DunamuとVisaが提携 ドゥナム（Dunamu）と米決済大手ビザ（Visa）が、ステーブルコインやAIを活用した次世代の金融・決済分野で戦略的パートナーシップを締結した。韓国最大の暗号資産（仮想通貨）取引所アップビ…",
+      "url": "https://www.neweconomy.jp/posts/603507",
+      "important": false
+    },
+    {
+      "date": "2026-08-28",
+      "title": "Pump[.]funがHyperEVM対応、アプリからUSDCでトークン取引可能に",
+      "summary": "Pump.funアプリがHyperEVMに対応 ミームコイン発行・取引プラットフォーム「パンプファン（Pump.fun）」の取引アプリが、「ハイパーEVM（HyperEVM）」に対応した。8月26日に公式Xより発表された…",
+      "url": "https://www.neweconomy.jp/posts/603490",
+      "important": false
+    },
+    {
+      "date": "2026-08-28",
+      "title": "Crypto Biz: Bitcoin pumps, Wall Street does the paperwork",
+      "summary": "Bitcoin’s $80,000 rebound lifts crypto stocks as Circle, Strategy and Solana show how capital markets, stablec…",
+      "url": "https://cointelegraph.com/news/crypto-biz-bitcoin-rally-crypto-stocks-circle-strategy-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-08-28",
+      "title": "Ethena looks beyond crypto to squeeze yield from booming equity perpetuals",
+      "summary": "The issuer of the $4 billion USDe token said it expects real-world asset perpetuals to eclipse crypto derivati…",
+      "url": "https://www.coindesk.com/business/2026/08/28/ethena-looks-beyond-crypto-to-squeeze-yield-from-booming-equity-perpetuals",
+      "important": false
+    },
+    {
+      "date": "2026-08-28",
+      "title": "SBI buys 20% stake in Indonesia's Ajaib for $270 million to expand yen stablecoin in Southeast Asia",
+      "summary": "The Japanese financial giant is acquiring a 20% stake in the Indonesian online brokerage to build a cross-bord…",
+      "url": "https://www.coindesk.com/business/2026/08/28/sbi-stakes-usd270-million-in-ajaib-to-expand-yen-stablecoin-in-southeast-asia",
+      "important": false
+    },
+    {
+      "date": "2026-08-28",
+      "title": "Circle's USDC takes over Chelsea's jersey in Premier League first sponsorship deal",
+      "summary": "Financials were not disclosed, though reports from earlier this year suggested Chelsea was targeting 65 millio…",
+      "url": "https://www.coindesk.com/business/2026/08/28/circle-s-usdc-takes-over-chelsea-s-jersey-in-premier-league-first",
+      "important": false
+    },
+    {
+      "date": "2026-08-28",
+      "title": "Visa doubles down on South Korea with Upbit operator Dunamu on stablecoin payments",
+      "summary": "Following a deal with Shinhan Financial, the global payments giant is widening its footprint in Asia’s major c…",
+      "url": "https://www.coindesk.com/business/2026/08/28/visa-doubles-down-on-south-korea-with-upbit-operator-dunamu-on-stablecoin-payments",
+      "important": false
+    },
+    {
+      "date": "2026-08-28",
+      "title": "Visa works with Upbit parent on stablecoin payments, AI commerce",
+      "summary": "Visa and Dunamu will explore stablecoin payments and remittances, with Open Standard’s proposed OUSD among sev…",
+      "url": "https://cointelegraph.com/news/visa-dunamu-stablecoin-payments-ai-commerce?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "important": false
     },
     {

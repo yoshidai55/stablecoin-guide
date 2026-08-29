@@ -1,17 +1,29 @@
 {
-  "updated": "2026-08-28T13:05:30+09:00",
+  "updated": "2026-08-29T11:44:59+09:00",
   "items": [
     {
-      "date": "2026-08-28",
-      "title": "レボリュート、ユーロ連動ステーブルコイン「EURR」展開。ストライプ傘下ブリッジが発行",
-      "summary": "レボリュートが自社ブランドのステーブルコイン展開 英フィンテック企業のレボリュート（Revolut）が、自社ブランドのユーロ連動型ステーブルコイン「EURR」の段階的な提供を開始したと8月26日に発表した。 EURRはイ…",
-      "url": "https://www.neweconomy.jp/posts/603085"
+      "date": "2026-08-29",
+      "title": "ビザ、アップビットの運営企業と提携 ステーブルコインとAIで金融サービス提供を計画",
+      "summary": "仮想通貨取引所アップビットの運営企業ドゥナムは、ビザと提携したことを発表。両社はステーブルコインやAIを活用した金融サービスと決済サービスの開発を模索する。",
+      "url": "https://coinpost.jp/?p=734155"
+    },
+    {
+      "date": "2026-08-29",
+      "title": "USDC発行企業サークル、英チェルシーとスポンサー契約",
+      "summary": "米サークル社が英プレミアリーグのチェルシーFCと提携し、2026/27シーズンからフロントスポンサーとしてUSDCブランドをユニフォームに掲出する。仮想通貨企業によるスポーツ協賛の一例で、初披露は30日のブライトン戦とな…",
+      "url": "https://coinpost.jp/?p=734135"
     },
     {
       "date": "2026-08-28",
-      "title": "新韓金融とビザがMOU、ステーブルコインの発行・送金・償還やAI決済を検証へ＝報道",
-      "summary": "新韓金融とVisaがMOU 韓国の新韓金融グループ（Shinhan Financial Group）と米決済大手ビザ（Visa）が、デジタル資産やAIを活用した決済などの未来金融事業で戦略的業務協約（MOU）を8月24日…",
-      "url": "https://www.neweconomy.jp/posts/603056"
+      "title": "アップビット運営元ドゥナムとVisaが提携、ステーブルコイン決済・送金で協業",
+      "summary": "DunamuとVisaが提携 ドゥナム（Dunamu）と米決済大手ビザ（Visa）が、ステーブルコインやAIを活用した次世代の金融・決済分野で戦略的パートナーシップを締結した。韓国最大の暗号資産（仮想通貨）取引所アップビ…",
+      "url": "https://www.neweconomy.jp/posts/603507"
+    },
+    {
+      "date": "2026-08-28",
+      "title": "Pump[.]funがHyperEVM対応、アプリからUSDCでトークン取引可能に",
+      "summary": "Pump.funアプリがHyperEVMに対応 ミームコイン発行・取引プラットフォーム「パンプファン（Pump.fun）」の取引アプリが、「ハイパーEVM（HyperEVM）」に対応した。8月26日に公式Xより発表された…",
+      "url": "https://www.neweconomy.jp/posts/603490"
     },
     {
       "date": "2026-08-28",
@@ -20,22 +32,10 @@
       "url": "https://coinpost.jp/?p=733912"
     },
     {
-      "date": "2026-08-28",
-      "title": "SBI、インドネシアのアジャイブに430億円出資し仮想通貨で協業へ",
-      "summary": "SBIホールディングスがインドネシアのネット証券大手アジャイブグループに2億7000万ドルを出資し、20%の株式を取得して持分法適用会社とする見通しだ。仮想通貨事業やステーブルコイン「JPYSC」の東南アジア展開で協業す…",
-      "url": "https://coinpost.jp/?p=733842"
-    },
-    {
-      "date": "2026-08-27",
-      "title": "コインチェック、電子決済手段等取引業登録完了 国内2社目",
-      "summary": "コインチェックが電子決済手段等取引業の登録を2026年8月27日に完了した。登録番号は関東財務局長第00002号で国内2社目となる。米サークル（Circle）社との提携を経て、ステーブルコイン・オンチェーン金融事業を順次…",
-      "url": "https://coinpost.jp/?p=733783"
-    },
-    {
-      "date": "2026-08-27",
-      "title": "ハイパーリキッド、USDC準備資産収益の蓄積開始。HYPE買い戻し原資に＝報道",
-      "summary": "AQAv2でUSDC準備資産収益をHYPE買い戻しへ 分散型取引所（DEX）ハイパーリキッド（Hyperliquid）で、ステーブルコイン「USDC」の準備資産収益の蓄積が8月26日に始まったと報じられている。ハイパーリ…",
-      "url": "https://www.neweconomy.jp/posts/602838"
+      "date": "2026-08-29",
+      "title": "Chelsea FC gets a stablecoin sponsor after UK FCA warning to clubs",
+      "summary": "According to Circle, the USDC stablecoin name will appear on the front of club jerseys for Chelsea’s upcoming …",
+      "url": "https://cointelegraph.com/news/chelsea-football-circle-sponsor-fca-warning-questionable-deals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     }
   ]
 }
