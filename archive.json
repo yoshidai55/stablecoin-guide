@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-29T11:44:59+09:00",
+  "updated": "2026-08-30T07:28:14+09:00",
   "items": [
+    {
+      "date": "2026-08-30",
+      "title": "The next trillion-dollar currency may not be a stablecoin — it might not even have a name yet",
+      "summary": "AI agents are coming. They will need to pay each other. Crypto executives agree on the problem but disagree sh…",
+      "url": "https://www.coindesk.com/business/2026/08/29/the-next-trillion-dollar-currency-may-not-be-a-stablecoin-it-might-not-even-have-a-name-yet",
+      "important": false
+    },
     {
       "date": "2026-08-29",
       "title": "ビザ、アップビットの運営企業と提携 ステーブルコインとAIで金融サービス提供を計画",
@@ -27,6 +34,13 @@
       "title": "Bullish provides USD.AI $100M stablecoin facility for GPU-backed lending",
       "summary": "The institutional crypto exchange is providing $100 million in stablecoin liquidity to support loans backed by…",
       "url": "https://cointelegraph.com/news/bullish-provides-usdai-100m-stablecoin-facility-gpu-backed-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-08-29",
+      "title": "Stablecoins not credible for payments at scale, BIS chief says",
+      "summary": "BIS chief Pablo Hernández de Cos said stablecoins lack credibility for payments at scale, while a new FSI stud…",
+      "url": "https://cointelegraph.com/news/stablecoins-not-credible-payments-scale-bis-chief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "important": false
     },
     {
