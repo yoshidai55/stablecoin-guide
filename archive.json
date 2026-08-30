@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-30T07:28:14+09:00",
+  "updated": "2026-08-31T07:29:14+09:00",
   "items": [
     {
       "date": "2026-08-30",
@@ -7,6 +7,13 @@
       "summary": "AI agents are coming. They will need to pay each other. Crypto executives agree on the problem but disagree sh…",
       "url": "https://www.coindesk.com/business/2026/08/29/the-next-trillion-dollar-currency-may-not-be-a-stablecoin-it-might-not-even-have-a-name-yet",
       "important": false
+    },
+    {
+      "date": "2026-08-30",
+      "title": "Russia’s Sber eyes USDT loans, questions digital ruble demand",
+      "summary": "Russia’s largest bank, Sber, plans to accept USDT and Ether alongside Bitcoin as loan collateral as the countr…",
+      "url": "https://cointelegraph.com/news/russia-sber-bank-bitcoin-ether-usdt-crypto-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
     },
     {
       "date": "2026-08-29",
