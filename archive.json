@@ -1,6 +1,76 @@
 {
-  "updated": "2026-09-01T08:39:10+09:00",
+  "updated": "2026-09-02T07:26:53+09:00",
   "items": [
+    {
+      "date": "2026-09-02",
+      "title": "ゴールドマン・サックスや三菱UFJ銀行など世界21行、ステーブルコイン新会社設立へ",
+      "summary": "ゴールドマン・サックスや三菱UFJ銀行など世界21の金融機関が、ステーブルコイン発行を支援する新会社設立を発表した。2027年前半のサービス開始を目指し、国際送金やデジタル資産決済への活用を想定する。",
+      "url": "https://coinpost.jp/?p=734802",
+      "important": false
+    },
+    {
+      "date": "2026-09-02",
+      "title": "BofA, Citi, Goldman Sachs among 21 institutions planning stablecoin launch",
+      "summary": "The planned venture will initially focus on a US dollar stablecoin before expanding to other G7 currencies, wi…",
+      "url": "https://cointelegraph.com/news/21-financial-institutions-g7-stablecoin-venture?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-09-02",
+      "title": "Ethena launches USDe payments app, offers 6% rewards",
+      "summary": "The self-custodial app brings USDe into everyday payments, savings and cross-border transfers, with annualized…",
+      "url": "https://cointelegraph.com/news/ethena-launches-usde-powered-money-app-across-48-countries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-09-02",
+      "title": "Citi, Goldman, other global banks and asset managers team up on stablecoin venture",
+      "summary": "The group will focus first on a U.S. dollar stablecoin for payments and digital asset settlement, with a euro …",
+      "url": "https://www.coindesk.com/business/2026/09/01/citi-goldman-other-global-banks-and-asset-managers-team-up-on-stablecoin-venture",
+      "important": true
+    },
+    {
+      "date": "2026-09-01",
+      "title": "エンジニアのミカタ、給与・業務委託報酬を日本円ステーブルコイン「JPYC」で支払いへ",
+      "summary": "エンジニアのミカタが給与・業務委託報酬のJPYC払い開始へ SES事業を展開するエンジニアのミカタが、希望者に対して給与または業務委託報酬を日本円建てステーブルコイン「JPYC」で支払う制度を開始すると、8月28日に発表…",
+      "url": "https://www.neweconomy.jp/posts/604450",
+      "important": true
+    },
+    {
+      "date": "2026-09-01",
+      "title": "Ethena pushes stablecoins into everyday banking with high-yield savings, cards and payments",
+      "summary": "Ethena Pay offers a 6% dollar savings rate and 5% card cashback, using Avalanche for settlement.",
+      "url": "https://www.coindesk.com/business/2026/09/01/ethena-pushes-stablecoins-into-everyday-banking-with-high-yield-savings-cards-and-payments",
+      "important": true
+    },
+    {
+      "date": "2026-09-01",
+      "title": "Kast launches stablecoin-powered business platform after $80M raise",
+      "summary": "Kast aims to onboard between 1,000 and 5,000 active businesses to its new platform by the end of 2026.",
+      "url": "https://cointelegraph.com/news/kast-launches-stablecoin-business-platform-80m-raise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-09-01",
+      "title": "Singapore proposes 100% reserves and a ban on yields for stablecoin issuers",
+      "summary": "The country’s financial watchdog says its proposed stablecoin rules are aligned with U.S. and EU frameworks an…",
+      "url": "https://www.coindesk.com/policy/2026/09/01/singapore-proposes-100-reserves-and-a-ban-on-yields-for-stablecoin-issuers",
+      "important": true
+    },
+    {
+      "date": "2026-09-01",
+      "title": "Bitfinex Securities lists tokenized notes tied to Strategy, Metaplanet",
+      "summary": "Five equity-backed notes issued through Luxembourg’s ORO II fund will trade against dollars, USDT and Bitcoin …",
+      "url": "https://cointelegraph.com/news/bitfinex-tokenized-strategy-metaplanet-notes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-09-01",
+      "title": "Singapore weighs recognizing some foreign-issued stablecoins",
+      "summary": "Singapore is considering allowing jointly issued cross-border stablecoins into its regulatory regime, revisiti…",
+      "url": "https://cointelegraph.com/news/singapore-weighs-foreign-regulated-stablecoins-mas-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
     {
       "date": "2026-08-31",
       "title": "【8/31話題】金融庁が信託型ステーブルコインの法定調書「提出不要」要望、トリコがETH、イオレがHYPE追加取得、クロノスのネットワーク停止など（音声ニュース）",

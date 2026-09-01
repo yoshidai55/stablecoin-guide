@@ -1,41 +1,41 @@
 {
-  "updated": "2026-09-01T08:39:10+09:00",
+  "updated": "2026-09-02T07:26:53+09:00",
   "items": [
     {
-      "date": "2026-08-31",
-      "title": "【8/31話題】金融庁が信託型ステーブルコインの法定調書「提出不要」要望、トリコがETH、イオレがHYPE追加取得、クロノスのネットワーク停止など（音声ニュース）",
-      "summary": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif…",
-      "url": "https://www.neweconomy.jp/posts/603845"
+      "date": "2026-09-02",
+      "title": "ゴールドマン・サックスや三菱UFJ銀行など世界21行、ステーブルコイン新会社設立へ",
+      "summary": "ゴールドマン・サックスや三菱UFJ銀行など世界21の金融機関が、ステーブルコイン発行を支援する新会社設立を発表した。2027年前半のサービス開始を目指し、国際送金やデジタル資産決済への活用を想定する。",
+      "url": "https://coinpost.jp/?p=734802"
     },
     {
-      "date": "2026-08-31",
-      "title": "金融庁、信託型ステーブルコインの法定調書「提出不要」要望。2027年度税制改正で",
-      "summary": "金融庁が信託型SCの法定調書提出不要を要望 金融庁が、「令和9年度 税制改正要望項目」を取りまとめ、特定信託受益権（信託型ステーブルコイン）に係る「信託に関する受益者別調書」と「信託の計算書」の提出を不要とするなどの要望…",
-      "url": "https://www.neweconomy.jp/posts/603764"
+      "date": "2026-09-01",
+      "title": "エンジニアのミカタ、給与・業務委託報酬を日本円ステーブルコイン「JPYC」で支払いへ",
+      "summary": "エンジニアのミカタが給与・業務委託報酬のJPYC払い開始へ SES事業を展開するエンジニアのミカタが、希望者に対して給与または業務委託報酬を日本円建てステーブルコイン「JPYC」で支払う制度を開始すると、8月28日に発表…",
+      "url": "https://www.neweconomy.jp/posts/604450"
     },
     {
-      "date": "2026-08-31",
-      "title": "露スベルバンク、BTC・ETH・USDTを融資担保に受け入れへ＝報道",
-      "summary": "SberbankがBTC・ETH・USDTを融資担保に受け入れへ ロシア最大手の銀行スベルバンク（Sberbank）が、ビットコイン（BTC）、イーサリアム（ETH）、テザー（USDT）を融資の担保として受け入れる計画を…",
-      "url": "https://www.neweconomy.jp/posts/603739"
+      "date": "2026-09-02",
+      "title": "BofA, Citi, Goldman Sachs among 21 institutions planning stablecoin launch",
+      "summary": "The planned venture will initially focus on a US dollar stablecoin before expanding to other G7 currencies, wi…",
+      "url": "https://cointelegraph.com/news/21-financial-institutions-g7-stablecoin-venture?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     },
     {
-      "date": "2026-08-31",
-      "title": "金融庁、信託型ステーブルコインの調書提出免除を要望 2027年度税制改正",
-      "summary": "金融庁は8月31日、令和9（2027）年度税制改正要望を公表した。信託型ステーブルコインの受益者変更時に必要な税務書類の提出免除を求めており、転々流通する決済手段のため受託者が保有者の変更を把握できない点を課題としている…",
-      "url": "https://coinpost.jp/?p=734402"
+      "date": "2026-09-02",
+      "title": "Ethena launches USDe payments app, offers 6% rewards",
+      "summary": "The self-custodial app brings USDe into everyday payments, savings and cross-border transfers, with annualized…",
+      "url": "https://cointelegraph.com/news/ethena-launches-usde-powered-money-app-across-48-countries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     },
     {
-      "date": "2026-08-31",
-      "title": "BIS総支配人、ステーブルコインは大規模決済に不適格と指摘",
-      "summary": "BISのデ・コス総支配人がジャクソンホール会議でステーブルコインに対する懸念を表明し、トークン化預金を推奨した。これに対しテザーのアルドイノCEOが銀行預金の「部分準備制度」への懸念を指摘し反論した。",
-      "url": "https://coinpost.jp/?p=734357"
+      "date": "2026-09-02",
+      "title": "Citi, Goldman, other global banks and asset managers team up on stablecoin venture",
+      "summary": "The group will focus first on a U.S. dollar stablecoin for payments and digital asset settlement, with a euro …",
+      "url": "https://www.coindesk.com/business/2026/09/01/citi-goldman-other-global-banks-and-asset-managers-team-up-on-stablecoin-venture"
     },
     {
-      "date": "2026-08-31",
-      "title": "IMF、ステーブルコイン規制へ国際協調を要請 新興国に警鐘",
-      "summary": "IMF専務理事クリスタリナ・ゲオルギエバ（Kristalina Georgieva）氏が8月28日、米ジャクソンホール経済政策シンポジウムで講演。ステーブルコインの国際協調規制の必要性を訴えるとともに、新興国の外貨準備強…",
-      "url": "https://coinpost.jp/?p=734277"
+      "date": "2026-09-01",
+      "title": "Ethena pushes stablecoins into everyday banking with high-yield savings, cards and payments",
+      "summary": "Ethena Pay offers a 6% dollar savings rate and 5% card cashback, using Avalanche for settlement.",
+      "url": "https://www.coindesk.com/business/2026/09/01/ethena-pushes-stablecoins-into-everyday-banking-with-high-yield-savings-cards-and-payments"
     }
   ]
 }
