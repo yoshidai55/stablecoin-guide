@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T07:26:53+09:00",
+  "updated": "2026-09-03T07:26:13+09:00",
   "items": [
     {
       "date": "2026-09-02",
@@ -28,6 +28,48 @@
       "summary": "The group will focus first on a U.S. dollar stablecoin for payments and digital asset settlement, with a euro …",
       "url": "https://www.coindesk.com/business/2026/09/01/citi-goldman-other-global-banks-and-asset-managers-team-up-on-stablecoin-venture",
       "important": true
+    },
+    {
+      "date": "2026-09-02",
+      "title": "【9/2話題】SBI VCトレードでステーキング報酬がJPYSCで受取可能に、リポが保有アルトコイン全売却、大手金融機関21社がステーブルコイン事業で新会社など（音声ニュース）",
+      "summary": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif…",
+      "url": "https://www.neweconomy.jp/posts/604681",
+      "important": false
+    },
+    {
+      "date": "2026-09-02",
+      "title": "SBI VCトレード、ステーキング報酬を円ステーブルコイン「JPYSC」で受取可能に",
+      "summary": "全16銘柄のステーキング報酬が対象 SBI VCトレードが、ステーキング報酬を円建てステーブルコイン「JPYSC」で受け取れるサービスを9月2日に開始した。対象はVCTRADEサービスで、BITPOINTサービスは対象外…",
+      "url": "https://www.neweconomy.jp/posts/604644",
+      "important": false
+    },
+    {
+      "date": "2026-09-02",
+      "title": "エセナが金融アプリ「Ethena Pay」β版を提供開始、アバランチを独占精算基盤に採用",
+      "summary": "最大6%報酬やカード決済、グローバル送金に対応 ステーブルコイン「USDe」を開発するエセナ（Ethena）が、貯蓄や送金、決済機能を備えた金融アプリ「エセナ・ペイ（Ethena Pay）」のベータ版提供開始を9月1日に…",
+      "url": "https://www.neweconomy.jp/posts/604616",
+      "important": false
+    },
+    {
+      "date": "2026-09-02",
+      "title": "シンガポール金融管理局、ステーブルコイン規制法制化へPS法改正案を公表",
+      "summary": "「MAS規制ステーブルコイン」を法的に定義 シンガポール金融管理局（MAS）が、ステーブルコイン規制の枠組みを法制化するため、「支払サービス法（Payment Services Act：PS Act）」の改正案を公表した…",
+      "url": "https://www.neweconomy.jp/posts/604605",
+      "important": true
+    },
+    {
+      "date": "2026-09-02",
+      "title": "Thai businessmen sue Tether for freezing $42M in $61M pig butchering case",
+      "summary": "The plaintiffs didn’t dispute their involvement in the pig butchering scam, but claimed that Tether did not ha…",
+      "url": "https://cointelegraph.com/news/thai-sue-tether-freezing-61m-pig-butchering-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-09-02",
+      "title": "Lawsuit challenges Tether for allegedly freezing $42.4 million USDT before U.S. warrant",
+      "summary": "The plaintiffs allege that Tether acted in response to an informal U.S. law-enforcement request more than thre…",
+      "url": "https://www.coindesk.com/business/2026/09/02/tether-sued-over-usd42-4-million-usdt-freeze-allegedly-made-months-before-u-s-warrant",
+      "important": false
     },
     {
       "date": "2026-09-01",

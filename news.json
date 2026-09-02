@@ -1,41 +1,41 @@
 {
-  "updated": "2026-09-02T07:26:53+09:00",
+  "updated": "2026-09-03T07:26:13+09:00",
   "items": [
     {
       "date": "2026-09-02",
-      "title": "ゴールドマン・サックスや三菱UFJ銀行など世界21行、ステーブルコイン新会社設立へ",
-      "summary": "ゴールドマン・サックスや三菱UFJ銀行など世界21の金融機関が、ステーブルコイン発行を支援する新会社設立を発表した。2027年前半のサービス開始を目指し、国際送金やデジタル資産決済への活用を想定する。",
-      "url": "https://coinpost.jp/?p=734802"
-    },
-    {
-      "date": "2026-09-01",
-      "title": "エンジニアのミカタ、給与・業務委託報酬を日本円ステーブルコイン「JPYC」で支払いへ",
-      "summary": "エンジニアのミカタが給与・業務委託報酬のJPYC払い開始へ SES事業を展開するエンジニアのミカタが、希望者に対して給与または業務委託報酬を日本円建てステーブルコイン「JPYC」で支払う制度を開始すると、8月28日に発表…",
-      "url": "https://www.neweconomy.jp/posts/604450"
+      "title": "【9/2話題】SBI VCトレードでステーキング報酬がJPYSCで受取可能に、リポが保有アルトコイン全売却、大手金融機関21社がステーブルコイン事業で新会社など（音声ニュース）",
+      "summary": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif…",
+      "url": "https://www.neweconomy.jp/posts/604681"
     },
     {
       "date": "2026-09-02",
-      "title": "BofA, Citi, Goldman Sachs among 21 institutions planning stablecoin launch",
-      "summary": "The planned venture will initially focus on a US dollar stablecoin before expanding to other G7 currencies, wi…",
-      "url": "https://cointelegraph.com/news/21-financial-institutions-g7-stablecoin-venture?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      "title": "SBI VCトレード、ステーキング報酬を円ステーブルコイン「JPYSC」で受取可能に",
+      "summary": "全16銘柄のステーキング報酬が対象 SBI VCトレードが、ステーキング報酬を円建てステーブルコイン「JPYSC」で受け取れるサービスを9月2日に開始した。対象はVCTRADEサービスで、BITPOINTサービスは対象外…",
+      "url": "https://www.neweconomy.jp/posts/604644"
     },
     {
       "date": "2026-09-02",
-      "title": "Ethena launches USDe payments app, offers 6% rewards",
-      "summary": "The self-custodial app brings USDe into everyday payments, savings and cross-border transfers, with annualized…",
-      "url": "https://cointelegraph.com/news/ethena-launches-usde-powered-money-app-across-48-countries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      "title": "エセナが金融アプリ「Ethena Pay」β版を提供開始、アバランチを独占精算基盤に採用",
+      "summary": "最大6%報酬やカード決済、グローバル送金に対応 ステーブルコイン「USDe」を開発するエセナ（Ethena）が、貯蓄や送金、決済機能を備えた金融アプリ「エセナ・ペイ（Ethena Pay）」のベータ版提供開始を9月1日に…",
+      "url": "https://www.neweconomy.jp/posts/604616"
     },
     {
       "date": "2026-09-02",
-      "title": "Citi, Goldman, other global banks and asset managers team up on stablecoin venture",
-      "summary": "The group will focus first on a U.S. dollar stablecoin for payments and digital asset settlement, with a euro …",
-      "url": "https://www.coindesk.com/business/2026/09/01/citi-goldman-other-global-banks-and-asset-managers-team-up-on-stablecoin-venture"
+      "title": "シンガポール金融管理局、ステーブルコイン規制法制化へPS法改正案を公表",
+      "summary": "「MAS規制ステーブルコイン」を法的に定義 シンガポール金融管理局（MAS）が、ステーブルコイン規制の枠組みを法制化するため、「支払サービス法（Payment Services Act：PS Act）」の改正案を公表した…",
+      "url": "https://www.neweconomy.jp/posts/604605"
     },
     {
-      "date": "2026-09-01",
-      "title": "Ethena pushes stablecoins into everyday banking with high-yield savings, cards and payments",
-      "summary": "Ethena Pay offers a 6% dollar savings rate and 5% card cashback, using Avalanche for settlement.",
-      "url": "https://www.coindesk.com/business/2026/09/01/ethena-pushes-stablecoins-into-everyday-banking-with-high-yield-savings-cards-and-payments"
+      "date": "2026-09-02",
+      "title": "Thai businessmen sue Tether for freezing $42M in $61M pig butchering case",
+      "summary": "The plaintiffs didn’t dispute their involvement in the pig butchering scam, but claimed that Tether did not ha…",
+      "url": "https://cointelegraph.com/news/thai-sue-tether-freezing-61m-pig-butchering-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "date": "2026-09-02",
+      "title": "Lawsuit challenges Tether for allegedly freezing $42.4 million USDT before U.S. warrant",
+      "summary": "The plaintiffs allege that Tether acted in response to an informal U.S. law-enforcement request more than thre…",
+      "url": "https://www.coindesk.com/business/2026/09/02/tether-sued-over-usd42-4-million-usdt-freeze-allegedly-made-months-before-u-s-warrant"
     }
   ]
 }
