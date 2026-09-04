@@ -1,41 +1,41 @@
 {
-  "updated": "2026-09-04T07:23:20+09:00",
+  "updated": "2026-09-05T07:12:09+09:00",
   "items": [
     {
-      "date": "2026-09-03",
-      "title": "ステーブルコイン純流入、113日ぶりプラス転換＝アナリスト",
-      "summary": "オンチェーンアナリストのアドラー氏は、ステーブルコインの取引所純流入が113日ぶりにプラス転換したと指摘。9月1日の1,385万ドルから3日には685万ドルへ急減し、SSR(供給比率)も高止まりが続くため需給は中立とみる…",
-      "url": "https://coinpost.jp/?p=735411"
+      "date": "2026-09-04",
+      "title": "台湾、暗号資産・ステーブルコイン規制を最速で2027年Q1施行の見通し",
+      "summary": "関連規則9本を策定中、ステーブルコイン規定も 台湾の金融監督管理委員会（FSC）の彭金隆（ポン・ジンロン）主任委員が、暗号資産およびステーブルコインに関する新たな規制について、最速で2027年第1四半期に施行されるとの見…",
+      "url": "https://www.neweconomy.jp/posts/605295"
     },
     {
-      "date": "2026-09-03",
-      "title": "ステラ、クロスチェーン版USDT「USDT0」導入、180Bドル超のUSDT流動性に接続",
-      "summary": "USDT0がステラ上で稼働開始 クロスチェーン版ステーブルコイン「USDT0」が、レイヤー1ブロックチェーン「ステラ（Stellar）」上で稼働を開始した。USDT0の公式ブログで9月2日に発表された。 今回の導入により…",
-      "url": "https://www.neweconomy.jp/posts/604950"
+      "date": "2026-09-04",
+      "title": "ジュピター、ソラナへのクロスチェーン入金機能「Universal Deposit」提供開始。ブリッジやスワップ自動化",
+      "summary": "複数チェーンの暗号資産をソラナ上でUSDCとして受け取り ソラナ（Solana）基盤の分散型取引プラットフォーム「ジュピター（Jupiter）」が、複数のブロックチェーン上の対応トークンを送信し、ソラナ上のウォレットで米…",
+      "url": "https://www.neweconomy.jp/posts/605287"
     },
     {
-      "date": "2026-09-03",
-      "title": "XRPレジャー、口座あたり出来高が前年比3倍に＝エバーノース調査",
-      "summary": "エバーノースの分析リポートによると、2026年第2四半期はXRPレジャーのDEXで担い手が減る一方、1口座あたりの出来高が約3倍に拡大。RLUSD残高は約7倍に伸び、ネットワーク資産価値は四半期平均42.6億ドルと過去最…",
-      "url": "https://coinpost.jp/?p=735282"
+      "date": "2026-09-04",
+      "title": "Revolut, OpenReserve get preliminary US bank approval with crypto plans",
+      "summary": "Revolut and OpenReserve received preliminary OCC approval to form US national banks, with both planning crypto…",
+      "url": "https://cointelegraph.com/news/revolut-openreserve-occ-approval-national-bank-crypto-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "date": "2026-09-04",
+      "title": "South Korea targets February 2027 rollout for full tokenized securities market",
+      "summary": "Financial regulators unveiled a phased roadmap moving traditional capital markets onto distributed ledgers, co…",
+      "url": "https://www.coindesk.com/business/2026/09/04/south-korea-targets-february-2027-rollout-for-full-tokenized-securities-market"
+    },
+    {
+      "date": "2026-09-04",
+      "title": "Tether sued over $42M in frozen coins, 6,600 students get crypto loans: Asia Express",
+      "summary": "Thai businessmen sue Tether over $42M frozen USDT tied to pig butchering scam, Aussie crypto firms face big fi…",
+      "url": "https://cointelegraph.com/magazine/tether-sued-over-frozen-pig-butcher-coins-6600-students-get-crypto-loans-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     },
     {
       "date": "2026-09-04",
       "title": "Mantle adds Paxos’ USDG stablecoin, joins Global Dollar Network",
       "summary": "Mantle has added Paxos-issued USDG as a natively minted stablecoin while joining the network’s reward-sharing …",
       "url": "https://cointelegraph.com/news/paxos-usdg-goes-live-mantle-network-joins-global-dollar-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "date": "2026-09-04",
-      "title": "Kraken parent Payward partners with SoFi on stablecoin, 24/7 settlement",
-      "summary": "The deal will bring SoFiUSD to Kraken, connect Payward to SoFi’s 24/7 dollar settlement network and give SoFi …",
-      "url": "https://cointelegraph.com/news/kraken-parent-payward-partners-with-sofi-stablecoin-247-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "date": "2026-09-03",
-      "title": "Bitcoin’s fabled golden cross is coming. And USDT may be the real signal this time",
-      "summary": "BTC is nearing a bullish golden cross, a widely tracked signal with a mixed record of success in crypto market…",
-      "url": "https://www.coindesk.com/markets/2026/09/03/bitcoin-s-fabled-golden-cross-is-coming-and-usdt-may-be-the-real-signal-this-time"
     }
   ]
 }

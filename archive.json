@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T07:23:20+09:00",
+  "updated": "2026-09-05T07:12:09+09:00",
   "items": [
     {
       "date": "2026-09-04",
@@ -13,6 +13,41 @@
       "title": "Kraken parent Payward partners with SoFi on stablecoin, 24/7 settlement",
       "summary": "The deal will bring SoFiUSD to Kraken, connect Payward to SoFi’s 24/7 dollar settlement network and give SoFi …",
       "url": "https://cointelegraph.com/news/kraken-parent-payward-partners-with-sofi-stablecoin-247-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-09-04",
+      "title": "台湾、暗号資産・ステーブルコイン規制を最速で2027年Q1施行の見通し",
+      "summary": "関連規則9本を策定中、ステーブルコイン規定も 台湾の金融監督管理委員会（FSC）の彭金隆（ポン・ジンロン）主任委員が、暗号資産およびステーブルコインに関する新たな規制について、最速で2027年第1四半期に施行されるとの見…",
+      "url": "https://www.neweconomy.jp/posts/605295",
+      "important": true
+    },
+    {
+      "date": "2026-09-04",
+      "title": "ジュピター、ソラナへのクロスチェーン入金機能「Universal Deposit」提供開始。ブリッジやスワップ自動化",
+      "summary": "複数チェーンの暗号資産をソラナ上でUSDCとして受け取り ソラナ（Solana）基盤の分散型取引プラットフォーム「ジュピター（Jupiter）」が、複数のブロックチェーン上の対応トークンを送信し、ソラナ上のウォレットで米…",
+      "url": "https://www.neweconomy.jp/posts/605287",
+      "important": false
+    },
+    {
+      "date": "2026-09-04",
+      "title": "Revolut, OpenReserve get preliminary US bank approval with crypto plans",
+      "summary": "Revolut and OpenReserve received preliminary OCC approval to form US national banks, with both planning crypto…",
+      "url": "https://cointelegraph.com/news/revolut-openreserve-occ-approval-national-bank-crypto-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-09-04",
+      "title": "South Korea targets February 2027 rollout for full tokenized securities market",
+      "summary": "Financial regulators unveiled a phased roadmap moving traditional capital markets onto distributed ledgers, co…",
+      "url": "https://www.coindesk.com/business/2026/09/04/south-korea-targets-february-2027-rollout-for-full-tokenized-securities-market",
+      "important": true
+    },
+    {
+      "date": "2026-09-04",
+      "title": "Tether sued over $42M in frozen coins, 6,600 students get crypto loans: Asia Express",
+      "summary": "Thai businessmen sue Tether over $42M frozen USDT tied to pig butchering scam, Aussie crypto firms face big fi…",
+      "url": "https://cointelegraph.com/magazine/tether-sued-over-frozen-pig-butcher-coins-6600-students-get-crypto-loans-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "important": false
     },
     {
