@@ -1,6 +1,12 @@
 {
-  "updated": "2026-09-05T07:12:09+09:00",
+  "updated": "2026-09-06T06:58:01+09:00",
   "items": [
+    {
+      "date": "2026-09-05",
+      "title": "金融庁、暗号資産・ステーブルコイン政策の戦略的対応などで「目標達成」と報告",
+      "summary": "金融庁が金融行政に関する実績評価書を公開。仮想通貨の金商法移管やステーブルコイン活用などデジタル金融戦略の取組みを「目標達成」と自己評価したことがわかった。",
+      "url": "https://coinpost.jp/?p=735726"
+    },
     {
       "date": "2026-09-04",
       "title": "台湾、暗号資産・ステーブルコイン規制を最速で2027年Q1施行の見通し",
@@ -14,6 +20,12 @@
       "url": "https://www.neweconomy.jp/posts/605287"
     },
     {
+      "date": "2026-09-06",
+      "title": "Dollar-backed stablecoins can push local currencies lower, Bank of Korea study finds",
+      "summary": "Buying pressure in Binance-paired currencies correlates with local currency depreciation as market makers bala…",
+      "url": "https://www.coindesk.com/business/2026/09/05/dollar-backed-stablecoins-can-push-local-currencies-lower-bank-of-korea-study-finds"
+    },
+    {
       "date": "2026-09-04",
       "title": "Revolut, OpenReserve get preliminary US bank approval with crypto plans",
       "summary": "Revolut and OpenReserve received preliminary OCC approval to form US national banks, with both planning crypto…",
@@ -24,18 +36,6 @@
       "title": "South Korea targets February 2027 rollout for full tokenized securities market",
       "summary": "Financial regulators unveiled a phased roadmap moving traditional capital markets onto distributed ledgers, co…",
       "url": "https://www.coindesk.com/business/2026/09/04/south-korea-targets-february-2027-rollout-for-full-tokenized-securities-market"
-    },
-    {
-      "date": "2026-09-04",
-      "title": "Tether sued over $42M in frozen coins, 6,600 students get crypto loans: Asia Express",
-      "summary": "Thai businessmen sue Tether over $42M frozen USDT tied to pig butchering scam, Aussie crypto firms face big fi…",
-      "url": "https://cointelegraph.com/magazine/tether-sued-over-frozen-pig-butcher-coins-6600-students-get-crypto-loans-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "date": "2026-09-04",
-      "title": "Mantle adds Paxos’ USDG stablecoin, joins Global Dollar Network",
-      "summary": "Mantle has added Paxos-issued USDG as a natively minted stablecoin while joining the network’s reward-sharing …",
-      "url": "https://cointelegraph.com/news/paxos-usdg-goes-live-mantle-network-joins-global-dollar-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     }
   ]
 }
