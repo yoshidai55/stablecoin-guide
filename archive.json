@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T06:58:01+09:00",
+  "updated": "2026-09-07T06:59:39+09:00",
   "items": [
     {
       "date": "2026-09-06",
@@ -7,6 +7,13 @@
       "summary": "Buying pressure in Binance-paired currencies correlates with local currency depreciation as market makers bala…",
       "url": "https://www.coindesk.com/business/2026/09/05/dollar-backed-stablecoins-can-push-local-currencies-lower-bank-of-korea-study-finds",
       "important": true
+    },
+    {
+      "date": "2026-09-06",
+      "title": "Tether-backed Orionx to shut down after audit flags $7M custody gap",
+      "summary": "Tether-backed Orionx is permanently closing after an audit found more than $7 million in customer assets had m…",
+      "url": "https://cointelegraph.com/news/orionx-shut-down-7-million-move-outside-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
     },
     {
       "date": "2026-09-05",
