@@ -1,6 +1,27 @@
 {
-  "updated": "2026-09-07T06:59:39+09:00",
+  "updated": "2026-09-08T07:36:53+09:00",
   "items": [
+    {
+      "date": "2026-09-07",
+      "title": "テザー出資のOrionxが閉鎖へ、7Mドル超の保管資産が管理外に移動",
+      "summary": "出金停止、顧客資産の全額返還は保証できず ステーブルコイン発行大手テザー（Tether）から出資を受けたチリの暗号資産（仮想通貨）取引所オリオンエックス（Orionx）が、事業の完全閉鎖に向けた手続きを開始したと9月3日…",
+      "url": "https://www.neweconomy.jp/posts/605719",
+      "important": false
+    },
+    {
+      "date": "2026-09-07",
+      "title": "Stablecoin wallets challenge traditional bank accounts as main consumer money hub",
+      "summary": "Industry leaders debate whether digital dollar wallets will dismantle traditional bank accounts or simply mode…",
+      "url": "https://www.coindesk.com/business/2026/09/07/stablecoin-wallets-challenge-traditional-bank-accounts-as-main-consumer-money-hub",
+      "important": true
+    },
+    {
+      "date": "2026-09-07",
+      "title": "A two-key breach could hand control of $91 billion in USDT to hackers, report finds",
+      "summary": "The rating agency's new framework combines Wall Street financial auditing with Web3 code reviews to evaluate b…",
+      "url": "https://www.coindesk.com/tech/2026/09/04/tether-receives-bluechip-rating-upgrade-but-hacken-finds-major-key-security-gaps",
+      "important": false
+    },
     {
       "date": "2026-09-06",
       "title": "Dollar-backed stablecoins can push local currencies lower, Bank of Korea study finds",
