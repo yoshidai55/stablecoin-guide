@@ -1,41 +1,41 @@
 {
-  "updated": "2026-09-08T07:36:53+09:00",
+  "updated": "2026-09-09T07:26:30+09:00",
   "items": [
     {
-      "date": "2026-09-07",
-      "title": "テザー出資のOrionxが閉鎖へ、7Mドル超の保管資産が管理外に移動",
-      "summary": "出金停止、顧客資産の全額返還は保証できず ステーブルコイン発行大手テザー（Tether）から出資を受けたチリの暗号資産（仮想通貨）取引所オリオンエックス（Orionx）が、事業の完全閉鎖に向けた手続きを開始したと9月3日…",
-      "url": "https://www.neweconomy.jp/posts/605719"
+      "date": "2026-09-09",
+      "title": "ビザのステーブルコイン決済、年換算200億ドル突破",
+      "summary": "ビザはステーブルコインに連動したカード決済の取引高が年換算200億ドル規模に達したと発表した。クレジット・クープとの提携による与信インフラが、新興プログラムの資金調達を支えている。",
+      "url": "https://coinpost.jp/?p=736383"
     },
     {
-      "date": "2026-09-07",
-      "title": "Stablecoin wallets challenge traditional bank accounts as main consumer money hub",
-      "summary": "Industry leaders debate whether digital dollar wallets will dismantle traditional bank accounts or simply mode…",
-      "url": "https://www.coindesk.com/business/2026/09/07/stablecoin-wallets-challenge-traditional-bank-accounts-as-main-consumer-money-hub"
+      "date": "2026-09-09",
+      "title": "サークル、決済サービス事業者タザペイ買収へ合意 USDCの世界的普及を加速",
+      "summary": "USDC発行大手のサークルが、シンガポール拠点のB2B国際送金インフラ企業タザペイを買収することで最終合意したと発表した。決済取扱高は年250億ドル超に上り、USDCの国際送金基盤としての普及拡大が見込まれる。",
+      "url": "https://coinpost.jp/?p=736384"
     },
     {
-      "date": "2026-09-07",
-      "title": "A two-key breach could hand control of $91 billion in USDT to hackers, report finds",
-      "summary": "The rating agency's new framework combines Wall Street financial auditing with Web3 code reviews to evaluate b…",
-      "url": "https://www.coindesk.com/tech/2026/09/04/tether-receives-bluechip-rating-upgrade-but-hacken-finds-major-key-security-gaps"
+      "date": "2026-09-08",
+      "title": "ハウス食品、抽選100名にJPYC贈呈へ 万博SBTで当選10倍",
+      "summary": "ハウス食品グループは9月8日、抽選100名にステーブルコインJPYCを贈呈するキャンペーンを開始した。大阪・関西万博で実施したNFT・SBT施策の後継で、HashPortが技術協力する。9月27日まで実施。",
+      "url": "https://coinpost.jp/?p=736271"
     },
     {
-      "date": "2026-09-06",
-      "title": "Tether-backed Orionx to shut down after audit flags $7M custody gap",
-      "summary": "Tether-backed Orionx is permanently closing after an audit found more than $7 million in customer assets had m…",
-      "url": "https://cointelegraph.com/news/orionx-shut-down-7-million-move-outside-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      "date": "2026-09-08",
+      "title": "ハウス食品、抽選100名に1000円相当のJPYC配布へ。ハッシュポートと連携で",
+      "summary": "万博の対象SBT保有者は当選確率10倍 ハウス食品グループ本社が、日本円連動型ステーブルコイン「JPYC」を抽選で配布する「JPYCおすそわけキャンペーン」の開始を9月8日に発表した。 同キャンペーンは、国内ブロックチェ…",
+      "url": "https://www.neweconomy.jp/posts/606089"
     },
     {
-      "date": "2026-09-06",
-      "title": "Dollar-backed stablecoins can push local currencies lower, Bank of Korea study finds",
-      "summary": "Buying pressure in Binance-paired currencies correlates with local currency depreciation as market makers bala…",
-      "url": "https://www.coindesk.com/business/2026/09/05/dollar-backed-stablecoins-can-push-local-currencies-lower-bank-of-korea-study-finds"
+      "date": "2026-09-08",
+      "title": "SBIグループ、JPYSCの裏付け資産の一部を国債で運用",
+      "summary": "SBI新生信託銀行とSBI VCトレードは、円建てステーブルコインJPYSCの裏付け資産の一部を国債で運用開始したと発表した。デジタル金融と伝統的金融をつなぐ新たな資金循環の創出を目指す取り組みで、資産の信用力向上にもつ…",
+      "url": "https://coinpost.jp/?p=736076"
     },
     {
-      "date": "2026-09-04",
-      "title": "Revolut, OpenReserve get preliminary US bank approval with crypto plans",
-      "summary": "Revolut and OpenReserve received preliminary OCC approval to form US national banks, with both planning crypto…",
-      "url": "https://cointelegraph.com/news/revolut-openreserve-occ-approval-national-bank-crypto-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      "date": "2026-09-09",
+      "title": "Franklin Templeton digital asset veteran takes helm at StablecoinX",
+      "summary": "Former Franklin Templeton digital asset executive Christopher Jensen will lead StablecoinX, the largest corpor…",
+      "url": "https://cointelegraph.com/news/stablecoinx-franklin-templeton-veteran-to-oversee-roughly-480m-ena-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     }
   ]
 }

@@ -1,6 +1,104 @@
 {
-  "updated": "2026-09-08T07:36:53+09:00",
+  "updated": "2026-09-09T07:26:30+09:00",
   "items": [
+    {
+      "date": "2026-09-09",
+      "title": "ビザのステーブルコイン決済、年換算200億ドル突破",
+      "summary": "ビザはステーブルコインに連動したカード決済の取引高が年換算200億ドル規模に達したと発表した。クレジット・クープとの提携による与信インフラが、新興プログラムの資金調達を支えている。",
+      "url": "https://coinpost.jp/?p=736383",
+      "important": false
+    },
+    {
+      "date": "2026-09-09",
+      "title": "サークル、決済サービス事業者タザペイ買収へ合意 USDCの世界的普及を加速",
+      "summary": "USDC発行大手のサークルが、シンガポール拠点のB2B国際送金インフラ企業タザペイを買収することで最終合意したと発表した。決済取扱高は年250億ドル超に上り、USDCの国際送金基盤としての普及拡大が見込まれる。",
+      "url": "https://coinpost.jp/?p=736384",
+      "important": false
+    },
+    {
+      "date": "2026-09-09",
+      "title": "Franklin Templeton digital asset veteran takes helm at StablecoinX",
+      "summary": "Former Franklin Templeton digital asset executive Christopher Jensen will lead StablecoinX, the largest corpor…",
+      "url": "https://cointelegraph.com/news/stablecoinx-franklin-templeton-veteran-to-oversee-roughly-480m-ena-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-09-09",
+      "title": "Bybit launches 24/7 perpetuals for major currency pairs",
+      "summary": "Bybit added USDT-settled perpetuals tracking EUR/USD, GBP/USD and USD/JPY, with 24/7 trading and leverage of u…",
+      "url": "https://cointelegraph.com/news/bybit-expands-tradfi-push-with-100x-fx-perpetuals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-09-09",
+      "title": "Visa brings onchain credit to its growing stablecoin card business",
+      "summary": "Visa is combining VisaNet settlement data with blockchain lending as stablecoin payment volume on its network …",
+      "url": "https://cointelegraph.com/news/visa-stablecoin-blockchain-lending-payment-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-09-08",
+      "title": "ハウス食品、抽選100名にJPYC贈呈へ 万博SBTで当選10倍",
+      "summary": "ハウス食品グループは9月8日、抽選100名にステーブルコインJPYCを贈呈するキャンペーンを開始した。大阪・関西万博で実施したNFT・SBT施策の後継で、HashPortが技術協力する。9月27日まで実施。",
+      "url": "https://coinpost.jp/?p=736271",
+      "important": true
+    },
+    {
+      "date": "2026-09-08",
+      "title": "ハウス食品、抽選100名に1000円相当のJPYC配布へ。ハッシュポートと連携で",
+      "summary": "万博の対象SBT保有者は当選確率10倍 ハウス食品グループ本社が、日本円連動型ステーブルコイン「JPYC」を抽選で配布する「JPYCおすそわけキャンペーン」の開始を9月8日に発表した。 同キャンペーンは、国内ブロックチェ…",
+      "url": "https://www.neweconomy.jp/posts/606089",
+      "important": true
+    },
+    {
+      "date": "2026-09-08",
+      "title": "SBIグループ、JPYSCの裏付け資産の一部を国債で運用",
+      "summary": "SBI新生信託銀行とSBI VCトレードは、円建てステーブルコインJPYSCの裏付け資産の一部を国債で運用開始したと発表した。デジタル金融と伝統的金融をつなぐ新たな資金循環の創出を目指す取り組みで、資産の信用力向上にもつ…",
+      "url": "https://coinpost.jp/?p=736076",
+      "important": false
+    },
+    {
+      "date": "2026-09-08",
+      "title": "Circle agrees to buy cross-border payments firm Tazapay for $400 million",
+      "summary": "The deal could grant Circle vital, regulated \"last-mile\" infrastructure, bridging the gap between stablecoins …",
+      "url": "https://www.coindesk.com/business/2026/09/08/circle-agrees-to-buy-cross-border-payments-firm-tazapay-for-usd400-million",
+      "important": false
+    },
+    {
+      "date": "2026-09-08",
+      "title": "Visa combines VisaNet data with onchain lending to power stablecoin card working capital",
+      "summary": "Visa's stablecoin settlement volume surpassed a $20 billion annualized run rate, up 15x year over year. Now it…",
+      "url": "https://www.coindesk.com/business/2026/09/08/visa-opens-settlement-data-to-help-blockchain-lenders-finance-crypto-cards-as-volume-surges",
+      "important": false
+    },
+    {
+      "date": "2026-09-08",
+      "title": "Circle to acquire Tazapay to expand USDC cross-border payments",
+      "summary": "Tazapay processes $25 billion in annualized volume and offers payout rails across 100-plus markets, extending …",
+      "url": "https://cointelegraph.com/news/circle-tazapay-usdc-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-09-08",
+      "title": "Uzbekistan begins government bond-backed stablecoin payment pilot",
+      "summary": "Humo Digital will test HUMO payments with more than 20 merchants under a sandbox jointly overseen by NAPP and …",
+      "url": "https://cointelegraph.com/news/uzbekistan-humo-stablecoin-payment-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-09-08",
+      "title": "Stablecoins could save South Korean merchants up to $3.8 billion a year, budget office says",
+      "summary": "South Korea’s budget office warned that stablecoin adoption could reduce banks' roles as credit intermediaries…",
+      "url": "https://www.coindesk.com/business/2026/09/08/stablecoins-could-save-south-korean-merchants-up-to-usd3-8-billion-a-year-budget-office-says",
+      "important": true
+    },
+    {
+      "date": "2026-09-08",
+      "title": "Swiss stablecoin sandbox enters testing phase, adds two new partners",
+      "summary": "Financial market operator SIX and payment app TWINT have joined numerous banks in the sandbox seeking to devel…",
+      "url": "https://cointelegraph.com/news/swiss-stablecoin-sandbox-testing-phase-two-new-partners?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
     {
       "date": "2026-09-07",
       "title": "テザー出資のOrionxが閉鎖へ、7Mドル超の保管資産が管理外に移動",
