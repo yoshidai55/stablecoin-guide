@@ -1,6 +1,27 @@
 {
-  "updated": "2026-09-09T07:26:30+09:00",
+  "updated": "2026-09-10T07:20:19+09:00",
   "items": [
+    {
+      "date": "2026-09-10",
+      "title": "U.S. Bank tests proprietary stablecoin in cross-border Stellar transaction",
+      "summary": "The pilot moved USBDC between the bank’s North American and European entities on the public Stellar blockchain…",
+      "url": "https://cointelegraph.com/news/us-bank-launches-usbdc-stablecoin-with-live-cross-border-payment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-09-10",
+      "title": "Tether pushes into private credit with $400 million fund with Fasanara",
+      "summary": "The USDT issuer will help source lending opportunities and provide stablecoin payment infrastructure for Fasan…",
+      "url": "https://www.coindesk.com/business/2026/09/09/tether-pushes-into-private-credit-with-usd400-million-fund-with-fasanara",
+      "important": false
+    },
+    {
+      "date": "2026-09-10",
+      "title": "Tether, Fasanara launch $400M private credit fund targeting $3B",
+      "summary": "The evergreen fund will use USDT infrastructure to support asset-backed lending through fintech platforms in m…",
+      "url": "https://cointelegraph.com/news/tether-fasanara-launch-400m-private-credit-fund-targeting-3b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
     {
       "date": "2026-09-09",
       "title": "ビザのステーブルコイン決済、年換算200億ドル突破",
@@ -35,6 +56,62 @@
       "summary": "Visa is combining VisaNet settlement data with blockchain lending as stablecoin payment volume on its network …",
       "url": "https://cointelegraph.com/news/visa-stablecoin-blockchain-lending-payment-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "important": false
+    },
+    {
+      "date": "2026-09-09",
+      "title": "クーコイン、ステーブルコイン活用の利回り商品「KCUSD」ローンチ",
+      "summary": "KuCoinがステーブルコイン活用の利回り商品公開 暗号資産（仮想通貨）取引所クーコイン（KuCoin）が、ステーブルコインを活用した利回り商品「KCUSD」のローンチを9月7日に発表した。 KCUSDは、取引口座などで…",
+      "url": "https://www.neweconomy.jp/posts/606476",
+      "important": false
+    },
+    {
+      "date": "2026-09-09",
+      "title": "米ブロック、全米信託銀行「Builders Bank」設立をOCCに申請",
+      "summary": "ビットコインやステーブルコインのカストディ提供へ 米決済大手ブロック（Block）が、全米信託銀行「ビルダーズ・バンク・アンド・トラスト（Builders Bank & Trust, N.A.：Builders […]",
+      "url": "https://www.neweconomy.jp/posts/606489",
+      "important": true
+    },
+    {
+      "date": "2026-09-09",
+      "title": "ビザがオンチェーン融資インフラ活用、ステーブルコインカード会社の資金繰り支援へ",
+      "summary": "ビザは、ブロックチェーン上の融資と日常的な支払いを結びつける新たな取り組みを発表。ステーブルコインと連携するカードを提供するフィンテック企業が運転資金を借りやすくする。",
+      "url": "https://coinpost.jp/?p=736457",
+      "important": false
+    },
+    {
+      "date": "2026-09-09",
+      "title": "ジャック・ドーシー率いるブロック、米信託銀行設立を申請",
+      "summary": "米フィンテック大手ブロックが、ビットコインやステーブルコインのカストディ業務を担う信託銀行「ビルダーズバンク」設立をOCCに申請した。認可されれば、ビットコイン・ステーブルコイン関連業務に連邦レベルの監督枠組みが加わるこ…",
+      "url": "https://coinpost.jp/?p=736410",
+      "important": true
+    },
+    {
+      "date": "2026-09-09",
+      "title": "Crypto Long & Short: Inside the 300-to-1 onchain gap between the dollar and euro",
+      "summary": "Ryan Connor of RockawayX writes that the dollar leads the euro about 3 to 1 across the offchain economy and mo…",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/09/08/crypto-long-and-short-inside-the-300-to-1-onchain-gap-between-the-dollar-and-euro",
+      "important": false
+    },
+    {
+      "date": "2026-09-09",
+      "title": "PayPal expands stablecoin rails with custom token issuance platform",
+      "summary": "The PYUSDx stablecoin developer platform, backed by PayPal USD (PYUSD), is built with the help of M0 and MoonP…",
+      "url": "https://www.coindesk.com/business/2026/09/09/paypal-expands-stablecoin-rails-with-launch-of-custom-token-issuance-platform",
+      "important": false
+    },
+    {
+      "date": "2026-09-09",
+      "title": "U.S. Bank takes next step towards launching its stablecoin with cross-border payment test",
+      "summary": "The fifth-largest U.S. commercial bank said it is exploring USBDC stablecoin for treasury payments, liquidity …",
+      "url": "https://www.coindesk.com/business/2026/09/08/u-s-bank-takes-next-step-towards-launching-its-stablecoin-with-cross-border-payment-test",
+      "important": true
+    },
+    {
+      "date": "2026-09-09",
+      "title": "Jack Dorsey’s Block seeks US trust bank charter for Bitcoin, stablecoin",
+      "summary": "The proposed Builders Bank would offer federally supervised digital asset custody but would not accept deposit…",
+      "url": "https://cointelegraph.com/news/block-us-trust-bank-charter-bitcoin-stablecoin-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
     },
     {
       "date": "2026-09-08",

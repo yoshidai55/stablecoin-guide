@@ -1,41 +1,41 @@
 {
-  "updated": "2026-09-09T07:26:30+09:00",
+  "updated": "2026-09-10T07:20:19+09:00",
   "items": [
     {
       "date": "2026-09-09",
-      "title": "ビザのステーブルコイン決済、年換算200億ドル突破",
-      "summary": "ビザはステーブルコインに連動したカード決済の取引高が年換算200億ドル規模に達したと発表した。クレジット・クープとの提携による与信インフラが、新興プログラムの資金調達を支えている。",
-      "url": "https://coinpost.jp/?p=736383"
+      "title": "クーコイン、ステーブルコイン活用の利回り商品「KCUSD」ローンチ",
+      "summary": "KuCoinがステーブルコイン活用の利回り商品公開 暗号資産（仮想通貨）取引所クーコイン（KuCoin）が、ステーブルコインを活用した利回り商品「KCUSD」のローンチを9月7日に発表した。 KCUSDは、取引口座などで…",
+      "url": "https://www.neweconomy.jp/posts/606476"
     },
     {
       "date": "2026-09-09",
-      "title": "サークル、決済サービス事業者タザペイ買収へ合意 USDCの世界的普及を加速",
-      "summary": "USDC発行大手のサークルが、シンガポール拠点のB2B国際送金インフラ企業タザペイを買収することで最終合意したと発表した。決済取扱高は年250億ドル超に上り、USDCの国際送金基盤としての普及拡大が見込まれる。",
-      "url": "https://coinpost.jp/?p=736384"
-    },
-    {
-      "date": "2026-09-08",
-      "title": "ハウス食品、抽選100名にJPYC贈呈へ 万博SBTで当選10倍",
-      "summary": "ハウス食品グループは9月8日、抽選100名にステーブルコインJPYCを贈呈するキャンペーンを開始した。大阪・関西万博で実施したNFT・SBT施策の後継で、HashPortが技術協力する。9月27日まで実施。",
-      "url": "https://coinpost.jp/?p=736271"
-    },
-    {
-      "date": "2026-09-08",
-      "title": "ハウス食品、抽選100名に1000円相当のJPYC配布へ。ハッシュポートと連携で",
-      "summary": "万博の対象SBT保有者は当選確率10倍 ハウス食品グループ本社が、日本円連動型ステーブルコイン「JPYC」を抽選で配布する「JPYCおすそわけキャンペーン」の開始を9月8日に発表した。 同キャンペーンは、国内ブロックチェ…",
-      "url": "https://www.neweconomy.jp/posts/606089"
-    },
-    {
-      "date": "2026-09-08",
-      "title": "SBIグループ、JPYSCの裏付け資産の一部を国債で運用",
-      "summary": "SBI新生信託銀行とSBI VCトレードは、円建てステーブルコインJPYSCの裏付け資産の一部を国債で運用開始したと発表した。デジタル金融と伝統的金融をつなぐ新たな資金循環の創出を目指す取り組みで、資産の信用力向上にもつ…",
-      "url": "https://coinpost.jp/?p=736076"
+      "title": "米ブロック、全米信託銀行「Builders Bank」設立をOCCに申請",
+      "summary": "ビットコインやステーブルコインのカストディ提供へ 米決済大手ブロック（Block）が、全米信託銀行「ビルダーズ・バンク・アンド・トラスト（Builders Bank & Trust, N.A.：Builders […]",
+      "url": "https://www.neweconomy.jp/posts/606489"
     },
     {
       "date": "2026-09-09",
-      "title": "Franklin Templeton digital asset veteran takes helm at StablecoinX",
-      "summary": "Former Franklin Templeton digital asset executive Christopher Jensen will lead StablecoinX, the largest corpor…",
-      "url": "https://cointelegraph.com/news/stablecoinx-franklin-templeton-veteran-to-oversee-roughly-480m-ena-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      "title": "ビザがオンチェーン融資インフラ活用、ステーブルコインカード会社の資金繰り支援へ",
+      "summary": "ビザは、ブロックチェーン上の融資と日常的な支払いを結びつける新たな取り組みを発表。ステーブルコインと連携するカードを提供するフィンテック企業が運転資金を借りやすくする。",
+      "url": "https://coinpost.jp/?p=736457"
+    },
+    {
+      "date": "2026-09-09",
+      "title": "ジャック・ドーシー率いるブロック、米信託銀行設立を申請",
+      "summary": "米フィンテック大手ブロックが、ビットコインやステーブルコインのカストディ業務を担う信託銀行「ビルダーズバンク」設立をOCCに申請した。認可されれば、ビットコイン・ステーブルコイン関連業務に連邦レベルの監督枠組みが加わるこ…",
+      "url": "https://coinpost.jp/?p=736410"
+    },
+    {
+      "date": "2026-09-10",
+      "title": "U.S. Bank tests proprietary stablecoin in cross-border Stellar transaction",
+      "summary": "The pilot moved USBDC between the bank’s North American and European entities on the public Stellar blockchain…",
+      "url": "https://cointelegraph.com/news/us-bank-launches-usbdc-stablecoin-with-live-cross-border-payment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "date": "2026-09-10",
+      "title": "Tether pushes into private credit with $400 million fund with Fasanara",
+      "summary": "The USDT issuer will help source lending opportunities and provide stablecoin payment infrastructure for Fasan…",
+      "url": "https://www.coindesk.com/business/2026/09/09/tether-pushes-into-private-credit-with-usd400-million-fund-with-fasanara"
     }
   ]
 }
