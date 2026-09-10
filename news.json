@@ -1,41 +1,41 @@
 {
-  "updated": "2026-09-10T07:20:19+09:00",
+  "updated": "2026-09-11T07:19:47+09:00",
   "items": [
     {
-      "date": "2026-09-09",
-      "title": "クーコイン、ステーブルコイン活用の利回り商品「KCUSD」ローンチ",
-      "summary": "KuCoinがステーブルコイン活用の利回り商品公開 暗号資産（仮想通貨）取引所クーコイン（KuCoin）が、ステーブルコインを活用した利回り商品「KCUSD」のローンチを9月7日に発表した。 KCUSDは、取引口座などで…",
-      "url": "https://www.neweconomy.jp/posts/606476"
-    },
-    {
-      "date": "2026-09-09",
-      "title": "米ブロック、全米信託銀行「Builders Bank」設立をOCCに申請",
-      "summary": "ビットコインやステーブルコインのカストディ提供へ 米決済大手ブロック（Block）が、全米信託銀行「ビルダーズ・バンク・アンド・トラスト（Builders Bank & Trust, N.A.：Builders […]",
-      "url": "https://www.neweconomy.jp/posts/606489"
-    },
-    {
-      "date": "2026-09-09",
-      "title": "ビザがオンチェーン融資インフラ活用、ステーブルコインカード会社の資金繰り支援へ",
-      "summary": "ビザは、ブロックチェーン上の融資と日常的な支払いを結びつける新たな取り組みを発表。ステーブルコインと連携するカードを提供するフィンテック企業が運転資金を借りやすくする。",
-      "url": "https://coinpost.jp/?p=736457"
-    },
-    {
-      "date": "2026-09-09",
-      "title": "ジャック・ドーシー率いるブロック、米信託銀行設立を申請",
-      "summary": "米フィンテック大手ブロックが、ビットコインやステーブルコインのカストディ業務を担う信託銀行「ビルダーズバンク」設立をOCCに申請した。認可されれば、ビットコイン・ステーブルコイン関連業務に連邦レベルの監督枠組みが加わるこ…",
-      "url": "https://coinpost.jp/?p=736410"
+      "date": "2026-09-10",
+      "title": "テザーとファサナラ、4億ドルのプライベートクレジットファンド設立",
+      "summary": "テザーとファサナラ、4億ドルのプライベートクレジットファンド設立 米ドルステーブルコイン「USDT」発行元のテザー（Tether）と英資産運用会社ファサナラ・キャピタル（Fasanara Capital）が、プライベート…",
+      "url": "https://www.neweconomy.jp/posts/606870"
     },
     {
       "date": "2026-09-10",
-      "title": "U.S. Bank tests proprietary stablecoin in cross-border Stellar transaction",
-      "summary": "The pilot moved USBDC between the bank’s North American and European entities on the public Stellar blockchain…",
-      "url": "https://cointelegraph.com/news/us-bank-launches-usbdc-stablecoin-with-live-cross-border-payment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      "title": "米当局、中国系違法市場シンビ摘発｜ステーブルコインUSDTを80億円相当凍結",
+      "summary": "米当局が中国系違法市場シンビ・ギャランティーの仮想通貨ウォレット49件、約80億円相当のUSDTを凍結した。シンビは凍結を非難しUSDDへの移行を表明している。",
+      "url": "https://coinpost.jp/?p=736664"
     },
     {
       "date": "2026-09-10",
-      "title": "Tether pushes into private credit with $400 million fund with Fasanara",
-      "summary": "The USDT issuer will help source lending opportunities and provide stablecoin payment infrastructure for Fasan…",
-      "url": "https://www.coindesk.com/business/2026/09/09/tether-pushes-into-private-credit-with-usd400-million-fund-with-fasanara"
+      "title": "テザーとファサナーラ、融資ファンド設立 最大30億ドル調達へ",
+      "summary": "ステーブルコイン最大手テザーが英ファサナーラと私募信用ファンドを設立。4億ドルを共同出資し、機関投資家から最大30億ドルの調達を目指す。USDTの決済網を軸に60カ国超で中小企業・個人向け融資を拡大する。",
+      "url": "https://coinpost.jp/?p=736671"
+    },
+    {
+      "date": "2026-09-11",
+      "title": "UK House of Lords backs mandatory digital asset strategy over Labour position",
+      "summary": "The amendment would require the UK Treasury to develop a strategy covering cryptoassets, stablecoins, tokenize…",
+      "url": "https://cointelegraph.com/news/uk-house-of-lords-backs-mandatory-digital-asset-strategy-in-194138-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "date": "2026-09-11",
+      "title": "MoneyGram launches Visa stablecoin card as remittance rivals expand",
+      "summary": "MoneyGram is following rival Western Union’s lead, rolling out a Visa stablecoin debit card as it expands bloc…",
+      "url": "https://cointelegraph.com/news/moneygram-launches-visa-stablecoin-card-as-remittance-rivals-expand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "date": "2026-09-10",
+      "title": "MoneyGram unveils stablecoin-backed card as digital dollars move into everyday spending",
+      "summary": "The remittance giant is rolling out a Visa card that lets customers hold dollars and spend from a stablecoin-b…",
+      "url": "https://www.coindesk.com/business/2026/09/08/moneygram-unveils-stablecoin-backed-card-as-digital-dollars-move-into-everyday-spending"
     }
   ]
 }

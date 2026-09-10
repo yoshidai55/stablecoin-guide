@@ -1,6 +1,20 @@
 {
-  "updated": "2026-09-10T07:20:19+09:00",
+  "updated": "2026-09-11T07:19:47+09:00",
   "items": [
+    {
+      "date": "2026-09-11",
+      "title": "UK House of Lords backs mandatory digital asset strategy over Labour position",
+      "summary": "The amendment would require the UK Treasury to develop a strategy covering cryptoassets, stablecoins, tokenize…",
+      "url": "https://cointelegraph.com/news/uk-house-of-lords-backs-mandatory-digital-asset-strategy-in-194138-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-09-11",
+      "title": "MoneyGram launches Visa stablecoin card as remittance rivals expand",
+      "summary": "MoneyGram is following rival Western Union’s lead, rolling out a Visa stablecoin debit card as it expands bloc…",
+      "url": "https://cointelegraph.com/news/moneygram-launches-visa-stablecoin-card-as-remittance-rivals-expand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
     {
       "date": "2026-09-10",
       "title": "U.S. Bank tests proprietary stablecoin in cross-border Stellar transaction",
@@ -20,6 +34,41 @@
       "title": "Tether, Fasanara launch $400M private credit fund targeting $3B",
       "summary": "The evergreen fund will use USDT infrastructure to support asset-backed lending through fintech platforms in m…",
       "url": "https://cointelegraph.com/news/tether-fasanara-launch-400m-private-credit-fund-targeting-3b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-09-10",
+      "title": "テザーとファサナラ、4億ドルのプライベートクレジットファンド設立",
+      "summary": "テザーとファサナラ、4億ドルのプライベートクレジットファンド設立 米ドルステーブルコイン「USDT」発行元のテザー（Tether）と英資産運用会社ファサナラ・キャピタル（Fasanara Capital）が、プライベート…",
+      "url": "https://www.neweconomy.jp/posts/606870",
+      "important": false
+    },
+    {
+      "date": "2026-09-10",
+      "title": "米当局、中国系違法市場シンビ摘発｜ステーブルコインUSDTを80億円相当凍結",
+      "summary": "米当局が中国系違法市場シンビ・ギャランティーの仮想通貨ウォレット49件、約80億円相当のUSDTを凍結した。シンビは凍結を非難しUSDDへの移行を表明している。",
+      "url": "https://coinpost.jp/?p=736664",
+      "important": false
+    },
+    {
+      "date": "2026-09-10",
+      "title": "テザーとファサナーラ、融資ファンド設立 最大30億ドル調達へ",
+      "summary": "ステーブルコイン最大手テザーが英ファサナーラと私募信用ファンドを設立。4億ドルを共同出資し、機関投資家から最大30億ドルの調達を目指す。USDTの決済網を軸に60カ国超で中小企業・個人向け融資を拡大する。",
+      "url": "https://coinpost.jp/?p=736671",
+      "important": false
+    },
+    {
+      "date": "2026-09-10",
+      "title": "MoneyGram unveils stablecoin-backed card as digital dollars move into everyday spending",
+      "summary": "The remittance giant is rolling out a Visa card that lets customers hold dollars and spend from a stablecoin-b…",
+      "url": "https://www.coindesk.com/business/2026/09/08/moneygram-unveils-stablecoin-backed-card-as-digital-dollars-move-into-everyday-spending",
+      "important": false
+    },
+    {
+      "date": "2026-09-10",
+      "title": "Coinbase, Moov to provide stablecoin infrastructure for US community banks",
+      "summary": "The partnership will provide stablecoin acceptance, settlement and real-time funding capabilities to over 1,00…",
+      "url": "https://cointelegraph.com/news/coinbase-moov-stablecoin-infrastructure-banks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "important": true
     },
     {
