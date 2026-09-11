@@ -1,41 +1,41 @@
 {
-  "updated": "2026-09-11T07:19:47+09:00",
+  "updated": "2026-09-12T07:19:09+09:00",
   "items": [
     {
-      "date": "2026-09-10",
-      "title": "テザーとファサナラ、4億ドルのプライベートクレジットファンド設立",
-      "summary": "テザーとファサナラ、4億ドルのプライベートクレジットファンド設立 米ドルステーブルコイン「USDT」発行元のテザー（Tether）と英資産運用会社ファサナラ・キャピタル（Fasanara Capital）が、プライベート…",
-      "url": "https://www.neweconomy.jp/posts/606870"
-    },
-    {
-      "date": "2026-09-10",
-      "title": "米当局、中国系違法市場シンビ摘発｜ステーブルコインUSDTを80億円相当凍結",
-      "summary": "米当局が中国系違法市場シンビ・ギャランティーの仮想通貨ウォレット49件、約80億円相当のUSDTを凍結した。シンビは凍結を非難しUSDDへの移行を表明している。",
-      "url": "https://coinpost.jp/?p=736664"
-    },
-    {
-      "date": "2026-09-10",
-      "title": "テザーとファサナーラ、融資ファンド設立 最大30億ドル調達へ",
-      "summary": "ステーブルコイン最大手テザーが英ファサナーラと私募信用ファンドを設立。4億ドルを共同出資し、機関投資家から最大30億ドルの調達を目指す。USDTの決済網を軸に60カ国超で中小企業・個人向け融資を拡大する。",
-      "url": "https://coinpost.jp/?p=736671"
+      "date": "2026-09-11",
+      "title": "ユニスワップが「StablePair Hook」提供開始、ステーブルペアの裁定価値をLPへ還元",
+      "summary": "ユニスワップが「StablePair Hook」提供開始 分散型取引プロトコル「ユニスワップ（Uniswap）」の開発に貢献するユニスワップ・ラボ（Uniswap Labs）が、ステーブルペア向けの動的手数料機能「ステー…",
+      "url": "https://www.neweconomy.jp/posts/607217"
     },
     {
       "date": "2026-09-11",
-      "title": "UK House of Lords backs mandatory digital asset strategy over Labour position",
-      "summary": "The amendment would require the UK Treasury to develop a strategy covering cryptoassets, stablecoins, tokenize…",
-      "url": "https://cointelegraph.com/news/uk-house-of-lords-backs-mandatory-digital-asset-strategy-in-194138-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      "title": "マネーグラム、ステーブルコイン活用のVisaカードをコロンビアで提供開始",
+      "summary": "ステラ活用、2026年後半に物理カードも提供へ 国際送金サービスを提供する米マネーグラム（MoneyGram）が、ステーブルコインを活用した「マネーグラムカード（MoneyGram Card）」の提供開始を9月10日に発…",
+      "url": "https://www.neweconomy.jp/posts/607209"
     },
     {
       "date": "2026-09-11",
-      "title": "MoneyGram launches Visa stablecoin card as remittance rivals expand",
-      "summary": "MoneyGram is following rival Western Union’s lead, rolling out a Visa stablecoin debit card as it expands bloc…",
-      "url": "https://cointelegraph.com/news/moneygram-launches-visa-stablecoin-card-as-remittance-rivals-expand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      "title": "英国上院、仮想通貨戦略の策定義務化案を可決 規制競争で欧米に対抗",
+      "summary": "英国上院は9月9日、仮想通貨・ステーブルコイン・トークン化証券を含むデジタル資産戦略の策定を財務省に義務付ける修正案88を194対138で可決した。EU・米国で規制整備が先行する中、法案は労働党の反対を押し切り英下院での…",
+      "url": "https://coinpost.jp/?p=736891"
     },
     {
-      "date": "2026-09-10",
-      "title": "MoneyGram unveils stablecoin-backed card as digital dollars move into everyday spending",
-      "summary": "The remittance giant is rolling out a Visa card that lets customers hold dollars and spend from a stablecoin-b…",
-      "url": "https://www.coindesk.com/business/2026/09/08/moneygram-unveils-stablecoin-backed-card-as-digital-dollars-move-into-everyday-spending"
+      "date": "2026-09-11",
+      "title": "マネーグラム、ステーブルコインカードをローンチ ステラチェーン採用",
+      "summary": "マネーグラムは、ステーブルコインを使用できるマネーグラムカードをローンチ。仮想通貨ステラのブロックチェーンを採用しており、コロンビアから段階的に提供を広げる。",
+      "url": "https://coinpost.jp/?p=736859"
+    },
+    {
+      "date": "2026-09-11",
+      "title": "ステーブルコイン、しきい値上昇で銘柄数が急減＝アークインベスト",
+      "summary": "ステーブルコインは規模が大きいほど生存者が絞られるネットワーク効果が働く。アークインベストのヴァレンテ氏によると、1000億ドル級はテザーとサークルの2社体制に向かう可能性がある。各階層の推移を整理した。",
+      "url": "https://coinpost.jp/?p=736850"
+    },
+    {
+      "date": "2026-09-11",
+      "title": "米地域銀行にステーブルコイン決済基盤、コインベースとムーブが提供",
+      "summary": "コインベースは決済インフラ企業ムーブと提携し、全米1000超の地域銀行・信用組合にステーブルコインの受け入れ・決済・即時資金化機能を提供する体制を整えた。既存の銀行システムに組み込まれ、地域金融機関の仮想通貨対応を後押し…",
+      "url": "https://coinpost.jp/?p=736804"
     }
   ]
 }
