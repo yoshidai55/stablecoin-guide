@@ -1,12 +1,26 @@
 {
-  "updated": "2026-09-12T07:19:09+09:00",
+  "updated": "2026-09-13T06:59:19+09:00",
   "items": [
+    {
+      "date": "2026-09-13",
+      "title": "Ripple stablecoin chief sees $13 trillion corporate treasury opportunity for RLUSD",
+      "summary": "Payments and capital markets are driving growth for Ripple's $2.4 billion digital dollar as it looks to bring …",
+      "url": "https://www.coindesk.com/business/2026/09/12/ripple-stablecoin-chief-sees-usd13-trillion-corporate-treasury-opportunity-for-rlusd",
+      "important": false
+    },
     {
       "date": "2026-09-12",
       "title": "Anchorage Digital adds institutional access to Frgmnt’s fUSD stablecoin",
       "summary": "The US federally chartered crypto bank will allow institutional clients to hold, mint, redeem and stake Frgmnt…",
       "url": "https://cointelegraph.com/news/anchorage-digital-adds-institutional-access-to-frgmnts-fusd-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "important": true
+    },
+    {
+      "date": "2026-09-12",
+      "title": "裏付け資産はペイパルのステーブルコイン、ペイパルなど3社が『PYUSDx』始動",
+      "summary": "ペイパル、M0、ムーンペイの3社は9日、企業が自社ブランドのステーブルコインを発行できる基盤「PYUSDx」を稼働させた。裏付けはPYUSDで、発行体の裁量は広がるが、米ジーニアス法上の位置づけは今後の論点になりうる。",
+      "url": "https://coinpost.jp/?p=737093",
+      "important": false
     },
     {
       "date": "2026-09-11",

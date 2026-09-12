@@ -1,6 +1,12 @@
 {
-  "updated": "2026-09-12T07:19:09+09:00",
+  "updated": "2026-09-13T06:59:19+09:00",
   "items": [
+    {
+      "date": "2026-09-12",
+      "title": "裏付け資産はペイパルのステーブルコイン、ペイパルなど3社が『PYUSDx』始動",
+      "summary": "ペイパル、M0、ムーンペイの3社は9日、企業が自社ブランドのステーブルコインを発行できる基盤「PYUSDx」を稼働させた。裏付けはPYUSDで、発行体の裁量は広がるが、米ジーニアス法上の位置づけは今後の論点になりうる。",
+      "url": "https://coinpost.jp/?p=737093"
+    },
     {
       "date": "2026-09-11",
       "title": "ユニスワップが「StablePair Hook」提供開始、ステーブルペアの裁定価値をLPへ還元",
@@ -14,28 +20,22 @@
       "url": "https://www.neweconomy.jp/posts/607209"
     },
     {
-      "date": "2026-09-11",
-      "title": "英国上院、仮想通貨戦略の策定義務化案を可決 規制競争で欧米に対抗",
-      "summary": "英国上院は9月9日、仮想通貨・ステーブルコイン・トークン化証券を含むデジタル資産戦略の策定を財務省に義務付ける修正案88を194対138で可決した。EU・米国で規制整備が先行する中、法案は労働党の反対を押し切り英下院での…",
-      "url": "https://coinpost.jp/?p=736891"
+      "date": "2026-09-13",
+      "title": "Ripple stablecoin chief sees $13 trillion corporate treasury opportunity for RLUSD",
+      "summary": "Payments and capital markets are driving growth for Ripple's $2.4 billion digital dollar as it looks to bring …",
+      "url": "https://www.coindesk.com/business/2026/09/12/ripple-stablecoin-chief-sees-usd13-trillion-corporate-treasury-opportunity-for-rlusd"
+    },
+    {
+      "date": "2026-09-12",
+      "title": "Anchorage Digital adds institutional access to Frgmnt’s fUSD stablecoin",
+      "summary": "The US federally chartered crypto bank will allow institutional clients to hold, mint, redeem and stake Frgmnt…",
+      "url": "https://cointelegraph.com/news/anchorage-digital-adds-institutional-access-to-frgmnts-fusd-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     },
     {
       "date": "2026-09-11",
-      "title": "マネーグラム、ステーブルコインカードをローンチ ステラチェーン採用",
-      "summary": "マネーグラムは、ステーブルコインを使用できるマネーグラムカードをローンチ。仮想通貨ステラのブロックチェーンを採用しており、コロンビアから段階的に提供を広げる。",
-      "url": "https://coinpost.jp/?p=736859"
-    },
-    {
-      "date": "2026-09-11",
-      "title": "ステーブルコイン、しきい値上昇で銘柄数が急減＝アークインベスト",
-      "summary": "ステーブルコインは規模が大きいほど生存者が絞られるネットワーク効果が働く。アークインベストのヴァレンテ氏によると、1000億ドル級はテザーとサークルの2社体制に向かう可能性がある。各階層の推移を整理した。",
-      "url": "https://coinpost.jp/?p=736850"
-    },
-    {
-      "date": "2026-09-11",
-      "title": "米地域銀行にステーブルコイン決済基盤、コインベースとムーブが提供",
-      "summary": "コインベースは決済インフラ企業ムーブと提携し、全米1000超の地域銀行・信用組合にステーブルコインの受け入れ・決済・即時資金化機能を提供する体制を整えた。既存の銀行システムに組み込まれ、地域金融機関の仮想通貨対応を後押し…",
-      "url": "https://coinpost.jp/?p=736804"
+      "title": "UK House of Lords backs mandatory digital asset strategy over Labour position",
+      "summary": "The amendment would require the UK Treasury to develop a strategy covering cryptoassets, stablecoins, tokenize…",
+      "url": "https://cointelegraph.com/news/uk-house-of-lords-backs-mandatory-digital-asset-strategy-in-194138-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     }
   ]
 }
