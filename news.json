@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T06:59:19+09:00",
+  "updated": "2026-09-14T07:12:30+09:00",
   "items": [
     {
       "date": "2026-09-12",
@@ -21,6 +21,12 @@
     },
     {
       "date": "2026-09-13",
+      "title": "Circle's $400M Tazapay deal buys emerging market links that take ‘years to build’",
+      "summary": "Stablecoins' “next battleground is in emerging markets,” one expert said, as Circle looks to expand USDC's rea…",
+      "url": "https://www.coindesk.com/business/2026/09/13/circle-s-usd400m-tazapay-deal-buys-emerging-market-links-that-take-years-to-build"
+    },
+    {
+      "date": "2026-09-13",
       "title": "Ripple stablecoin chief sees $13 trillion corporate treasury opportunity for RLUSD",
       "summary": "Payments and capital markets are driving growth for Ripple's $2.4 billion digital dollar as it looks to bring …",
       "url": "https://www.coindesk.com/business/2026/09/12/ripple-stablecoin-chief-sees-usd13-trillion-corporate-treasury-opportunity-for-rlusd"
@@ -30,12 +36,6 @@
       "title": "Anchorage Digital adds institutional access to Frgmnt’s fUSD stablecoin",
       "summary": "The US federally chartered crypto bank will allow institutional clients to hold, mint, redeem and stake Frgmnt…",
       "url": "https://cointelegraph.com/news/anchorage-digital-adds-institutional-access-to-frgmnts-fusd-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "date": "2026-09-11",
-      "title": "UK House of Lords backs mandatory digital asset strategy over Labour position",
-      "summary": "The amendment would require the UK Treasury to develop a strategy covering cryptoassets, stablecoins, tokenize…",
-      "url": "https://cointelegraph.com/news/uk-house-of-lords-backs-mandatory-digital-asset-strategy-in-194138-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     }
   ]
 }
