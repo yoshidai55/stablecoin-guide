@@ -1,6 +1,34 @@
 {
-  "updated": "2026-09-14T07:12:30+09:00",
+  "updated": "2026-09-15T07:59:33+09:00",
   "items": [
+    {
+      "date": "2026-09-15",
+      "title": "審議入り採決直前のクラリティー法案、銀行・仮想通貨業界も懸念示す",
+      "summary": "討論終結投票を15日に控える米上院のクラリティー法案最終案に、銀行業界団体はステーブルコイン報酬の緊急停止措置を不十分と批判した。仮想通貨業界は開発者の刑事保護削除に失望し、民主党は利益相反規制に反発している。",
+      "url": "https://coinpost.jp/?p=737372",
+      "important": true
+    },
+    {
+      "date": "2026-09-15",
+      "title": "Banks escalate stablecoin rewards fight as Senate prepares for a Clarity Act vote",
+      "summary": "Eight banking groups on Monday said they want tighter limits on stablecoin rewards, keeping the ongoing banks-…",
+      "url": "https://www.coindesk.com/policy/2026/09/14/banks-escalate-stablecoin-rewards-fight-as-senate-prepares-for-a-clarity-act-vote",
+      "important": true
+    },
+    {
+      "date": "2026-09-14",
+      "title": "サークル、ノーブル上のUSDCサポート終了へ。コスモスネイティブUSDCはインジェクティブ移行",
+      "summary": "Noble上のUSDCとCCTP V1を段階的に停止 ステーブルコイン特化ブロックチェーンのノーブル（Noble）上で、米ドル連動型ステーブルコイン「USDC」とクロスチェーン転送プロトコル「CCTP V1」のサポートが…",
+      "url": "https://www.neweconomy.jp/posts/607713",
+      "important": false
+    },
+    {
+      "date": "2026-09-14",
+      "title": "Fragmented regulations limit stablecoin adoption in international finance: WTO head",
+      "summary": "Stablecoins may reduce trade finance friction, fragmented regulatory regimes limit their adoption to just 3% o…",
+      "url": "https://cointelegraph.com/news/fragmented-regulations-limit-stablecoin-adoption-in-international-finance-wto-director?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
     {
       "date": "2026-09-13",
       "title": "Ripple stablecoin chief sees $13 trillion corporate treasury opportunity for RLUSD",

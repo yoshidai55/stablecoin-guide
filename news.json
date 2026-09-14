@@ -1,35 +1,35 @@
 {
-  "updated": "2026-09-14T07:12:30+09:00",
+  "updated": "2026-09-15T07:59:33+09:00",
   "items": [
     {
-      "date": "2026-09-12",
-      "title": "裏付け資産はペイパルのステーブルコイン、ペイパルなど3社が『PYUSDx』始動",
-      "summary": "ペイパル、M0、ムーンペイの3社は9日、企業が自社ブランドのステーブルコインを発行できる基盤「PYUSDx」を稼働させた。裏付けはPYUSDで、発行体の裁量は広がるが、米ジーニアス法上の位置づけは今後の論点になりうる。",
-      "url": "https://coinpost.jp/?p=737093"
+      "date": "2026-09-15",
+      "title": "審議入り採決直前のクラリティー法案、銀行・仮想通貨業界も懸念示す",
+      "summary": "討論終結投票を15日に控える米上院のクラリティー法案最終案に、銀行業界団体はステーブルコイン報酬の緊急停止措置を不十分と批判した。仮想通貨業界は開発者の刑事保護削除に失望し、民主党は利益相反規制に反発している。",
+      "url": "https://coinpost.jp/?p=737372"
     },
     {
-      "date": "2026-09-11",
-      "title": "ユニスワップが「StablePair Hook」提供開始、ステーブルペアの裁定価値をLPへ還元",
-      "summary": "ユニスワップが「StablePair Hook」提供開始 分散型取引プロトコル「ユニスワップ（Uniswap）」の開発に貢献するユニスワップ・ラボ（Uniswap Labs）が、ステーブルペア向けの動的手数料機能「ステー…",
-      "url": "https://www.neweconomy.jp/posts/607217"
+      "date": "2026-09-14",
+      "title": "サークル、ノーブル上のUSDCサポート終了へ。コスモスネイティブUSDCはインジェクティブ移行",
+      "summary": "Noble上のUSDCとCCTP V1を段階的に停止 ステーブルコイン特化ブロックチェーンのノーブル（Noble）上で、米ドル連動型ステーブルコイン「USDC」とクロスチェーン転送プロトコル「CCTP V1」のサポートが…",
+      "url": "https://www.neweconomy.jp/posts/607713"
     },
     {
-      "date": "2026-09-11",
-      "title": "マネーグラム、ステーブルコイン活用のVisaカードをコロンビアで提供開始",
-      "summary": "ステラ活用、2026年後半に物理カードも提供へ 国際送金サービスを提供する米マネーグラム（MoneyGram）が、ステーブルコインを活用した「マネーグラムカード（MoneyGram Card）」の提供開始を9月10日に発…",
-      "url": "https://www.neweconomy.jp/posts/607209"
+      "date": "2026-09-15",
+      "title": "Banks escalate stablecoin rewards fight as Senate prepares for a Clarity Act vote",
+      "summary": "Eight banking groups on Monday said they want tighter limits on stablecoin rewards, keeping the ongoing banks-…",
+      "url": "https://www.coindesk.com/policy/2026/09/14/banks-escalate-stablecoin-rewards-fight-as-senate-prepares-for-a-clarity-act-vote"
+    },
+    {
+      "date": "2026-09-14",
+      "title": "Fragmented regulations limit stablecoin adoption in international finance: WTO head",
+      "summary": "Stablecoins may reduce trade finance friction, fragmented regulatory regimes limit their adoption to just 3% o…",
+      "url": "https://cointelegraph.com/news/fragmented-regulations-limit-stablecoin-adoption-in-international-finance-wto-director?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     },
     {
       "date": "2026-09-13",
       "title": "Circle's $400M Tazapay deal buys emerging market links that take ‘years to build’",
       "summary": "Stablecoins' “next battleground is in emerging markets,” one expert said, as Circle looks to expand USDC's rea…",
       "url": "https://www.coindesk.com/business/2026/09/13/circle-s-usd400m-tazapay-deal-buys-emerging-market-links-that-take-years-to-build"
-    },
-    {
-      "date": "2026-09-13",
-      "title": "Ripple stablecoin chief sees $13 trillion corporate treasury opportunity for RLUSD",
-      "summary": "Payments and capital markets are driving growth for Ripple's $2.4 billion digital dollar as it looks to bring …",
-      "url": "https://www.coindesk.com/business/2026/09/12/ripple-stablecoin-chief-sees-usd13-trillion-corporate-treasury-opportunity-for-rlusd"
     },
     {
       "date": "2026-09-12",
