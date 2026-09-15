@@ -1,6 +1,27 @@
 {
-  "updated": "2026-09-15T07:59:33+09:00",
+  "updated": "2026-09-16T07:46:10+09:00",
   "items": [
+    {
+      "date": "2026-09-16",
+      "title": "米下院委、仮想通貨税制法案を17日に審議へ 売却損失の控除制限を拡大",
+      "summary": "米下院歳入委員会は16日、仮想通貨税制法案をマークアップする予定だ。10ドル以下の対象手数料、取引損失、ステーブルコイン、マイニング・ステーキングの税務案が組み込まれている。",
+      "url": "https://coinpost.jp/?p=737599",
+      "important": true
+    },
+    {
+      "date": "2026-09-16",
+      "title": "BIS paper finds major gap in Bitcoin onchain transfer estimates",
+      "summary": "A BIS study found widely used crypto metrics can obscure economic activity, with measurement challenges spanni…",
+      "url": "https://cointelegraph.com/news/bis-paper-finds-major-gap-in-bitcoin-onchain-transfer-estimates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-09-16",
+      "title": "Stablecoin growth could boost dollar dominance, US Treasury demand: BoE official",
+      "summary": "A Bank of England policy maker said digital dollars could expand access to the US currency while turning stabl…",
+      "url": "https://cointelegraph.com/news/stablecoins-us-dollar-dominance-treasury-demand-boe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
     {
       "date": "2026-09-15",
       "title": "審議入り採決直前のクラリティー法案、銀行・仮想通貨業界も懸念示す",
@@ -13,6 +34,41 @@
       "title": "Banks escalate stablecoin rewards fight as Senate prepares for a Clarity Act vote",
       "summary": "Eight banking groups on Monday said they want tighter limits on stablecoin rewards, keeping the ongoing banks-…",
       "url": "https://www.coindesk.com/policy/2026/09/14/banks-escalate-stablecoin-rewards-fight-as-senate-prepares-for-a-clarity-act-vote",
+      "important": true
+    },
+    {
+      "date": "2026-09-15",
+      "title": "チェーンフリップのトロンUSDT処理で約73.6万USDT流出、影響ユーザーを補償へ",
+      "summary": "トロンUSDT処理の不具合で二重払い クロスチェーンプロトコル「チェーンフリップ（Chainflip）」におけるトロン（TRON）上のUSDTに影響したセキュリティインシデントについて、同プロトコル開発チームが9月13日…",
+      "url": "https://www.neweconomy.jp/posts/608087",
+      "important": false
+    },
+    {
+      "date": "2026-09-15",
+      "title": "USDT payments feature in Polish energy giant’s failed $230M oil deal: FT",
+      "summary": "Tether’s USDT stablecoin was part of a failed oil trade that reportedly cost a Polish energy giant $230 millio…",
+      "url": "https://cointelegraph.com/news/usdt-payments-polish-energy-giants-failed-230m-oil-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-09-15",
+      "title": "US House crypto tax package omits mining, staking reward deferral",
+      "summary": "The 114-page bill would change the tax treatment of crypto fees, stablecoins and lending while leaving existin…",
+      "url": "https://cointelegraph.com/news/us-house-crypto-tax-bill-mining-staking-reward-deferral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-09-15",
+      "title": "US seeks $61M in USDT allegedly tied to sanctioned Iranian oil sales",
+      "summary": "Tether froze $61.19 million across 10 Tron addresses in 2025 that prosecutors allege were connected to black-m…",
+      "url": "https://cointelegraph.com/news/doj-61m-usdt-forfeiture-iranian-oil?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-09-15",
+      "title": "CLARITY Act odds fall to 16% as key Democrats resist GOP’s ‘final’ offer",
+      "summary": "Banking groups also said the GOP’s final text leaves stablecoin reward loopholes, while tribal gaming interest…",
+      "url": "https://cointelegraph.com/news/clarity-act-odds-fall-democrats-gop-final-offer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "important": true
     },
     {

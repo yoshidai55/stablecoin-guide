@@ -1,41 +1,41 @@
 {
-  "updated": "2026-09-15T07:59:33+09:00",
+  "updated": "2026-09-16T07:46:10+09:00",
   "items": [
     {
-      "date": "2026-09-15",
-      "title": "審議入り採決直前のクラリティー法案、銀行・仮想通貨業界も懸念示す",
-      "summary": "討論終結投票を15日に控える米上院のクラリティー法案最終案に、銀行業界団体はステーブルコイン報酬の緊急停止措置を不十分と批判した。仮想通貨業界は開発者の刑事保護削除に失望し、民主党は利益相反規制に反発している。",
-      "url": "https://coinpost.jp/?p=737372"
-    },
-    {
-      "date": "2026-09-14",
-      "title": "サークル、ノーブル上のUSDCサポート終了へ。コスモスネイティブUSDCはインジェクティブ移行",
-      "summary": "Noble上のUSDCとCCTP V1を段階的に停止 ステーブルコイン特化ブロックチェーンのノーブル（Noble）上で、米ドル連動型ステーブルコイン「USDC」とクロスチェーン転送プロトコル「CCTP V1」のサポートが…",
-      "url": "https://www.neweconomy.jp/posts/607713"
+      "date": "2026-09-16",
+      "title": "米下院委、仮想通貨税制法案を17日に審議へ 売却損失の控除制限を拡大",
+      "summary": "米下院歳入委員会は16日、仮想通貨税制法案をマークアップする予定だ。10ドル以下の対象手数料、取引損失、ステーブルコイン、マイニング・ステーキングの税務案が組み込まれている。",
+      "url": "https://coinpost.jp/?p=737599"
     },
     {
       "date": "2026-09-15",
-      "title": "Banks escalate stablecoin rewards fight as Senate prepares for a Clarity Act vote",
-      "summary": "Eight banking groups on Monday said they want tighter limits on stablecoin rewards, keeping the ongoing banks-…",
-      "url": "https://www.coindesk.com/policy/2026/09/14/banks-escalate-stablecoin-rewards-fight-as-senate-prepares-for-a-clarity-act-vote"
+      "title": "チェーンフリップのトロンUSDT処理で約73.6万USDT流出、影響ユーザーを補償へ",
+      "summary": "トロンUSDT処理の不具合で二重払い クロスチェーンプロトコル「チェーンフリップ（Chainflip）」におけるトロン（TRON）上のUSDTに影響したセキュリティインシデントについて、同プロトコル開発チームが9月13日…",
+      "url": "https://www.neweconomy.jp/posts/608087"
     },
     {
-      "date": "2026-09-14",
-      "title": "Fragmented regulations limit stablecoin adoption in international finance: WTO head",
-      "summary": "Stablecoins may reduce trade finance friction, fragmented regulatory regimes limit their adoption to just 3% o…",
-      "url": "https://cointelegraph.com/news/fragmented-regulations-limit-stablecoin-adoption-in-international-finance-wto-director?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      "date": "2026-09-16",
+      "title": "BIS paper finds major gap in Bitcoin onchain transfer estimates",
+      "summary": "A BIS study found widely used crypto metrics can obscure economic activity, with measurement challenges spanni…",
+      "url": "https://cointelegraph.com/news/bis-paper-finds-major-gap-in-bitcoin-onchain-transfer-estimates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     },
     {
-      "date": "2026-09-13",
-      "title": "Circle's $400M Tazapay deal buys emerging market links that take ‘years to build’",
-      "summary": "Stablecoins' “next battleground is in emerging markets,” one expert said, as Circle looks to expand USDC's rea…",
-      "url": "https://www.coindesk.com/business/2026/09/13/circle-s-usd400m-tazapay-deal-buys-emerging-market-links-that-take-years-to-build"
+      "date": "2026-09-16",
+      "title": "Stablecoin growth could boost dollar dominance, US Treasury demand: BoE official",
+      "summary": "A Bank of England policy maker said digital dollars could expand access to the US currency while turning stabl…",
+      "url": "https://cointelegraph.com/news/stablecoins-us-dollar-dominance-treasury-demand-boe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     },
     {
-      "date": "2026-09-12",
-      "title": "Anchorage Digital adds institutional access to Frgmnt’s fUSD stablecoin",
-      "summary": "The US federally chartered crypto bank will allow institutional clients to hold, mint, redeem and stake Frgmnt…",
-      "url": "https://cointelegraph.com/news/anchorage-digital-adds-institutional-access-to-frgmnts-fusd-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      "date": "2026-09-15",
+      "title": "USDT payments feature in Polish energy giant’s failed $230M oil deal: FT",
+      "summary": "Tether’s USDT stablecoin was part of a failed oil trade that reportedly cost a Polish energy giant $230 millio…",
+      "url": "https://cointelegraph.com/news/usdt-payments-polish-energy-giants-failed-230m-oil-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "date": "2026-09-15",
+      "title": "US House crypto tax package omits mining, staking reward deferral",
+      "summary": "The 114-page bill would change the tax treatment of crypto fees, stablecoins and lending while leaving existin…",
+      "url": "https://cointelegraph.com/news/us-house-crypto-tax-bill-mining-staking-reward-deferral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     }
   ]
 }
