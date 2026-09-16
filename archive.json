@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-16T07:46:10+09:00",
+  "updated": "2026-09-17T07:42:58+09:00",
   "items": [
+    {
+      "date": "2026-09-17",
+      "title": "US House tax committee advances crypto tax overhaul in 38–5 vote",
+      "summary": "A bipartisan House committee vote advanced legislation that would reshape federal tax rules for stablecoins, s…",
+      "url": "https://cointelegraph.com/news/house-tax-committee-advances-crypto-tax-overhaul-in-385-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
     {
       "date": "2026-09-16",
       "title": "米下院委、仮想通貨税制法案を17日に審議へ 売却損失の控除制限を拡大",
@@ -20,6 +27,55 @@
       "title": "Stablecoin growth could boost dollar dominance, US Treasury demand: BoE official",
       "summary": "A Bank of England policy maker said digital dollars could expand access to the US currency while turning stabl…",
       "url": "https://cointelegraph.com/news/stablecoins-us-dollar-dominance-treasury-demand-boe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-09-16",
+      "title": "ドイツ銀行、ビットコイン・イーサリアムのカストディサービス開始へ",
+      "summary": "ドイツ銀行が機関投資家・法人顧客向けにデジタル資産カストディサービスを発表。ビットコインとイーサリアムに加え、USDC等の選定ステーブルコインにも対応する。規制手続きの完了を前提に年内の提供開始を目指す。",
+      "url": "https://coinpost.jp/?p=737858",
+      "important": true
+    },
+    {
+      "date": "2026-09-16",
+      "title": "A LatAm telecom operator is putting part of its finances on Avalanche",
+      "summary": "Led by former IBM Blockchain partner Jules Miller, Iris is helping Bolivia's VIVA use stablecoins for settleme…",
+      "url": "https://www.coindesk.com/business/2026/09/15/a-latam-telecom-operator-is-putting-part-of-its-finances-on-avalanche",
+      "important": false
+    },
+    {
+      "date": "2026-09-16",
+      "title": "Circle launches Arc mainnet with USDC as native gas token",
+      "summary": "Circle’s Arc mainnet is live with USDC for transaction fees, support for more than 20 fiat stablecoins and lin…",
+      "url": "https://cointelegraph.com/news/circle-arc-mainnet-launch-usdc-native-gas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-09-16",
+      "title": "Bitcoin traders brace for Fed hike, but a surprise hold could pose bigger risk",
+      "summary": "Bitcoin is stuck near $80,000 as traders build stablecoin positions that could return to the market once Fed u…",
+      "url": "https://www.coindesk.com/markets/2026/09/15/bitcoin-traders-brace-for-fed-hike-but-a-surprise-hold-could-pose-bigger-risk",
+      "important": false
+    },
+    {
+      "date": "2026-09-16",
+      "title": "Deutsche Bank close to debuting crypto custody for institutions",
+      "summary": "The service will support a select range of cryptocurrencies at debut, including bitcoin and ether and stableco…",
+      "url": "https://www.coindesk.com/business/2026/09/16/deutsche-bank-nears-crypto-custody-service-debut-for-institutional-clients",
+      "important": true
+    },
+    {
+      "date": "2026-09-16",
+      "title": "Deutsche Bank awaits regulatory nod to launch institutional crypto custody solutions",
+      "summary": "Germany’s largest bank is awaiting regulatory approval to launch institutional custody solutions for Bitcoin, …",
+      "url": "https://cointelegraph.com/news/deutsche-bank-regulatory-nod-institutional-crypto-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-09-16",
+      "title": "Circle debuts Arc blockchain which Jeremy Allaire calls ‘more consequential’ than USDC",
+      "summary": "The USDC issuer's chain is built for payments, tokenized assets and institutional finance as banks and payment…",
+      "url": "https://www.coindesk.com/business/2026/09/15/circle-debuts-arc-blockchain-which-jeremy-allaire-calls-more-consequential-than-usdc",
       "important": true
     },
     {
