@@ -1,11 +1,74 @@
 {
-  "updated": "2026-09-17T07:42:58+09:00",
+  "updated": "2026-09-18T07:43:53+09:00",
   "items": [
+    {
+      "date": "2026-09-18",
+      "title": "韓国教保生命とSBI、ドルを介さない日韓資金移転を実証 カントンネットワーク活用",
+      "summary": "韓国教保生命保険とSBIグループが、ドルを介さず円とウォンのステーブルコインを直接両替し、日本から韓国へ機関資金を移転する構造を検証した。韓国内保険業界初の実証で、国際送金の効率化や透明性向上への活用が見込まれている。",
+      "url": "https://coinpost.jp/?p=738245",
+      "important": false
+    },
+    {
+      "date": "2026-09-18",
+      "title": "WisdomTree, MoonPay team up to expand US access to tokenized money market fund",
+      "summary": "MoonPay plans to use WisdomTree’s $1.2 billion WTGXX tokenized fund as part of its stablecoin reserves while h…",
+      "url": "https://cointelegraph.com/news/wisdomtree-moonpay-team-up-to-expand-us-access-to-tokenized-money-market-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
     {
       "date": "2026-09-17",
       "title": "US House tax committee advances crypto tax overhaul in 38–5 vote",
       "summary": "A bipartisan House committee vote advanced legislation that would reshape federal tax rules for stablecoins, s…",
       "url": "https://cointelegraph.com/news/house-tax-committee-advances-crypto-tax-overhaul-in-385-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-09-17",
+      "title": "【9/17話題】韓国アップビットにJPYC上場、サークルのArcがメインネット一般公開、SBIと韓国教保生命がカントンで日韓送金を実証など（音声ニュース）",
+      "summary": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif…",
+      "url": "https://www.neweconomy.jp/posts/608845",
+      "important": true
+    },
+    {
+      "date": "2026-09-17",
+      "title": "SBIと韓国教保生命、カントンで日韓送金を実証。ステーブルコイン活用へ",
+      "summary": "カントンのテスト環境で円・ウォンの直接交換を検証 SBIホールディングス子会社のSBIデジタルプラクティスと、韓国の生命保険会社である教保生命保険（Kyobo Life Insurance）が、ステーブルコインの活用を見…",
+      "url": "https://www.neweconomy.jp/posts/608801",
+      "important": false
+    },
+    {
+      "date": "2026-09-17",
+      "title": "JPYC、韓国アップビット上場へ 岡部氏「大きな可能性」",
+      "summary": "円建てステーブルコインJPYCが9月17日、韓国最大手アップビットにウォン・BTC・USDT建てで上場する。岡部代表はCoinPostの取材に対し、国内の発行・償還100万円規制見直しへの期待を示した。",
+      "url": "https://coinpost.jp/?p=738117",
+      "important": true
+    },
+    {
+      "date": "2026-09-17",
+      "title": "ドイツ銀行、暗号資産カストディを年内開始へ。BTC・ETHやステーブルコイン対応",
+      "summary": "欧州の機関投資家・法人向けに提供へ 独大手銀行のドイツ銀行（Deutsche Bank）が、デジタル資産のカストディ（保管・管理）サービスを2026年内に開始する計画を9月16日に発表した。 対象は欧州の機関投資家や法人…",
+      "url": "https://www.neweconomy.jp/posts/608730",
+      "important": true
+    },
+    {
+      "date": "2026-09-17",
+      "title": "クリプト富裕層はどこに住むか、移住を意識した世界の仮想通貨採用度ランキング",
+      "summary": "ヘンリー・アンド・パートナーズが「クリプト・ウェルス・レポート2026」を公開。仮想通貨対応国ランキングのほか、投資戦略やステーブルコインの動向も紹介する。",
+      "url": "https://coinpost.jp/?p=738008",
+      "important": false
+    },
+    {
+      "date": "2026-09-17",
+      "title": "コインベース、クラリティー法案否決直後にステーブルコイン報酬引き上げ",
+      "summary": "コインベースは16日、USDC報酬利率を3.75%に引き上げたと発表した。前日に米上院がクラリティー法案の審議入りを否決しており、規制強化を一時的に免れた形での利回り拡大となる。",
+      "url": "https://coinpost.jp/?p=738001",
+      "important": true
+    },
+    {
+      "date": "2026-09-17",
+      "title": "Ripple adds XRP payments to Stripe and Tempo’s AI standard in new developer kit",
+      "summary": "The update expands support for automated payments in XRP and RLUSD, with tools that let agents pay repeatedly …",
+      "url": "https://www.coindesk.com/tech/2026/09/17/ripple-adds-xrp-payments-to-stripe-and-tempo-s-ai-standard-in-new-developer-kit",
       "important": false
     },
     {
