@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-18T07:43:53+09:00",
+  "updated": "2026-09-19T07:22:55+09:00",
   "items": [
+    {
+      "date": "2026-09-19",
+      "title": "ハイパーリキッドがUSDC・USDT手動借入機能を導入、初日の借入額2.65億ドル超",
+      "summary": "DEX大手ハイパーリキッドは担保資産を用いてUSDCおよびUSDTを借り入れる手動借入機能の提供を開始した。初日の借入総額は2.5億ドルを超えており担保需要の拡大がうかがえる。",
+      "url": "https://coinpost.jp/?p=738601",
+      "important": false
+    },
     {
       "date": "2026-09-18",
       "title": "韓国教保生命とSBI、ドルを介さない日韓資金移転を実証 カントンネットワーク活用",
@@ -14,6 +21,104 @@
       "summary": "MoonPay plans to use WisdomTree’s $1.2 billion WTGXX tokenized fund as part of its stablecoin reserves while h…",
       "url": "https://cointelegraph.com/news/wisdomtree-moonpay-team-up-to-expand-us-access-to-tokenized-money-market-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "important": false
+    },
+    {
+      "date": "2026-09-18",
+      "title": "【9/18話題】米SECがトークン化株式のオンチェーン取引に条件付き適用除外、JPYCが韓国アップビット上場直後に価格乖離、Bitcoin Japanが初のBTC購入へ（音声ニュース）",
+      "summary": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif…",
+      "url": "https://www.neweconomy.jp/posts/609203",
+      "important": true
+    },
+    {
+      "date": "2026-09-18",
+      "title": "ワールドの金融アプリ「World Money」提供開始、ストライプ連携や報酬上乗せも",
+      "summary": "ステーブルコインの保有・送金・投資などを統合、150カ国以上で順次展開 ツールズ・フォー・ヒューマニティ（Tools for Humanity：TFH）が、金融アプリ「ワールドマネー（World Money）」の提供を開…",
+      "url": "https://www.neweconomy.jp/posts/609223",
+      "important": false
+    },
+    {
+      "date": "2026-09-18",
+      "title": "AI・オンチェーン金融サミット、平将明氏やメガバンク幹部が登壇",
+      "summary": "HashPortは18日、10月1日に東京・高輪で開く「AI・オンチェーン金融サミット」の 登壇者を先行公開した。ローソンでの円建てステーブルコインJPYCの店頭決済実証や、 ウォレットの現在地を扱う5セッションを予定す…",
+      "url": "https://coinpost.jp/?p=738486",
+      "important": true
+    },
+    {
+      "date": "2026-09-18",
+      "title": "SBI、シンガポールのステーブルコイン決済企業dtcpayに出資",
+      "summary": "シリーズAに参加、加盟店網の拡大やサービス拡充を支援 SBIホールディングスが、シンガポールでデジタル決済サービスを手がけるディーティーシーペイ（dtcpay）への出資を9月18日に発表した。 今回の出資は、dtcpay…",
+      "url": "https://www.neweconomy.jp/posts/609183",
+      "important": false
+    },
+    {
+      "date": "2026-09-18",
+      "title": "zERC20、zJPYCで約996万トークンが不正ミント。約335万円相当が流出",
+      "summary": "zJPYCの不正ミントが発生 プライバシー保護型トークン送金基盤「zERC20」のポリゴン（Polygon）上のトークン「zJPYC」で、不正なトークン発行（ミント）が発生し、約335万JPYCが外部流出した。9月18日…",
+      "url": "https://www.neweconomy.jp/posts/609156",
+      "important": true
+    },
+    {
+      "date": "2026-09-18",
+      "title": "JPYC、韓国アップビット上場後に想定1円から乖離",
+      "summary": "電子決済手段型ステーブルコインのJPYCが韓国アップビットに上場し、二次流通市場で想定1円から一時乖離した。入出金対応はイーサリアムのみで、発行予約は一時停止後に復旧した。",
+      "url": "https://coinpost.jp/?p=738488",
+      "important": true
+    },
+    {
+      "date": "2026-09-18",
+      "title": "ECBラガルド総裁が自ら介入か、バイナンスEUライセンス取得の阻止めぐり",
+      "summary": "欧州中央銀行のラガルド総裁が、バイナンスのEU向け仮想通貨ライセンス取得を個人的に阻止していたことが報じられた。デジタルユーロ保護とドルステーブルコインへの警戒が背景にあるという。",
+      "url": "https://coinpost.jp/?p=738460",
+      "important": true
+    },
+    {
+      "date": "2026-09-18",
+      "title": "SBIグループ、ステーブルコイン決済dtcpayに戦略出資",
+      "summary": "シンガポールの決済企業dtcpayがステーブルコイン決済向けシリーズAを2,500万ドルに拡大完了。SBIグループが戦略的投資家として参画し、Genedant Capital等も加わった。規制対応の決済網拡大に資金を充て…",
+      "url": "https://coinpost.jp/?p=738429",
+      "important": true
+    },
+    {
+      "date": "2026-09-18",
+      "title": "サム・アルトマンの『ワールド』、金融スーパーアプリを150カ国超で展開",
+      "summary": "OpenAI創業者のアルトマン氏が共同創業した『ワールド（旧ワールドコイン）』が、金融アプリ「ワールドマネー」を150カ国以上で展開開始した。ステーブルコイン管理や資金追加の手段が広がり、利用者の資産運用の選択肢が増える…",
+      "url": "https://coinpost.jp/?p=738339",
+      "important": false
+    },
+    {
+      "date": "2026-09-18",
+      "title": "コインベース、地銀の仮想通貨取引サービス提供を支援",
+      "summary": "米コインベースは地銀・信用組合向けにステーブルコアと提携し、既存の銀行システムを通じて仮想通貨サービスを提供できる体制を整えた。",
+      "url": "https://coinpost.jp/?p=738263",
+      "important": false
+    },
+    {
+      "date": "2026-09-18",
+      "title": "HYPE hits record above $90 as Hyperliquid launches manual borrowing",
+      "summary": "HYPE hit a record $90.92 after Hyperliquid opened manual borrowing, letting users borrow stablecoins against H…",
+      "url": "https://cointelegraph.com/markets/hype-ath-above-90-hyperliquid-manual-borrowing-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-09-18",
+      "title": "Stablecoin payments firm dtcpay closes $25M round with SBI backing",
+      "summary": "Dtcpay plans to expand its merchant network and payment products after completing a $25 million Series A backe…",
+      "url": "https://cointelegraph.com/news/dtcpay-25m-series-a-sbi-stablecoin-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-09-18",
+      "title": "SBI Group backs payments firm dtcpay in $25 million funding round",
+      "summary": "Stablecoin payments company dtcpay completed a $25 million Series A funding round with a strategic investment …",
+      "url": "https://www.coindesk.com/markets/2026/09/18/sbi-group-backs-payments-firm-dtcpay-in-usd25-million-funding-round",
+      "important": false
+    },
+    {
+      "date": "2026-09-18",
+      "title": "World launches self-custodial ‘super app’ World Money",
+      "summary": "World Money is rolling out across more than 150 countries, combining stablecoin payments, digital asset reward…",
+      "url": "https://cointelegraph.com/news/world-launches-self-custodial-super-app-world-money?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
     },
     {
       "date": "2026-09-17",
