@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T07:22:55+09:00",
+  "updated": "2026-09-20T07:13:09+09:00",
   "items": [
     {
       "date": "2026-09-19",
@@ -7,6 +7,13 @@
       "summary": "DEX大手ハイパーリキッドは担保資産を用いてUSDCおよびUSDTを借り入れる手動借入機能の提供を開始した。初日の借入総額は2.5億ドルを超えており担保需要の拡大がうかがえる。",
       "url": "https://coinpost.jp/?p=738601",
       "important": false
+    },
+    {
+      "date": "2026-09-19",
+      "title": "Bastion wins conditional OCC approval for national trust bank charter",
+      "summary": "Bastion Platforms National Trust Company will offer stablecoin custody and wallets, payment infrastructure and…",
+      "url": "https://cointelegraph.com/news/bastion-wins-conditional-occ-approval-for-national-trust-bank-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
     },
     {
       "date": "2026-09-18",
