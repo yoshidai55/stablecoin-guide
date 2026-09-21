@@ -1,12 +1,6 @@
 {
-  "updated": "2026-09-19T07:22:55+09:00",
+  "updated": "2026-09-22T08:03:22+09:00",
   "items": [
-    {
-      "date": "2026-09-19",
-      "title": "ハイパーリキッドがUSDC・USDT手動借入機能を導入、初日の借入額2.65億ドル超",
-      "summary": "DEX大手ハイパーリキッドは担保資産を用いてUSDCおよびUSDTを借り入れる手動借入機能の提供を開始した。初日の借入総額は2.5億ドルを超えており担保需要の拡大がうかがえる。",
-      "url": "https://coinpost.jp/?p=738601"
-    },
     {
       "date": "2026-09-18",
       "title": "【9/18話題】米SECがトークン化株式のオンチェーン取引に条件付き適用除外、JPYCが韓国アップビット上場直後に価格乖離、Bitcoin Japanが初のBTC購入へ（音声ニュース）",
@@ -21,12 +15,6 @@
     },
     {
       "date": "2026-09-18",
-      "title": "AI・オンチェーン金融サミット、平将明氏やメガバンク幹部が登壇",
-      "summary": "HashPortは18日、10月1日に東京・高輪で開く「AI・オンチェーン金融サミット」の 登壇者を先行公開した。ローソンでの円建てステーブルコインJPYCの店頭決済実証や、 ウォレットの現在地を扱う5セッションを予定す…",
-      "url": "https://coinpost.jp/?p=738486"
-    },
-    {
-      "date": "2026-09-18",
       "title": "SBI、シンガポールのステーブルコイン決済企業dtcpayに出資",
       "summary": "シリーズAに参加、加盟店網の拡大やサービス拡充を支援 SBIホールディングスが、シンガポールでデジタル決済サービスを手がけるディーティーシーペイ（dtcpay）への出資を9月18日に発表した。 今回の出資は、dtcpay…",
       "url": "https://www.neweconomy.jp/posts/609183"
@@ -36,6 +24,18 @@
       "title": "zERC20、zJPYCで約996万トークンが不正ミント。約335万円相当が流出",
       "summary": "zJPYCの不正ミントが発生 プライバシー保護型トークン送金基盤「zERC20」のポリゴン（Polygon）上のトークン「zJPYC」で、不正なトークン発行（ミント）が発生し、約335万JPYCが外部流出した。9月18日…",
       "url": "https://www.neweconomy.jp/posts/609156"
+    },
+    {
+      "date": "2026-09-22",
+      "title": "Circle launches Bitcoin-backed USDC borrowing for institutional clients",
+      "summary": "Circle is bringing Bitcoin-backed borrowing to institutional clients, allowing them to tap BTC holdings for US…",
+      "url": "https://cointelegraph.com/news/circle-launches-bitcoin-backed-usdc-borrowing-for-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "date": "2026-09-21",
+      "title": "Why banks and offshore hubs like Dubai are winners of the Senate killing the Clarity Act",
+      "summary": "One expert believes that the failure to pass the bill is a win for the banks that staunchly oppose stablecoin …",
+      "url": "https://www.coindesk.com/policy/2026/09/21/banks-overseas-crypto-hubs-gain-from-clarity-act-s-senate-defeat-critics-say"
     }
   ]
 }

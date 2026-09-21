@@ -1,6 +1,41 @@
 {
-  "updated": "2026-09-21T07:15:22+09:00",
+  "updated": "2026-09-22T08:03:22+09:00",
   "items": [
+    {
+      "date": "2026-09-22",
+      "title": "Circle launches Bitcoin-backed USDC borrowing for institutional clients",
+      "summary": "Circle is bringing Bitcoin-backed borrowing to institutional clients, allowing them to tap BTC holdings for US…",
+      "url": "https://cointelegraph.com/news/circle-launches-bitcoin-backed-usdc-borrowing-for-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-09-21",
+      "title": "Why banks and offshore hubs like Dubai are winners of the Senate killing the Clarity Act",
+      "summary": "One expert believes that the failure to pass the bill is a win for the banks that staunchly oppose stablecoin …",
+      "url": "https://www.coindesk.com/policy/2026/09/21/banks-overseas-crypto-hubs-gain-from-clarity-act-s-senate-defeat-critics-say",
+      "important": true
+    },
+    {
+      "date": "2026-09-21",
+      "title": "Treasury Secretary Scott Bessent champions dollar dominance across global markets and stablecoins",
+      "summary": "Bessent pushed back against a bearish assessment of the U.S. economy highlighting strong growth, foreign deman…",
+      "url": "https://www.coindesk.com/markets/2026/09/21/scott-bessent-champions-dollar-dominance-across-global-markets-and-stablecoins",
+      "important": true
+    },
+    {
+      "date": "2026-09-21",
+      "title": "Google and Apple seek crypto talent as Big Tech eyes stablecoin and tokenization rails",
+      "summary": "The tech giants’ job listings could indicate that they are separately pursuing experts in stablecoins and toke…",
+      "url": "https://www.coindesk.com/business/2026/09/21/google-and-apple-seek-crypto-talent-as-big-tech-eyes-stablecoin-and-tokenization-rails",
+      "important": false
+    },
+    {
+      "date": "2026-09-21",
+      "title": "ECB launches Pontes to settle tokenized assets without stablecoins",
+      "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and m…",
+      "url": "https://cointelegraph.com/news/eurosystem-central-bank-money-tokenized-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
     {
       "date": "2026-09-20",
       "title": "Coinbase, Robinhood, Circle could be early winners of SEC's tokenized-stock push, analysts say",
