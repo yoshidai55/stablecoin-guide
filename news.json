@@ -1,6 +1,18 @@
 {
-  "updated": "2026-09-22T08:03:22+09:00",
+  "updated": "2026-09-23T07:47:26+09:00",
   "items": [
+    {
+      "date": "2026-09-22",
+      "title": "サークル、機関向けにビットコイン担保のUSDC借入機能を提供開始",
+      "summary": "CircleがBTC担保のUSDC借入機能を提供 米サークル（Circle）が、ビットコイン（BTC）を担保に、同社発行の米ドル建てステーブルコイン「USDC」を借り入れられる機能を提供開始したと9月21日に発表した。 …",
+      "url": "https://www.neweconomy.jp/posts/609901"
+    },
+    {
+      "date": "2026-09-22",
+      "title": "アップル・グーグル、決済人材の募集要件にステーブルコイン",
+      "summary": "アップルとグーグルが、決済・金融事業の求人票にステーブルコインやトークン化預金の知識を条件として加えていることが分かった。報道をもとに、両社それぞれの採用の狙いと業界への含意を解説する。",
+      "url": "https://coinpost.jp/?p=738767"
+    },
     {
       "date": "2026-09-18",
       "title": "【9/18話題】米SECがトークン化株式のオンチェーン取引に条件付き適用除外、JPYCが韓国アップビット上場直後に価格乖離、Bitcoin Japanが初のBTC購入へ（音声ニュース）",
@@ -8,34 +20,22 @@
       "url": "https://www.neweconomy.jp/posts/609203"
     },
     {
-      "date": "2026-09-18",
-      "title": "ワールドの金融アプリ「World Money」提供開始、ストライプ連携や報酬上乗せも",
-      "summary": "ステーブルコインの保有・送金・投資などを統合、150カ国以上で順次展開 ツールズ・フォー・ヒューマニティ（Tools for Humanity：TFH）が、金融アプリ「ワールドマネー（World Money）」の提供を開…",
-      "url": "https://www.neweconomy.jp/posts/609223"
-    },
-    {
-      "date": "2026-09-18",
-      "title": "SBI、シンガポールのステーブルコイン決済企業dtcpayに出資",
-      "summary": "シリーズAに参加、加盟店網の拡大やサービス拡充を支援 SBIホールディングスが、シンガポールでデジタル決済サービスを手がけるディーティーシーペイ（dtcpay）への出資を9月18日に発表した。 今回の出資は、dtcpay…",
-      "url": "https://www.neweconomy.jp/posts/609183"
-    },
-    {
-      "date": "2026-09-18",
-      "title": "zERC20、zJPYCで約996万トークンが不正ミント。約335万円相当が流出",
-      "summary": "zJPYCの不正ミントが発生 プライバシー保護型トークン送金基盤「zERC20」のポリゴン（Polygon）上のトークン「zJPYC」で、不正なトークン発行（ミント）が発生し、約335万JPYCが外部流出した。9月18日…",
-      "url": "https://www.neweconomy.jp/posts/609156"
+      "date": "2026-09-23",
+      "title": "ECB, EU cenbanks seek changes in MiCA’s minimum bank deposit for stablecoins",
+      "summary": "The ECB and EU central banks want to replace MiCA’s stablecoin bank-deposit requirements with liquidity thresh…",
+      "url": "https://cointelegraph.com/news/escb-new-stablecoin-liquidity-rules-bank-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     },
     {
       "date": "2026-09-22",
-      "title": "Circle launches Bitcoin-backed USDC borrowing for institutional clients",
-      "summary": "Circle is bringing Bitcoin-backed borrowing to institutional clients, allowing them to tap BTC holdings for US…",
-      "url": "https://cointelegraph.com/news/circle-launches-bitcoin-backed-usdc-borrowing-for-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      "title": "European central banks push to expand stablecoin yield ban to crypto lending and staking",
+      "summary": "Central bankers argue that indirect yield structures blur the line between electronic payment tokens and comme…",
+      "url": "https://www.coindesk.com/policy/2026/09/22/european-central-banks-push-to-expand-stablecoin-yield-ban-to-crypto-lending-and-staking"
     },
     {
-      "date": "2026-09-21",
-      "title": "Why banks and offshore hubs like Dubai are winners of the Senate killing the Clarity Act",
-      "summary": "One expert believes that the failure to pass the bill is a win for the banks that staunchly oppose stablecoin …",
-      "url": "https://www.coindesk.com/policy/2026/09/21/banks-overseas-crypto-hubs-gain-from-clarity-act-s-senate-defeat-critics-say"
+      "date": "2026-09-22",
+      "title": "Binance takes $100M stake in Circle under expanded USDC deal",
+      "summary": "Circle sold Binance $100 million in stock and agreed to pay monthly incentives under an expanded five-year par…",
+      "url": "https://cointelegraph.com/news/binance-stake-circle-expanded-usdc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     }
   ]
 }

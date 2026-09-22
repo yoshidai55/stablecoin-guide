@@ -1,11 +1,67 @@
 {
-  "updated": "2026-09-22T08:03:22+09:00",
+  "updated": "2026-09-23T07:47:26+09:00",
   "items": [
+    {
+      "date": "2026-09-23",
+      "title": "ECB, EU cenbanks seek changes in MiCA’s minimum bank deposit for stablecoins",
+      "summary": "The ECB and EU central banks want to replace MiCA’s stablecoin bank-deposit requirements with liquidity thresh…",
+      "url": "https://cointelegraph.com/news/escb-new-stablecoin-liquidity-rules-bank-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
     {
       "date": "2026-09-22",
       "title": "Circle launches Bitcoin-backed USDC borrowing for institutional clients",
       "summary": "Circle is bringing Bitcoin-backed borrowing to institutional clients, allowing them to tap BTC holdings for US…",
       "url": "https://cointelegraph.com/news/circle-launches-bitcoin-backed-usdc-borrowing-for-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-09-22",
+      "title": "サークル、機関向けにビットコイン担保のUSDC借入機能を提供開始",
+      "summary": "CircleがBTC担保のUSDC借入機能を提供 米サークル（Circle）が、ビットコイン（BTC）を担保に、同社発行の米ドル建てステーブルコイン「USDC」を借り入れられる機能を提供開始したと9月21日に発表した。 …",
+      "url": "https://www.neweconomy.jp/posts/609901",
+      "important": false
+    },
+    {
+      "date": "2026-09-22",
+      "title": "アップル・グーグル、決済人材の募集要件にステーブルコイン",
+      "summary": "アップルとグーグルが、決済・金融事業の求人票にステーブルコインやトークン化預金の知識を条件として加えていることが分かった。報道をもとに、両社それぞれの採用の狙いと業界への含意を解説する。",
+      "url": "https://coinpost.jp/?p=738767",
+      "important": false
+    },
+    {
+      "date": "2026-09-22",
+      "title": "European central banks push to expand stablecoin yield ban to crypto lending and staking",
+      "summary": "Central bankers argue that indirect yield structures blur the line between electronic payment tokens and comme…",
+      "url": "https://www.coindesk.com/policy/2026/09/22/european-central-banks-push-to-expand-stablecoin-yield-ban-to-crypto-lending-and-staking",
+      "important": true
+    },
+    {
+      "date": "2026-09-22",
+      "title": "Binance takes $100M stake in Circle under expanded USDC deal",
+      "summary": "Circle sold Binance $100 million in stock and agreed to pay monthly incentives under an expanded five-year par…",
+      "url": "https://cointelegraph.com/news/binance-stake-circle-expanded-usdc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-09-22",
+      "title": "Why Payward-backed Reap is betting on non-USD stablecoins for 24/7 cross-border FX settlement",
+      "summary": "Reap is preparing to add a Mexican peso stablecoin and is exploring Hong Kong dollar, euro, won and yen tokens…",
+      "url": "https://www.coindesk.com/business/2026/09/22/visa-partner-reap-eyes-local-currency-stablecoins-in-several-countries-for-24-7-onchain-fx",
+      "important": false
+    },
+    {
+      "date": "2026-09-22",
+      "title": "Binance buys $100 million Circle stake in five-year USDC promotion deal",
+      "summary": "Circle sold 1.24 million shares at $80.84 each and will pay Binance a monthly fee tied to USDC held through it…",
+      "url": "https://www.coindesk.com/policy/2026/09/22/binance-buys-usd100-million-circle-stake-in-five-year-usdc-promotion-deal",
+      "important": false
+    },
+    {
+      "date": "2026-09-22",
+      "title": "Kakao Pay, KakaoBank to explore stablecoin opportunities with Fireblocks",
+      "summary": "Kakao Pay and KakaoBank are exploring digital asset opportunities with Fireblocks, including infrastructure fo…",
+      "url": "https://cointelegraph.com/news/kakao-pay-kakaobank-fireblocks-stablecoin-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "important": true
     },
     {
