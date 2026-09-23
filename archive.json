@@ -1,12 +1,75 @@
 {
-  "updated": "2026-09-23T07:47:26+09:00",
+  "updated": "2026-09-24T07:47:58+09:00",
   "items": [
+    {
+      "date": "2026-09-24",
+      "title": "US stablecoin adoption could surge with bank-like protections: Visa survey",
+      "summary": "The survey released by Visa posited that bank-like protections for stablecoins could increase adoption in the …",
+      "url": "https://cointelegraph.com/news/stablecoin-adoption-bank-level-protections-visa?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-09-24",
+      "title": "Crypto Long & Short: Inside the chain settling $150 billion of stablecoins a week",
+      "summary": "Tron launched as a content-distribution project and has become the settlement layer for a large share of the w…",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/09/23/crypto-long-and-short-inside-the-chain-settling-usd150-billion-of-stablecoins-a-week",
+      "important": true
+    },
     {
       "date": "2026-09-23",
       "title": "ECB, EU cenbanks seek changes in MiCA’s minimum bank deposit for stablecoins",
       "summary": "The ECB and EU central banks want to replace MiCA’s stablecoin bank-deposit requirements with liquidity thresh…",
       "url": "https://cointelegraph.com/news/escb-new-stablecoin-liquidity-rules-bank-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "important": true
+    },
+    {
+      "date": "2026-09-23",
+      "title": "米ネオバンクSoFi発行のステーブルコイン、マスターカード決済網で稼働開始",
+      "summary": "米SoFiテクノロジーズは22日、自社発行のステーブルコイン「SoFiUSD」による決済をマスターカードのグローバル決済網で開始したと発表。年間取扱高は250億ドル超を見込む。両社は提携から6ヶ月で実用化に漕ぎ着けた。",
+      "url": "https://coinpost.jp/?p=738882",
+      "important": false
+    },
+    {
+      "date": "2026-09-23",
+      "title": "CFTC委員長、市場に大規模トークン化への備え求める",
+      "summary": "米CFTCのセリグ委員長は22日、ニューヨーク連銀主催の会議で講演し、市場を大規模なトークン化やオンチェーン金融に備える必要性を強調した。ステーブルコインの担保活用を後押しする方針のほか、仮想通貨は24時間取引に適しうる…",
+      "url": "https://coinpost.jp/?p=738861",
+      "important": false
+    },
+    {
+      "date": "2026-09-23",
+      "title": "バイナンス、USDCのサークル社に約160億円出資 戦略的提携を拡大",
+      "summary": "サークル社と仮想通貨取引所バイナンスが戦略的提携を拡大し、新興市場でのUSDC普及に向けた5年契約を締結した。バイナンスは1億ドルをサークル株に出資した。",
+      "url": "https://coinpost.jp/?p=738853",
+      "important": false
+    },
+    {
+      "date": "2026-09-23",
+      "title": "Stablecoin cross-border flows surge 78%, defying crypto bear market",
+      "summary": "Cross-border stablecoin transfers surged as the wider crypto market shrank 37%, with Chainalysis pointing to g…",
+      "url": "https://cointelegraph.com/news/stablecoin-cross-border-flows-surge-78-defying-crypto-bear-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-09-23",
+      "title": "BlackRock says AI agents could drive stablecoin and crypto adoption",
+      "summary": "The asset manager sees payments as the nearer-term opportunity, while markets for computing capacity remain at…",
+      "url": "https://www.coindesk.com/markets/2026/09/23/ai-agents-will-soon-buy-their-own-computing-power-and-data-using-stablecoins-according-to-blackrock",
+      "important": false
+    },
+    {
+      "date": "2026-09-23",
+      "title": "Coinbase users can now borrow USDC against bitcoin at a fixed rate",
+      "summary": "Coinbase now allows users to borrow the USDC stablecoin against their bitcoin at a fixed interest rate and rep…",
+      "url": "https://www.coindesk.com/markets/2026/09/23/coinbase-users-can-now-borrow-usdc-against-bitcoin-at-a-fixed-rate",
+      "important": false
+    },
+    {
+      "date": "2026-09-23",
+      "title": "AI potential to drive crypto demand remains ‘underappreciated’: BlackRock",
+      "summary": "BlackRock says AI agents could drive demand for stablecoins and programmable payment rails, while tokenized co…",
+      "url": "https://cointelegraph.com/news/ai-potential-to-drive-crypto-demand-remains-underappreciated-blackrock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
     },
     {
       "date": "2026-09-22",

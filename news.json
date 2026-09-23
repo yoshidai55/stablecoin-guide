@@ -1,6 +1,24 @@
 {
-  "updated": "2026-09-23T07:47:26+09:00",
+  "updated": "2026-09-24T07:47:58+09:00",
   "items": [
+    {
+      "date": "2026-09-23",
+      "title": "米ネオバンクSoFi発行のステーブルコイン、マスターカード決済網で稼働開始",
+      "summary": "米SoFiテクノロジーズは22日、自社発行のステーブルコイン「SoFiUSD」による決済をマスターカードのグローバル決済網で開始したと発表。年間取扱高は250億ドル超を見込む。両社は提携から6ヶ月で実用化に漕ぎ着けた。",
+      "url": "https://coinpost.jp/?p=738882"
+    },
+    {
+      "date": "2026-09-23",
+      "title": "CFTC委員長、市場に大規模トークン化への備え求める",
+      "summary": "米CFTCのセリグ委員長は22日、ニューヨーク連銀主催の会議で講演し、市場を大規模なトークン化やオンチェーン金融に備える必要性を強調した。ステーブルコインの担保活用を後押しする方針のほか、仮想通貨は24時間取引に適しうる…",
+      "url": "https://coinpost.jp/?p=738861"
+    },
+    {
+      "date": "2026-09-23",
+      "title": "バイナンス、USDCのサークル社に約160億円出資 戦略的提携を拡大",
+      "summary": "サークル社と仮想通貨取引所バイナンスが戦略的提携を拡大し、新興市場でのUSDC普及に向けた5年契約を締結した。バイナンスは1億ドルをサークル株に出資した。",
+      "url": "https://coinpost.jp/?p=738853"
+    },
     {
       "date": "2026-09-22",
       "title": "サークル、機関向けにビットコイン担保のUSDC借入機能を提供開始",
@@ -8,34 +26,16 @@
       "url": "https://www.neweconomy.jp/posts/609901"
     },
     {
-      "date": "2026-09-22",
-      "title": "アップル・グーグル、決済人材の募集要件にステーブルコイン",
-      "summary": "アップルとグーグルが、決済・金融事業の求人票にステーブルコインやトークン化預金の知識を条件として加えていることが分かった。報道をもとに、両社それぞれの採用の狙いと業界への含意を解説する。",
-      "url": "https://coinpost.jp/?p=738767"
+      "date": "2026-09-24",
+      "title": "US stablecoin adoption could surge with bank-like protections: Visa survey",
+      "summary": "The survey released by Visa posited that bank-like protections for stablecoins could increase adoption in the …",
+      "url": "https://cointelegraph.com/news/stablecoin-adoption-bank-level-protections-visa?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     },
     {
-      "date": "2026-09-18",
-      "title": "【9/18話題】米SECがトークン化株式のオンチェーン取引に条件付き適用除外、JPYCが韓国アップビット上場直後に価格乖離、Bitcoin Japanが初のBTC購入へ（音声ニュース）",
-      "summary": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif…",
-      "url": "https://www.neweconomy.jp/posts/609203"
-    },
-    {
-      "date": "2026-09-23",
-      "title": "ECB, EU cenbanks seek changes in MiCA’s minimum bank deposit for stablecoins",
-      "summary": "The ECB and EU central banks want to replace MiCA’s stablecoin bank-deposit requirements with liquidity thresh…",
-      "url": "https://cointelegraph.com/news/escb-new-stablecoin-liquidity-rules-bank-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "date": "2026-09-22",
-      "title": "European central banks push to expand stablecoin yield ban to crypto lending and staking",
-      "summary": "Central bankers argue that indirect yield structures blur the line between electronic payment tokens and comme…",
-      "url": "https://www.coindesk.com/policy/2026/09/22/european-central-banks-push-to-expand-stablecoin-yield-ban-to-crypto-lending-and-staking"
-    },
-    {
-      "date": "2026-09-22",
-      "title": "Binance takes $100M stake in Circle under expanded USDC deal",
-      "summary": "Circle sold Binance $100 million in stock and agreed to pay monthly incentives under an expanded five-year par…",
-      "url": "https://cointelegraph.com/news/binance-stake-circle-expanded-usdc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      "date": "2026-09-24",
+      "title": "Crypto Long & Short: Inside the chain settling $150 billion of stablecoins a week",
+      "summary": "Tron launched as a content-distribution project and has become the settlement layer for a large share of the w…",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/09/23/crypto-long-and-short-inside-the-chain-settling-usd150-billion-of-stablecoins-a-week"
     }
   ]
 }
