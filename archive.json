@@ -1,6 +1,27 @@
 {
-  "updated": "2026-09-24T07:47:58+09:00",
+  "updated": "2026-09-25T08:04:37+09:00",
   "items": [
+    {
+      "date": "2026-09-25",
+      "title": "U.S. Federal Reserve moves on proposals to implement GENIUS Act for stablecoins",
+      "summary": "The Fed proposed rules on putting last year's GENIUS Act into place with regulations, including those governin…",
+      "url": "https://www.coindesk.com/policy/2026/09/24/u-s-federal-reserve-moves-on-proposals-to-implement-genius-act-for-stablecoins",
+      "important": true
+    },
+    {
+      "date": "2026-09-25",
+      "title": "Fed proposes new capital, redemption rules for stablecoin issuers",
+      "summary": "The Fed’s proposal would set capital requirements, a two-day redemption window and new reserve disclosures as …",
+      "url": "https://cointelegraph.com/news/fed-proposes-new-capital-redemption-rules-for-stablecoin-issuers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-09-25",
+      "title": "SoFi tie-up shows stablecoins can provide alternative blockchain settlement rail",
+      "summary": "SoFi dives deeper into payments as it moves its entire card program to blockchain-based settlement using its S…",
+      "url": "https://cointelegraph.com/news/sofi-moves-25b-card-program-to-stablecoin-settlement-with-mastercard?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
     {
       "date": "2026-09-24",
       "title": "US stablecoin adoption could surge with bank-like protections: Visa survey",
@@ -13,6 +34,62 @@
       "title": "Crypto Long & Short: Inside the chain settling $150 billion of stablecoins a week",
       "summary": "Tron launched as a content-distribution project and has become the settlement layer for a large share of the w…",
       "url": "https://www.coindesk.com/coindesk-indices/2026/09/23/crypto-long-and-short-inside-the-chain-settling-usd150-billion-of-stablecoins-a-week",
+      "important": true
+    },
+    {
+      "date": "2026-09-24",
+      "title": "アップルとグーグル、求人の歓迎要件に「ステーブルコインの知識」記載",
+      "summary": "Apple Payの戦略職とGoogle CloudのWeb3技術職で 米アップル（Apple）と米グーグル（Google）の求人情報に、ステーブルコインやトークン化預金に関する知識を歓迎要件とする記載が確認された。ただ…",
+      "url": "https://www.neweconomy.jp/posts/610565",
+      "important": false
+    },
+    {
+      "date": "2026-09-24",
+      "title": "ECBとEU各国の中銀、ステーブルコイン準備資産の銀行預金保有義務撤廃を提言",
+      "summary": "EUでステーブルコイン準備資産の銀行預金保有義務撤廃を提言 欧州中央銀行（ECB）と欧州連合（EU）の他の中央銀行が、ステーブルコイン発行者に対し、準備資産の一定割合以上を銀行預金で保有する義務を課すべきではないとの見解…",
+      "url": "https://www.neweconomy.jp/posts/610544",
+      "important": false
+    },
+    {
+      "date": "2026-09-24",
+      "title": "AIと仮想通貨が融合する「機械ネイティブ経済」、計算資源も金融化へ＝ブラックロック分析",
+      "summary": "米ブラックロックは「機械ネイティブ経済」レポートを公表した。AIエージェントの普及でトークン化・機械間決済・計算資源の金融化が進むと分析している。その際にはステーブルコインが重要な決済基盤になると指摘する。",
+      "url": "https://coinpost.jp/?p=738997",
+      "important": false
+    },
+    {
+      "date": "2026-09-24",
+      "title": "European stablecoin issuer Qivalis sees transformation of global trade finance",
+      "summary": "Jan-Oliver Sell, the CEO and founder of Qivalis, said the entire trade finance supply chain is moving into sta…",
+      "url": "https://www.coindesk.com/business/2026/09/24/european-stablecoin-issuer-qivalis-sees-transformation-of-global-trade-finance",
+      "important": false
+    },
+    {
+      "date": "2026-09-24",
+      "title": "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand",
+      "summary": "Rachel Conlan will oversee institutional partnerships and ecosystem growth, while Jamal Raees will focus on st…",
+      "url": "https://cointelegraph.com/news/solana-foundation-binance-cmo-payments-executive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-09-24",
+      "title": "HIFI raises $37M to expand stablecoin payments, tokenized markets",
+      "summary": "HIFI CEO Zach Walsh told Cointelegraph the $37 million Series A is the company’s first priced funding round, t…",
+      "url": "https://cointelegraph.com/news/hifi-raises-37m-to-expand-stablecoin-payments-tokenized-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-09-24",
+      "title": "Trump administration weighs a global stablecoin plan to cement dollar's dominance",
+      "summary": "Washington is a mulling plan to actively promote USD-backed stablecoins worldwide in a bid to cement the green…",
+      "url": "https://www.coindesk.com/markets/2026/09/24/trump-administration-weighs-a-global-stablecoin-plan-to-cement-dollar-s-dominance",
+      "important": false
+    },
+    {
+      "date": "2026-09-24",
+      "title": "US weighs overseas push for dollar-backed stablecoins: Bloomberg",
+      "summary": "The reported initiative could involve private-sector companies and several US agencies as Washington looks to …",
+      "url": "https://cointelegraph.com/news/us-overseas-dollar-stablecoins-trump-administration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "important": true
     },
     {

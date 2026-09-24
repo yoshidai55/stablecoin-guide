@@ -1,6 +1,24 @@
 {
-  "updated": "2026-09-24T07:47:58+09:00",
+  "updated": "2026-09-25T08:04:37+09:00",
   "items": [
+    {
+      "date": "2026-09-24",
+      "title": "アップルとグーグル、求人の歓迎要件に「ステーブルコインの知識」記載",
+      "summary": "Apple Payの戦略職とGoogle CloudのWeb3技術職で 米アップル（Apple）と米グーグル（Google）の求人情報に、ステーブルコインやトークン化預金に関する知識を歓迎要件とする記載が確認された。ただ…",
+      "url": "https://www.neweconomy.jp/posts/610565"
+    },
+    {
+      "date": "2026-09-24",
+      "title": "ECBとEU各国の中銀、ステーブルコイン準備資産の銀行預金保有義務撤廃を提言",
+      "summary": "EUでステーブルコイン準備資産の銀行預金保有義務撤廃を提言 欧州中央銀行（ECB）と欧州連合（EU）の他の中央銀行が、ステーブルコイン発行者に対し、準備資産の一定割合以上を銀行預金で保有する義務を課すべきではないとの見解…",
+      "url": "https://www.neweconomy.jp/posts/610544"
+    },
+    {
+      "date": "2026-09-24",
+      "title": "AIと仮想通貨が融合する「機械ネイティブ経済」、計算資源も金融化へ＝ブラックロック分析",
+      "summary": "米ブラックロックは「機械ネイティブ経済」レポートを公表した。AIエージェントの普及でトークン化・機械間決済・計算資源の金融化が進むと分析している。その際にはステーブルコインが重要な決済基盤になると指摘する。",
+      "url": "https://coinpost.jp/?p=738997"
+    },
     {
       "date": "2026-09-23",
       "title": "米ネオバンクSoFi発行のステーブルコイン、マスターカード決済網で稼働開始",
@@ -8,34 +26,16 @@
       "url": "https://coinpost.jp/?p=738882"
     },
     {
-      "date": "2026-09-23",
-      "title": "CFTC委員長、市場に大規模トークン化への備え求める",
-      "summary": "米CFTCのセリグ委員長は22日、ニューヨーク連銀主催の会議で講演し、市場を大規模なトークン化やオンチェーン金融に備える必要性を強調した。ステーブルコインの担保活用を後押しする方針のほか、仮想通貨は24時間取引に適しうる…",
-      "url": "https://coinpost.jp/?p=738861"
+      "date": "2026-09-25",
+      "title": "U.S. Federal Reserve moves on proposals to implement GENIUS Act for stablecoins",
+      "summary": "The Fed proposed rules on putting last year's GENIUS Act into place with regulations, including those governin…",
+      "url": "https://www.coindesk.com/policy/2026/09/24/u-s-federal-reserve-moves-on-proposals-to-implement-genius-act-for-stablecoins"
     },
     {
-      "date": "2026-09-23",
-      "title": "バイナンス、USDCのサークル社に約160億円出資 戦略的提携を拡大",
-      "summary": "サークル社と仮想通貨取引所バイナンスが戦略的提携を拡大し、新興市場でのUSDC普及に向けた5年契約を締結した。バイナンスは1億ドルをサークル株に出資した。",
-      "url": "https://coinpost.jp/?p=738853"
-    },
-    {
-      "date": "2026-09-22",
-      "title": "サークル、機関向けにビットコイン担保のUSDC借入機能を提供開始",
-      "summary": "CircleがBTC担保のUSDC借入機能を提供 米サークル（Circle）が、ビットコイン（BTC）を担保に、同社発行の米ドル建てステーブルコイン「USDC」を借り入れられる機能を提供開始したと9月21日に発表した。 …",
-      "url": "https://www.neweconomy.jp/posts/609901"
-    },
-    {
-      "date": "2026-09-24",
-      "title": "US stablecoin adoption could surge with bank-like protections: Visa survey",
-      "summary": "The survey released by Visa posited that bank-like protections for stablecoins could increase adoption in the …",
-      "url": "https://cointelegraph.com/news/stablecoin-adoption-bank-level-protections-visa?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "date": "2026-09-24",
-      "title": "Crypto Long & Short: Inside the chain settling $150 billion of stablecoins a week",
-      "summary": "Tron launched as a content-distribution project and has become the settlement layer for a large share of the w…",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/09/23/crypto-long-and-short-inside-the-chain-settling-usd150-billion-of-stablecoins-a-week"
+      "date": "2026-09-25",
+      "title": "Fed proposes new capital, redemption rules for stablecoin issuers",
+      "summary": "The Fed’s proposal would set capital requirements, a two-day redemption window and new reserve disclosures as …",
+      "url": "https://cointelegraph.com/news/fed-proposes-new-capital-redemption-rules-for-stablecoin-issuers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     }
   ]
 }
