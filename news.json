@@ -1,41 +1,41 @@
 {
-  "updated": "2026-09-25T08:04:37+09:00",
+  "updated": "2026-09-26T08:09:32+09:00",
   "items": [
     {
-      "date": "2026-09-24",
-      "title": "アップルとグーグル、求人の歓迎要件に「ステーブルコインの知識」記載",
-      "summary": "Apple Payの戦略職とGoogle CloudのWeb3技術職で 米アップル（Apple）と米グーグル（Google）の求人情報に、ステーブルコインやトークン化預金に関する知識を歓迎要件とする記載が確認された。ただ…",
-      "url": "https://www.neweconomy.jp/posts/610565"
-    },
-    {
-      "date": "2026-09-24",
-      "title": "ECBとEU各国の中銀、ステーブルコイン準備資産の銀行預金保有義務撤廃を提言",
-      "summary": "EUでステーブルコイン準備資産の銀行預金保有義務撤廃を提言 欧州中央銀行（ECB）と欧州連合（EU）の他の中央銀行が、ステーブルコイン発行者に対し、準備資産の一定割合以上を銀行預金で保有する義務を課すべきではないとの見解…",
-      "url": "https://www.neweconomy.jp/posts/610544"
-    },
-    {
-      "date": "2026-09-24",
-      "title": "AIと仮想通貨が融合する「機械ネイティブ経済」、計算資源も金融化へ＝ブラックロック分析",
-      "summary": "米ブラックロックは「機械ネイティブ経済」レポートを公表した。AIエージェントの普及でトークン化・機械間決済・計算資源の金融化が進むと分析している。その際にはステーブルコインが重要な決済基盤になると指摘する。",
-      "url": "https://coinpost.jp/?p=738997"
-    },
-    {
-      "date": "2026-09-23",
-      "title": "米ネオバンクSoFi発行のステーブルコイン、マスターカード決済網で稼働開始",
-      "summary": "米SoFiテクノロジーズは22日、自社発行のステーブルコイン「SoFiUSD」による決済をマスターカードのグローバル決済網で開始したと発表。年間取扱高は250億ドル超を見込む。両社は提携から6ヶ月で実用化に漕ぎ着けた。",
-      "url": "https://coinpost.jp/?p=738882"
+      "date": "2026-09-25",
+      "title": "【9/25話題】ビットゲットで約3.5億ドルの不正流出、暗号資産型ステーブルコイン「JPYdf」、JADATの全株式が三井住友信託銀に譲渡へなど（音声ニュース）",
+      "summary": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif…",
+      "url": "https://www.neweconomy.jp/posts/611079"
     },
     {
       "date": "2026-09-25",
-      "title": "U.S. Federal Reserve moves on proposals to implement GENIUS Act for stablecoins",
-      "summary": "The Fed proposed rules on putting last year's GENIUS Act into place with regulations, including those governin…",
-      "url": "https://www.coindesk.com/policy/2026/09/24/u-s-federal-reserve-moves-on-proposals-to-implement-genius-act-for-stablecoins"
+      "title": "米FRB、ステーブルコイン発行体向け規制案を公表",
+      "summary": "GENIUS法実施へ意見募集 米連邦準備制度理事会（FRB）が、決済用ステーブルコインを規制する「GENIUS法」に基づく2つの規則案を9月24日に公表した。FRBが監督するステーブルコイン発行体などを対象とした規制枠組…",
+      "url": "https://www.neweconomy.jp/posts/611113"
     },
     {
       "date": "2026-09-25",
-      "title": "Fed proposes new capital, redemption rules for stablecoin issuers",
-      "summary": "The Fed’s proposal would set capital requirements, a two-day redemption window and new reserve disclosures as …",
-      "url": "https://cointelegraph.com/news/fed-proposes-new-capital-redemption-rules-for-stablecoin-issuers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      "title": "日本ブロックチェーン基盤、ステーブルコイン実証プログラム開始。東芝ら26社・団体参画",
+      "summary": "円建て「EJPY」などの決済・送金用途を共同検討 ブロックチェーン「ジャパン・オープン・チェーン（Japan Open Chain：JOC）」のコンソーシアムを運営・管理する日本ブロックチェーン基盤が、「ステーブルコイン…",
+      "url": "https://www.neweconomy.jp/posts/611072"
+    },
+    {
+      "date": "2026-09-25",
+      "title": "円建てステーブルコインEJPY、東芝など26社が実証参加を表明",
+      "summary": "日本ブロックチェーン基盤が、発行準備中の円建てステーブルコイン「EJPY」を軸とする実証プログラムを開始した。東芝やSCSKなど26社・団体が参加を表明。参加費は無料で、2027年2月までの約半年間（予定）、送金・決済や…",
+      "url": "https://coinpost.jp/?p=739378"
+    },
+    {
+      "date": "2026-09-25",
+      "title": "ユーロ建てステーブルコイン「EURAU」、ステラ上でドイツの福利厚生プログラムに本番利用",
+      "summary": "EURAUがドイツの福利厚生プログラムで本番利用 オールユニティ（AllUnity）が発行するユーロ建てステーブルコイン「EURAU」が、レイヤー1ブロックチェーン「ステラ（Stellar）」を通じて、ドイツの従業員向け…",
+      "url": "https://www.neweconomy.jp/posts/611035"
+    },
+    {
+      "date": "2026-09-25",
+      "title": "SBIとJR九州、金融アプリ「JQ BANK」検討。暗号資産・ステーブルコイン決済も視野",
+      "summary": "JR九州Web会員向けに2027年度の提供開始を目指す SBIホールディングス、SBI証券、SBI新生銀行、SBIネオ金融プラットフォームの4社が、九州旅客鉄道（JR九州）と新たな金融サービス事業の開始に向けて基本合意し…",
+      "url": "https://www.neweconomy.jp/posts/610981"
     }
   ]
 }

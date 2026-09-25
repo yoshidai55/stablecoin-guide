@@ -1,6 +1,20 @@
 {
-  "updated": "2026-09-25T08:04:37+09:00",
+  "updated": "2026-09-26T08:09:32+09:00",
   "items": [
+    {
+      "date": "2026-09-26",
+      "title": "Tether says it had ‘limited’ exposure to bank linked to $84M US seizure",
+      "summary": "US prosecutors alleged that a payments business illegally transferred hundreds of millions of dollars at the d…",
+      "url": "https://cointelegraph.com/news/us-authorities-seize-accounts-tether-bitfinex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-09-26",
+      "title": "Crypto Biz: Wall Street and crypto fight for the same turf",
+      "summary": "Stablecoins and tokenized assets are pushing banks, exchanges and crypto companies into the same markets, from…",
+      "url": "https://cointelegraph.com/news/crypto-biz-crypto-tradfi-stablecoins-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
     {
       "date": "2026-09-25",
       "title": "U.S. Federal Reserve moves on proposals to implement GENIUS Act for stablecoins",
@@ -21,6 +35,76 @@
       "summary": "SoFi dives deeper into payments as it moves its entire card program to blockchain-based settlement using its S…",
       "url": "https://cointelegraph.com/news/sofi-moves-25b-card-program-to-stablecoin-settlement-with-mastercard?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "important": false
+    },
+    {
+      "date": "2026-09-25",
+      "title": "【9/25話題】ビットゲットで約3.5億ドルの不正流出、暗号資産型ステーブルコイン「JPYdf」、JADATの全株式が三井住友信託銀に譲渡へなど（音声ニュース）",
+      "summary": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif…",
+      "url": "https://www.neweconomy.jp/posts/611079",
+      "important": false
+    },
+    {
+      "date": "2026-09-25",
+      "title": "米FRB、ステーブルコイン発行体向け規制案を公表",
+      "summary": "GENIUS法実施へ意見募集 米連邦準備制度理事会（FRB）が、決済用ステーブルコインを規制する「GENIUS法」に基づく2つの規則案を9月24日に公表した。FRBが監督するステーブルコイン発行体などを対象とした規制枠組…",
+      "url": "https://www.neweconomy.jp/posts/611113",
+      "important": true
+    },
+    {
+      "date": "2026-09-25",
+      "title": "日本ブロックチェーン基盤、ステーブルコイン実証プログラム開始。東芝ら26社・団体参画",
+      "summary": "円建て「EJPY」などの決済・送金用途を共同検討 ブロックチェーン「ジャパン・オープン・チェーン（Japan Open Chain：JOC）」のコンソーシアムを運営・管理する日本ブロックチェーン基盤が、「ステーブルコイン…",
+      "url": "https://www.neweconomy.jp/posts/611072",
+      "important": false
+    },
+    {
+      "date": "2026-09-25",
+      "title": "円建てステーブルコインEJPY、東芝など26社が実証参加を表明",
+      "summary": "日本ブロックチェーン基盤が、発行準備中の円建てステーブルコイン「EJPY」を軸とする実証プログラムを開始した。東芝やSCSKなど26社・団体が参加を表明。参加費は無料で、2027年2月までの約半年間（予定）、送金・決済や…",
+      "url": "https://coinpost.jp/?p=739378",
+      "important": false
+    },
+    {
+      "date": "2026-09-25",
+      "title": "ユーロ建てステーブルコイン「EURAU」、ステラ上でドイツの福利厚生プログラムに本番利用",
+      "summary": "EURAUがドイツの福利厚生プログラムで本番利用 オールユニティ（AllUnity）が発行するユーロ建てステーブルコイン「EURAU」が、レイヤー1ブロックチェーン「ステラ（Stellar）」を通じて、ドイツの従業員向け…",
+      "url": "https://www.neweconomy.jp/posts/611035",
+      "important": false
+    },
+    {
+      "date": "2026-09-25",
+      "title": "SBIとJR九州、金融アプリ「JQ BANK」検討。暗号資産・ステーブルコイン決済も視野",
+      "summary": "JR九州Web会員向けに2027年度の提供開始を目指す SBIホールディングス、SBI証券、SBI新生銀行、SBIネオ金融プラットフォームの4社が、九州旅客鉄道（JR九州）と新たな金融サービス事業の開始に向けて基本合意し…",
+      "url": "https://www.neweconomy.jp/posts/610981",
+      "important": true
+    },
+    {
+      "date": "2026-09-25",
+      "title": "米FRB、ステーブルコイン発行体の準備金・資本規則案を公表",
+      "summary": "米FRBは24日、ジーニアス法に基づき、監督下のステーブルコイン発行体向け規則案2件を公表した。短期米国債などによる全額裏付けと標準化された資本要件を求め、銀行子会社の発行申請手続きも定める。意見募集は60日間。",
+      "url": "https://coinpost.jp/?p=739241",
+      "important": false
+    },
+    {
+      "date": "2026-09-25",
+      "title": "SBIとJR九州、金融アプリ「JQ BANK」で基本合意 暗号資産も視野",
+      "summary": "SBIグループとJR九州が25日、Web会員専用の金融スーパーアプリ「JQ BANK」（仮称）で基本合意した。基盤のFPaaSには暗号資産（仮想通貨）やステーブルコイン決済も組み込む。2027年度中の開始を目指す。",
+      "url": "https://coinpost.jp/?p=739206",
+      "important": true
+    },
+    {
+      "date": "2026-09-25",
+      "title": "Circle and Tether step in to freeze hacker wallet after massive Bitget crypto heist",
+      "summary": "The stablecoin issuer blacklisted a wallet holding about $318,000 in USDT and USDC. Most of the stolen funds s…",
+      "url": "https://www.coindesk.com/markets/2026/09/25/circle-and-tether-step-in-to-freeze-hacker-wallet-after-massive-bitget-crypto-heist",
+      "important": false
+    },
+    {
+      "date": "2026-09-25",
+      "title": "Tether confirms minimal EQIBank exposure following $89M US asset seizure",
+      "summary": "While Tether's stated ceiling places its maximum exposure under $64 million, the incident underscores lingerin…",
+      "url": "https://www.coindesk.com/policy/2026/09/25/tether-confirms-minimal-eqibank-exposure-following-usd89m-us-asset-seizure",
+      "important": true
     },
     {
       "date": "2026-09-24",
