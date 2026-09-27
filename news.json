@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T07:28:55+09:00",
+  "updated": "2026-09-28T07:52:03+09:00",
   "items": [
     {
       "date": "2026-09-25",
@@ -21,12 +21,6 @@
     },
     {
       "date": "2026-09-25",
-      "title": "円建てステーブルコインEJPY、東芝など26社が実証参加を表明",
-      "summary": "日本ブロックチェーン基盤が、発行準備中の円建てステーブルコイン「EJPY」を軸とする実証プログラムを開始した。東芝やSCSKなど26社・団体が参加を表明。参加費は無料で、2027年2月までの約半年間（予定）、送金・決済や…",
-      "url": "https://coinpost.jp/?p=739378"
-    },
-    {
-      "date": "2026-09-25",
       "title": "ユーロ建てステーブルコイン「EURAU」、ステラ上でドイツの福利厚生プログラムに本番利用",
       "summary": "EURAUがドイツの福利厚生プログラムで本番利用 オールユニティ（AllUnity）が発行するユーロ建てステーブルコイン「EURAU」が、レイヤー1ブロックチェーン「ステラ（Stellar）」を通じて、ドイツの従業員向け…",
       "url": "https://www.neweconomy.jp/posts/611035"
@@ -36,6 +30,12 @@
       "title": "Binance deal gives Circle a boost in stablecoin race with Tether, analysts say",
       "summary": "The five-year deal could strengthen USDC’s reach in emerging markets, though Tether’s liquidity advantage rema…",
       "url": "https://www.coindesk.com/business/2026/09/26/binance-deal-gives-circle-a-boost-in-stablecoin-race-with-tether-analysts-say"
+    },
+    {
+      "date": "2026-09-26",
+      "title": "Tether says it had ‘limited’ exposure to bank linked to $84M US seizure",
+      "summary": "US prosecutors alleged that a payments business illegally transferred hundreds of millions of dollars at the d…",
+      "url": "https://cointelegraph.com/news/us-authorities-seize-accounts-tether-bitfinex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     }
   ]
 }
