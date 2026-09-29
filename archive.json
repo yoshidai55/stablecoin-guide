@@ -1,6 +1,62 @@
 {
-  "updated": "2026-09-27T07:28:55+09:00",
+  "updated": "2026-09-29T09:15:19+09:00",
   "items": [
+    {
+      "date": "2026-09-29",
+      "title": "Bybit accepts Franklin Templeton tokenized funds as trading collateral",
+      "summary": "Eligible institutions can pledge Benji-issued fund shares for stablecoin credit lines while keeping the underl…",
+      "url": "https://cointelegraph.com/news/bybit-accepts-franklin-templeton-tokenized-funds-trading-collateral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-09-29",
+      "title": "Tether is a ‘lifeline’ for Iranian regime, Senate Dems say in new report",
+      "summary": "Democrats on the Senate's Permanent Subcommittee on Intelligence published a report alleging that USDT had bec…",
+      "url": "https://www.coindesk.com/policy/2026/09/28/tether-is-a-lifeline-for-iranian-regime-senate-dems-say-in-new-report",
+      "important": false
+    },
+    {
+      "date": "2026-09-28",
+      "title": "【9/28話題】旧JSC「MIZUHIKI」のAltX Researchがステーブルコイン決済事業に転換、コインチェックがFLRとDAI取扱廃止へなど（音声ニュース）",
+      "summary": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif…",
+      "url": "https://www.neweconomy.jp/posts/611567",
+      "important": false
+    },
+    {
+      "date": "2026-09-28",
+      "title": "AltX Research、ステーブルコイン決済事業に転換。旧JSC「MIZUHIKI」メインネット稼働",
+      "summary": "ステーブルコインで支払い、加盟店は日本円で受け取り ブロックチェーンの研究開発を手がけるアルトエクスリサーチ（AltX Research）が、「ミズヒキ（MIZUHIKI: The Japan Chain）」によるステー…",
+      "url": "https://www.neweconomy.jp/posts/611560",
+      "important": false
+    },
+    {
+      "date": "2026-09-28",
+      "title": "Bitget resumes Bitcoin withdrawals as hacker swaps ETH via THORChain",
+      "summary": "Ether withdrawals are scheduled to return Tuesday and USDt on Wednesday as Bitget restores services following …",
+      "url": "https://cointelegraph.com/news/bitget-btc-withdrawal-hacker-eth-swap-thorchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-09-28",
+      "title": "Crypto-friendly institution Franklin Templeton brings its tokenized collateral service to Bybit",
+      "summary": "Franklin Templeton’s tokenized money market shares can be used as collateral for USDT or USDC trading credit l…",
+      "url": "https://www.coindesk.com/business/2026/09/28/crypto-friendly-institution-franklin-templeton-brings-its-tokenized-collateral-service-to-bybit",
+      "important": false
+    },
+    {
+      "date": "2026-09-28",
+      "title": "RedotPay completes financial audit as it presses ahead with U.S. IPO plans",
+      "summary": "The stablecoin payments company said the audit is part of its preparations to go public, disputing an August r…",
+      "url": "https://www.coindesk.com/business/2026/09/28/redotpay-completes-financial-audit-as-it-presses-ahead-with-u-s-ipo-plans",
+      "important": false
+    },
+    {
+      "date": "2026-09-28",
+      "title": "South Korea weighs crypto market makers after JPYC trades at 4 times peg",
+      "summary": "Crypto market making is effectively restricted under South Korea’s manipulation rules, but regulators are reco…",
+      "url": "https://cointelegraph.com/news/south-korea-weighs-crypto-market-makers-after-jpyc-trades-at-4-times-peg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
     {
       "date": "2026-09-26",
       "title": "Tether says it had ‘limited’ exposure to bank linked to $84M US seizure",

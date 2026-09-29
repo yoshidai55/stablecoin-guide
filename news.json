@@ -1,41 +1,41 @@
 {
-  "updated": "2026-09-28T07:52:03+09:00",
+  "updated": "2026-09-29T09:15:19+09:00",
   "items": [
     {
-      "date": "2026-09-25",
-      "title": "【9/25話題】ビットゲットで約3.5億ドルの不正流出、暗号資産型ステーブルコイン「JPYdf」、JADATの全株式が三井住友信託銀に譲渡へなど（音声ニュース）",
+      "date": "2026-09-28",
+      "title": "【9/28話題】旧JSC「MIZUHIKI」のAltX Researchがステーブルコイン決済事業に転換、コインチェックがFLRとDAI取扱廃止へなど（音声ニュース）",
       "summary": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif…",
-      "url": "https://www.neweconomy.jp/posts/611079"
+      "url": "https://www.neweconomy.jp/posts/611567"
     },
     {
-      "date": "2026-09-25",
-      "title": "米FRB、ステーブルコイン発行体向け規制案を公表",
-      "summary": "GENIUS法実施へ意見募集 米連邦準備制度理事会（FRB）が、決済用ステーブルコインを規制する「GENIUS法」に基づく2つの規則案を9月24日に公表した。FRBが監督するステーブルコイン発行体などを対象とした規制枠組…",
-      "url": "https://www.neweconomy.jp/posts/611113"
+      "date": "2026-09-28",
+      "title": "AltX Research、ステーブルコイン決済事業に転換。旧JSC「MIZUHIKI」メインネット稼働",
+      "summary": "ステーブルコインで支払い、加盟店は日本円で受け取り ブロックチェーンの研究開発を手がけるアルトエクスリサーチ（AltX Research）が、「ミズヒキ（MIZUHIKI: The Japan Chain）」によるステー…",
+      "url": "https://www.neweconomy.jp/posts/611560"
     },
     {
-      "date": "2026-09-25",
-      "title": "日本ブロックチェーン基盤、ステーブルコイン実証プログラム開始。東芝ら26社・団体参画",
-      "summary": "円建て「EJPY」などの決済・送金用途を共同検討 ブロックチェーン「ジャパン・オープン・チェーン（Japan Open Chain：JOC）」のコンソーシアムを運営・管理する日本ブロックチェーン基盤が、「ステーブルコイン…",
-      "url": "https://www.neweconomy.jp/posts/611072"
+      "date": "2026-09-29",
+      "title": "Bybit accepts Franklin Templeton tokenized funds as trading collateral",
+      "summary": "Eligible institutions can pledge Benji-issued fund shares for stablecoin credit lines while keeping the underl…",
+      "url": "https://cointelegraph.com/news/bybit-accepts-franklin-templeton-tokenized-funds-trading-collateral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     },
     {
-      "date": "2026-09-25",
-      "title": "ユーロ建てステーブルコイン「EURAU」、ステラ上でドイツの福利厚生プログラムに本番利用",
-      "summary": "EURAUがドイツの福利厚生プログラムで本番利用 オールユニティ（AllUnity）が発行するユーロ建てステーブルコイン「EURAU」が、レイヤー1ブロックチェーン「ステラ（Stellar）」を通じて、ドイツの従業員向け…",
-      "url": "https://www.neweconomy.jp/posts/611035"
+      "date": "2026-09-29",
+      "title": "Tether is a ‘lifeline’ for Iranian regime, Senate Dems say in new report",
+      "summary": "Democrats on the Senate's Permanent Subcommittee on Intelligence published a report alleging that USDT had bec…",
+      "url": "https://www.coindesk.com/policy/2026/09/28/tether-is-a-lifeline-for-iranian-regime-senate-dems-say-in-new-report"
     },
     {
-      "date": "2026-09-26",
-      "title": "Binance deal gives Circle a boost in stablecoin race with Tether, analysts say",
-      "summary": "The five-year deal could strengthen USDC’s reach in emerging markets, though Tether’s liquidity advantage rema…",
-      "url": "https://www.coindesk.com/business/2026/09/26/binance-deal-gives-circle-a-boost-in-stablecoin-race-with-tether-analysts-say"
+      "date": "2026-09-28",
+      "title": "Bitget resumes Bitcoin withdrawals as hacker swaps ETH via THORChain",
+      "summary": "Ether withdrawals are scheduled to return Tuesday and USDt on Wednesday as Bitget restores services following …",
+      "url": "https://cointelegraph.com/news/bitget-btc-withdrawal-hacker-eth-swap-thorchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     },
     {
-      "date": "2026-09-26",
-      "title": "Tether says it had ‘limited’ exposure to bank linked to $84M US seizure",
-      "summary": "US prosecutors alleged that a payments business illegally transferred hundreds of millions of dollars at the d…",
-      "url": "https://cointelegraph.com/news/us-authorities-seize-accounts-tether-bitfinex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      "date": "2026-09-28",
+      "title": "Crypto-friendly institution Franklin Templeton brings its tokenized collateral service to Bybit",
+      "summary": "Franklin Templeton’s tokenized money market shares can be used as collateral for USDT or USDC trading credit l…",
+      "url": "https://www.coindesk.com/business/2026/09/28/crypto-friendly-institution-franklin-templeton-brings-its-tokenized-collateral-service-to-bybit"
     }
   ]
 }
