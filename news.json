@@ -1,41 +1,41 @@
 {
-  "updated": "2026-09-29T09:15:19+09:00",
+  "updated": "2026-09-30T08:31:34+09:00",
   "items": [
     {
-      "date": "2026-09-28",
-      "title": "【9/28話題】旧JSC「MIZUHIKI」のAltX Researchがステーブルコイン決済事業に転換、コインチェックがFLRとDAI取扱廃止へなど（音声ニュース）",
+      "date": "2026-09-30",
+      "title": "業界初、コインベースが米CFTCの主要3登録を完全取得──USDC担保の24時間体制実現",
+      "summary": "コインベースは9月28日、米CFTCからデリバティブ清算機関の登録承認を取得したと発表した。先物取引業者・指定契約市場と合わせて主要3登録を全て保有する初の仮想通貨企業となり、規制対象デリバティブ市場での存在感拡大が見込…",
+      "url": "https://coinpost.jp/?p=739969"
+    },
+    {
+      "date": "2026-09-30",
+      "title": "金融大手モルガン・スタンレー、ステーブルコインなど検証するデジタル資産ラボを設立",
+      "summary": "モルガン・スタンレーは、ステーブルコインやトークン化、分散型金融関連技術を検証する「デジタル資産ラボ」を設置した。分散型金融保管庫の検証にも取り組んでおり、大手金融機関による仮想通貨分野への関与拡大を示す動きとなっている…",
+      "url": "https://coinpost.jp/?p=739956"
+    },
+    {
+      "date": "2026-09-29",
+      "title": "【9/29話題】Bitcoin Japanがビットコイン初取得、シティがトークン化預金の送金サービスを日本に展開、JPYCがHTXに上場など（音声ニュース）",
       "summary": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif…",
-      "url": "https://www.neweconomy.jp/posts/611567"
-    },
-    {
-      "date": "2026-09-28",
-      "title": "AltX Research、ステーブルコイン決済事業に転換。旧JSC「MIZUHIKI」メインネット稼働",
-      "summary": "ステーブルコインで支払い、加盟店は日本円で受け取り ブロックチェーンの研究開発を手がけるアルトエクスリサーチ（AltX Research）が、「ミズヒキ（MIZUHIKI: The Japan Chain）」によるステー…",
-      "url": "https://www.neweconomy.jp/posts/611560"
+      "url": "https://www.neweconomy.jp/posts/612076"
     },
     {
       "date": "2026-09-29",
-      "title": "Bybit accepts Franklin Templeton tokenized funds as trading collateral",
-      "summary": "Eligible institutions can pledge Benji-issued fund shares for stablecoin credit lines while keeping the underl…",
-      "url": "https://cointelegraph.com/news/bybit-accepts-franklin-templeton-tokenized-funds-trading-collateral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      "title": "コインベース、自社清算機関のCFTC登録承認を取得。USDC担保・24時間精算へ",
+      "summary": "Coinbase Clearingがデリバティブ清算機関に 米暗号資産（仮想通貨）取引所コインベース（Coinbase）が、傘下の「コインベース・クリアリング（Coinbase Clearing）」について、米商品先物取…",
+      "url": "https://www.neweconomy.jp/posts/611975"
     },
     {
       "date": "2026-09-29",
-      "title": "Tether is a ‘lifeline’ for Iranian regime, Senate Dems say in new report",
-      "summary": "Democrats on the Senate's Permanent Subcommittee on Intelligence published a report alleging that USDT had bec…",
-      "url": "https://www.coindesk.com/policy/2026/09/28/tether-is-a-lifeline-for-iranian-regime-senate-dems-say-in-new-report"
+      "title": "テザー、対イラン制裁関連のUSDT約5.5億ドル凍結を報告",
+      "summary": "米当局との連携による2026年の対応実績を公表 米ドル建てステーブルコイン「USDT」を発行するテザー（Tether）が、2026年に入ってから、イラン関連のUSDT約5億5,000万ドル（約866億円）の凍結に協力した…",
+      "url": "https://www.neweconomy.jp/posts/611917"
     },
     {
-      "date": "2026-09-28",
-      "title": "Bitget resumes Bitcoin withdrawals as hacker swaps ETH via THORChain",
-      "summary": "Ether withdrawals are scheduled to return Tuesday and USDt on Wednesday as Bitget restores services following …",
-      "url": "https://cointelegraph.com/news/bitget-btc-withdrawal-hacker-eth-swap-thorchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "date": "2026-09-28",
-      "title": "Crypto-friendly institution Franklin Templeton brings its tokenized collateral service to Bybit",
-      "summary": "Franklin Templeton’s tokenized money market shares can be used as collateral for USDT or USDC trading credit l…",
-      "url": "https://www.coindesk.com/business/2026/09/28/crypto-friendly-institution-franklin-templeton-brings-its-tokenized-collateral-service-to-bybit"
+      "date": "2026-09-29",
+      "title": "ビットゲットがBTC出金を再開、第三者セキュリティ製品の脆弱性悪用の可能性",
+      "summary": "BitgetがBTC出金を再開、ETHやUSDTも順次再開へ 暗号資産（仮想通貨）取引所ビットゲット（Bitget）が、9月24日に発生したセキュリティ事案を受けて停止していた暗号資産の出金について、ビットコイン（Bit…",
+      "url": "https://www.neweconomy.jp/posts/611895"
     }
   ]
 }
