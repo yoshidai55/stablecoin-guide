@@ -1,41 +1,41 @@
 {
-  "updated": "2026-09-30T08:31:34+09:00",
+  "updated": "2026-10-01T08:33:06+09:00",
   "items": [
     {
       "date": "2026-09-30",
-      "title": "業界初、コインベースが米CFTCの主要3登録を完全取得──USDC担保の24時間体制実現",
-      "summary": "コインベースは9月28日、米CFTCからデリバティブ清算機関の登録承認を取得したと発表した。先物取引業者・指定契約市場と合わせて主要3登録を全て保有する初の仮想通貨企業となり、規制対象デリバティブ市場での存在感拡大が見込…",
-      "url": "https://coinpost.jp/?p=739969"
+      "title": "HSBC、香港ドル建てステーブルコイン「HSBC RedCoin」を年内提供へ",
+      "summary": "HSBC香港は30日、香港ドル建てステーブルコインの名称を「HSBC RedCoin」と発表した。4月に取得したHKMAのライセンスに基づき、PayMeと同行アプリで2026年後半に提供を始める。個人間送金から始め、法人…",
+      "url": "https://coinpost.jp/?p=740227"
     },
     {
       "date": "2026-09-30",
-      "title": "金融大手モルガン・スタンレー、ステーブルコインなど検証するデジタル資産ラボを設立",
-      "summary": "モルガン・スタンレーは、ステーブルコインやトークン化、分散型金融関連技術を検証する「デジタル資産ラボ」を設置した。分散型金融保管庫の検証にも取り組んでおり、大手金融機関による仮想通貨分野への関与拡大を示す動きとなっている…",
-      "url": "https://coinpost.jp/?p=739956"
+      "title": "KDDIら、au PAYアプリで暗号資産ウォレット提供開始",
+      "summary": "KDDIなど3社は30日、au PAYアプリ上で使える暗号資産ウォレット「αU wallet」の提供を開始した。PontaポイントでETHやJPYCに交換でき、au PAY残高へのチャージにも対応する。HashPort吉…",
+      "url": "https://coinpost.jp/?p=740129"
     },
     {
-      "date": "2026-09-29",
-      "title": "【9/29話題】Bitcoin Japanがビットコイン初取得、シティがトークン化預金の送金サービスを日本に展開、JPYCがHTXに上場など（音声ニュース）",
-      "summary": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif…",
-      "url": "https://www.neweconomy.jp/posts/612076"
+      "date": "2026-09-30",
+      "title": "3メガバンクら6社、ステーブルコインで貿易決済の実証へ。金融庁が支援",
+      "summary": "輸出債権の買取承認とステーブルコイン決済の連動を検証 金融庁が、貿易決済へのステーブルコイン活用に関する実証実験の支援を9月29日に発表した。支援は、同庁の「FinTech実証実験ハブ・決済高度化プロジェクト（PIP）」…",
+      "url": "https://www.neweconomy.jp/posts/612247"
     },
     {
-      "date": "2026-09-29",
-      "title": "コインベース、自社清算機関のCFTC登録承認を取得。USDC担保・24時間精算へ",
-      "summary": "Coinbase Clearingがデリバティブ清算機関に 米暗号資産（仮想通貨）取引所コインベース（Coinbase）が、傘下の「コインベース・クリアリング（Coinbase Clearing）」について、米商品先物取…",
-      "url": "https://www.neweconomy.jp/posts/611975"
+      "date": "2026-10-01",
+      "title": "Standard Chartered sees Ethena’s USDe reaching $40B, ENA hitting $2",
+      "summary": "The bank also expects Ethena’s ENA token to rise roughly sevenfold to $2 by the end of 2028 as USDe scales and…",
+      "url": "https://cointelegraph.com/markets/standard-chartered-ethena-usde-growth-40b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     },
     {
-      "date": "2026-09-29",
-      "title": "テザー、対イラン制裁関連のUSDT約5.5億ドル凍結を報告",
-      "summary": "米当局との連携による2026年の対応実績を公表 米ドル建てステーブルコイン「USDT」を発行するテザー（Tether）が、2026年に入ってから、イラン関連のUSDT約5億5,000万ドル（約866億円）の凍結に協力した…",
-      "url": "https://www.neweconomy.jp/posts/611917"
+      "date": "2026-10-01",
+      "title": "Bloomberg brings onchain stablecoin data to its Terminal",
+      "summary": "Bloomberg’s Allium-powered dashboard gives Terminal users hourly data on stablecoin supply, issuance, transfer…",
+      "url": "https://cointelegraph.com/news/bloomberg-brings-onchain-stablecoin-data-to-its-terminal-news-brief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     },
     {
-      "date": "2026-09-29",
-      "title": "ビットゲットがBTC出金を再開、第三者セキュリティ製品の脆弱性悪用の可能性",
-      "summary": "BitgetがBTC出金を再開、ETHやUSDTも順次再開へ 暗号資産（仮想通貨）取引所ビットゲット（Bitget）が、9月24日に発生したセキュリティ事案を受けて停止していた暗号資産の出金について、ビットコイン（Bit…",
-      "url": "https://www.neweconomy.jp/posts/611895"
+      "date": "2026-10-01",
+      "title": "Open USD takes on Tether, Circle with a different stablecoin model that's 'building money'",
+      "summary": "The “overwhelming majority” of Open Standard’s equity will be distributed over time to partners based on how m…",
+      "url": "https://www.coindesk.com/business/2026/09/24/open-usd-takes-on-tether-circle-with-a-different-stablecoin-model-that-s-building-money"
     }
   ]
 }

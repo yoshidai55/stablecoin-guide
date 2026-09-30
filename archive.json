@@ -1,6 +1,27 @@
 {
-  "updated": "2026-09-30T08:31:34+09:00",
+  "updated": "2026-10-01T08:33:06+09:00",
   "items": [
+    {
+      "date": "2026-10-01",
+      "title": "Standard Chartered sees Ethena’s USDe reaching $40B, ENA hitting $2",
+      "summary": "The bank also expects Ethena’s ENA token to rise roughly sevenfold to $2 by the end of 2028 as USDe scales and…",
+      "url": "https://cointelegraph.com/markets/standard-chartered-ethena-usde-growth-40b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-10-01",
+      "title": "Bloomberg brings onchain stablecoin data to its Terminal",
+      "summary": "Bloomberg’s Allium-powered dashboard gives Terminal users hourly data on stablecoin supply, issuance, transfer…",
+      "url": "https://cointelegraph.com/news/bloomberg-brings-onchain-stablecoin-data-to-its-terminal-news-brief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-10-01",
+      "title": "Open USD takes on Tether, Circle with a different stablecoin model that's 'building money'",
+      "summary": "The “overwhelming majority” of Open Standard’s equity will be distributed over time to partners based on how m…",
+      "url": "https://www.coindesk.com/business/2026/09/24/open-usd-takes-on-tether-circle-with-a-different-stablecoin-model-that-s-building-money",
+      "important": false
+    },
     {
       "date": "2026-09-30",
       "title": "業界初、コインベースが米CFTCの主要3登録を完全取得──USDC担保の24時間体制実現",
@@ -13,6 +34,41 @@
       "title": "金融大手モルガン・スタンレー、ステーブルコインなど検証するデジタル資産ラボを設立",
       "summary": "モルガン・スタンレーは、ステーブルコインやトークン化、分散型金融関連技術を検証する「デジタル資産ラボ」を設置した。分散型金融保管庫の検証にも取り組んでおり、大手金融機関による仮想通貨分野への関与拡大を示す動きとなっている…",
       "url": "https://coinpost.jp/?p=739956",
+      "important": false
+    },
+    {
+      "date": "2026-09-30",
+      "title": "HSBC、香港ドル建てステーブルコイン「HSBC RedCoin」を年内提供へ",
+      "summary": "HSBC香港は30日、香港ドル建てステーブルコインの名称を「HSBC RedCoin」と発表した。4月に取得したHKMAのライセンスに基づき、PayMeと同行アプリで2026年後半に提供を始める。個人間送金から始め、法人…",
+      "url": "https://coinpost.jp/?p=740227",
+      "important": true
+    },
+    {
+      "date": "2026-09-30",
+      "title": "KDDIら、au PAYアプリで暗号資産ウォレット提供開始",
+      "summary": "KDDIなど3社は30日、au PAYアプリ上で使える暗号資産ウォレット「αU wallet」の提供を開始した。PontaポイントでETHやJPYCに交換でき、au PAY残高へのチャージにも対応する。HashPort吉…",
+      "url": "https://coinpost.jp/?p=740129",
+      "important": true
+    },
+    {
+      "date": "2026-09-30",
+      "title": "3メガバンクら6社、ステーブルコインで貿易決済の実証へ。金融庁が支援",
+      "summary": "輸出債権の買取承認とステーブルコイン決済の連動を検証 金融庁が、貿易決済へのステーブルコイン活用に関する実証実験の支援を9月29日に発表した。支援は、同庁の「FinTech実証実験ハブ・決済高度化プロジェクト（PIP）」…",
+      "url": "https://www.neweconomy.jp/posts/612247",
+      "important": true
+    },
+    {
+      "date": "2026-09-30",
+      "title": "European stablecoin issuer AllUnity launches USD stablecoin USDAU",
+      "summary": "AllUnity is launching USDAU, its fourth fiat-backed stablecoin, expanding a MiCA-regulated lineup that already…",
+      "url": "https://cointelegraph.com/news/allunity-europe-mica-usd-stablecoin-usdau?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-09-30",
+      "title": "Illinois draft crypto tax rules detail DeFi, stablecoin treatment",
+      "summary": "Illinois’ draft rules spell out how its 0.2% digital asset transaction tax would apply to stablecoins, DeFi pl…",
+      "url": "https://cointelegraph.com/news/illinois-crypto-tax-rules-defi-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "important": false
     },
     {
