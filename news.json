@@ -1,41 +1,41 @@
 {
-  "updated": "2026-10-01T08:33:06+09:00",
+  "updated": "2026-10-02T08:44:57+09:00",
   "items": [
     {
-      "date": "2026-09-30",
-      "title": "HSBC、香港ドル建てステーブルコイン「HSBC RedCoin」を年内提供へ",
-      "summary": "HSBC香港は30日、香港ドル建てステーブルコインの名称を「HSBC RedCoin」と発表した。4月に取得したHKMAのライセンスに基づき、PayMeと同行アプリで2026年後半に提供を始める。個人間送金から始め、法人…",
-      "url": "https://coinpost.jp/?p=740227"
-    },
-    {
-      "date": "2026-09-30",
-      "title": "KDDIら、au PAYアプリで暗号資産ウォレット提供開始",
-      "summary": "KDDIなど3社は30日、au PAYアプリ上で使える暗号資産ウォレット「αU wallet」の提供を開始した。PontaポイントでETHやJPYCに交換でき、au PAY残高へのチャージにも対応する。HashPort吉…",
-      "url": "https://coinpost.jp/?p=740129"
-    },
-    {
-      "date": "2026-09-30",
-      "title": "3メガバンクら6社、ステーブルコインで貿易決済の実証へ。金融庁が支援",
-      "summary": "輸出債権の買取承認とステーブルコイン決済の連動を検証 金融庁が、貿易決済へのステーブルコイン活用に関する実証実験の支援を9月29日に発表した。支援は、同庁の「FinTech実証実験ハブ・決済高度化プロジェクト（PIP）」…",
-      "url": "https://www.neweconomy.jp/posts/612247"
+      "date": "2026-10-02",
+      "title": "ビザと英金融大手ロイズ、ステーブルコインの越境決済のライブ実験を完了──USDC活用",
+      "summary": "ビザとロイズ・バンキング・グループは、ステーブルコインの越境決済のライブ実験を完了。利用したブロックチェーンや決済の規模など、実験の内容を発表している。",
+      "url": "https://coinpost.jp/?p=740535"
     },
     {
       "date": "2026-10-01",
-      "title": "Standard Chartered sees Ethena’s USDe reaching $40B, ENA hitting $2",
-      "summary": "The bank also expects Ethena’s ENA token to rise roughly sevenfold to $2 by the end of 2028 as USDe scales and…",
-      "url": "https://cointelegraph.com/markets/standard-chartered-ethena-usde-growth-40b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      "title": "HSBC、発行予定の香港ドルステーブルコインの名称決定。「RedCoin」で年内提供へ",
+      "summary": "個人間送金と加盟店決済から展開へ HSBCグループの香港上海銀行（HSBC香港）が、発行予定の香港ドル建てステーブルコインの名称を「HSBCレッドコイン（HSBC RedCoin）」に決定したと9月30日に発表した。同行…",
+      "url": "https://www.neweconomy.jp/posts/612750"
     },
     {
       "date": "2026-10-01",
-      "title": "Bloomberg brings onchain stablecoin data to its Terminal",
-      "summary": "Bloomberg’s Allium-powered dashboard gives Terminal users hourly data on stablecoin supply, issuance, transfer…",
-      "url": "https://cointelegraph.com/news/bloomberg-brings-onchain-stablecoin-data-to-its-terminal-news-brief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      "title": "エルサルバドルでステーブルコイン送金アプリ始動、ビットコイン局は報道に反論",
+      "summary": "エルサルバドルとモドヴェオンは、ステーブルコインを活用した送金もできるSivarをローンチしたことを発表。一方、ビットコイン・オフィスは、政府は仮想通貨やステーブルコインのウォレットを運営する計画はないと述べている。",
+      "url": "https://coinpost.jp/?p=740346"
+    },
+    {
+      "date": "2026-10-02",
+      "title": "50,000 Europeans call on EU to ease stablecoin rewards restrictions in MiCA review",
+      "summary": "A 50,000-letter campaign is pressing Brussels to rethink stablecoin rewards as EU central banks seek broader c…",
+      "url": "https://cointelegraph.com/news/50000-europeans-call-on-eu-to-ease-stablecoin-rewards-restrictions-in-mica-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     },
     {
       "date": "2026-10-01",
-      "title": "Open USD takes on Tether, Circle with a different stablecoin model that's 'building money'",
-      "summary": "The “overwhelming majority” of Open Standard’s equity will be distributed over time to partners based on how m…",
-      "url": "https://www.coindesk.com/business/2026/09/24/open-usd-takes-on-tether-circle-with-a-different-stablecoin-model-that-s-building-money"
+      "title": "LATAM stablecoin liquidity may depend on few providers, investor says",
+      "summary": "Researchers in a Latin American stablecoin ecosystem report warned “fragility in the system is concentrated in…",
+      "url": "https://cointelegraph.com/news/latam-stablecoin-liquidity-may-depend-on-few-providers-investor-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "date": "2026-10-01",
+      "title": "Stablecoins can drain from banks and nations at lightning speed",
+      "summary": "Highly liquid and settling 24/7, stablecoins can leave banks and countries at lightning speed. But whether sta…",
+      "url": "https://cointelegraph.com/magazine/stablecoins-can-drain-from-banks-and-nations-at-lightning-speed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     }
   ]
 }
