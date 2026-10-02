@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-02T08:44:57+09:00",
+  "updated": "2026-10-03T08:36:14+09:00",
   "items": [
+    {
+      "date": "2026-10-03",
+      "title": "$4.2B crypto bank Anchorage Digital cuts 17% of workforce: Report",
+      "summary": "The reported cuts come as Anchorage expands its institutional footprint, including stablecoin issuance and a $…",
+      "url": "https://cointelegraph.com/news/anchorage-digital-cuts-workforce-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
     {
       "date": "2026-10-02",
       "title": "ビザと英金融大手ロイズ、ステーブルコインの越境決済のライブ実験を完了──USDC活用",
@@ -14,6 +21,62 @@
       "summary": "A 50,000-letter campaign is pressing Brussels to rethink stablecoin rewards as EU central banks seek broader c…",
       "url": "https://cointelegraph.com/news/50000-europeans-call-on-eu-to-ease-stablecoin-rewards-restrictions-in-mica-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "important": true
+    },
+    {
+      "date": "2026-10-02",
+      "title": "ローソンのレジでJPYCが動いた日 決済実証の4社が語る商用化の壁",
+      "summary": "ローソンの実店舗で実施された円建てステーブルコインJPYCの決済実証について、ローソン、キャナルペイメントサービス、JPYC、HashPortの4社が議論。決済速度や返金対応など商用化の課題と、普及への道筋を探った。",
+      "url": "https://coinpost.jp/?p=740431",
+      "important": true
+    },
+    {
+      "date": "2026-10-02",
+      "title": "米上院議員が仮想通貨税制法案提出、ステーブルコイン決済を非課税に",
+      "summary": "米上院のデインズ議員は9月30日、仮想通貨税制改革法案「ADAPT Act」を提出した。ステーブルコイン決済や10ドル以下の手数料を非課税とする一方、ウォッシュセール・ルールを初適用し、ステーキングの税務ルールも明確化す…",
+      "url": "https://coinpost.jp/?p=740658",
+      "important": true
+    },
+    {
+      "date": "2026-10-02",
+      "title": "米ファイサーブ、デジタル資産基盤を稼働 米国の州営銀ステーブルコインが第1弾",
+      "summary": "米決済大手ファイサーブは1日、デジタル資産プラットフォームが金融機関向けに稼働したと発表した。第1弾はノースダコタ銀行の米ドル建てステーブルコイン「Roughrider Coin」で、ソラナ上で州内90超の銀行・信用組合…",
+      "url": "https://coinpost.jp/?p=740680",
+      "important": false
+    },
+    {
+      "date": "2026-10-02",
+      "title": "ハイパーリキッド関連団体とサークル社、仮想通貨規制「MiCA」見直しで意見書",
+      "summary": "ハイパーリキッド・ポリシーセンターとサークル社がそれぞれ欧州委員会に意見書を提出。無期限先物とステーブルコインの規制についてそれぞれ要望を述べた。",
+      "url": "https://coinpost.jp/?p=740611",
+      "important": true
+    },
+    {
+      "date": "2026-10-02",
+      "title": "‘Euro stablecoin isn’t enough’: EU issuers make case for USD tokens",
+      "summary": "European issuers say Europe cannot ignore demand for dollar stablecoins as businesses seek USD liquidity for g…",
+      "url": "https://cointelegraph.com/news/euro-stablecoin-not-enough-eu-case-usd-tokens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-10-02",
+      "title": "Circle urges EU to revise stablecoin reserve rules in MiCA review",
+      "summary": "Circle wants the EU to replace mandatory bank-deposit minimums with more flexible liquidity rules and preserve…",
+      "url": "https://cointelegraph.com/news/circle-eu-stablecoin-reserve-rules-mica-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-10-02",
+      "title": "Crypto traders are in risk-on mode as bitcoin dominance nears return to 60%",
+      "summary": "Bitcoin dominance is closing in on 60% while USDT's has slipped to 6.3%, pointing to a market growing more com…",
+      "url": "https://www.coindesk.com/markets/2026/10/02/crypto-traders-are-in-risk-on-mode-as-bitcoin-dominance-nears-return-to-60",
+      "important": false
+    },
+    {
+      "date": "2026-10-02",
+      "title": "Tether's USDT is 'coming home' to Bitcoin after more than a decade",
+      "summary": "A Tether-backed project, Utexo, plans to support private USDT transfers, direct swaps between BTC and USDT and…",
+      "url": "https://www.coindesk.com/tech/2026/09/29/tether-s-usdt-is-coming-home-to-bitcoin-this-month-after-more-than-a-decade",
+      "important": false
     },
     {
       "date": "2026-10-01",
