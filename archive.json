@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-06T10:11:10+09:00",
+  "updated": "2026-10-07T08:38:29+09:00",
   "items": [
+    {
+      "date": "2026-10-07",
+      "title": "Conduit sues Tether over allegedly freezing $2.8M without explanation",
+      "summary": "The lawsuit alleged that Tether froze USDt funds in a Conduit wallet tied to an investigation launched by Braz…",
+      "url": "https://cointelegraph.com/news/conduit-lawsuit-tether-usdt-freeze?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
     {
       "date": "2026-10-06",
       "title": "日本初「ステーブルコイン普及債」、年利5.0%で募集開始",
@@ -27,6 +34,69 @@
       "title": "More than 60 U.S. stocks including Nvidia and Tesla are headed onchain. Here’s how it works",
       "summary": "The planned 24/7 venue will offer dozens of tokenized U.S. stocks, with trades conducted against stablecoins t…",
       "url": "https://www.coindesk.com/markets/2026/10/05/more-than-60-u-s-stocks-including-nvidia-and-tesla-are-headed-onchain-here-s-how-it-works",
+      "important": false
+    },
+    {
+      "date": "2026-10-06",
+      "title": "【10/6話題】三井住友銀行らがデジタル証券の二次流通でステーブルコイン活用DvP決済実証完了、メタプラネットが1万BTC売却で換金能力を実証など（音声ニュース）",
+      "summary": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif…",
+      "url": "https://www.neweconomy.jp/posts/614639",
+      "important": false
+    },
+    {
+      "date": "2026-10-06",
+      "title": "日立、暗号資産・ステーブルコイン取引向けAML監視サービス提供開始",
+      "summary": "取引前後とトークン流通のリスクを評価 日立製作所が、資金洗浄対策（AML）のモニタリングサービス「デジタルアセットAMLプラットフォーム（Digital Asset AML Platform）」の提供を10月1日に開始し…",
+      "url": "https://www.neweconomy.jp/posts/614238",
+      "important": false
+    },
+    {
+      "date": "2026-10-06",
+      "title": "三井住友銀など9社、デジタル証券セカンダリー取引でDvP決済を実証完了",
+      "summary": "三井住友銀行・大和証券・SBI証券など9社が、ST二次流通取引でステーブルコインを活用したDvP決済の実証「Project Trinity」フェーズ2を完了。T+2のDvP決済の実現可能性を、法務・技術・業務運用の3面で…",
+      "url": "https://coinpost.jp/?p=741289",
+      "important": false
+    },
+    {
+      "date": "2026-10-06",
+      "title": "SBI証券ら9社、ステーブルコインでデジタル証券の同時決済──実現性を一定程度確認",
+      "summary": "SBI証券と大和証券を含む9社は6日、ステーブルコインを使ったセキュリティトークンの同時決済の業務運用検証が完了したと発表した。証券会社間での決済の実現可能性を一定程度確認し、制度・市場の整備動向を注視しながら今後の対応…",
+      "url": "https://coinpost.jp/?p=741303",
+      "important": false
+    },
+    {
+      "date": "2026-10-06",
+      "title": "Arbitrum joins Paxos-led stablecoin group Global Dollar to capture digital dollar growth",
+      "summary": "The Ethereum layer-2 is backing Paxos-issued USDG to earn a share of reserve income as new stablecoin alliance…",
+      "url": "https://www.coindesk.com/business/2026/10/05/arbitrum-joins-paxos-led-stablecoin-group-global-dollar-to-capture-digital-dollar-growth",
+      "important": false
+    },
+    {
+      "date": "2026-10-06",
+      "title": "Paxos’ $3B USDG stablecoin launches on Arbitrum",
+      "summary": "Paxos’ USDG stablecoin is now live on Arbitrum as the network proposes 100 million ARB in incentives to suppor…",
+      "url": "https://cointelegraph.com/news/paxos-3b-usdg-stablecoin-launches-arbitrum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-10-06",
+      "title": "Binance BTC outflows hit highest since mid-2023 as whales deposit stablecoins",
+      "summary": "Binance BTC reserves fell by nearly 40,000 coins since Sept. 20 as whales returned stablecoin capital to their…",
+      "url": "https://cointelegraph.com/markets/binance-btc-outflows-hit-highest-since-mid-2023-as-whales-deposit-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-10-06",
+      "title": "OKX looks to abstract blockchain mechanics to bring stablecoin balances to everyday consumers",
+      "summary": "OKX appears to be designing products to keep the blockchain element abstracted or out of sight for users who s…",
+      "url": "https://www.coindesk.com/business/2026/10/06/okx-money-lets-users-save-earn-10-yield-and-spend-dollar-stablecoins-in-one-app",
+      "important": false
+    },
+    {
+      "date": "2026-10-06",
+      "title": "OKX eyes emerging markets with yield-offering stablecoin savings and payments app",
+      "summary": "OKX Money lets users hold, send and spend dollar-backed stablecoins, with qualifying USDG balances earning up …",
+      "url": "https://cointelegraph.com/news/okx-money-stablecoin-savings-payments-emerging-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "important": false
     },
     {
