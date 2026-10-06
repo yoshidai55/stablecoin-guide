@@ -1,6 +1,76 @@
 {
-  "updated": "2026-10-03T08:36:14+09:00",
+  "updated": "2026-10-06T10:11:10+09:00",
   "items": [
+    {
+      "date": "2026-10-06",
+      "title": "日本初「ステーブルコイン普及債」、年利5.0%で募集開始",
+      "summary": "日本初「ステーブルコイン普及債」が10月6日から募集開始。JPYSCで利払いと償還を行う自己募集型デジタル社債で、年利5.0%、一口10万円。発表会と個別取材から、仕組みと制度課題、今後の展望を報じる。",
+      "url": "https://coinpost.jp/?p=741084",
+      "important": false
+    },
+    {
+      "date": "2026-10-06",
+      "title": "欧米富裕層のデジタル資産投資実態、2月の急落で投資意欲上昇＝コインシェアーズ調査",
+      "summary": "ビザの調査でアジア太平洋の消費者の46%が5年以内のステーブルコイン利用に前向きだった。コインシェアーズ調査では米欧7市場の富裕層投資家の過半数がデジタル資産を保有している。",
+      "url": "https://coinpost.jp/?p=741190",
+      "important": false
+    },
+    {
+      "date": "2026-10-06",
+      "title": "Modern Treasury seeks US trust bank charter for digital asset custody",
+      "summary": "The payments infrastructure company is seeking federal approval to offer stablecoin custody and related fiat s…",
+      "url": "https://cointelegraph.com/news/modern-treasury-seeks-us-trust-bank-charter-for-stablecoin-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-10-06",
+      "title": "More than 60 U.S. stocks including Nvidia and Tesla are headed onchain. Here’s how it works",
+      "summary": "The planned 24/7 venue will offer dozens of tokenized U.S. stocks, with trades conducted against stablecoins t…",
+      "url": "https://www.coindesk.com/markets/2026/10/05/more-than-60-u-s-stocks-including-nvidia-and-tesla-are-headed-onchain-here-s-how-it-works",
+      "important": false
+    },
+    {
+      "date": "2026-10-05",
+      "title": "ステーブルコインだけで暮らせるか 業界3氏が○×で回答",
+      "summary": "ステーブルコインだけで暮らせるか。AI・オンチェーン金融サミットで、SMBC・JPYC・Startaleの3氏が国際送金やトークン化預金、納税、日本円ステーブルコインの必要性を○×形式で議論した。",
+      "url": "https://coinpost.jp/?p=740485",
+      "important": true
+    },
+    {
+      "date": "2026-10-05",
+      "title": "スターテイル、JPYSCで利払い・償還するデジタル社債募集へ。国内個人向けに年利5%で",
+      "summary": "個人投資家向けに1口10万円から、募集金額は9,990万円 スターテイルジャパン（Startale Japan）が、個人投資家向けデジタル社債「ステーブルコイン普及債」の募集を10月6日に開始する。同社が10月5日に実施…",
+      "url": "https://www.neweconomy.jp/posts/613631",
+      "important": false
+    },
+    {
+      "date": "2026-10-05",
+      "title": "リップルのステーブルコイン「RLUSD」、時価総額25億ドル超",
+      "summary": "RLUSDが時価総額25億ドル突破 米ドル建てステーブルコイン「リップルUSD（RLUSD）」の流通額が25億980万ドル（約3,961億円）となり、準備資産は26億3,380万ドル（約4,157億円）となった。リップル…",
+      "url": "https://www.neweconomy.jp/posts/613573",
+      "important": false
+    },
+    {
+      "date": "2026-10-05",
+      "title": "ビザ、ステーブルコイン連動カード取扱高の約17%が法人・商用。全体は前年比約200%増",
+      "summary": "Visaがステーブルコイン連動カードの企業利用状況公表 決済大手ビザ（Visa）のステーブルコイン連動カード取扱高のうち、法人・商用カードプログラムが約17%を占めた。同社が2026会計年度の年初来データとして10月1日…",
+      "url": "https://www.neweconomy.jp/posts/613570",
+      "important": false
+    },
+    {
+      "date": "2026-10-05",
+      "title": "Stripe to expand stablecoin cards to over 100 countries by the end of the year",
+      "summary": "The payments giant is planning a major global expansion for its stablecoin cards business, and is exploring to…",
+      "url": "https://www.coindesk.com/business/2026/10/01/stripe-to-expand-stablecoin-cards-to-over-100-countries-by-the-end-of-the-year",
+      "important": false
+    },
+    {
+      "date": "2026-10-05",
+      "title": "China P2P stablecoin wallets grew 43x despite crypto restrictions: Chainalysis",
+      "summary": "Unique wallets sending P2P stablecoin transactions in China grew 43-fold between Q1 2024 and Q2 2026 as crypto…",
+      "url": "https://cointelegraph.com/news/china-stablecoin-p2p-wallets-crypto-restrictions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
     {
       "date": "2026-10-03",
       "title": "$4.2B crypto bank Anchorage Digital cuts 17% of workforce: Report",
