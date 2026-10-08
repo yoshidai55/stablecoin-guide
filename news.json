@@ -1,41 +1,41 @@
 {
-  "updated": "2026-10-07T08:38:29+09:00",
+  "updated": "2026-10-08T09:02:45+09:00",
   "items": [
     {
-      "date": "2026-10-06",
-      "title": "【10/6話題】三井住友銀行らがデジタル証券の二次流通でステーブルコイン活用DvP決済実証完了、メタプラネットが1万BTC売却で換金能力を実証など（音声ニュース）",
-      "summary": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif…",
-      "url": "https://www.neweconomy.jp/posts/614639"
+      "date": "2026-10-07",
+      "title": "セキュリタイズ、韓国株トークン化を検討｜LG CNSと覚書",
+      "summary": "トークン化プラットフォームのセキュリタイズは6日、韓国のIT企業LG CNSと覚書を通じて提携すると発表した。韓国とアジア太平洋地域で、トークン化資産、証券、ステーブルコインの機関向け活用事例を開発する。",
+      "url": "https://coinpost.jp/?p=741448"
     },
     {
-      "date": "2026-10-06",
-      "title": "日立、暗号資産・ステーブルコイン取引向けAML監視サービス提供開始",
-      "summary": "取引前後とトークン流通のリスクを評価 日立製作所が、資金洗浄対策（AML）のモニタリングサービス「デジタルアセットAMLプラットフォーム（Digital Asset AML Platform）」の提供を10月1日に開始し…",
-      "url": "https://www.neweconomy.jp/posts/614238"
+      "date": "2026-10-08",
+      "title": "Circle brings USDC, EURC payments to SAP customers through Tereina",
+      "summary": "The partnership with SAP-backed Tereina will let businesses send and receive Circle’s stablecoins from within …",
+      "url": "https://cointelegraph.com/news/circle-usdc-eurc-payments-sap-enterprise-ecosystem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     },
     {
-      "date": "2026-10-06",
-      "title": "三井住友銀など9社、デジタル証券セカンダリー取引でDvP決済を実証完了",
-      "summary": "三井住友銀行・大和証券・SBI証券など9社が、ST二次流通取引でステーブルコインを活用したDvP決済の実証「Project Trinity」フェーズ2を完了。T+2のDvP決済の実現可能性を、法務・技術・業務運用の3面で…",
-      "url": "https://coinpost.jp/?p=741289"
+      "date": "2026-10-08",
+      "title": "Polygon taps TRON’s $94 billion stablecoin supply for seamless cross-border transfers",
+      "summary": "Polygon said businesses can also move the world’s largest stablecoin USDT between TRON and EVM networks withou…",
+      "url": "https://www.coindesk.com/business/2026/10/07/polygon-and-tron-partner-to-bridge-usd94-billion-usdt-ecosystem-with-u-s-banking-rails"
     },
     {
-      "date": "2026-10-06",
-      "title": "SBI証券ら9社、ステーブルコインでデジタル証券の同時決済──実現性を一定程度確認",
-      "summary": "SBI証券と大和証券を含む9社は6日、ステーブルコインを使ったセキュリティトークンの同時決済の業務運用検証が完了したと発表した。証券会社間での決済の実現可能性を一定程度確認し、制度・市場の整備動向を注視しながら今後の対応…",
-      "url": "https://coinpost.jp/?p=741303"
+      "date": "2026-10-08",
+      "title": "Tether, Kazakhstan cenbank mull tenge stablecoin and asset tokenization",
+      "summary": "The agreement will explore a tenge-backed stablecoin pilot and a framework for tokenizing real-world assets as…",
+      "url": "https://cointelegraph.com/news/tether-kazakhstan-central-bank-to-explore-tenge-stablecoin-and-asset-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     },
     {
-      "date": "2026-10-06",
-      "title": "JPYSC用いた日本初「ステーブルコイン普及債」、年利5.0%で募集開始",
-      "summary": "日本初「ステーブルコイン普及債」が10月6日から募集開始。円建てステーブルコインのJPYSCで利払いと償還を行う自己募集型デジタル社債で、年利5.0%、一口10万円。発表会と個別取材から、仕組みと制度課題、今後の展望を報…",
-      "url": "https://coinpost.jp/?p=741084"
+      "date": "2026-10-07",
+      "title": "Tether tapped by Kazakhstan’s central bank to explore stablecoin and tokenization",
+      "summary": "The National Bank of Kazakhstan said it will study a local currency-linked stablecoin and tokenized real-world…",
+      "url": "https://www.coindesk.com/business/2026/10/07/tether-tapped-by-kazakhstan-s-central-bank-to-explore-stablecoin-and-tokenization"
     },
     {
-      "date": "2026-10-06",
-      "title": "欧米富裕層のデジタル資産投資実態、2月の急落で投資意欲上昇＝コインシェアーズ調査",
-      "summary": "ビザの調査でアジア太平洋の消費者の46%が5年以内のステーブルコイン利用に前向きだった。コインシェアーズ調査では米欧7市場の富裕層投資家の過半数がデジタル資産を保有している。",
-      "url": "https://coinpost.jp/?p=741190"
+      "date": "2026-10-07",
+      "title": "Crypto trading giant GSR's new vault business is a $100M bet on onchain credit",
+      "summary": "The firm is putting its own capital into stablecoin and tokenized gold vaults as institutional finance moves f…",
+      "url": "https://www.coindesk.com/business/2026/10/07/crypto-trading-giant-gsr-s-new-vault-business-is-a-usd100m-bet-on-onchain-credit"
     }
   ]
 }

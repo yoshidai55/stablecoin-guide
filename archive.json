@@ -1,12 +1,68 @@
 {
-  "updated": "2026-10-07T08:38:29+09:00",
+  "updated": "2026-10-08T09:02:45+09:00",
   "items": [
+    {
+      "date": "2026-10-08",
+      "title": "Circle brings USDC, EURC payments to SAP customers through Tereina",
+      "summary": "The partnership with SAP-backed Tereina will let businesses send and receive Circle’s stablecoins from within …",
+      "url": "https://cointelegraph.com/news/circle-usdc-eurc-payments-sap-enterprise-ecosystem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-10-08",
+      "title": "Polygon taps TRON’s $94 billion stablecoin supply for seamless cross-border transfers",
+      "summary": "Polygon said businesses can also move the world’s largest stablecoin USDT between TRON and EVM networks withou…",
+      "url": "https://www.coindesk.com/business/2026/10/07/polygon-and-tron-partner-to-bridge-usd94-billion-usdt-ecosystem-with-u-s-banking-rails",
+      "important": false
+    },
+    {
+      "date": "2026-10-08",
+      "title": "Tether, Kazakhstan cenbank mull tenge stablecoin and asset tokenization",
+      "summary": "The agreement will explore a tenge-backed stablecoin pilot and a framework for tokenizing real-world assets as…",
+      "url": "https://cointelegraph.com/news/tether-kazakhstan-central-bank-to-explore-tenge-stablecoin-and-asset-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
     {
       "date": "2026-10-07",
       "title": "Conduit sues Tether over allegedly freezing $2.8M without explanation",
       "summary": "The lawsuit alleged that Tether froze USDt funds in a Conduit wallet tied to an investigation launched by Braz…",
       "url": "https://cointelegraph.com/news/conduit-lawsuit-tether-usdt-freeze?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "important": true
+    },
+    {
+      "date": "2026-10-07",
+      "title": "セキュリタイズ、韓国株トークン化を検討｜LG CNSと覚書",
+      "summary": "トークン化プラットフォームのセキュリタイズは6日、韓国のIT企業LG CNSと覚書を通じて提携すると発表した。韓国とアジア太平洋地域で、トークン化資産、証券、ステーブルコインの機関向け活用事例を開発する。",
+      "url": "https://coinpost.jp/?p=741448",
+      "important": false
+    },
+    {
+      "date": "2026-10-07",
+      "title": "Tether tapped by Kazakhstan’s central bank to explore stablecoin and tokenization",
+      "summary": "The National Bank of Kazakhstan said it will study a local currency-linked stablecoin and tokenized real-world…",
+      "url": "https://www.coindesk.com/business/2026/10/07/tether-tapped-by-kazakhstan-s-central-bank-to-explore-stablecoin-and-tokenization",
+      "important": true
+    },
+    {
+      "date": "2026-10-07",
+      "title": "Crypto trading giant GSR's new vault business is a $100M bet on onchain credit",
+      "summary": "The firm is putting its own capital into stablecoin and tokenized gold vaults as institutional finance moves f…",
+      "url": "https://www.coindesk.com/business/2026/10/07/crypto-trading-giant-gsr-s-new-vault-business-is-a-usd100m-bet-on-onchain-credit",
+      "important": false
+    },
+    {
+      "date": "2026-10-07",
+      "title": "Rain is seeking a national trust bank charter to bypass third-party banks",
+      "summary": "The stablecoin payments company’s proposed New York trust bank would custody digital assets and dollars, manag…",
+      "url": "https://www.coindesk.com/business/2026/10/07/rain-becomes-12th-crypto-firm-seeking-occ-trust-bank-charter-amid-community-bank-pushback",
+      "important": true
+    },
+    {
+      "date": "2026-10-07",
+      "title": "Cardano gives token issuers power to freeze, seize and restrict assets",
+      "summary": "The new standard is aimed at regulated stablecoins, funds and bonds whose issuers need identity checks, sancti…",
+      "url": "https://www.coindesk.com/tech/2026/10/07/cardano-gives-token-issuers-power-to-freeze-seize-and-restrict-assets",
+      "important": false
     },
     {
       "date": "2026-10-06",
