@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-09T09:11:35+09:00",
+  "updated": "2026-10-10T08:52:18+09:00",
   "items": [
+    {
+      "date": "2026-10-10",
+      "title": "THORChain exec accuses Tether of temporarily freezing USDT vaults",
+      "summary": "Chad Barraford, technical co-founder of the network, said that the funds were frozen and then unfrozen without…",
+      "url": "https://cointelegraph.com/news/thorchain-tether-freezing-usdt-addresses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
     {
       "date": "2026-10-09",
       "title": "China’s P2P stablecoin wallets surge 43x, Korea’s $450B crypto economy: Asia Express",
@@ -21,6 +28,48 @@
       "summary": "ESMA said authorized platforms must block new access to stablecoins that fail to meet MiCA rules, while nation…",
       "url": "https://www.coindesk.com/policy/2026/10/08/eu-securities-regulator-gives-crypto-platforms-3-months-to-remove-unauthorized-stablecoins",
       "important": true
+    },
+    {
+      "date": "2026-10-09",
+      "title": "【10/9話題】JPYC社が公取委に決済市場の情報提供、アプトス財団が2.1億APTの永久ロックとステーキング、スタークネットがL1移行を検討など（音声ニュース）",
+      "summary": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif…",
+      "url": "https://www.neweconomy.jp/posts/615632",
+      "important": true
+    },
+    {
+      "date": "2026-10-09",
+      "title": "ESMA、非MiCA準拠ステーブルコインの関連サービス停止求める。保管・移転も対象",
+      "summary": "既存保有分への対応は意見書公表から3カ月以内 欧州証券市場監督機構（ESMA）が、欧州連合（EU）の暗号資産（仮想通貨）市場規制「MiCA」に準拠していないステーブルコインに関するサービスについて、提供停止を求める監督上…",
+      "url": "https://www.neweconomy.jp/posts/615543",
+      "important": true
+    },
+    {
+      "date": "2026-10-09",
+      "title": "JPYC、公取委に情報提供──「決済導入店の割引は消費者利益」",
+      "summary": "JPYCは9日、ステーブルコイン決済の登場を踏まえ、9月14日に公正取引委員会へキャッシュレス決済市場の競争環境を情報提供したことを明らかにした。導入店の割引・送料無料と加盟店規約の関係についての考え方も公表した。",
+      "url": "https://coinpost.jp/?p=742088",
+      "important": true
+    },
+    {
+      "date": "2026-10-09",
+      "title": "French lawmakers back stablecoin swap tax in 2027 budget bill",
+      "summary": "France’s Finance Committee backed taxes on stablecoin swaps, as well as unrealized crypto gains when household…",
+      "url": "https://cointelegraph.com/news/france-crypto-stablecoin-swap-tax-2027-budget?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-10-09",
+      "title": "XRP Ledger adds new controls for banks, stablecoins and tokenized funds",
+      "summary": "The feature lets businesses give separate accounts limited powers such as approving customers or making paymen…",
+      "url": "https://www.coindesk.com/tech/2026/10/09/xrp-ledger-adds-new-controls-for-banks-stablecoins-and-tokenized-funds",
+      "important": true
+    },
+    {
+      "date": "2026-10-09",
+      "title": "Cantor Fitzgerald faces Senate Democrat’s questions over Tether ties",
+      "summary": "The letter follows a report by the Democratic investigators last month alleging Tether’s USDT has become a key…",
+      "url": "https://cointelegraph.com/news/cantor-fitzgerald-faces-senate-democrats-probe-over-tether-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
     },
     {
       "date": "2026-10-08",
