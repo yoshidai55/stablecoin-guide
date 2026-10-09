@@ -1,41 +1,41 @@
 {
-  "updated": "2026-10-08T09:02:45+09:00",
+  "updated": "2026-10-09T09:11:35+09:00",
   "items": [
     {
-      "date": "2026-10-07",
-      "title": "セキュリタイズ、韓国株トークン化を検討｜LG CNSと覚書",
-      "summary": "トークン化プラットフォームのセキュリタイズは6日、韓国のIT企業LG CNSと覚書を通じて提携すると発表した。韓国とアジア太平洋地域で、トークン化資産、証券、ステーブルコインの機関向け活用事例を開発する。",
-      "url": "https://coinpost.jp/?p=741448"
+      "date": "2026-10-08",
+      "title": "【10/8話題】コインチェックがNAC取扱開始、NOT A HOTEL DAOはCoincheck CaaS導入、Samsung WalletでUSDC国際送金を提供へなど（音声ニュース）",
+      "summary": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif…",
+      "url": "https://www.neweconomy.jp/posts/615182"
     },
     {
       "date": "2026-10-08",
-      "title": "Circle brings USDC, EURC payments to SAP customers through Tereina",
-      "summary": "The partnership with SAP-backed Tereina will let businesses send and receive Circle’s stablecoins from within …",
-      "url": "https://cointelegraph.com/news/circle-usdc-eurc-payments-sap-enterprise-ecosystem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      "title": "ポリゴンの決済基盤「Open Money Stack」がトロン対応、USDTと銀行決済網を接続",
+      "summary": "トロン上のUSDTと法定通貨の相互交換やクロスチェーン送金に対応 ポリゴンラボ（Polygon Labs）が、企業向け決済基盤「ポリゴン・オープン・マネー・スタック（Polygon Open Money Stack：Po…",
+      "url": "https://www.neweconomy.jp/posts/615125"
     },
     {
       "date": "2026-10-08",
-      "title": "Polygon taps TRON’s $94 billion stablecoin supply for seamless cross-border transfers",
-      "summary": "Polygon said businesses can also move the world’s largest stablecoin USDT between TRON and EVM networks withou…",
-      "url": "https://www.coindesk.com/business/2026/10/07/polygon-and-tron-partner-to-bridge-usd94-billion-usdt-ecosystem-with-u-s-banking-rails"
+      "title": "GSR、オンチェーン運用事業「Hare」立ち上げ、1億ドルの資金提供へ",
+      "summary": "ステーブルコインとトークン化金の運用商品を準備 暗号資産（仮想通貨）の取引やマーケットメイクを手掛けるGSRが、オンチェーン金融向けの信用評価・運用事業「ヘア（Hare）」を立ち上げたと10月7日に発表した。 GSRは、…",
+      "url": "https://www.neweconomy.jp/posts/615096"
     },
     {
-      "date": "2026-10-08",
-      "title": "Tether, Kazakhstan cenbank mull tenge stablecoin and asset tokenization",
-      "summary": "The agreement will explore a tenge-backed stablecoin pilot and a framework for tokenizing real-world assets as…",
-      "url": "https://cointelegraph.com/news/tether-kazakhstan-central-bank-to-explore-tenge-stablecoin-and-asset-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      "date": "2026-04-15",
+      "title": "米超党派議員による「クラリティー法案」合意に向けた解決案、近日公開目指す",
+      "summary": "米上院議員が超党派でクラリティ法案の合意に向けた案をまもなく公表する意向を示した。銀行と仮想通貨業界が対立するステーブルコイン利回り問題に決着なるか注目される。",
+      "url": "https://coinpost.jp/?p=702024"
     },
     {
-      "date": "2026-10-07",
-      "title": "Tether tapped by Kazakhstan’s central bank to explore stablecoin and tokenization",
-      "summary": "The National Bank of Kazakhstan said it will study a local currency-linked stablecoin and tokenized real-world…",
-      "url": "https://www.coindesk.com/business/2026/10/07/tether-tapped-by-kazakhstan-s-central-bank-to-explore-stablecoin-and-tokenization"
+      "date": "2026-04-15",
+      "title": "ビザ・ストライプ・ゾディアの3社、決済向けL1「テンポ」のバリデータに参加",
+      "summary": "ステーブルコインなどの決済向けL1ブロックチェーンのテンポは、ビザ、ストライプ、ゾディアカストディがテンポのバリデータになったことを発表。今後の計画も説明した。",
+      "url": "https://coinpost.jp/?p=702017"
     },
     {
-      "date": "2026-10-07",
-      "title": "Crypto trading giant GSR's new vault business is a $100M bet on onchain credit",
-      "summary": "The firm is putting its own capital into stablecoin and tokenized gold vaults as institutional finance moves f…",
-      "url": "https://www.coindesk.com/business/2026/10/07/crypto-trading-giant-gsr-s-new-vault-business-is-a-usd100m-bet-on-onchain-credit"
+      "date": "2026-04-15",
+      "title": "ステーブルコイン最大手テザー、AIエージェント対応の独自ウォレット「tether.wallet」を一般公開",
+      "summary": "テザーが独自ウォレット「tether.wallet」を発表。USDTやビットコインを簡潔に管理でき、5億7000万人のユーザーへの金融インフラを直接提供する狙いだ。",
+      "url": "https://coinpost.jp/?p=701963"
     }
   ]
 }

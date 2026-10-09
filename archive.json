@@ -1,6 +1,27 @@
 {
-  "updated": "2026-10-08T09:02:45+09:00",
+  "updated": "2026-10-09T09:11:35+09:00",
   "items": [
+    {
+      "date": "2026-10-09",
+      "title": "China’s P2P stablecoin wallets surge 43x, Korea’s $450B crypto economy: Asia Express",
+      "summary": "Despite ongoing bans, China has seen a big surge in peer-to-peer stablecoin use. New figures show South Korea’…",
+      "url": "https://cointelegraph.com/magazine/chinas-p2p-stablecoin-wallets-surge-43x-koreas-450b-crypto-economy-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-10-09",
+      "title": "Top Democrat among Senate investigators probes ties between Cantor Fitzgerald, Tether",
+      "summary": "As Democrats steadily rise in their potential to take back a Senate majority, Senator Richard Blumenthal is di…",
+      "url": "https://www.coindesk.com/policy/2026/10/08/top-democrat-among-senate-investigators-probes-ties-between-cantor-fitzgerald-tether",
+      "important": false
+    },
+    {
+      "date": "2026-10-09",
+      "title": "EU securities regulator gives crypto platforms 3 months to remove unauthorized stablecoins",
+      "summary": "ESMA said authorized platforms must block new access to stablecoins that fail to meet MiCA rules, while nation…",
+      "url": "https://www.coindesk.com/policy/2026/10/08/eu-securities-regulator-gives-crypto-platforms-3-months-to-remove-unauthorized-stablecoins",
+      "important": true
+    },
     {
       "date": "2026-10-08",
       "title": "Circle brings USDC, EURC payments to SAP customers through Tereina",
@@ -21,6 +42,62 @@
       "summary": "The agreement will explore a tenge-backed stablecoin pilot and a framework for tokenizing real-world assets as…",
       "url": "https://cointelegraph.com/news/tether-kazakhstan-central-bank-to-explore-tenge-stablecoin-and-asset-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "important": true
+    },
+    {
+      "date": "2026-10-08",
+      "title": "【10/8話題】コインチェックがNAC取扱開始、NOT A HOTEL DAOはCoincheck CaaS導入、Samsung WalletでUSDC国際送金を提供へなど（音声ニュース）",
+      "summary": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif…",
+      "url": "https://www.neweconomy.jp/posts/615182",
+      "important": false
+    },
+    {
+      "date": "2026-10-08",
+      "title": "ポリゴンの決済基盤「Open Money Stack」がトロン対応、USDTと銀行決済網を接続",
+      "summary": "トロン上のUSDTと法定通貨の相互交換やクロスチェーン送金に対応 ポリゴンラボ（Polygon Labs）が、企業向け決済基盤「ポリゴン・オープン・マネー・スタック（Polygon Open Money Stack：Po…",
+      "url": "https://www.neweconomy.jp/posts/615125",
+      "important": false
+    },
+    {
+      "date": "2026-10-08",
+      "title": "GSR、オンチェーン運用事業「Hare」立ち上げ、1億ドルの資金提供へ",
+      "summary": "ステーブルコインとトークン化金の運用商品を準備 暗号資産（仮想通貨）の取引やマーケットメイクを手掛けるGSRが、オンチェーン金融向けの信用評価・運用事業「ヘア（Hare）」を立ち上げたと10月7日に発表した。 GSRは、…",
+      "url": "https://www.neweconomy.jp/posts/615096",
+      "important": false
+    },
+    {
+      "date": "2026-10-08",
+      "title": "NUVA brings U.S. residential mortgage credit to offshore investors",
+      "summary": "The company's HOME token gives eligible investors exposure to a vault of U.S. home equity lines of credit star…",
+      "url": "https://www.coindesk.com/business/2026/10/08/nuva-brings-u-s-residential-mortgage-credit-to-offshore-investors",
+      "important": false
+    },
+    {
+      "date": "2026-10-08",
+      "title": "ESMA gives crypto firms 3 months to exit non-compliant stablecoins",
+      "summary": "ESMA said EU crypto firms should halt services involving non-MiCA-compliant stablecoins, giving regulators thr…",
+      "url": "https://cointelegraph.com/news/esma-unauthorised-stablecoins-three-month-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-10-08",
+      "title": "Samsung integrates USDC to overhaul cross-border remittances for 82 million Galaxy users",
+      "summary": "Eligible users will be able to send USDC abroad or send local-currency payouts to bank accounts in more than 6…",
+      "url": "https://www.coindesk.com/tech/2026/10/08/solana-partners-with-samsung-to-integrate-usdc-in-82-million-phones",
+      "important": true
+    },
+    {
+      "date": "2026-10-08",
+      "title": "Samsung Wallet to add USDC transfers for US Galaxy users in October",
+      "summary": "Eligible US Galaxy will be able to send USDC to crypto wallets and transfer funds to bank accounts in more tha…",
+      "url": "https://cointelegraph.com/news/samsung-wallet-usdc-transfers-us-galaxy-users-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-10-08",
+      "title": "Standard Chartered plans institutional crypto custody in Singapore",
+      "summary": "Standard Chartered plans custody for cryptocurrencies, stablecoins and tokenized assets for institutional and …",
+      "url": "https://cointelegraph.com/news/standard-chartered-digital-asset-custody-services-singapore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
     },
     {
       "date": "2026-10-07",
@@ -5082,6 +5159,34 @@
       "summary": "全体の時価総額が史上最高を更新。USDTも約1,900億ドルの新高値をつけ、4カ月ぶりにシェアを回復した。",
       "url": "",
       "important": true
+    },
+    {
+      "date": "2026-04-15",
+      "title": "米超党派議員による「クラリティー法案」合意に向けた解決案、近日公開目指す",
+      "summary": "米上院議員が超党派でクラリティ法案の合意に向けた案をまもなく公表する意向を示した。銀行と仮想通貨業界が対立するステーブルコイン利回り問題に決着なるか注目される。",
+      "url": "https://coinpost.jp/?p=702024",
+      "important": true
+    },
+    {
+      "date": "2026-04-15",
+      "title": "ビザ・ストライプ・ゾディアの3社、決済向けL1「テンポ」のバリデータに参加",
+      "summary": "ステーブルコインなどの決済向けL1ブロックチェーンのテンポは、ビザ、ストライプ、ゾディアカストディがテンポのバリデータになったことを発表。今後の計画も説明した。",
+      "url": "https://coinpost.jp/?p=702017",
+      "important": false
+    },
+    {
+      "date": "2026-04-15",
+      "title": "ステーブルコイン最大手テザー、AIエージェント対応の独自ウォレット「tether.wallet」を一般公開",
+      "summary": "テザーが独自ウォレット「tether.wallet」を発表。USDTやビットコインを簡潔に管理でき、5億7000万人のユーザーへの金融インフラを直接提供する狙いだ。",
+      "url": "https://coinpost.jp/?p=701963",
+      "important": false
+    },
+    {
+      "date": "2026-04-14",
+      "title": "Yコンビネータが初めてステーブルコインで50万ドル投資、ソラナチェーンで決済",
+      "summary": "スタートアップ育成の世界的リーダー「Y Combinator」が予測市場Totalisに50万ドルをUSDCで投資。ブロックチェーン上で即座に決済され、初の仮想通貨のみによるYC投資となった。スタートアップ資金調達の形態…",
+      "url": "https://coinpost.jp/?p=701785",
+      "important": false
     },
     {
       "date": "2026-03",
