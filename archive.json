@@ -1,11 +1,18 @@
 {
-  "updated": "2026-10-10T08:52:18+09:00",
+  "updated": "2026-10-11T08:19:13+09:00",
   "items": [
     {
       "date": "2026-10-10",
       "title": "THORChain exec accuses Tether of temporarily freezing USDT vaults",
       "summary": "Chad Barraford, technical co-founder of the network, said that the funds were frozen and then unfrozen without…",
       "url": "https://cointelegraph.com/news/thorchain-tether-freezing-usdt-addresses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-10-10",
+      "title": "Visa survey says nearly half of APAC consumers open to using stablecoins by 2031",
+      "summary": "Visa’s survey of 14,250 people found interest in stablecoin payments is growing, though only 6% of respondents…",
+      "url": "https://www.coindesk.com/business/2026/10/05/1-2-billion-apac-consumers-could-adopt-stablecoins-by-2031-according-to-visa",
       "important": false
     },
     {
