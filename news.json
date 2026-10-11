@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T08:19:13+09:00",
+  "updated": "2026-10-12T08:29:24+09:00",
   "items": [
     {
       "date": "2026-10-09",
@@ -21,7 +21,7 @@
     },
     {
       "date": "2026-10-10",
-      "title": "THORChain exec accuses Tether of temporarily freezing USDT vaults",
+      "title": "THORChain dev accuses Tether of temporarily freezing USDT vaults",
       "summary": "Chad Barraford, technical co-founder of the network, said that the funds were frozen and then unfrozen without…",
       "url": "https://cointelegraph.com/news/thorchain-tether-freezing-usdt-addresses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     },
@@ -33,9 +33,9 @@
     },
     {
       "date": "2026-10-09",
-      "title": "XRP Ledger adds new controls for banks, stablecoins and tokenized funds",
-      "summary": "The feature lets businesses give separate accounts limited powers such as approving customers or making paymen…",
-      "url": "https://www.coindesk.com/tech/2026/10/09/xrp-ledger-adds-new-controls-for-banks-stablecoins-and-tokenized-funds"
+      "title": "Cantor Fitzgerald faces Senate Democrat’s questions over Tether ties",
+      "summary": "The letter follows a report by the Democratic investigators last month alleging Tether’s USDT has become a key…",
+      "url": "https://cointelegraph.com/news/cantor-fitzgerald-faces-senate-democrats-probe-over-tether-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     }
   ]
 }
