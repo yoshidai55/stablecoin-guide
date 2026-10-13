@@ -1,6 +1,48 @@
 {
-  "updated": "2026-10-11T08:19:13+09:00",
+  "updated": "2026-10-13T10:52:54+09:00",
   "items": [
+    {
+      "date": "2026-10-13",
+      "title": "スタンダードチャータード、リップルのRLUSDのカストディを開始",
+      "summary": "スタンダードチャータードは、リップルのステーブルコインRLUSDの機関向けカストディサービスを開始したことを発表。リップルとLMAXグループとの協業も公表した。",
+      "url": "https://coinpost.jp/?p=742424",
+      "important": false
+    },
+    {
+      "date": "2026-10-13",
+      "title": "US accounting overhaul could make stablecoins more attractive to corporations: Tempo",
+      "summary": "A Tempo report examines how proposed US accounting rules could change corporate stablecoin holdings, with dire…",
+      "url": "https://cointelegraph.com/news/fasb-stablecoin-accounting-rules-corporate-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-10-12",
+      "title": "Standard Chartered offers RLUSD custody in Dubai and plans LMAX collateral link",
+      "summary": "Ripple previously gave LMAX $150 million in financing to integrate RLUSD into its institutional infrastructure…",
+      "url": "https://www.coindesk.com/business/2026/10/12/standard-chartered-offers-rlusd-custody-in-dubai-and-plans-lmax-collateral-link",
+      "important": false
+    },
+    {
+      "date": "2026-10-12",
+      "title": "Global financial watchdog calls for cross-border information sharing, planning for stablecoin crisis",
+      "summary": "Coins jointly issued by multiple companies can trap reserves in one jurisdiction while redemption demands hit …",
+      "url": "https://www.coindesk.com/policy/2026/10/12/global-financial-watchdog-calls-for-cross-border-information-sharing-planning-for-stablecoin-crisis",
+      "important": false
+    },
+    {
+      "date": "2026-10-12",
+      "title": "Standard Chartered adds Ripple USD custody, eyes LMAX collateral deal",
+      "summary": "Standard Chartered has launched custody for Ripple’s RLUSD stablecoin on the XRP Ledger and plans to let insti…",
+      "url": "https://cointelegraph.com/news/standard-chartered-rlusd-custody-lmax-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-10-12",
+      "title": "Global watchdog flags stablecoin risks, AI threats ahead of G20",
+      "summary": "The Financial Stability Board flagged cross-border stablecoin risks and AI-related cybersecurity threats while…",
+      "url": "https://cointelegraph.com/news/fsb-stablecoin-ai-risks-g20-finance-meeting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
     {
       "date": "2026-10-10",
       "title": "THORChain exec accuses Tether of temporarily freezing USDT vaults",
