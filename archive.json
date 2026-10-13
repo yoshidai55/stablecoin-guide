@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-13T10:52:54+09:00",
+  "updated": "2026-10-14T08:38:18+09:00",
   "items": [
+    {
+      "date": "2026-10-14",
+      "title": "リップルとストライプ傘下Privyが提携、XRPレジャーの決済・AI向けウォレット基盤を開発者に提供",
+      "summary": "ストライプ傘下のPrivyがリップルと提携し、XRPレジャー上のウォレットを開発者がプログラムで作成・署名できるようにすると13日に発表。XRPやRLUSDに加え、AIエージェント向けのx402決済にも対応する。",
+      "url": "https://coinpost.jp/?p=742649",
+      "important": false
+    },
     {
       "date": "2026-10-13",
       "title": "スタンダードチャータード、リップルのRLUSDのカストディを開始",
@@ -14,6 +21,27 @@
       "summary": "A Tempo report examines how proposed US accounting rules could change corporate stablecoin holdings, with dire…",
       "url": "https://cointelegraph.com/news/fasb-stablecoin-accounting-rules-corporate-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "important": false
+    },
+    {
+      "date": "2026-10-13",
+      "title": "スタンダードチャータード、RLUSDのカストディ開始、LMAXでの担保利用へ",
+      "summary": "XRPL上のRLUSDを保管、LMAXでの取引担保活用へ 英大手銀行スタンダードチャータード（Standard Chartered）が、米リップル（Ripple）が提供する米ドル連動型ステーブルコイン「リップルUSD（R…",
+      "url": "https://www.neweconomy.jp/posts/616122",
+      "important": false
+    },
+    {
+      "date": "2026-10-13",
+      "title": "Russia clears Sberbank for crypto trading ahead of December launch",
+      "summary": "Russia’s largest bank, Sberbank, has secured crypto exchange authorization as it prepares to offer Bitcoin, Et…",
+      "url": "https://cointelegraph.com/news/sberbank-russia-crypto-trading-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-10-13",
+      "title": "Russia’s largest bank Sberbank secures approval to trade crypto",
+      "summary": "Sberbank plans to open crypto trading to all clients Dec. 1 and is already testing BTC, ETH and USDT trades in…",
+      "url": "https://www.coindesk.com/business/2026/10/13/russia-s-largest-bank-sberbank-secures-approval-to-trade-crypto",
+      "important": true
     },
     {
       "date": "2026-10-12",
