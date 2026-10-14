@@ -1,11 +1,88 @@
 {
-  "updated": "2026-10-14T08:38:18+09:00",
+  "updated": "2026-10-15T08:02:13+09:00",
   "items": [
+    {
+      "date": "2026-10-15",
+      "title": "英大手銀、ステーブルコイン2兆ドル到達予測を2030年に後ろ倒し",
+      "summary": "スタンダードチャータードが、ステーブルコイン市場が2兆ドルに達する時期の予測を2028年から2030年に延期した。供給量は約3,090億ドルで停滞する一方、送金額は拡大し、同行は規制を最大のリスクに挙げた。",
+      "url": "https://coinpost.jp/?p=742972",
+      "important": true
+    },
+    {
+      "date": "2026-10-15",
+      "title": "EU authority classifies Circle’s USDC as ‘significant’ under MiCA",
+      "summary": "The second-largest stablecoin by market cap will be overseen by French and EU authorities under its classifica…",
+      "url": "https://cointelegraph.com/news/eba-circle-usdc-stablecoin-significant-token-mica?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-10-15",
+      "title": "Standard Chartered pushes $2T stablecoin forecast to 2030 as transaction volumes grow",
+      "summary": "The bank identified four distinct stablecoin markets, with USDC leading payments and AI transactions as compet…",
+      "url": "https://cointelegraph.com/news/standard-chartered-stablecoin-forecast-2030-market-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
     {
       "date": "2026-10-14",
       "title": "リップルとストライプ傘下Privyが提携、XRPレジャーの決済・AI向けウォレット基盤を開発者に提供",
       "summary": "ストライプ傘下のPrivyがリップルと提携し、XRPレジャー上のウォレットを開発者がプログラムで作成・署名できるようにすると13日に発表。XRPやRLUSDに加え、AIエージェント向けのx402決済にも対応する。",
       "url": "https://coinpost.jp/?p=742649",
+      "important": false
+    },
+    {
+      "date": "2026-10-14",
+      "title": "【10/14話題】レジャーの不正部品による復元フレーズ窃取の手口公表、メタプラネットがユーロ円建て転換社債を初発行へなど（音声ニュース）",
+      "summary": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif…",
+      "url": "https://www.neweconomy.jp/posts/616643",
+      "important": false
+    },
+    {
+      "date": "2026-10-14",
+      "title": "テザー、EFYファイナンスに出資。中南米でステーブルコイン利用基盤の強化へ",
+      "summary": "企業・金融機関によるUSDT・USATの活用拡大を支援 米ドル建てステーブルコイン「USDT」を発行するテザー（Tether）が、金融インフラ企業EFYファイナンス（EFY Finance）への出資を10月13日に発表し…",
+      "url": "https://www.neweconomy.jp/posts/616619",
+      "important": false
+    },
+    {
+      "date": "2026-10-14",
+      "title": "バイビット、米国株・ETFの取引サービス開始、1000銘柄超がUSDCで取引可能に",
+      "summary": "Bybitが米国株・ETFの取引サービス開始 海外大手暗号資産（仮想通貨）取引所バイビット（Bybit）が、1,000銘柄以上の米国上場株式とETF（上場投資信託）を取引できるサービスの提供開始を10月12日に発表した。…",
+      "url": "https://www.neweconomy.jp/posts/616547",
+      "important": true
+    },
+    {
+      "date": "2026-10-14",
+      "title": "金融安定理事会、ステーブルコイン破綻時の倒産法制が不明確と指摘",
+      "summary": "金融安定理事会は、グローバル・ステーブルコインの脆弱性と規制方法、金融安定の監視に使うデータの課題などをまとめたレポートを公表した。",
+      "url": "https://coinpost.jp/?p=742783",
+      "important": true
+    },
+    {
+      "date": "2026-10-14",
+      "title": "米大手銀ウェルズ・ファーゴCEO、米国のステーブルコイン用途は「まだ不明確」",
+      "summary": "米ウェルズ・ファーゴのシャーフCEOは13日の決算説明会で、米国でのステーブルコインの用途は「まだ不明確」と述べた。同行は9月に法人向けトークン化預金を始め、世界21の金融機関によるステーブルコイン新会社の設立にも加わっ…",
+      "url": "https://coinpost.jp/?p=742774",
+      "important": false
+    },
+    {
+      "date": "2026-10-14",
+      "title": "Qivalis wins Dutch e-money license for euro stablecoin",
+      "summary": "Qivalis said the Electronic Money Institution authorization enables it to launch a euro-denominated stablecoin…",
+      "url": "https://cointelegraph.com/news/qivalis-authorization-dutch-central-bank-euro-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-10-14",
+      "title": "Proposed 31.4% French tax on regulated stablecoins could drive crypto traders offshore",
+      "summary": "Chainalysis' regional sales director in France Francois Volpoet warned the proposed 31.4% tax on regulated sta…",
+      "url": "https://www.coindesk.com/policy/2026/10/14/proposed-french-tax-on-regulated-stablecoins-could-drive-crypto-traders-offshore",
+      "important": false
+    },
+    {
+      "date": "2026-10-14",
+      "title": "Ripple adds Stripe-owned wallets to XRP Ledger as AI payments pass 14 million",
+      "summary": "The integration will let software pay for online services using XRP and RLUSD, while questions remain about ho…",
+      "url": "https://www.coindesk.com/tech/2026/10/14/ripple-adds-stripe-owned-wallets-to-xrp-ledger-as-ai-payments-pass-14-million",
       "important": false
     },
     {
