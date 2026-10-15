@@ -1,6 +1,27 @@
 {
-  "updated": "2026-10-15T08:02:13+09:00",
+  "updated": "2026-10-16T07:55:59+09:00",
   "items": [
+    {
+      "date": "2026-10-16",
+      "title": "Ex-Trump crypto adviser profited after helping pass stablecoin bill: WSJ",
+      "summary": "The Wall Street Journal reported that a company co-founded by Bo Hines benefited from the passage of the GENIU…",
+      "url": "https://cointelegraph.com/news/bo-hines-donald-trump-crypto-advisor-nxum-tether-conflict?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-10-16",
+      "title": "Sweden revisits digital krona as ECB advances digital euro plans",
+      "summary": "Sweden’s Riksbank has recommended that lawmakers prepare for a possible digital krona, citing concerns over fo…",
+      "url": "https://cointelegraph.com/news/sweden-riksbank-digital-krona-cbdc-legislation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-10-16",
+      "title": "Mastercard brings stablecoin balances into traditional banking and card payments",
+      "summary": "The launch of Global Money Platform marks Mastercard’s first major integration with BVNK since its August acqu…",
+      "url": "https://cointelegraph.com/news/mastercard-bvnk-global-money-platform-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
     {
       "date": "2026-10-15",
       "title": "英大手銀、ステーブルコイン2兆ドル到達予測を2030年に後ろ倒し",
@@ -20,6 +41,41 @@
       "title": "Standard Chartered pushes $2T stablecoin forecast to 2030 as transaction volumes grow",
       "summary": "The bank identified four distinct stablecoin markets, with USDC leading payments and AI transactions as compet…",
       "url": "https://cointelegraph.com/news/standard-chartered-stablecoin-forecast-2030-market-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-10-15",
+      "title": "円連動目標「JPYdf」発行の「JPY DeFi」、イーサリアムでメインネット公開",
+      "summary": "wstETHとUSDCを担保にJPYdfを借り入れ デルタフォーサイト（DeltaForesight）が設計・開発に携わるDeFi（分散型金融）プロトコル「JPY DeFi」が、イーサリアム（Ethereum）メインネッ…",
+      "url": "https://www.neweconomy.jp/posts/617065",
+      "important": false
+    },
+    {
+      "date": "2026-10-15",
+      "title": "米リップル、証券取引基盤にRLUSD決済など導入へ。ドライブウェルスと提携で",
+      "summary": "RippleとDriveWealthが提携 米リップル（Ripple）と証券取引基盤提供のドライブウェルス（DriveWealth）が、ステーブルコインによる精算やデジタル資産の保管機能の導入に向けて提携したと10月14…",
+      "url": "https://www.neweconomy.jp/posts/617031",
+      "important": false
+    },
+    {
+      "date": "2026-10-15",
+      "title": "露スベルバンク、暗号資産交換業者に登録。12月からBTC・ETH・USDT取扱開始を計画",
+      "summary": "暗号資産交換業とカストディの両方に登録 ロシア最大手銀行のスベルバンク（Sberbank）が、同国中央銀行（Bank of Russia）から暗号資産（仮想通貨）交換業者として登録を受けた。ロシアのインタファクス通信（I…",
+      "url": "https://www.neweconomy.jp/posts/617025",
+      "important": true
+    },
+    {
+      "date": "2026-10-15",
+      "title": "ドル建てステーブルコインUSDC払い可能な「Slash Card」一般公開へ",
+      "summary": "Slash Visionは15日、アプリ「Slash App」を正式リリースし、USDCで決済できるVisaカード「Slash Card」を一般公開した。事前登録制を終え、誰でもアプリから申し込める。運転免許証による本人…",
+      "url": "https://coinpost.jp/?p=743196",
+      "important": false
+    },
+    {
+      "date": "2026-10-15",
+      "title": "ステーブルコインUSDC、EU初の「重要な電子マネートークン（EMT）」に指定",
+      "summary": "EU当局は14日、サークル社のステーブルコインUSDCをMiCAに基づく初の「重要な電子マネートークン」に分類した。準備資産や流動性などの直接監督権限がEUに移る。",
+      "url": "https://coinpost.jp/?p=743060",
       "important": true
     },
     {
