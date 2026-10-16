@@ -1,41 +1,41 @@
 {
-  "updated": "2026-10-16T07:55:59+09:00",
+  "updated": "2026-10-17T07:39:40+09:00",
   "items": [
     {
-      "date": "2026-10-15",
-      "title": "円連動目標「JPYdf」発行の「JPY DeFi」、イーサリアムでメインネット公開",
-      "summary": "wstETHとUSDCを担保にJPYdfを借り入れ デルタフォーサイト（DeltaForesight）が設計・開発に携わるDeFi（分散型金融）プロトコル「JPY DeFi」が、イーサリアム（Ethereum）メインネッ…",
-      "url": "https://www.neweconomy.jp/posts/617065"
+      "date": "2026-10-17",
+      "title": "ドイツ銀行、法人向け仮想通貨保管サービスを数週間以内に開始 アジア展開も",
+      "summary": "ドイツ銀行が数週間以内にドイツで、法人向けの仮想通貨保管サービスを開始し、2027年にアジアの金融拠点へ展開する計画だ。ビットコインとイーサリアムの保管から始め、ステーブルコインの出し入れ支援やトークン化預金へ段階的に広…",
+      "url": "https://coinpost.jp/?p=743405"
     },
     {
-      "date": "2026-10-15",
-      "title": "米リップル、証券取引基盤にRLUSD決済など導入へ。ドライブウェルスと提携で",
-      "summary": "RippleとDriveWealthが提携 米リップル（Ripple）と証券取引基盤提供のドライブウェルス（DriveWealth）が、ステーブルコインによる精算やデジタル資産の保管機能の導入に向けて提携したと10月14…",
-      "url": "https://www.neweconomy.jp/posts/617031"
-    },
-    {
-      "date": "2026-10-15",
-      "title": "露スベルバンク、暗号資産交換業者に登録。12月からBTC・ETH・USDT取扱開始を計画",
-      "summary": "暗号資産交換業とカストディの両方に登録 ロシア最大手銀行のスベルバンク（Sberbank）が、同国中央銀行（Bank of Russia）から暗号資産（仮想通貨）交換業者として登録を受けた。ロシアのインタファクス通信（I…",
-      "url": "https://www.neweconomy.jp/posts/617025"
-    },
-    {
-      "date": "2026-10-15",
-      "title": "ドル建てステーブルコインUSDC払い可能な「Slash Card」一般公開へ",
-      "summary": "Slash Visionは15日、アプリ「Slash App」を正式リリースし、USDCで決済できるVisaカード「Slash Card」を一般公開した。事前登録制を終え、誰でもアプリから申し込める。運転免許証による本人…",
-      "url": "https://coinpost.jp/?p=743196"
-    },
-    {
-      "date": "2026-10-15",
-      "title": "ステーブルコインUSDC、EU初の「重要な電子マネートークン（EMT）」に指定",
-      "summary": "EU当局は14日、サークル社のステーブルコインUSDCをMiCAに基づく初の「重要な電子マネートークン」に分類した。準備資産や流動性などの直接監督権限がEUに移る。",
-      "url": "https://coinpost.jp/?p=743060"
+      "date": "2026-10-17",
+      "title": "サークル、上半期売上の約59％を提携先と取引費用に",
+      "summary": "サークルは16日、2026年上期の売上約14億ドルのうち約8.19億ドルをUSDC流通の提携先と取引費用に支払い、純利益は売上1ドルあたり約7セントだったと明らかにした。新規参入企業の主張には反論した。",
+      "url": "https://coinpost.jp/?p=743407"
     },
     {
       "date": "2026-10-16",
-      "title": "Ex-Trump crypto adviser profited after helping pass stablecoin bill: WSJ",
-      "summary": "The Wall Street Journal reported that a company co-founded by Bo Hines benefited from the passage of the GENIU…",
-      "url": "https://cointelegraph.com/news/bo-hines-donald-trump-crypto-advisor-nxum-tether-conflict?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      "title": "【10/16話題】3メガバンク円建てステーブルコインの共同発行が実証完了、SBIとスターテイルがOpen Standard参画、レジャーのAndroid搭載端末など（音声ニュース）",
+      "summary": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif…",
+      "url": "https://www.neweconomy.jp/posts/617540"
+    },
+    {
+      "date": "2026-10-16",
+      "title": "3メガ銀、共同発行ステーブルコインで国際決済の実証を完了",
+      "summary": "みずほ銀行・三菱UFJ銀行・三井住友銀行の3メガバンクなど5社が、共同発行する円建てステーブルコインで三菱商事の国際決済を想定した実証を実施した。信託型の発行スキームとAML対策、2026年度中の実取引に向けた設計を整理…",
+      "url": "https://coinpost.jp/?p=743371"
+    },
+    {
+      "date": "2026-10-16",
+      "title": "3メガバンクら、円建てステーブルコイン共同発行の実証完了。国際送金への活用も検証",
+      "summary": "3メガバンクが共同発行モデルとクロスボーダー決済を検証 みずほ銀行、三菱UFJ銀行、三井住友銀行、三菱UFJ信託銀行、TISIの5社が、複数銀行によるステーブルコインの共同発行とクロスボーダー決済の高度化に関する実証実験…",
+      "url": "https://www.neweconomy.jp/posts/617525"
+    },
+    {
+      "date": "2026-10-16",
+      "title": "テザー、AIエージェント向け決済基盤「AIsa」に戦略的出資",
+      "summary": "TetherがAIsaに戦略的出資 ステーブルコイン事業を展開するテザー（Tether）の独立投資部門テザー・キャピタル（Tether Capital）が、AIエージェント向け決済基盤を提供する米AIsaに戦略的出資した…",
+      "url": "https://www.neweconomy.jp/posts/617486"
     }
   ]
 }

@@ -1,6 +1,34 @@
 {
-  "updated": "2026-10-16T07:55:59+09:00",
+  "updated": "2026-10-17T07:39:40+09:00",
   "items": [
+    {
+      "date": "2026-10-17",
+      "title": "ドイツ銀行、法人向け仮想通貨保管サービスを数週間以内に開始 アジア展開も",
+      "summary": "ドイツ銀行が数週間以内にドイツで、法人向けの仮想通貨保管サービスを開始し、2027年にアジアの金融拠点へ展開する計画だ。ビットコインとイーサリアムの保管から始め、ステーブルコインの出し入れ支援やトークン化預金へ段階的に広…",
+      "url": "https://coinpost.jp/?p=743405",
+      "important": false
+    },
+    {
+      "date": "2026-10-17",
+      "title": "サークル、上半期売上の約59％を提携先と取引費用に",
+      "summary": "サークルは16日、2026年上期の売上約14億ドルのうち約8.19億ドルをUSDC流通の提携先と取引費用に支払い、純利益は売上1ドルあたり約7セントだったと明らかにした。新規参入企業の主張には反論した。",
+      "url": "https://coinpost.jp/?p=743407",
+      "important": false
+    },
+    {
+      "date": "2026-10-17",
+      "title": "Stablecoin remittances cost 84% less than traditional transfers, report finds",
+      "summary": "Borderless.xyz data shows major savings on cross-border business payments, with stablecoin transfers also sett…",
+      "url": "https://cointelegraph.com/news/stablecoin-remittances-cost-savings-traditional-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-10-17",
+      "title": "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
+      "summary": "Tokenized stocks are drawing trading activity beyond Wall Street hours, while Bitcoin miners confront costly A…",
+      "url": "https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
     {
       "date": "2026-10-16",
       "title": "Ex-Trump crypto adviser profited after helping pass stablecoin bill: WSJ",
@@ -21,6 +49,69 @@
       "summary": "The launch of Global Money Platform marks Mastercard’s first major integration with BVNK since its August acqu…",
       "url": "https://cointelegraph.com/news/mastercard-bvnk-global-money-platform-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "important": true
+    },
+    {
+      "date": "2026-10-16",
+      "title": "【10/16話題】3メガバンク円建てステーブルコインの共同発行が実証完了、SBIとスターテイルがOpen Standard参画、レジャーのAndroid搭載端末など（音声ニュース）",
+      "summary": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif…",
+      "url": "https://www.neweconomy.jp/posts/617540",
+      "important": false
+    },
+    {
+      "date": "2026-10-16",
+      "title": "3メガ銀、共同発行ステーブルコインで国際決済の実証を完了",
+      "summary": "みずほ銀行・三菱UFJ銀行・三井住友銀行の3メガバンクなど5社が、共同発行する円建てステーブルコインで三菱商事の国際決済を想定した実証を実施した。信託型の発行スキームとAML対策、2026年度中の実取引に向けた設計を整理…",
+      "url": "https://coinpost.jp/?p=743371",
+      "important": false
+    },
+    {
+      "date": "2026-10-16",
+      "title": "3メガバンクら、円建てステーブルコイン共同発行の実証完了。国際送金への活用も検証",
+      "summary": "3メガバンクが共同発行モデルとクロスボーダー決済を検証 みずほ銀行、三菱UFJ銀行、三井住友銀行、三菱UFJ信託銀行、TISIの5社が、複数銀行によるステーブルコインの共同発行とクロスボーダー決済の高度化に関する実証実験…",
+      "url": "https://www.neweconomy.jp/posts/617525",
+      "important": false
+    },
+    {
+      "date": "2026-10-16",
+      "title": "テザー、AIエージェント向け決済基盤「AIsa」に戦略的出資",
+      "summary": "TetherがAIsaに戦略的出資 ステーブルコイン事業を展開するテザー（Tether）の独立投資部門テザー・キャピタル（Tether Capital）が、AIエージェント向け決済基盤を提供する米AIsaに戦略的出資した…",
+      "url": "https://www.neweconomy.jp/posts/617486",
+      "important": false
+    },
+    {
+      "date": "2026-10-16",
+      "title": "マスターカードとBVNK、法定通貨とステーブルコイン対応の決済基盤を提供開始。銀行送金やカード決済も統合",
+      "summary": "マスターカードとBVNKが企業向け決済基盤を提供開始 米決済大手マスターカード（Mastercard）と、ステーブルコイン決済インフラを提供するBVNKが、企業向け決済基盤「マスターカード・グローバル・マネー・プラットフ…",
+      "url": "https://www.neweconomy.jp/posts/617453",
+      "important": false
+    },
+    {
+      "date": "2026-10-16",
+      "title": "リップル社、株式や金属などに連動する無期限スワップを機関向けに開始",
+      "summary": "リップル社の機関投資家向けプライムブローカー「リップルプライム」が、株式やETF、金属、為替など100超の市場を参照するRWA無期限スワップの提供を始めた。ハイパーリキッド上の先物を参照し、24時間取引できる。担保にはR…",
+      "url": "https://coinpost.jp/?p=743347",
+      "important": false
+    },
+    {
+      "date": "2026-10-16",
+      "title": "SBIら、ドル建てOUSD連合に参画 円建てJPYSCと相互運用を検討",
+      "summary": "SBIホールディングスとスターテイルが、米ドル建てステーブルコインOUSDを推進するオープンスタンダードに参画した。ビザやコインベースなど140社超が加わる枠組みで、円建てステーブルコインJPYSCとの相互運用に向けた実…",
+      "url": "https://coinpost.jp/?p=743339",
+      "important": false
+    },
+    {
+      "date": "2026-10-16",
+      "title": "Circle targets 40 new markets as stablecoin demand grows globally",
+      "summary": "The stablecoin issuer’s CEO Jerermy Allaire told Reuters demand for digital dollars is growing across Asia, Af…",
+      "url": "https://www.coindesk.com/business/2026/10/16/circle-targets-40-new-markets-as-stablecoin-demand-grows-globally",
+      "important": false
+    },
+    {
+      "date": "2026-10-16",
+      "title": "CONNECT recap: Liquidity is tokenization’s next challenge, everyday stablecoins",
+      "summary": "Panelists at Cointelegraph’s Singapore CONNECT event explored opportunities in tokenized markets, the future o…",
+      "url": "https://cointelegraph.com/news/connect-recap-tokenizations-next-challenge-is-building-liquidity-gsr-executive-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
     },
     {
       "date": "2026-10-15",
