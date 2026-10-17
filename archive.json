@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T07:39:40+09:00",
+  "updated": "2026-10-18T06:59:53+09:00",
   "items": [
     {
       "date": "2026-10-17",
@@ -27,6 +27,34 @@
       "title": "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
       "summary": "Tokenized stocks are drawing trading activity beyond Wall Street hours, while Bitcoin miners confront costly A…",
       "url": "https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-10-17",
+      "title": "ビザ、ステーブルコインUSDCの事前入金を商用化 国際送金で24時間利用可",
+      "summary": "ビザは15日、ビザ・ダイレクトで国際送金の資金をUSDCで事前入金できる機能の商用運用を始めた。従来の資金調達の時間枠に頼らず、インヨ・グローバル経由で24時間利用できる。",
+      "url": "https://coinpost.jp/?p=743447",
+      "important": false
+    },
+    {
+      "date": "2026-10-17",
+      "title": "コインベース、カード発行のMarqetaに仮想通貨基盤提供",
+      "summary": "仮想通貨取引所コインベースが、カード発行基盤を手がける米マーケタの企業顧客向けに、ステーブルコイン裏付けカードの保管・換金・決済基盤を提供する。カード保有者は世界の加盟店でステーブルコイン残高を使える。",
+      "url": "https://coinpost.jp/?p=743408",
+      "important": false
+    },
+    {
+      "date": "2026-10-17",
+      "title": "Banks could slow stablecoin growth by paying savers more, BIS paper finds",
+      "summary": "A BIS working paper found a 1 basis point rise in U.S. bank deposit rates predicted slower stablecoin growth, …",
+      "url": "https://www.coindesk.com/business/2026/10/14/banks-could-slow-stablecoin-growth-by-paying-savers-more-bis-paper-finds",
+      "important": true
+    },
+    {
+      "date": "2026-10-17",
+      "title": "Circle’s Allaire says stablecoin issuer looking to enter 40 developing markets: Report",
+      "summary": "Markets in Southeast Asia, Latin America, Africa and the Middle East see increasing demand for stablecoins.",
+      "url": "https://cointelegraph.com/news/circles-allaire-says-stablecoin-issuer-looking-to-enter-40-developing-markets-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "important": false
     },
     {
