@@ -1,6 +1,27 @@
 {
-  "updated": "2026-10-18T06:59:53+09:00",
+  "updated": "2026-10-19T07:16:31+09:00",
   "items": [
+    {
+      "date": "2026-10-18",
+      "title": "Stablecoin supply stalls, but payments jump 45% as Visa, Mastercard and Stripe connect crypto to cash",
+      "summary": "Analytics firm Allium said stablecoin payments hit $482 billion this year so far, up 45%, as card spending sur…",
+      "url": "https://www.coindesk.com/business/2026/10/18/stablecoin-supply-stalls-but-payments-jump-45-as-visa-mastercard-and-stripe-connect-crypto-to-cash",
+      "important": false
+    },
+    {
+      "date": "2026-10-18",
+      "title": "Tether backs AIsa as strategic investor, completing seed extension round",
+      "summary": "The round brings AIsa’s total funding to more than $9 million.",
+      "url": "https://cointelegraph.com/news/tether-backs-aisa-as-strategic-investor-completing-seed-extension-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-10-18",
+      "title": "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut",
+      "summary": "Coinbase, Circle’s largest USDC partner, also backs Open USD, a rival network that passes reserve income to pa…",
+      "url": "https://www.coindesk.com/business/2026/10/17/circle-defends-usdc-economics-as-stablecoin-rivals-court-its-partners-with-bigger-cut",
+      "important": false
+    },
     {
       "date": "2026-10-17",
       "title": "ドイツ銀行、法人向け仮想通貨保管サービスを数週間以内に開始 アジア展開も",
