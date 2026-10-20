@@ -1,41 +1,41 @@
 {
-  "updated": "2026-10-20T08:25:08+09:00",
+  "updated": "2026-10-21T07:59:32+09:00",
   "items": [
     {
       "date": "2026-10-20",
-      "title": "【10/19話題】サークルが約40市場への事業拡大を計画、仏下院が暗号資産からステーブルコインへの交換課税案を可決など（音声ニュース）",
+      "title": "【10/20話題】ビットトレードがUPCの実店舗決済を実証へ、JPM Coinがイーサリアムで提供開始、マスターカードのステーブルコイン決済リスク分析ツールなど（音声ニュース）",
       "summary": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif…",
-      "url": "https://www.neweconomy.jp/posts/617987"
+      "url": "https://www.neweconomy.jp/posts/618708"
     },
     {
-      "date": "2026-10-19",
-      "title": "ビザ、ステーブルコイン事前資金拠出機能を段階的に商用運用へ",
-      "summary": "Visa Directで国際送金資金の事前拠出を商用化 米決済大手ビザ（Visa）が、資金移動サービス「ビザ・ダイレクト（Visa Direct）」において、米ドル連動型ステーブルコイン「USDC」を利用した事前資金拠出…",
-      "url": "https://www.neweconomy.jp/posts/617958"
+      "date": "2026-10-20",
+      "title": "金融庁、DeFi規制の在り方を点検 野村は「海外と同等」求める",
+      "summary": "金融庁は20日、デジタル・分散型金融に関する研究会の令和8事務年度初会合を開き、DEX・DeFiやステーブルコイン、資産トークン化の制度点検に入った。野村HDはDeFiやウォレットの規制を海外と同等の自由度の高いものにす…",
+      "url": "https://coinpost.jp/?p=744022"
     },
     {
-      "date": "2026-10-19",
-      "title": "ファイアブロックス、ステーブルコインの価格比較・取引基盤を提供開始",
-      "summary": "FireblocksがLiquidity Market提供 デジタル資産インフラ企業ファイアブロックス（Fireblocks）が、複数の店頭（OTC）取引業者の提示価格を比較し、ステーブルコインを売買できる基盤「リクイデ…",
-      "url": "https://www.neweconomy.jp/posts/617916"
+      "date": "2026-10-20",
+      "title": "テザーCEO、イラン関連のステーブルコイン取引量「94％減」と説明。米上院民主党側の報告に反論",
+      "summary": "テザーの制裁対応を巡る米上院側の指摘に反論 米ドル連動型ステーブルコイン「USDT」を発行するテザー（Tether）の最高経営責任者（CEO）パオロ・アルドイノ（Paolo Ardoino）氏が、同社の取り組みによりイラ…",
+      "url": "https://www.neweconomy.jp/posts/618697"
     },
     {
-      "date": "2026-10-19",
-      "title": "セイラー氏、ビットコインは強気相場へ BTC裏付けステーブルコインにも言及",
-      "summary": "ストラテジーのマイケル・セイラー会長は講演で、ビットコインは強気相場に戻りつつあると述べた。銀行のカストディと与信の拡大を主な追い風に挙げたほか、優先株STRCの買い戻しや利回り付きステーブルコイン構想にも言及した。",
-      "url": "https://coinpost.jp/?p=743712"
+      "date": "2026-10-20",
+      "title": "サークル、USDC・EURCの超過償還手数料を廃止、料金体系を2区分に整理",
+      "summary": "CircleがUSDC・EURCの超過償還手数料を廃止 米ステーブルコイン発行企業サークル（Circle）が、自社発行の米ドル建てステーブルコイン「USDC」とユーロ建てステーブルコイン「EURC」について、純償還額に応…",
+      "url": "https://www.neweconomy.jp/posts/618688"
     },
     {
-      "date": "2026-10-19",
-      "title": "BIS論文、預金金利上昇でステーブルコインの成長鈍化 USDCで顕著",
-      "summary": "BISのワーキングペーパーが、ステーブルコインと銀行預金は部分的な代替関係にあるとの分析を示した。預金金利0.01％上昇で平均15％の10週成長率は約12％、逆因果を補正すると約6％に鈍る。USDCの反応はUSDTより強…",
-      "url": "https://coinpost.jp/?p=743482"
+      "date": "2026-10-20",
+      "title": "フランス国民議会、ステーブルコイン交換に課税へ 修正案が僅差で可決",
+      "summary": "フランス国民議会は16日、仮想通貨をステーブルコインに交換した際の課税繰延を廃止する修正案を賛成38、反対37の僅差で可決した。対象はMiCA準拠のUSDCやEURCなどで、2027年1月から税率31.4%が適用される可…",
+      "url": "https://coinpost.jp/?p=743916"
     },
     {
-      "date": "2026-10-17",
-      "title": "ビザ、ステーブルコインUSDCの事前入金を商用化 国際送金で24時間利用可",
-      "summary": "ビザは15日、ビザ・ダイレクトで国際送金の資金をUSDCで事前入金できる機能の商用運用を始めた。従来の資金調達の時間枠に頼らず、インヨ・グローバル経由で24時間利用できる。",
-      "url": "https://coinpost.jp/?p=743447"
+      "date": "2026-10-21",
+      "title": "Injective, BDACS plan Korean won stablecoin settlement for tokenized assets",
+      "summary": "Injective and BDACS plan to bring won-backed stablecoin KRW1 to tokenized asset markets as South Korea develop…",
+      "url": "https://cointelegraph.com/news/injective-bdacs-korean-won-stablecoin-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     }
   ]
 }
