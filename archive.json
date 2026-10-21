@@ -1,6 +1,34 @@
 {
-  "updated": "2026-10-21T07:59:32+09:00",
+  "updated": "2026-10-22T08:03:06+09:00",
   "items": [
+    {
+      "date": "2026-10-22",
+      "title": "American Bankers Association: OCC’s GENIUS rules ‘undermine’ US Congress",
+      "summary": "Banking advocacy organizations are pushing back against the OCC’s finalized rules on a stablecoin law, arguing…",
+      "url": "https://cointelegraph.com/news/american-bankers-association-occ-genius-rules-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-10-22",
+      "title": "Tether backs Bolivian fintech bringing USDT payments to food delivery and banking",
+      "summary": "The investment will support Peso’s expansion across four Latin American markets, where it connects stablecoin …",
+      "url": "https://cointelegraph.com/news/tether-backs-bolivian-fintech-bringing-usdt-payments-to-food-delivery-and-banking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-10-22",
+      "title": "Treasury Secretary Bessent likens GENIUS Act to Lincoln-era banking reform",
+      "summary": "The OCC has finalized rules for stablecoin reserves and redemptions, with Bessent calling the GENIUS Act a “wa…",
+      "url": "https://cointelegraph.com/news/occ-finalizes-stablecoin-rules-genius-act-bessent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-10-22",
+      "title": "Crypto Long & Short: Why real-world assets need fixed-rate loans onchain",
+      "summary": "Real-world assets already back the largest stablecoins, yet borrowing against them onchain still runs through …",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/10/21/crypto-long-and-short-why-real-world-assets-need-fixed-rate-loans-onchain",
+      "important": false
+    },
     {
       "date": "2026-10-21",
       "title": "Injective, BDACS plan Korean won stablecoin settlement for tokenized assets",
@@ -14,6 +42,76 @@
       "summary": "Coinbase reports growing adoption by banks and businesses, even as stablecoin market capitalization remains la…",
       "url": "https://cointelegraph.com/news/stablecoins-move-400m-an-hour-as-73-of-volume-occurs-outside-banking-hours-coinbase-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "important": true
+    },
+    {
+      "date": "2026-10-21",
+      "title": "【10/21話題】JPYC活用の銀行口座連携型チャージ機能の実証へ、SBI VCトレードらが韓国シンハンカードとステーブルコイン決済の活用検討へなど（音声ニュース）",
+      "summary": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif…",
+      "url": "https://www.neweconomy.jp/posts/619049",
+      "important": true
+    },
+    {
+      "date": "2026-10-21",
+      "title": "インジェクティブ、韓国BDACSと提携。ウォン建てステーブルコイン「KRW1」をRWA決済に活用へ",
+      "summary": "InjectiveとBDACSがMOU締結 レイヤー1ブロックチェーン「インジェクティブ（Injective）」の開発チームが、韓国ウォン建てステーブルコイン「KRW1」を発行する韓国ビデクス（BDACS）との提携を10…",
+      "url": "https://www.neweconomy.jp/posts/619028",
+      "important": false
+    },
+    {
+      "date": "2026-10-21",
+      "title": "JPYC・SBJ銀行・LINE NEXT、銀行口座とウォレットをつなぐJPYCチャージ機能実証へ",
+      "summary": "JPYC・SBJ銀行・LINE NEXTが覚書 日本円建てステーブルコイン「JPYC」発行のJPYC社と、韓国の新韓銀行の日本現地法人SBJ銀行、Web3サービス展開のラインネクスト（LINE NEXT）が、10月20日…",
+      "url": "https://www.neweconomy.jp/posts/619021",
+      "important": true
+    },
+    {
+      "date": "2026-10-21",
+      "title": "ムーンペイと韓国ドゥナム、ステーブルコイン決済・企業資金管理で協業へ",
+      "summary": "MoonPayとDunamuが協業へ 暗号資産（仮想通貨）決済インフラ企業ムーンペイ（MoonPay）が、韓国で暗号資産取引所アップビット（Upbit）を運営するドゥナム（Dunamu）と、デジタル資産を活用した金融イン…",
+      "url": "https://www.neweconomy.jp/posts/618974",
+      "important": false
+    },
+    {
+      "date": "2026-10-21",
+      "title": "OCC finalizes GENIUS Act rules for stablecoin issuers and custody",
+      "summary": "The Office of the Comptroller of the Currency’s final rule covers payment stablecoin issuance and some custody…",
+      "url": "https://cointelegraph.com/news/occ-finalizes-genius-act-rules-stablecoin-issuers-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-10-21",
+      "title": "Japanese visitors may be able to pay with yen stablecoins in South Korea under Shinhan-SBI pact",
+      "summary": "The collaboration will explore card-linked merchant payments for Japanese visitors in South Korea and peer-to-…",
+      "url": "https://www.coindesk.com/business/2026/10/21/japanese-visitors-may-be-able-to-pay-with-yen-stablecoins-in-south-korea-under-shinhan-sbi-pact",
+      "important": false
+    },
+    {
+      "date": "2026-10-21",
+      "title": "OCC's final rule to start fresh in weighing stablecoin rewards against GENIUS Act ban",
+      "summary": "The U.S. Office of the Comptroller of the Currency is the first of several federal agencies to finish writing …",
+      "url": "https://www.coindesk.com/policy/2026/10/21/occ-s-final-rule-to-start-fresh-in-weighing-stablecoin-rewards-against-genius-act-ban",
+      "important": true
+    },
+    {
+      "date": "2026-10-21",
+      "title": "Shinhan, SBI make Japan-Korea tourist spending a test case for yen stablecoins",
+      "summary": "The companies will assess safeguards for travelers and whether stablecoins can speed up trade settlement betwe…",
+      "url": "https://cointelegraph.com/news/shinhan-sbi-japan-korea-travel-yen-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-10-21",
+      "title": "Tether leads $15 million funding round for AI-focused payment startup Mural",
+      "summary": "The Series A round, which included participation from North Island Ventures and existing investors, brings New…",
+      "url": "https://www.coindesk.com/business/2026/10/21/tether-leads-usd15-million-series-a-for-ai-focused-payment-startup-mural",
+      "important": false
+    },
+    {
+      "date": "2026-10-21",
+      "title": "Ripple brings Wall Street into 24/7 stock bets, but HSBC warns markets are still thin",
+      "summary": "Institutions can trade through Ripple Prime and post RLUSD as collateral. Finding enough buyers and sellers fo…",
+      "url": "https://www.coindesk.com/markets/2026/10/21/ripple-brings-wall-street-into-24-7-stock-bets-but-hsbc-warns-markets-are-still-thin",
+      "important": false
     },
     {
       "date": "2026-10-20",
