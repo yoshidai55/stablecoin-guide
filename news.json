@@ -1,41 +1,41 @@
 {
-  "updated": "2026-10-22T08:03:06+09:00",
+  "updated": "2026-10-23T08:01:47+09:00",
   "items": [
     {
-      "date": "2026-10-21",
-      "title": "【10/21話題】JPYC活用の銀行口座連携型チャージ機能の実証へ、SBI VCトレードらが韓国シンハンカードとステーブルコイン決済の活用検討へなど（音声ニュース）",
-      "summary": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif…",
-      "url": "https://www.neweconomy.jp/posts/619049"
-    },
-    {
-      "date": "2026-10-21",
-      "title": "インジェクティブ、韓国BDACSと提携。ウォン建てステーブルコイン「KRW1」をRWA決済に活用へ",
-      "summary": "InjectiveとBDACSがMOU締結 レイヤー1ブロックチェーン「インジェクティブ（Injective）」の開発チームが、韓国ウォン建てステーブルコイン「KRW1」を発行する韓国ビデクス（BDACS）との提携を10…",
-      "url": "https://www.neweconomy.jp/posts/619028"
-    },
-    {
-      "date": "2026-10-21",
-      "title": "JPYC・SBJ銀行・LINE NEXT、銀行口座とウォレットをつなぐJPYCチャージ機能実証へ",
-      "summary": "JPYC・SBJ銀行・LINE NEXTが覚書 日本円建てステーブルコイン「JPYC」発行のJPYC社と、韓国の新韓銀行の日本現地法人SBJ銀行、Web3サービス展開のラインネクスト（LINE NEXT）が、10月20日…",
-      "url": "https://www.neweconomy.jp/posts/619021"
-    },
-    {
-      "date": "2026-10-21",
-      "title": "ムーンペイと韓国ドゥナム、ステーブルコイン決済・企業資金管理で協業へ",
-      "summary": "MoonPayとDunamuが協業へ 暗号資産（仮想通貨）決済インフラ企業ムーンペイ（MoonPay）が、韓国で暗号資産取引所アップビット（Upbit）を運営するドゥナム（Dunamu）と、デジタル資産を活用した金融イン…",
-      "url": "https://www.neweconomy.jp/posts/618974"
-    },
-    {
       "date": "2026-10-22",
-      "title": "American Bankers Association: OCC’s GENIUS rules ‘undermine’ US Congress",
-      "summary": "Banking advocacy organizations are pushing back against the OCC’s finalized rules on a stablecoin law, arguing…",
-      "url": "https://cointelegraph.com/news/american-bankers-association-occ-genius-rules-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      "title": "米OCC、ステーブルコイン規制「GENIUS法」の最終規則公表。2027年1月18日施行へ",
+      "summary": "GENIUS法の最終規則を公表 米通貨監督庁（OCC）が、決済用ステーブルコインの規制枠組みを定めた米国の「ジーニアス法（GENIUS Act）」を実施するための最終規則を10月21日に公表した。同規則とジーニアス法はい…",
+      "url": "https://www.neweconomy.jp/posts/619453"
     },
     {
-      "date": "2026-10-22",
-      "title": "Tether backs Bolivian fintech bringing USDT payments to food delivery and banking",
-      "summary": "The investment will support Peso’s expansion across four Latin American markets, where it connects stablecoin …",
-      "url": "https://cointelegraph.com/news/tether-backs-bolivian-fintech-bringing-usdt-payments-to-food-delivery-and-banking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      "date": "2026-10-21",
+      "title": "米ブロックチェーン協会、米財務省のジーニアス法施行案に修正要請 DeFiや二次流通への過剰規制を懸念",
+      "summary": "米ブロックチェーン協会（BA）は1、ジーニアス法第3条の施行規則案について米財務省に意見書を提出した。DASPの定義、違法発行への「認識ある関与」、海外発行ステーブルコインの扱いなどの修正を求めている。",
+      "url": "https://coinpost.jp/?p=744131"
+    },
+    {
+      "date": "2026-10-21",
+      "title": "JPYC、SBJ銀行・LINE NEXTと覚書 口座連携チャージ実証へ",
+      "summary": "JPYC社が21日、SBJ銀行・LINE NEXTとの覚書締結を発表した。銀行口座とステーブルコインウォレット「Unifi」をつなぐ口座連携型チャージのPoCを3社で進める。SBJ銀行とLINE NEXTは送金・決済の事…",
+      "url": "https://coinpost.jp/?p=744198"
+    },
+    {
+      "date": "2026-10-21",
+      "title": "井林国交相、訪日客の消費税還付にステーブルコイン活用を検討",
+      "summary": "井林国交相は21日の衆院国土交通委員会で、訪日客向け消費税免税のリファンド方式にステーブルコイン活用も含め検討する考えを示した。11月の制度移行を前に、日本免税とJPYCは3月、円建てステーブルコインを使った還付モデルの…",
+      "url": "https://coinpost.jp/?p=744168"
+    },
+    {
+      "date": "2026-10-21",
+      "title": "SBI VCトレード、韓国カード大手Shinhan Cardと提携 店舗での円ステーブルコイン決済を検討",
+      "summary": "暗号資産取引所SBI VCトレードなど2社は21日、韓国最大級のカード会社シンハンカードと基本合意書を締結した。円建てステーブルコインの実店舗決済や日韓間の国際決済での協業を検討する。",
+      "url": "https://coinpost.jp/?p=744095"
+    },
+    {
+      "date": "2026-10-23",
+      "title": "Senate's top Democratic investigator looking into Tether payments to Bo Hines' firm",
+      "summary": "Senator Richard Blumenthal, the ranking Democrat on the investigations subcommittee, added a probe of the ex-W…",
+      "url": "https://www.coindesk.com/policy/2026/10/22/senate-s-top-democratic-investigator-looking-into-tether-payments-to-bo-hines-firm"
     }
   ]
 }

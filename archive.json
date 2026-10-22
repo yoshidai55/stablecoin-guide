@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-22T08:03:06+09:00",
+  "updated": "2026-10-23T08:01:47+09:00",
   "items": [
+    {
+      "date": "2026-10-23",
+      "title": "Senate's top Democratic investigator looking into Tether payments to Bo Hines' firm",
+      "summary": "Senator Richard Blumenthal, the ranking Democrat on the investigations subcommittee, added a probe of the ex-W…",
+      "url": "https://www.coindesk.com/policy/2026/10/22/senate-s-top-democratic-investigator-looking-into-tether-payments-to-bo-hines-firm",
+      "important": false
+    },
+    {
+      "date": "2026-10-23",
+      "title": "Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals",
+      "summary": "According to a Circle shareholder, the US president’s “corruption” through USD1 left the company unable to com…",
+      "url": "https://cointelegraph.com/news/circle-shareholder-lawsuit-donald-trump-world-liberty-financial-steve-witkoff-crypto-corruption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
     {
       "date": "2026-10-22",
       "title": "American Bankers Association: OCC’s GENIUS rules ‘undermine’ US Congress",
@@ -28,6 +42,27 @@
       "summary": "Real-world assets already back the largest stablecoins, yet borrowing against them onchain still runs through …",
       "url": "https://www.coindesk.com/coindesk-indices/2026/10/21/crypto-long-and-short-why-real-world-assets-need-fixed-rate-loans-onchain",
       "important": false
+    },
+    {
+      "date": "2026-10-22",
+      "title": "米OCC、ステーブルコイン規制「GENIUS法」の最終規則公表。2027年1月18日施行へ",
+      "summary": "GENIUS法の最終規則を公表 米通貨監督庁（OCC）が、決済用ステーブルコインの規制枠組みを定めた米国の「ジーニアス法（GENIUS Act）」を実施するための最終規則を10月21日に公表した。同規則とジーニアス法はい…",
+      "url": "https://www.neweconomy.jp/posts/619453",
+      "important": true
+    },
+    {
+      "date": "2026-10-22",
+      "title": "Crypto for Advisors: Stablecoins are ready for prime time",
+      "summary": "",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/10/22/crypto-for-advisors-stablecoins-are-ready-for-prime-time",
+      "important": false
+    },
+    {
+      "date": "2026-10-22",
+      "title": "SoFi unveils bank-issued tokenized deposit for yield-bearing crypto funds",
+      "summary": "SoFi Bank launched SoFi Earn, a tokenized deposit paying 4.40% APY with FDIC coverage, allowing users to conve…",
+      "url": "https://cointelegraph.com/news/sofi-bank-issued-tokenized-deposit-yield-bearing-crypto-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
     },
     {
       "date": "2026-10-21",
@@ -111,6 +146,34 @@
       "title": "Ripple brings Wall Street into 24/7 stock bets, but HSBC warns markets are still thin",
       "summary": "Institutions can trade through Ripple Prime and post RLUSD as collateral. Finding enough buyers and sellers fo…",
       "url": "https://www.coindesk.com/markets/2026/10/21/ripple-brings-wall-street-into-24-7-stock-bets-but-hsbc-warns-markets-are-still-thin",
+      "important": false
+    },
+    {
+      "date": "2026-10-21",
+      "title": "米ブロックチェーン協会、米財務省のジーニアス法施行案に修正要請 DeFiや二次流通への過剰規制を懸念",
+      "summary": "米ブロックチェーン協会（BA）は1、ジーニアス法第3条の施行規則案について米財務省に意見書を提出した。DASPの定義、違法発行への「認識ある関与」、海外発行ステーブルコインの扱いなどの修正を求めている。",
+      "url": "https://coinpost.jp/?p=744131",
+      "important": true
+    },
+    {
+      "date": "2026-10-21",
+      "title": "JPYC、SBJ銀行・LINE NEXTと覚書 口座連携チャージ実証へ",
+      "summary": "JPYC社が21日、SBJ銀行・LINE NEXTとの覚書締結を発表した。銀行口座とステーブルコインウォレット「Unifi」をつなぐ口座連携型チャージのPoCを3社で進める。SBJ銀行とLINE NEXTは送金・決済の事…",
+      "url": "https://coinpost.jp/?p=744198",
+      "important": true
+    },
+    {
+      "date": "2026-10-21",
+      "title": "井林国交相、訪日客の消費税還付にステーブルコイン活用を検討",
+      "summary": "井林国交相は21日の衆院国土交通委員会で、訪日客向け消費税免税のリファンド方式にステーブルコイン活用も含め検討する考えを示した。11月の制度移行を前に、日本免税とJPYCは3月、円建てステーブルコインを使った還付モデルの…",
+      "url": "https://coinpost.jp/?p=744168",
+      "important": true
+    },
+    {
+      "date": "2026-10-21",
+      "title": "SBI VCトレード、韓国カード大手Shinhan Cardと提携 店舗での円ステーブルコイン決済を検討",
+      "summary": "暗号資産取引所SBI VCトレードなど2社は21日、韓国最大級のカード会社シンハンカードと基本合意書を締結した。円建てステーブルコインの実店舗決済や日韓間の国際決済での協業を検討する。",
+      "url": "https://coinpost.jp/?p=744095",
       "important": false
     },
     {
