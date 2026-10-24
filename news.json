@@ -1,18 +1,6 @@
 {
-  "updated": "2026-10-24T07:56:44+09:00",
+  "updated": "2026-10-25T07:17:12+09:00",
   "items": [
-    {
-      "date": "2026-10-24",
-      "title": "米OCC、ジーニアス法の最終規則を発表 ステーブルコイン利息の原則違反規定を削除",
-      "summary": "米通貨監督庁（OCC）は21日、ジーニアス法の最終規則を発表した。ステーブルコインの利息について、関連企業経由の提供を違反と推定するルールを規則案から削除した。",
-      "url": "https://coinpost.jp/?p=744513"
-    },
-    {
-      "date": "2026-10-21",
-      "title": "米ブロックチェーン協会、米財務省のジーニアス法施行案に修正要請 DeFiや二次流通への過剰規制を懸念",
-      "summary": "米ブロックチェーン協会（BA）は1、ジーニアス法第3条の施行規則案について米財務省に意見書を提出した。DASPの定義、違法発行への「認識ある関与」、海外発行ステーブルコインの扱いなどの修正を求めている。",
-      "url": "https://coinpost.jp/?p=744131"
-    },
     {
       "date": "2026-10-24",
       "title": "US senator probes Tether after reported deal with ex-Trump crypto adviser",
@@ -36,6 +24,18 @@
       "title": "HSBC launches Hong Kong dollar stablecoin for retail payments",
       "summary": "HSBC is rolling out RedCoin wallets to PayMe users, with plans to support tokenized investment subscriptions a…",
       "url": "https://cointelegraph.com/news/hsbc-launches-redcoin-hong-kong-dollar-stablecoin-payme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "date": "2026-10-23",
+      "title": "Malaysia, Thailand join Singapore’s cross-border stablecoin push",
+      "summary": "BLOOM seeks to cut costs by helping financial institutions coordinate cross-border use of stablecoins and toke…",
+      "url": "https://cointelegraph.com/news/malaysia-thailand-join-singapores-cross-border-stablecoin-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "date": "2026-10-23",
+      "title": "Senate's top Democratic investigator looking into Tether payments to Bo Hines' firm",
+      "summary": "Senator Richard Blumenthal, the ranking Democrat on the investigations subcommittee, added a probe of the ex-W…",
+      "url": "https://www.coindesk.com/policy/2026/10/22/senate-s-top-democratic-investigator-looking-into-tether-payments-to-bo-hines-firm"
     }
   ]
 }
