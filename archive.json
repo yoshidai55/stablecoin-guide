@@ -1,6 +1,69 @@
 {
-  "updated": "2026-10-24T07:56:44+09:00",
+  "updated": "2026-10-27T08:37:25+09:00",
   "items": [
+    {
+      "date": "2026-10-27",
+      "title": "US OCC calls on community banks to become payment stablecoin issuers",
+      "summary": "The announcement followed the banking regulator finalizing its rules for the GENIUS Act, a stablecoin law to b…",
+      "url": "https://cointelegraph.com/news/occ-community-banks-stablecoin-issuers-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-10-27",
+      "title": "Canada opens consultation on stablecoins, citing US GENIUS Act",
+      "summary": "As part of the potential implementation of its Stablecoin Act, the Canadian government will hear from the publ…",
+      "url": "https://cointelegraph.com/news/canada-consultation-stablecoins-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-10-27",
+      "title": "OCC calls on community banks to enter the stablecoin payments market",
+      "summary": "The U.S. banking regulator is encouraging smaller lenders to develop stablecoin services as new federal licens…",
+      "url": "https://www.coindesk.com/policy/2026/10/26/occ-calls-on-community-banks-to-enter-the-stablecoin-payments-market",
+      "important": true
+    },
+    {
+      "date": "2026-10-26",
+      "title": "HSBC、香港ドル建てステーブルコイン「RedCoin」提供開始。PayMeで送金・決済に対応",
+      "summary": "330万人超のユーザーを抱える決済アプリに導入、今後はトークン化MMFの購入にも対応へ 香港の大手銀行である香港上海銀行（The Hongkong and Shanghai Banking Corporation Lim…",
+      "url": "https://www.neweconomy.jp/posts/620336",
+      "important": true
+    },
+    {
+      "date": "2026-10-26",
+      "title": "Arfとリップルが提携、XRPLでRLUSD活用の国際決済向け流動性を提供へ",
+      "summary": "国際決済企業に短期運転資金を提供、将来的にはXRPLのレンディング機能を活用 スイスの金融機関アーフ（Arf）が、XRPレジャー（XRP Ledger：XRPL）上でリップル発行の米ドル建てステーブルコイン「RLUSD」…",
+      "url": "https://www.neweconomy.jp/posts/620322",
+      "important": false
+    },
+    {
+      "date": "2026-10-26",
+      "title": "インド大手取引所CoinDCX、旧ウォレットから1599万USDT流出",
+      "summary": "インドの仮想通貨取引所CoinDCXが、2025年7月の不正流出で廃止した旧ウォレットから1,599万USDTが流出したと公表した。誤入金を移すスイープ処理の停止が原因で、損失は同社が負担する。CEOが当初侵害を否定して…",
+      "url": "https://coinpost.jp/?p=744616",
+      "important": false
+    },
+    {
+      "date": "2026-10-26",
+      "title": "X、いいね長押しで1ドル送金へ 仮想通貨は依然非対応",
+      "summary": "イーロン・マスク氏は25日、Xのいいねボタンを長押しすると決済サービスX Money経由で1ドルを送れる機能を追加すると明らかにした。7月に米国で一般提供が始まったX Moneyは、ビットコインやステーブルコインに対応し…",
+      "url": "https://coinpost.jp/?p=744612",
+      "important": false
+    },
+    {
+      "date": "2026-10-26",
+      "title": "Canada opens consultation on draft stablecoin rules, maintains ban on yields",
+      "summary": "Under the draft rules, non-bank stablecoin issuers must back tokens 1:1 with reserves held at qualified Canadi…",
+      "url": "https://www.coindesk.com/policy/2026/10/26/canada-opens-consultation-on-draft-stablecoin-rules-maintains-ban-on-yields",
+      "important": true
+    },
+    {
+      "date": "2026-10-26",
+      "title": "Standard Chartered-led Anchorpoint says it’s not rushing retail stablecoin",
+      "summary": "The Standard Chartered and Animoca Brands joint venture previously targeted retail access as early as the end …",
+      "url": "https://cointelegraph.com/news/standard-chartered-led-anchorpoint-says-its-not-rushing-retail-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
     {
       "date": "2026-10-24",
       "title": "米OCC、ジーニアス法の最終規則を発表 ステーブルコイン利息の原則違反規定を削除",
