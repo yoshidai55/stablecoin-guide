@@ -1,41 +1,41 @@
 {
-  "updated": "2026-10-27T08:37:25+09:00",
+  "updated": "2026-10-28T08:36:10+09:00",
   "items": [
     {
-      "date": "2026-10-26",
-      "title": "HSBC、香港ドル建てステーブルコイン「RedCoin」提供開始。PayMeで送金・決済に対応",
-      "summary": "330万人超のユーザーを抱える決済アプリに導入、今後はトークン化MMFの購入にも対応へ 香港の大手銀行である香港上海銀行（The Hongkong and Shanghai Banking Corporation Lim…",
-      "url": "https://www.neweconomy.jp/posts/620336"
+      "date": "2026-10-28",
+      "title": "米財務長官「米中技術競争で仮想通貨がドルの優位性を強化」＝報道",
+      "summary": "ベッセント米財務長官は27日、リップル主催のSwellでデジタル資産（クリプト）がドルの優位を強化するとの考えを示した。米中の技術競争やステーブルコインの普及を根拠に挙げている。",
+      "url": "https://coinpost.jp/?p=745042"
     },
     {
-      "date": "2026-10-26",
-      "title": "Arfとリップルが提携、XRPLでRLUSD活用の国際決済向け流動性を提供へ",
-      "summary": "国際決済企業に短期運転資金を提供、将来的にはXRPLのレンディング機能を活用 スイスの金融機関アーフ（Arf）が、XRPレジャー（XRP Ledger：XRPL）上でリップル発行の米ドル建てステーブルコイン「RLUSD」…",
-      "url": "https://www.neweconomy.jp/posts/620322"
-    },
-    {
-      "date": "2026-10-26",
-      "title": "インド大手取引所CoinDCX、旧ウォレットから1599万USDT流出",
-      "summary": "インドの仮想通貨取引所CoinDCXが、2025年7月の不正流出で廃止した旧ウォレットから1,599万USDTが流出したと公表した。誤入金を移すスイープ処理の停止が原因で、損失は同社が負担する。CEOが当初侵害を否定して…",
-      "url": "https://coinpost.jp/?p=744616"
-    },
-    {
-      "date": "2026-10-26",
-      "title": "X、いいね長押しで1ドル送金へ 仮想通貨は依然非対応",
-      "summary": "イーロン・マスク氏は25日、Xのいいねボタンを長押しすると決済サービスX Money経由で1ドルを送れる機能を追加すると明らかにした。7月に米国で一般提供が始まったX Moneyは、ビットコインやステーブルコインに対応し…",
-      "url": "https://coinpost.jp/?p=744612"
+      "date": "2026-10-28",
+      "title": "米BNY、XRPの保管に対応開始 リップルと貿易金融トークン化を進める方針",
+      "summary": "リップルと米金融大手BNYは27日、協業の拡大を発表した。BNYの機関投資家向けデジタル資産保管サービスが仮想通貨XRPとステーブルコインRLUSDの保管に対応し、両社は貿易金融のトークン化も進める方針だ。",
+      "url": "https://coinpost.jp/?p=745038"
     },
     {
       "date": "2026-10-27",
-      "title": "US OCC calls on community banks to become payment stablecoin issuers",
-      "summary": "The announcement followed the banking regulator finalizing its rules for the GENIUS Act, a stablecoin law to b…",
-      "url": "https://cointelegraph.com/news/occ-community-banks-stablecoin-issuers-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      "title": "カナダ、ステーブルコイン規則案を公表。2027年秋の施行を目指す",
+      "summary": "準備資産は毎日1対1以上、償還手数料は上限1% カナダ財務省が10月24日付の官報（Canada Gazette, Part I）で、「ステーブルコイン規則（Stablecoin Regulations）」案を公表した。…",
+      "url": "https://www.neweconomy.jp/posts/620780"
     },
     {
       "date": "2026-10-27",
-      "title": "Canada opens consultation on stablecoins, citing US GENIUS Act",
-      "summary": "As part of the potential implementation of its Stablecoin Act, the Canadian government will hear from the publ…",
-      "url": "https://cointelegraph.com/news/canada-consultation-stablecoins-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      "title": "米OCC、地域銀行にステーブルコイン発行への参入検討を呼びかけ",
+      "summary": "GENIUS法の最終規則を受け、発行者認可の申請検討を促す 米通貨監督庁（Office of the Comptroller of the Currency：OCC）が、米国の地域銀行に対し、決済用ステーブルコインの発行…",
+      "url": "https://www.neweconomy.jp/posts/620762"
+    },
+    {
+      "date": "2026-10-27",
+      "title": "米通貨監督庁、決済用ステーブルコインへの参入を銀行に呼びかけ",
+      "summary": "米OCCがコミュニティ銀行にステーブルコイン関連機能の開発検討を呼びかけた。ジーニアス法関連規則では間接的利回りの障壁となる項目が削除され銀行業界からは懸念も出ている。",
+      "url": "https://coinpost.jp/?p=744800"
+    },
+    {
+      "date": "2026-10-28",
+      "title": "Ripple, Robinhood expand partnership to bring RLUSD to retail and institutional markets",
+      "summary": "Ripple also expanded its collaboration with BNY on digital asset custody and partnered with C2FO to bring trad…",
+      "url": "https://cointelegraph.com/news/ripple-robinhood-expand-partnership-rlusd-retail-institutional-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     }
   ]
 }

@@ -1,6 +1,48 @@
 {
-  "updated": "2026-10-27T08:37:25+09:00",
+  "updated": "2026-10-28T08:36:10+09:00",
   "items": [
+    {
+      "date": "2026-10-28",
+      "title": "米財務長官「米中技術競争で仮想通貨がドルの優位性を強化」＝報道",
+      "summary": "ベッセント米財務長官は27日、リップル主催のSwellでデジタル資産（クリプト）がドルの優位を強化するとの考えを示した。米中の技術競争やステーブルコインの普及を根拠に挙げている。",
+      "url": "https://coinpost.jp/?p=745042",
+      "important": false
+    },
+    {
+      "date": "2026-10-28",
+      "title": "米BNY、XRPの保管に対応開始 リップルと貿易金融トークン化を進める方針",
+      "summary": "リップルと米金融大手BNYは27日、協業の拡大を発表した。BNYの機関投資家向けデジタル資産保管サービスが仮想通貨XRPとステーブルコインRLUSDの保管に対応し、両社は貿易金融のトークン化も進める方針だ。",
+      "url": "https://coinpost.jp/?p=745038",
+      "important": false
+    },
+    {
+      "date": "2026-10-28",
+      "title": "Ripple, Robinhood expand partnership to bring RLUSD to retail and institutional markets",
+      "summary": "Ripple also expanded its collaboration with BNY on digital asset custody and partnered with C2FO to bring trad…",
+      "url": "https://cointelegraph.com/news/ripple-robinhood-expand-partnership-rlusd-retail-institutional-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-10-28",
+      "title": "Brazilian companies turned to stablecoins on election day to dodge a currency crash",
+      "summary": "USDT volume on crypto exchange Mercado Bitcoin jumped nearly 800% and bitcoin volume surged 865%. Binance’s US…",
+      "url": "https://www.coindesk.com/business/2026/10/27/brazilian-companies-turned-to-stablecoins-on-election-day-to-dodge-a-currency-crash",
+      "important": false
+    },
+    {
+      "date": "2026-10-28",
+      "title": "Robinhood taps Ripple’s $2.5 billion RLUSD stablecoin despite backing rival USDG",
+      "summary": "Robinhood helped launch a rival dollar-backed token, USDG, but will also offer Ripple's stablecoin to retail c…",
+      "url": "https://www.coindesk.com/business/2026/10/27/ripple-s-rlusd-stablecoin-is-coming-to-robinhood-s-28-6-million-customer-platform",
+      "important": true
+    },
+    {
+      "date": "2026-10-28",
+      "title": "USDC overtakes USDT in euro stablecoin trading as EU rules reshape market: Kaiko",
+      "summary": "USDC’s share of euro stablecoin trading has climbed to 56% since January 2024, with deeper liquidity as exchan…",
+      "url": "https://cointelegraph.com/news/usdc-overtakes-usdt-euro-stablecoin-trading-mica-kaiko?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
     {
       "date": "2026-10-27",
       "title": "US OCC calls on community banks to become payment stablecoin issuers",
@@ -20,6 +62,48 @@
       "title": "OCC calls on community banks to enter the stablecoin payments market",
       "summary": "The U.S. banking regulator is encouraging smaller lenders to develop stablecoin services as new federal licens…",
       "url": "https://www.coindesk.com/policy/2026/10/26/occ-calls-on-community-banks-to-enter-the-stablecoin-payments-market",
+      "important": true
+    },
+    {
+      "date": "2026-10-27",
+      "title": "カナダ、ステーブルコイン規則案を公表。2027年秋の施行を目指す",
+      "summary": "準備資産は毎日1対1以上、償還手数料は上限1% カナダ財務省が10月24日付の官報（Canada Gazette, Part I）で、「ステーブルコイン規則（Stablecoin Regulations）」案を公表した。…",
+      "url": "https://www.neweconomy.jp/posts/620780",
+      "important": true
+    },
+    {
+      "date": "2026-10-27",
+      "title": "米OCC、地域銀行にステーブルコイン発行への参入検討を呼びかけ",
+      "summary": "GENIUS法の最終規則を受け、発行者認可の申請検討を促す 米通貨監督庁（Office of the Comptroller of the Currency：OCC）が、米国の地域銀行に対し、決済用ステーブルコインの発行…",
+      "url": "https://www.neweconomy.jp/posts/620762",
+      "important": true
+    },
+    {
+      "date": "2026-10-27",
+      "title": "米通貨監督庁、決済用ステーブルコインへの参入を銀行に呼びかけ",
+      "summary": "米OCCがコミュニティ銀行にステーブルコイン関連機能の開発検討を呼びかけた。ジーニアス法関連規則では間接的利回りの障壁となる項目が削除され銀行業界からは懸念も出ている。",
+      "url": "https://coinpost.jp/?p=744800",
+      "important": false
+    },
+    {
+      "date": "2026-10-27",
+      "title": "Japan's top yen stablecoin falls short of its target in a disappointing first year",
+      "summary": "CEO Noritaka Okabe blamed a 1 million yen per-transaction cap for Type II funds transfer providers, which has …",
+      "url": "https://www.coindesk.com/business/2026/10/27/japan-s-top-yen-stablecoin-falls-short-of-its-target-in-a-disappointing-first-year",
+      "important": false
+    },
+    {
+      "date": "2026-10-27",
+      "title": "RedotPay weighs confidential US IPO filing by year-end: Bloomberg",
+      "summary": "The stablecoin payments company previously disputed reports that its US listing had been delayed.",
+      "url": "https://cointelegraph.com/news/redotpay-weighs-confidential-us-ipo-filing-by-year-end-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-10-27",
+      "title": "Ripple wins final US approval for national trust bank",
+      "summary": "The approval clears the way for Ripple to manage reserves backing its RLUSD stablecoin and provide digital ass…",
+      "url": "https://cointelegraph.com/news/ripple-wins-final-us-approval-for-national-trust-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "important": true
     },
     {
