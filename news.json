@@ -1,41 +1,41 @@
 {
-  "updated": "2026-10-28T08:36:10+09:00",
+  "updated": "2026-10-29T08:55:01+09:00",
   "items": [
     {
       "date": "2026-10-28",
-      "title": "米財務長官「米中技術競争で仮想通貨がドルの優位性を強化」＝報道",
-      "summary": "ベッセント米財務長官は27日、リップル主催のSwellでデジタル資産（クリプト）がドルの優位を強化するとの考えを示した。米中の技術競争やステーブルコインの普及を根拠に挙げている。",
-      "url": "https://coinpost.jp/?p=745042"
+      "title": "予測市場Predict[.]funで約40万USDTの不正送金、運営チームが全額補償を表明",
+      "summary": "Predict.funで約40万USDTの不正送金、全額補償へ 予測市場プラットフォーム「プレディクト・ファン（Predict[.]fun）」の運営チームが、一部ユーザーのウォレットから合計約40万USDT（約6,318…",
+      "url": "https://www.neweconomy.jp/posts/621589"
     },
     {
       "date": "2026-10-28",
-      "title": "米BNY、XRPの保管に対応開始 リップルと貿易金融トークン化を進める方針",
-      "summary": "リップルと米金融大手BNYは27日、協業の拡大を発表した。BNYの機関投資家向けデジタル資産保管サービスが仮想通貨XRPとステーブルコインRLUSDの保管に対応し、両社は貿易金融のトークン化も進める方針だ。",
-      "url": "https://coinpost.jp/?p=745038"
-    },
-    {
-      "date": "2026-10-27",
-      "title": "カナダ、ステーブルコイン規則案を公表。2027年秋の施行を目指す",
-      "summary": "準備資産は毎日1対1以上、償還手数料は上限1% カナダ財務省が10月24日付の官報（Canada Gazette, Part I）で、「ステーブルコイン規則（Stablecoin Regulations）」案を公表した。…",
-      "url": "https://www.neweconomy.jp/posts/620780"
-    },
-    {
-      "date": "2026-10-27",
-      "title": "米OCC、地域銀行にステーブルコイン発行への参入検討を呼びかけ",
-      "summary": "GENIUS法の最終規則を受け、発行者認可の申請検討を促す 米通貨監督庁（Office of the Comptroller of the Currency：OCC）が、米国の地域銀行に対し、決済用ステーブルコインの発行…",
-      "url": "https://www.neweconomy.jp/posts/620762"
-    },
-    {
-      "date": "2026-10-27",
-      "title": "米通貨監督庁、決済用ステーブルコインへの参入を銀行に呼びかけ",
-      "summary": "米OCCがコミュニティ銀行にステーブルコイン関連機能の開発検討を呼びかけた。ジーニアス法関連規則では間接的利回りの障壁となる項目が削除され銀行業界からは懸念も出ている。",
-      "url": "https://coinpost.jp/?p=744800"
+      "title": "コインベース、欧州でUSDTなど14銘柄を10/30にUSDCに自動変換へ",
+      "summary": "MiCA非準拠の14銘柄が対象、期限後の入金は反映されず 米暗号資産（仮想通貨）取引所コインベース（Coinbase）が、欧州経済領域（EEA）の個人顧客が保有するUSDTなど14銘柄の暗号資産を、10月30日にUSDC…",
+      "url": "https://www.neweconomy.jp/posts/621573"
     },
     {
       "date": "2026-10-28",
-      "title": "Ripple, Robinhood expand partnership to bring RLUSD to retail and institutional markets",
-      "summary": "Ripple also expanded its collaboration with BNY on digital asset custody and partnered with C2FO to bring trad…",
-      "url": "https://cointelegraph.com/news/ripple-robinhood-expand-partnership-rlusd-retail-institutional-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      "title": "日本円建てステーブルコイン「JPYC」1周年、累計発行額は120億円超",
+      "summary": "日本円連動のステーブルコイン「JPYC」が発行1年を迎えた。累計発行額は120億円超、流通額は約30億円に達している。提携先は広がる一方、流通額の拡大が課題となっている。",
+      "url": "https://coinpost.jp/?p=745104"
+    },
+    {
+      "date": "2026-10-28",
+      "title": "リップルとロビンフッドが提携、RLUSDを仮想通貨事業の主要ステーブルコインに",
+      "summary": "リップルとロビンフッドが27日、ロビンフッドの仮想通貨事業でRLUSDを主要ステーブルコインに位置づける提携を発表した。財務管理や機関投資家向け取引でも連携を広げる。",
+      "url": "https://coinpost.jp/?p=745096"
+    },
+    {
+      "date": "2026-10-28",
+      "title": "XRP Ledger developers propose creating wallets with zero XRP for stablecoin payments",
+      "summary": "An experimental change would let companies cover the reserve for customer and AI-agent accounts, allowing user…",
+      "url": "https://www.coindesk.com/tech/2026/10/28/xrp-ledger-developers-propose-creating-wallets-with-zero-xrp-for-stablecoin-payments"
+    },
+    {
+      "date": "2026-10-28",
+      "title": "Nearly 90% of large businesses are embracing tokenized cash to speed up payments: DBS",
+      "summary": "Stablecoins lead instruments in use or planned at 63%, ahead of tokenized deposits at 53% and tokenized money …",
+      "url": "https://www.coindesk.com/business/2026/10/28/nearly-90-of-large-businesses-are-embracing-tokenized-cash-to-speed-up-payments-dbs"
     }
   ]
 }

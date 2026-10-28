@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T08:36:10+09:00",
+  "updated": "2026-10-29T08:55:01+09:00",
   "items": [
     {
       "date": "2026-10-28",
@@ -41,6 +41,48 @@
       "title": "USDC overtakes USDT in euro stablecoin trading as EU rules reshape market: Kaiko",
       "summary": "USDC’s share of euro stablecoin trading has climbed to 56% since January 2024, with deeper liquidity as exchan…",
       "url": "https://cointelegraph.com/news/usdc-overtakes-usdt-euro-stablecoin-trading-mica-kaiko?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-10-28",
+      "title": "予測市場Predict[.]funで約40万USDTの不正送金、運営チームが全額補償を表明",
+      "summary": "Predict.funで約40万USDTの不正送金、全額補償へ 予測市場プラットフォーム「プレディクト・ファン（Predict[.]fun）」の運営チームが、一部ユーザーのウォレットから合計約40万USDT（約6,318…",
+      "url": "https://www.neweconomy.jp/posts/621589",
+      "important": false
+    },
+    {
+      "date": "2026-10-28",
+      "title": "コインベース、欧州でUSDTなど14銘柄を10/30にUSDCに自動変換へ",
+      "summary": "MiCA非準拠の14銘柄が対象、期限後の入金は反映されず 米暗号資産（仮想通貨）取引所コインベース（Coinbase）が、欧州経済領域（EEA）の個人顧客が保有するUSDTなど14銘柄の暗号資産を、10月30日にUSDC…",
+      "url": "https://www.neweconomy.jp/posts/621573",
+      "important": true
+    },
+    {
+      "date": "2026-10-28",
+      "title": "日本円建てステーブルコイン「JPYC」1周年、累計発行額は120億円超",
+      "summary": "日本円連動のステーブルコイン「JPYC」が発行1年を迎えた。累計発行額は120億円超、流通額は約30億円に達している。提携先は広がる一方、流通額の拡大が課題となっている。",
+      "url": "https://coinpost.jp/?p=745104",
+      "important": true
+    },
+    {
+      "date": "2026-10-28",
+      "title": "リップルとロビンフッドが提携、RLUSDを仮想通貨事業の主要ステーブルコインに",
+      "summary": "リップルとロビンフッドが27日、ロビンフッドの仮想通貨事業でRLUSDを主要ステーブルコインに位置づける提携を発表した。財務管理や機関投資家向け取引でも連携を広げる。",
+      "url": "https://coinpost.jp/?p=745096",
+      "important": false
+    },
+    {
+      "date": "2026-10-28",
+      "title": "XRP Ledger developers propose creating wallets with zero XRP for stablecoin payments",
+      "summary": "An experimental change would let companies cover the reserve for customer and AI-agent accounts, allowing user…",
+      "url": "https://www.coindesk.com/tech/2026/10/28/xrp-ledger-developers-propose-creating-wallets-with-zero-xrp-for-stablecoin-payments",
+      "important": false
+    },
+    {
+      "date": "2026-10-28",
+      "title": "Nearly 90% of large businesses are embracing tokenized cash to speed up payments: DBS",
+      "summary": "Stablecoins lead instruments in use or planned at 63%, ahead of tokenized deposits at 53% and tokenized money …",
+      "url": "https://www.coindesk.com/business/2026/10/28/nearly-90-of-large-businesses-are-embracing-tokenized-cash-to-speed-up-payments-dbs",
       "important": false
     },
     {
