@@ -1,11 +1,46 @@
 {
-  "updated": "2026-10-30T08:49:54+09:00",
+  "updated": "2026-10-31T08:30:11+09:00",
   "items": [
+    {
+      "date": "2026-10-31",
+      "title": "Binance hackers raced to move billions before it could be frozen",
+      "summary": "Attackers raced to convert stolen stablecoins into crypto that issuers could not freeze as industry players li…",
+      "url": "https://cointelegraph.com/magazine/binance-hackers-raced-to-move-billions-before-could-be-frozen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-10-31",
+      "title": "Experts divided over Binance hack asset freezes, warn recovery is another matter",
+      "summary": "Tether, Circle and others moved within hours to block billions in stolen crypto, but legal experts question wh…",
+      "url": "https://www.coindesk.com/business/2026/10/30/experts-divided-over-binance-hack-asset-freezes-warn-recovery-is-another-matter",
+      "important": false
+    },
+    {
+      "date": "2026-10-31",
+      "title": "Tether’s excess reserves nearly double to $8B as Q3 profit hits $1.5B",
+      "summary": "The stablecoin issuer’s US Treasury holdings are comparable to those of major foreign holders, while its Bitco…",
+      "url": "https://cointelegraph.com/news/tethers-excess-reserves-nearly-double-to-8b-as-q3-profit-hits-15b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-10-31",
+      "title": "Crypto Biz: Bitcoin’s quantum threat is becoming an economic problem",
+      "summary": "Bitcoin faces mounting quantum security concerns as Ripple secures a US banking charter, USDC gains ground in …",
+      "url": "https://cointelegraph.com/news/bitcoin-quantum-threat-ripple-bank-usdc-vaneck-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
     {
       "date": "2026-10-30",
       "title": "From rivals to partners: Polygon and Solana team to bring stablecoin payments to banks",
       "summary": "The two networks are setting aside their rivalry to connect Solana's stablecoin activity with Polygon's bankin…",
       "url": "https://www.coindesk.com/business/2026/10/29/from-rivals-to-partners-polygon-and-solana-team-to-bring-stablecoin-payments-to-banks",
+      "important": true
+    },
+    {
+      "date": "2026-10-30",
+      "title": "金融庁、海外8地域の金融制度調査を公表 ステーブルコイン規制も整理",
+      "summary": "金融庁は30日、米欧中など8カ国・地域の金融制度に関する委託調査を公表した。暗号資産交換業者を扱う節では、米ジーニアス法やMiCA規則、中国が2月に出したRWA禁止の新通知まで、各地の暗号資産・ステーブルコイン規制を整理…",
+      "url": "https://coinpost.jp/?p=745690",
       "important": true
     },
     {

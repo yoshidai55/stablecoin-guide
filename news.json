@@ -1,41 +1,41 @@
 {
-  "updated": "2026-10-30T08:49:54+09:00",
+  "updated": "2026-10-31T08:30:11+09:00",
   "items": [
     {
-      "date": "2026-10-29",
-      "title": "【10/29話題】グーグルクラウドの金融機関向け暗号資産カストディ基盤「MPC」、DTCCが証券トークン化サービス開始、JPYCによる免税還付11/1開始など（音声ニュース）",
-      "summary": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif…",
-      "url": "https://www.neweconomy.jp/posts/622038"
+      "date": "2026-10-30",
+      "title": "金融庁、海外8地域の金融制度調査を公表 ステーブルコイン規制も整理",
+      "summary": "金融庁は30日、米欧中など8カ国・地域の金融制度に関する委託調査を公表した。暗号資産交換業者を扱う節では、米ジーニアス法やMiCA規則、中国が2月に出したRWA禁止の新通知まで、各地の暗号資産・ステーブルコイン規制を整理…",
+      "url": "https://coinpost.jp/?p=745690"
     },
     {
-      "date": "2026-10-29",
-      "title": "ビザ、ステーブルコイン精算が10倍に 年換算約3.9兆円突破",
-      "summary": "米ビザの2026年度第4四半期決算で、ステーブルコインによる精算額が年換算3.9兆円を超え、前年比10倍に拡大した。精算対応チェーンは10に倍増。ビザも参加するOUSDの流通量は約1,260億円を超えた。通期純収益は過去…",
-      "url": "https://coinpost.jp/?p=745421"
+      "date": "2026-10-31",
+      "title": "Binance hackers raced to move billions before it could be frozen",
+      "summary": "Attackers raced to convert stolen stablecoins into crypto that issuers could not freeze as industry players li…",
+      "url": "https://cointelegraph.com/magazine/binance-hackers-raced-to-move-billions-before-could-be-frozen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     },
     {
-      "date": "2026-10-29",
-      "title": "日本免税とUPBOND、JPYCによる免税還付を11/1開始へ。アバランチ活用",
-      "summary": "訪日外国人が還付金をウォレットで受け取り可能に 免税手続き・還付サービスを提供する日本免税と、ウォレット基盤などを開発するアップボンド（UPBOND）が、日本円建てステーブルコイン「JPYC」による免税還付サービスを11…",
-      "url": "https://www.neweconomy.jp/posts/621976"
+      "date": "2026-10-31",
+      "title": "Experts divided over Binance hack asset freezes, warn recovery is another matter",
+      "summary": "Tether, Circle and others moved within hours to block billions in stolen crypto, but legal experts question wh…",
+      "url": "https://www.coindesk.com/business/2026/10/30/experts-divided-over-binance-hack-asset-freezes-warn-recovery-is-another-matter"
     },
     {
-      "date": "2026-10-29",
-      "title": "Yコンビネーター、暗号資産スタートアップの重点6分野を公表。「機関主導」の市場拡大を指摘",
-      "summary": "ステーブルコインやRWA、AI関連など6分野を重視 米スタートアップアクセラレーターのYコンビネーター（Y Combinator：YC）が10月、暗号資産（仮想通貨）分野で出資を希望する事業テーマをまとめた「Crypto…",
-      "url": "https://www.neweconomy.jp/posts/621965"
+      "date": "2026-10-31",
+      "title": "Tether’s excess reserves nearly double to $8B as Q3 profit hits $1.5B",
+      "summary": "The stablecoin issuer’s US Treasury holdings are comparable to those of major foreign holders, while its Bitco…",
+      "url": "https://cointelegraph.com/news/tethers-excess-reserves-nearly-double-to-8b-as-q3-profit-hits-15b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     },
     {
-      "date": "2026-10-29",
-      "title": "日本免税とUPBOND、JPYCで訪日客に免税還付 11月1日開始",
-      "summary": "日本免税は11月1日から、訪日客の免税還付金を円建てステーブルコインJPYCで受け取れるサービスを始める。同日開始の免税制度「リファンド方式」に合わせ、UPBONDのウォレット基盤とAvalancheを使って送付する。",
-      "url": "https://coinpost.jp/?p=745397"
+      "date": "2026-10-31",
+      "title": "Crypto Biz: Bitcoin’s quantum threat is becoming an economic problem",
+      "summary": "Bitcoin faces mounting quantum security concerns as Ripple secures a US banking charter, USDC gains ground in …",
+      "url": "https://cointelegraph.com/news/bitcoin-quantum-threat-ripple-bank-usdc-vaneck-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     },
     {
-      "date": "2026-10-29",
-      "title": "SBI、米クロスリバー親会社と日本合弁へ RWAトークン化やAI決済",
-      "summary": "SBIホールディングスが米クロスリバー銀行の親会社CRBグループと、日本での合弁会社設立に向け基本合意。融資債権のRWAトークン化やクロスボーダー決済、AIエージェント向け決済を検討し、円建てステーブルコインJPYSCの…",
-      "url": "https://coinpost.jp/?p=745316"
+      "date": "2026-10-30",
+      "title": "From rivals to partners: Polygon and Solana team to bring stablecoin payments to banks",
+      "summary": "The two networks are setting aside their rivalry to connect Solana's stablecoin activity with Polygon's bankin…",
+      "url": "https://www.coindesk.com/business/2026/10/29/from-rivals-to-partners-polygon-and-solana-team-to-bring-stablecoin-payments-to-banks"
     }
   ]
 }
