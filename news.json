@@ -1,6 +1,18 @@
 {
-  "updated": "2026-10-31T08:30:11+09:00",
+  "updated": "2026-11-01T08:09:28+09:00",
   "items": [
+    {
+      "date": "2026-10-31",
+      "title": "テザー社、USDT準備金の超過分が1兆円超えに回復 6月末から約2倍に",
+      "summary": "ステーブルコインUSDTを提供するテザー社は、7～9月期の準備金保証報告書を公表した。9月末の超過準備金は79.5億ドルで6月末から約2倍になっている。",
+      "url": "https://coinpost.jp/?p=745813"
+    },
+    {
+      "date": "2026-10-31",
+      "title": "ハイパーリキッドの収益源多角化、USDC準備金利回りなどの割合増加＝レポート",
+      "summary": "グレースケールによると、ハイパーリキッドのコア取引手数料は9割超から約6割に低下し、HIP3や準備金利回りなど様々な部門からの収益が前年から倍増している。",
+      "url": "https://coinpost.jp/?p=745794"
+    },
     {
       "date": "2026-10-30",
       "title": "金融庁、海外8地域の金融制度調査を公表 ステーブルコイン規制も整理",
@@ -24,18 +36,6 @@
       "title": "Tether’s excess reserves nearly double to $8B as Q3 profit hits $1.5B",
       "summary": "The stablecoin issuer’s US Treasury holdings are comparable to those of major foreign holders, while its Bitco…",
       "url": "https://cointelegraph.com/news/tethers-excess-reserves-nearly-double-to-8b-as-q3-profit-hits-15b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "date": "2026-10-31",
-      "title": "Crypto Biz: Bitcoin’s quantum threat is becoming an economic problem",
-      "summary": "Bitcoin faces mounting quantum security concerns as Ripple secures a US banking charter, USDC gains ground in …",
-      "url": "https://cointelegraph.com/news/bitcoin-quantum-threat-ripple-bank-usdc-vaneck-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "date": "2026-10-30",
-      "title": "From rivals to partners: Polygon and Solana team to bring stablecoin payments to banks",
-      "summary": "The two networks are setting aside their rivalry to connect Solana's stablecoin activity with Polygon's bankin…",
-      "url": "https://www.coindesk.com/business/2026/10/29/from-rivals-to-partners-polygon-and-solana-team-to-bring-stablecoin-payments-to-banks"
     }
   ]
 }
