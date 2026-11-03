@@ -1,6 +1,55 @@
 {
-  "updated": "2026-11-01T08:09:28+09:00",
+  "updated": "2026-11-03T11:03:54+09:00",
   "items": [
+    {
+      "date": "2026-11-03",
+      "title": "SBI、米エレボール銀行に1億ドル出資へ ステーブルコイン入出金に対応",
+      "summary": "SBIホールディングスが米デジタルバンクのエレボールに1億ドルを出資する。同行はステーブルコインの入出金やブロックチェーン決済に対応し、2026年2月の開業後、預金は70億ドルを超えた。同行の事業内容と出資の狙いをまとめ…",
+      "url": "https://coinpost.jp/?p=746053",
+      "important": false
+    },
+    {
+      "date": "2026-11-03",
+      "title": "Animoca Brands clears final hurdle for Abu Dhabi fund management",
+      "summary": "The former mobile games company is building out its fund management business in Abu Dhabi as it targets instit…",
+      "url": "https://cointelegraph.com/news/animoca-brands-expands-asset-management-business-with-abu-dhabi-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-11-02",
+      "title": "ステーブルコインの100万円上限、金融庁研究会で議論 全銀協は慎重",
+      "summary": "金融庁は2日、デジタル・分散型金融に関する研究会の第2回会合を開き、ステーブルコインの100万円上限やレンディング規制を議論した。JPYCとSBI VCトレードが上限の見直しを求めた一方、全銀協は慎重な検討を求めた。",
+      "url": "https://coinpost.jp/?p=746032",
+      "important": true
+    },
+    {
+      "date": "2026-11-02",
+      "title": "Visa、ステーブルコイン精算額が年換算250億ドル超に、前年同期比10倍",
+      "summary": "対応ブロックチェーンは10に拡大 米決済大手ビザ（Visa）のステーブルコインによる精算額が、年換算で250億ドル（約3.9兆円）を超えた。ビザのライアン・マキナニー（Ryan McInerney）CEOが、10月27日…",
+      "url": "https://www.neweconomy.jp/posts/623113",
+      "important": false
+    },
+    {
+      "date": "2026-11-02",
+      "title": "SBI VCトレードのJPYSCレンディング残高、100億円を突破",
+      "summary": "SBI VCトレードは2日、円建てステーブルコインJPYSCのレンディング（貸コイン）残高が100億円を突破したと発表した。取扱残高も300億円を超えた。利用料の計算方法と、貸出中のJPYSCが分別管理の対象外となる点な…",
+      "url": "https://coinpost.jp/?p=745959",
+      "important": false
+    },
+    {
+      "date": "2026-11-02",
+      "title": "XRP Ledger set to fix flaw that could have let stablecoin partners print new tokens",
+      "summary": "The fix is on track for Wednesday after validator support briefly dipped and restarted the two-week activation…",
+      "url": "https://www.coindesk.com/tech/2026/11/02/xrp-ledger-set-to-fix-flaw-that-could-let-stablecoin-partners-print-new-tokens",
+      "important": false
+    },
+    {
+      "date": "2026-11-02",
+      "title": "Hong Kong takes tokenized settlement to 24/7, plans stablecoin trials",
+      "summary": "The HKMA plans to bring regulated stablecoins into tokenized government debt trials, while HSBC says its RedCo…",
+      "url": "https://cointelegraph.com/news/hong-kong-24-7-tokenized-settlements-stablecoin-trials?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
     {
       "date": "2026-10-31",
       "title": "Binance hackers raced to move billions before it could be frozen",
