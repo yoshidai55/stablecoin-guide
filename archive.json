@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-03T11:03:54+09:00",
+  "updated": "2026-11-04T09:27:13+09:00",
   "items": [
+    {
+      "date": "2026-11-04",
+      "title": "Stablecoin governance group behind OUSD sets out management fee, offers equity earning pool",
+      "summary": "Governance group Open Standard will charge a 0.1 basis point management fee on payment volume, capped at at $0…",
+      "url": "https://www.coindesk.com/business/2026/11/03/stablecoin-governance-group-behind-ousd-sets-out-management-fee-offers-equity-earning-pool",
+      "important": false
+    },
     {
       "date": "2026-11-03",
       "title": "SBI、米エレボール銀行に1億ドル出資へ ステーブルコイン入出金に対応",
@@ -13,6 +20,34 @@
       "title": "Animoca Brands clears final hurdle for Abu Dhabi fund management",
       "summary": "The former mobile games company is building out its fund management business in Abu Dhabi as it targets instit…",
       "url": "https://cointelegraph.com/news/animoca-brands-expands-asset-management-business-with-abu-dhabi-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-11-03",
+      "title": "HSBCの香港ドル建てステーブルコイン「RedCoin」、利用者5万人に＝報道",
+      "summary": "RedCoinの利用者5万人に 香港の大手銀行である香港上海銀行（HSBC）が発行する香港ドル建てステーブルコイン「HSBCレッドコイン（HSBC RedCoin：RCHKD）」の利用者数が5万人に達した。香港紙「サウス…",
+      "url": "https://www.neweconomy.jp/posts/623302",
+      "important": false
+    },
+    {
+      "date": "2026-11-03",
+      "title": "Moscow Exchange to launch Bitcoin, Ether and USDT trading in December",
+      "summary": "Moscow Exchange plans to launch crypto trading on Dec. 1 under Russia’s new law, with annual purchase limits f…",
+      "url": "https://cointelegraph.com/news/moscow-exchange-bitcoin-ether-usdt-trading-december?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-11-03",
+      "title": "Tether holds 150,000 bitcoin worth $11.5 billion, CEO Paolo Ardoino says",
+      "summary": "Ardoino didn’t say where the extra coins sit. Holdings outside USDT reserves, such as Tether’s investments, wo…",
+      "url": "https://www.coindesk.com/business/2026/11/03/tether-holds-150-000-bitcoin-worth-usd11-5-billion-ceo-paolo-ardoino-says",
+      "important": false
+    },
+    {
+      "date": "2026-11-03",
+      "title": "Mercado Bitcoin pledges to cover all user losses after near $40 million hack",
+      "summary": "Partners like Tether, Circle, and Chainalysis helped freeze $11M of the stolen assets.",
+      "url": "https://www.coindesk.com/business/2026/11/03/mercado-bitcoin-pledges-to-cover-all-user-losses-after-near-usd40-million-hack",
       "important": false
     },
     {
