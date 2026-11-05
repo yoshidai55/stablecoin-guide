@@ -1,41 +1,35 @@
 {
-  "updated": "2026-11-04T09:27:13+09:00",
+  "updated": "2026-11-05T09:46:46+09:00",
   "items": [
     {
-      "date": "2026-11-03",
-      "title": "HSBCの香港ドル建てステーブルコイン「RedCoin」、利用者5万人に＝報道",
-      "summary": "RedCoinの利用者5万人に 香港の大手銀行である香港上海銀行（HSBC）が発行する香港ドル建てステーブルコイン「HSBCレッドコイン（HSBC RedCoin：RCHKD）」の利用者数が5万人に達した。香港紙「サウス…",
-      "url": "https://www.neweconomy.jp/posts/623302"
-    },
-    {
-      "date": "2026-11-03",
-      "title": "SBI、米エレボール銀行に1億ドル出資へ ステーブルコイン入出金に対応",
-      "summary": "SBIホールディングスが米デジタルバンクのエレボールに1億ドルを出資する。同行はステーブルコインの入出金やブロックチェーン決済に対応し、2026年2月の開業後、預金は70億ドルを超えた。同行の事業内容と出資の狙いをまとめ…",
-      "url": "https://coinpost.jp/?p=746053"
-    },
-    {
-      "date": "2026-11-02",
-      "title": "ステーブルコインの100万円上限、金融庁研究会で議論 全銀協は慎重",
-      "summary": "金融庁は2日、デジタル・分散型金融に関する研究会の第2回会合を開き、ステーブルコインの100万円上限やレンディング規制を議論した。JPYCとSBI VCトレードが上限の見直しを求めた一方、全銀協は慎重な検討を求めた。",
-      "url": "https://coinpost.jp/?p=746032"
+      "date": "2026-11-05",
+      "title": "米ステーブルコイン大手サークル、26年3Qの総収益が前年比＋17％ 準備金運用益は8%減",
+      "summary": "USDC発行元のサークルは、2026年3Qの決算を発表。事業収益とステーブルコインの準備金運用益の合計は約1,371億円で前年比プラス17％だったことなどを説明した。",
+      "url": "https://coinpost.jp/?p=746396"
     },
     {
       "date": "2026-11-04",
-      "title": "Stablecoin governance group behind OUSD sets out management fee, offers equity earning pool",
-      "summary": "Governance group Open Standard will charge a 0.1 basis point management fee on payment volume, capped at at $0…",
-      "url": "https://www.coindesk.com/business/2026/11/03/stablecoin-governance-group-behind-ousd-sets-out-management-fee-offers-equity-earning-pool"
+      "title": "コインダブル、テザーと共同プログラム開始。USDTなどの預け入れでテザーゴールド付与",
+      "summary": "CoinWとTetherが共同プログラム開始 海外暗号資産（仮想通貨）取引所コインダブル（CoinW）が、ステーブルコイン発行企業テザー（Tether）との共同プログラム「テザーズアーク（Tether’s Ark）」の開…",
+      "url": "https://www.neweconomy.jp/posts/623692"
     },
     {
-      "date": "2026-11-03",
-      "title": "Moscow Exchange to launch Bitcoin, Ether and USDT trading in December",
-      "summary": "Moscow Exchange plans to launch crypto trading on Dec. 1 under Russia’s new law, with annual purchase limits f…",
-      "url": "https://cointelegraph.com/news/moscow-exchange-bitcoin-ether-usdt-trading-december?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      "date": "2026-11-05",
+      "title": "Tokenization and stablecoins may weather Democrats' sweep as broader crypto rules face uncertainty",
+      "summary": "Wall Street's push to bring finance onto blockchain rails may continue under existing laws, though the SEC and…",
+      "url": "https://www.coindesk.com/policy/2026/11/04/tokenization-and-stablecoins-may-weather-democrats-sweep-as-broader-crypto-rules-face-uncertainty"
     },
     {
-      "date": "2026-11-03",
-      "title": "Tether holds 150,000 bitcoin worth $11.5 billion, CEO Paolo Ardoino says",
-      "summary": "Ardoino didn’t say where the extra coins sit. Holdings outside USDT reserves, such as Tether’s investments, wo…",
-      "url": "https://www.coindesk.com/business/2026/11/03/tether-holds-150-000-bitcoin-worth-usd11-5-billion-ceo-paolo-ardoino-says"
+      "date": "2026-11-05",
+      "title": "Circle’s ARC token sale lifts earnings as lower yields weigh on USDC income",
+      "summary": "Circle is looking to payments fees and future staking rewards to diversify revenue as its core stablecoin busi…",
+      "url": "https://cointelegraph.com/news/circles-arc-token-sale-earnings-yields-usdc-income?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "date": "2026-11-04",
+      "title": "U.S.-sanctioned Moscow Exchange to list bitcoin and Tether’s USDT in December",
+      "summary": "Russia’s main bourse wants back the crypto trading Russians do abroad, and one of the coins it's listing is is…",
+      "url": "https://www.coindesk.com/markets/2026/11/04/u-s-sanctioned-moscow-exchange-to-list-bitcoin-and-tether-s-usdt-in-december"
     }
   ]
 }

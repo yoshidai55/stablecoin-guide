@@ -1,11 +1,46 @@
 {
-  "updated": "2026-11-04T09:27:13+09:00",
+  "updated": "2026-11-05T09:46:46+09:00",
   "items": [
+    {
+      "date": "2026-11-05",
+      "title": "米ステーブルコイン大手サークル、26年3Qの総収益が前年比＋17％ 準備金運用益は8%減",
+      "summary": "USDC発行元のサークルは、2026年3Qの決算を発表。事業収益とステーブルコインの準備金運用益の合計は約1,371億円で前年比プラス17％だったことなどを説明した。",
+      "url": "https://coinpost.jp/?p=746396",
+      "important": false
+    },
+    {
+      "date": "2026-11-05",
+      "title": "Tokenization and stablecoins may weather Democrats' sweep as broader crypto rules face uncertainty",
+      "summary": "Wall Street's push to bring finance onto blockchain rails may continue under existing laws, though the SEC and…",
+      "url": "https://www.coindesk.com/policy/2026/11/04/tokenization-and-stablecoins-may-weather-democrats-sweep-as-broader-crypto-rules-face-uncertainty",
+      "important": true
+    },
+    {
+      "date": "2026-11-05",
+      "title": "Circle’s ARC token sale lifts earnings as lower yields weigh on USDC income",
+      "summary": "Circle is looking to payments fees and future staking rewards to diversify revenue as its core stablecoin busi…",
+      "url": "https://cointelegraph.com/news/circles-arc-token-sale-earnings-yields-usdc-income?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
     {
       "date": "2026-11-04",
       "title": "Stablecoin governance group behind OUSD sets out management fee, offers equity earning pool",
       "summary": "Governance group Open Standard will charge a 0.1 basis point management fee on payment volume, capped at at $0…",
       "url": "https://www.coindesk.com/business/2026/11/03/stablecoin-governance-group-behind-ousd-sets-out-management-fee-offers-equity-earning-pool",
+      "important": false
+    },
+    {
+      "date": "2026-11-04",
+      "title": "コインダブル、テザーと共同プログラム開始。USDTなどの預け入れでテザーゴールド付与",
+      "summary": "CoinWとTetherが共同プログラム開始 海外暗号資産（仮想通貨）取引所コインダブル（CoinW）が、ステーブルコイン発行企業テザー（Tether）との共同プログラム「テザーズアーク（Tether’s Ark）」の開…",
+      "url": "https://www.neweconomy.jp/posts/623692",
+      "important": false
+    },
+    {
+      "date": "2026-11-04",
+      "title": "U.S.-sanctioned Moscow Exchange to list bitcoin and Tether’s USDT in December",
+      "summary": "Russia’s main bourse wants back the crypto trading Russians do abroad, and one of the coins it's listing is is…",
+      "url": "https://www.coindesk.com/markets/2026/11/04/u-s-sanctioned-moscow-exchange-to-list-bitcoin-and-tether-s-usdt-in-december",
       "important": false
     },
     {
