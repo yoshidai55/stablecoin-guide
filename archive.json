@@ -1,6 +1,20 @@
 {
-  "updated": "2026-11-06T09:52:07+09:00",
+  "updated": "2026-11-07T08:58:55+09:00",
   "items": [
+    {
+      "date": "2026-11-07",
+      "title": "Russia finalizes crypto trading rules ahead of Nov. 17 rollout",
+      "summary": "The rules allow retail investors to trade BTC, ETH and USDT through regulated intermediaries, with Moscow Exch…",
+      "url": "https://cointelegraph.com/news/russia-finalizes-crypto-trading-rules-november-rollout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-11-07",
+      "title": "The crypto industry has found new ways to grow. Making money from them is another story",
+      "summary": "Coinbase, Robinhood and Circle are expanding into stablecoins, payments and prediction markets, but their late…",
+      "url": "https://www.coindesk.com/markets/2026/11/05/the-crypto-industry-has-found-new-ways-to-grow-making-money-from-them-is-another-story",
+      "important": false
+    },
     {
       "date": "2026-11-06",
       "title": "約8200万台の対応ギャラクシー端末、米国でソラナ上USDC送金可能に",
@@ -14,6 +28,27 @@
       "summary": "Asian crypto exchanges are scrambling to tighten security on fears of a wave of potentially AI-assisted hacks,…",
       "url": "https://cointelegraph.com/magazine/asian-crypto-exchanges-bunker-down-as-hacks-surge-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "important": true
+    },
+    {
+      "date": "2026-11-06",
+      "title": "iPhone攻撃キット「DarkSword」、仮想通貨窃盗に悪用か",
+      "summary": "iOS 18.4から18.7を狙う攻撃キットDarkSwordが仮想通貨窃盗に悪用された疑い。Bitqueryは関連が疑われるネットワークで約406万ドル相当のUSDT移動を確認、全件の関連は未確定とする。修正版iOSと…",
+      "url": "https://coinpost.jp/?p=746889",
+      "important": false
+    },
+    {
+      "date": "2026-11-06",
+      "title": "Nigeria sets new crypto licensing rules, bans algorithmic stablecoins",
+      "summary": "Nigeria has banned algorithmic stablecoins and introduced reserve requirements for issuers as it expands centr…",
+      "url": "https://cointelegraph.com/news/nigeria-algorithmic-stablecoin-ban-crypto-licensing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-11-06",
+      "title": "Trump-backed World Liberty Financial plans token buyback after 66% year-to-date slide",
+      "summary": "The crypto venture may use fees from its USD1 stablecoin reserves to fund token purchases as it seeks to boost…",
+      "url": "https://www.coindesk.com/business/2026/11/06/trump-backed-world-liberty-financial-plans-token-buyback-after-66-year-to-date-slide",
+      "important": false
     },
     {
       "date": "2026-11-05",
