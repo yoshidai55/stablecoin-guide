@@ -1,17 +1,23 @@
 {
-  "updated": "2026-11-05T09:46:46+09:00",
+  "updated": "2026-11-06T09:52:07+09:00",
   "items": [
     {
-      "date": "2026-11-05",
-      "title": "米ステーブルコイン大手サークル、26年3Qの総収益が前年比＋17％ 準備金運用益は8%減",
-      "summary": "USDC発行元のサークルは、2026年3Qの決算を発表。事業収益とステーブルコインの準備金運用益の合計は約1,371億円で前年比プラス17％だったことなどを説明した。",
-      "url": "https://coinpost.jp/?p=746396"
+      "date": "2026-11-06",
+      "title": "約8200万台の対応ギャラクシー端末、米国でソラナ上USDC送金可能に",
+      "summary": "サムスン電子が米国で、サムスンウォレットのステーブルコインアカウントの提供を開始した。対象は約8200万台のギャラクシーで、USDCの保有や送金、60カ国超の対象銀行口座への送金に対応する。",
+      "url": "https://coinpost.jp/?p=746670"
     },
     {
-      "date": "2026-11-04",
-      "title": "コインダブル、テザーと共同プログラム開始。USDTなどの預け入れでテザーゴールド付与",
-      "summary": "CoinWとTetherが共同プログラム開始 海外暗号資産（仮想通貨）取引所コインダブル（CoinW）が、ステーブルコイン発行企業テザー（Tether）との共同プログラム「テザーズアーク（Tether’s Ark）」の開…",
-      "url": "https://www.neweconomy.jp/posts/623692"
+      "date": "2026-11-06",
+      "title": "Asian crypto exchanges batten down the hatches as hacks surge: Asia Express",
+      "summary": "Asian crypto exchanges are scrambling to tighten security on fears of a wave of potentially AI-assisted hacks,…",
+      "url": "https://cointelegraph.com/magazine/asian-crypto-exchanges-bunker-down-as-hacks-surge-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "date": "2026-11-05",
+      "title": "France budget rejection sidelines stablecoin tax, wallet reporting",
+      "summary": "Three adopted amendments, including stablecoin taxation and self-custody reporting, fall away but could be rei…",
+      "url": "https://cointelegraph.com/news/france-rejects-budget-revenue-sidelines-crypto-amendments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     },
     {
       "date": "2026-11-05",
@@ -24,12 +30,6 @@
       "title": "Circle’s ARC token sale lifts earnings as lower yields weigh on USDC income",
       "summary": "Circle is looking to payments fees and future staking rewards to diversify revenue as its core stablecoin busi…",
       "url": "https://cointelegraph.com/news/circles-arc-token-sale-earnings-yields-usdc-income?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "date": "2026-11-04",
-      "title": "U.S.-sanctioned Moscow Exchange to list bitcoin and Tether’s USDT in December",
-      "summary": "Russia’s main bourse wants back the crypto trading Russians do abroad, and one of the coins it's listing is is…",
-      "url": "https://www.coindesk.com/markets/2026/11/04/u-s-sanctioned-moscow-exchange-to-list-bitcoin-and-tether-s-usdt-in-december"
     }
   ]
 }
