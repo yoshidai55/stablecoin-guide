@@ -1,6 +1,20 @@
 {
-  "updated": "2026-11-07T08:58:55+09:00",
+  "updated": "2026-11-09T08:28:18+09:00",
   "items": [
+    {
+      "date": "2026-11-09",
+      "title": "金融庁と欧州委員会、ステーブルコインやトークン化で意見交換",
+      "summary": "金融庁は6日、欧州委員会と東京で開いた日EU合同金融規制フォーラム第7回会合の共同声明を公表した。暗号資産やステーブルコイン、トークン化の進展を議論し、欧州委はMiCAの実施状況と公開協議の主要論点を報告した。",
+      "url": "https://coinpost.jp/?p=747025",
+      "important": true
+    },
+    {
+      "date": "2026-11-09",
+      "title": "Stablecoin growth has stalled. The payments boom hasn't",
+      "summary": "Stablecoin supply has barely grown this year, even as payments using the tokens surge. Circle's latest earning…",
+      "url": "https://www.coindesk.com/business/2026/11/08/stablecoin-growth-has-stalled-the-payments-boom-hasn-t",
+      "important": false
+    },
     {
       "date": "2026-11-07",
       "title": "Russia finalizes crypto trading rules ahead of Nov. 17 rollout",
