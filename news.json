@@ -1,41 +1,41 @@
 {
-  "updated": "2026-11-09T08:28:18+09:00",
+  "updated": "2026-11-10T11:35:25+09:00",
   "items": [
     {
+      "date": "2026-11-10",
+      "title": "決済インフラの米バックト、半年で取引総額60億ドル目標 通期目標の2倍",
+      "summary": "ニューヨーク証券取引所に上場するバックトが第3四半期決算を発表し、2027年上半期の取引総額目標を約60億ドルに設定した。12月から月次で実績を公表する。ステーブルコイン決済への事業拡大と、11月に更新したリスク開示の内…",
+      "url": "https://coinpost.jp/?p=747180"
+    },
+    {
+      "date": "2026-11-10",
+      "title": "コインベースと米銀PNC、法人・機関顧客のUSDC受け取り試験",
+      "summary": "コインベースと米銀PNCは、PNCの法人・機関向け銀行業務の対象顧客がUSDCを受け取れる試験を開始した。受け取ったUSDCは1対1でドルに自動変換され、PNCの預金口座に入る。コインベースは信託会社設立でも、米通貨監督…",
+      "url": "https://coinpost.jp/?p=747138"
+    },
+    {
+      "date": "2026-11-10",
+      "title": "PNC Bank tests turning USDC payments into dollar deposits",
+      "summary": "The pilot lets eligible corporate and institutional clients accept USDC on Ethereum, with each token converted…",
+      "url": "https://cointelegraph.com/news/pnc-bank-launches-usdc-payment-pilot-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    },
+    {
       "date": "2026-11-09",
-      "title": "金融庁と欧州委員会、ステーブルコインやトークン化で意見交換",
-      "summary": "金融庁は6日、欧州委員会と東京で開いた日EU合同金融規制フォーラム第7回会合の共同声明を公表した。暗号資産やステーブルコイン、トークン化の進展を議論し、欧州委はMiCAの実施状況と公開協議の主要論点を報告した。",
-      "url": "https://coinpost.jp/?p=747025"
+      "title": "The $2.85B Binance hackers lost shows why the UK needs stablecoin freeze rules",
+      "summary": "The Binance hack proved stablecoin freezes work. Now the UK should make clear freeze rules a condition of list…",
+      "url": "https://cointelegraph.com/opinion/285b-binance-hackers-lost-shows-why-uk-needs-stablecoin-freeze-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "date": "2026-11-09",
+      "title": "Binance, Tether and Trump crypto firms face Senate records deadline",
+      "summary": "Sen. Richard Blumenthal asked four crypto firms to start sending records by Nov. 30 and warned of further acti…",
+      "url": "https://cointelegraph.com/news/binance-tether-wlfi-senate-crypto-investigation-records-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     },
     {
       "date": "2026-11-09",
       "title": "Stablecoin growth has stalled. The payments boom hasn't",
       "summary": "Stablecoin supply has barely grown this year, even as payments using the tokens surge. Circle's latest earning…",
       "url": "https://www.coindesk.com/business/2026/11/08/stablecoin-growth-has-stalled-the-payments-boom-hasn-t"
-    },
-    {
-      "date": "2026-11-07",
-      "title": "Russia finalizes crypto trading rules ahead of Nov. 17 rollout",
-      "summary": "The rules allow retail investors to trade BTC, ETH and USDT through regulated intermediaries, with Moscow Exch…",
-      "url": "https://cointelegraph.com/news/russia-finalizes-crypto-trading-rules-november-rollout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "date": "2026-11-07",
-      "title": "The crypto industry has found new ways to grow. Making money from them is another story",
-      "summary": "Coinbase, Robinhood and Circle are expanding into stablecoins, payments and prediction markets, but their late…",
-      "url": "https://www.coindesk.com/markets/2026/11/05/the-crypto-industry-has-found-new-ways-to-grow-making-money-from-them-is-another-story"
-    },
-    {
-      "date": "2026-11-06",
-      "title": "Nigeria sets new crypto licensing rules, bans algorithmic stablecoins",
-      "summary": "Nigeria has banned algorithmic stablecoins and introduced reserve requirements for issuers as it expands centr…",
-      "url": "https://cointelegraph.com/news/nigeria-algorithmic-stablecoin-ban-crypto-licensing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "date": "2026-11-06",
-      "title": "Trump-backed World Liberty Financial plans token buyback after 66% year-to-date slide",
-      "summary": "The crypto venture may use fees from its USD1 stablecoin reserves to fund token purchases as it seeks to boost…",
-      "url": "https://www.coindesk.com/business/2026/11/06/trump-backed-world-liberty-financial-plans-token-buyback-after-66-year-to-date-slide"
     }
   ]
 }
