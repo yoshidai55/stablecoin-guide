@@ -1,6 +1,34 @@
 {
-  "updated": "2026-11-10T11:35:25+09:00",
+  "updated": "2026-11-11T09:27:41+09:00",
   "items": [
+    {
+      "date": "2026-11-11",
+      "title": "ゴールドマンやシティ、共同ステーブルコイン会社に約428億円出資へ＝報道",
+      "summary": "ブルームバーグは11日、ゴールドマン・サックスやシティグループなどが共同ステーブルコイン会社に約2.7億ドルの拠出を約束したと伝えた。資金は5年分の運営費に充てる想定で、2027年前半のステーブルコイン発行計画を進めるも…",
+      "url": "https://coinpost.jp/?p=747326",
+      "important": false
+    },
+    {
+      "date": "2026-11-11",
+      "title": "Global banks commit $270M to stablecoin venture targeting 2027 launch",
+      "summary": "Project Faro, backed by Goldman Sachs, Citigroup and BBVA, has secured $270 million in funding to launch a US …",
+      "url": "https://cointelegraph.com/news/banks-270m-project-faro-stablecoin-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-11-11",
+      "title": "Goldman Sachs, Citi among banks said to commit $270 million to stablecoin venture",
+      "summary": "The venture, known as Project Faro, plans to issue a dollar-denominated stablecoin and is expected to be incor…",
+      "url": "https://www.coindesk.com/business/2026/11/10/goldman-sachs-citi-among-banks-said-to-commit-usd270-million-to-stablecoin-venture",
+      "important": true
+    },
+    {
+      "date": "2026-11-11",
+      "title": "Plume affiliate lands broker-dealer license to bring real U.S. assets onchain",
+      "summary": "Kimber Digital Securities secured SEC and Finra approvals, a regulatory milestone paving the way for the deliv…",
+      "url": "https://www.coindesk.com/markets/2026/11/10/emb-10-am-et-plume-affiliate-gets-the-legal-green-light-to-trade-regulated-security-entitlements-onchain",
+      "important": true
+    },
     {
       "date": "2026-11-10",
       "title": "決済インフラの米バックト、半年で取引総額60億ドル目標 通期目標の2倍",
@@ -20,6 +48,41 @@
       "title": "PNC Bank tests turning USDC payments into dollar deposits",
       "summary": "The pilot lets eligible corporate and institutional clients accept USDC on Ethereum, with each token converted…",
       "url": "https://cointelegraph.com/news/pnc-bank-launches-usdc-payment-pilot-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-11-10",
+      "title": "【11/10話題】NYSE関連のトークン化証券基盤にアバランチ、デジガレの決済基盤がアーク上のUSDCに対応、バイナンス流出資産を北朝鮮が自作ミームコインで洗浄かなど（音声ニュース）",
+      "summary": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif…",
+      "url": "https://www.neweconomy.jp/posts/625607",
+      "important": false
+    },
+    {
+      "date": "2026-11-10",
+      "title": "テザー、ユヴェントスの増資に参加へ。満額なら約51億円拠出＝報道",
+      "summary": "Tetherが増資権限の付与に賛成 テザー（Tether）のグループ会社テザー・インベストメンツ（Tether Investments）が、イタリアのサッカークラブ「ユヴェントス・フットボール・クラブ（Juventus …",
+      "url": "https://www.neweconomy.jp/posts/625644",
+      "important": false
+    },
+    {
+      "date": "2026-11-10",
+      "title": "デジタルガレージ、米サークル関連会社とMOU。決済基盤が「アーク」上のUSDCに対応",
+      "summary": "JCBに決済基盤を先行提供、実店舗やECでの利用拡大へ デジタルガレージが、米ドル建てステーブルコイン「USDC」の発行を手がける米サークル・インターネット・グループ（Circle Internet Group）の関連会…",
+      "url": "https://www.neweconomy.jp/posts/625544",
+      "important": false
+    },
+    {
+      "date": "2026-11-10",
+      "title": "Will stablecoins survive once the banks catch up?",
+      "summary": "As crypto firms and banks converge, it is fair to ask what lasting advantage stablecoins have, argues Alessand…",
+      "url": "https://www.coindesk.com/opinion/2026/11/10/will-stablecoins-survive-once-the-banks-catch-up",
+      "important": true
+    },
+    {
+      "date": "2026-11-10",
+      "title": "Securitize agrees to buy River One to expand into asset-backed lending",
+      "summary": "Securitize agreed to buy River One to bring stablecoin funding to asset-backed lending and expects the deal to…",
+      "url": "https://cointelegraph.com/news/securitize-river-one-asset-backed-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "important": true
     },
     {
