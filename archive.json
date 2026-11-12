@@ -1,6 +1,27 @@
 {
-  "updated": "2026-11-11T09:27:41+09:00",
+  "updated": "2026-11-12T10:49:30+09:00",
   "items": [
+    {
+      "date": "2026-11-12",
+      "title": "仮想通貨の生命線、ステーブルコインが過去30日で2.2兆円減 4年超ぶりの資金流出",
+      "summary": "仮想通貨データ分析企業グラスノードは11日のリポートで、ステーブルコインの供給が30日間で142億ドル減少し、2022年6月以来の速いペースになったと明らかにした。保有者がドルに償還して現金を市場外へ出し、上昇を支える資…",
+      "url": "https://coinpost.jp/?p=747545",
+      "important": false
+    },
+    {
+      "date": "2026-11-12",
+      "title": "JPYCの岡部氏がステーブルコインの重要性を主張、「銀行が停止しても使用は可能」",
+      "summary": "JPYC社の岡部氏は、銀行のサービスが止まるほどステーブルコインJPYCの評価が上がると主張。背景には、GMOあおぞらネット銀行による銀行APIサービスの一時停止がある。",
+      "url": "https://coinpost.jp/?p=747532",
+      "important": true
+    },
+    {
+      "date": "2026-11-12",
+      "title": "Crypto Long & Short: The GENIUS Act’s guarantees don’t cover DeFi lending",
+      "summary": "Institutions weighing DeFi lending tend to ask which markets are safest. Mike Hathaway and Joseph Quintilian o…",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/11/11/crypto-long-and-short-the-genius-act-s-guarantees-don-t-cover-defi-lending",
+      "important": true
+    },
     {
       "date": "2026-11-11",
       "title": "ゴールドマンやシティ、共同ステーブルコイン会社に約428億円出資へ＝報道",
@@ -28,6 +49,34 @@
       "summary": "Kimber Digital Securities secured SEC and Finra approvals, a regulatory milestone paving the way for the deliv…",
       "url": "https://www.coindesk.com/markets/2026/11/10/emb-10-am-et-plume-affiliate-gets-the-legal-green-light-to-trade-regulated-security-entitlements-onchain",
       "important": true
+    },
+    {
+      "date": "2026-11-11",
+      "title": "金融庁研究会でDeFi規制に意見 ゲートキーパーの担い手も論点に",
+      "summary": "金融庁は、10月20日に開いた「デジタル・分散型金融への対応のあり方等に関する研究会」初会合の議事要旨を公表した。DEX・DeFiで規制の空白を生まない対応や、ステーブルコイン発行者の大口償還に伴う国債売却リスクについて…",
+      "url": "https://coinpost.jp/?p=747494",
+      "important": true
+    },
+    {
+      "date": "2026-11-11",
+      "title": "Deutsche Bank launches crypto custody for companies and institutions",
+      "summary": "Clients can store and transfer Bitcoin, Ether and select stablecoins through the bank, which manages their wal…",
+      "url": "https://cointelegraph.com/news/deutsche-bank-debuts-digital-asset-custody-services-eu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-11-11",
+      "title": "Paraguay bank collapse shows stablecoins can offer a lifeline... of sorts",
+      "summary": "Ueno’s collapse exposed the fragility of digital banking in Paraguay, as customers scrambled for access to the…",
+      "url": "https://cointelegraph.com/magazine/paraguay-bank-collapse-shows-stablecoins-can-offer-a-lifeline-of-sorts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-11-11",
+      "title": "FSB urgest Turkey to tighten crypto oversight, set stablecoin rules",
+      "summary": "The Financial Stability Board cited progress on crypto licensing and urged stronger enforcement and cooperatio…",
+      "url": "https://cointelegraph.com/news/fsb-turkey-crypto-oversight-stablecoin-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
     },
     {
       "date": "2026-11-10",

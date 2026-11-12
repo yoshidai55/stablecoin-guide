@@ -1,41 +1,41 @@
 {
-  "updated": "2026-11-11T09:27:41+09:00",
+  "updated": "2026-11-12T10:49:30+09:00",
   "items": [
     {
-      "date": "2026-11-11",
-      "title": "ゴールドマンやシティ、共同ステーブルコイン会社に約428億円出資へ＝報道",
-      "summary": "ブルームバーグは11日、ゴールドマン・サックスやシティグループなどが共同ステーブルコイン会社に約2.7億ドルの拠出を約束したと伝えた。資金は5年分の運営費に充てる想定で、2027年前半のステーブルコイン発行計画を進めるも…",
-      "url": "https://coinpost.jp/?p=747326"
+      "date": "2026-11-12",
+      "title": "仮想通貨の生命線、ステーブルコインが過去30日で2.2兆円減 4年超ぶりの資金流出",
+      "summary": "仮想通貨データ分析企業グラスノードは11日のリポートで、ステーブルコインの供給が30日間で142億ドル減少し、2022年6月以来の速いペースになったと明らかにした。保有者がドルに償還して現金を市場外へ出し、上昇を支える資…",
+      "url": "https://coinpost.jp/?p=747545"
     },
     {
-      "date": "2026-11-10",
-      "title": "【11/10話題】NYSE関連のトークン化証券基盤にアバランチ、デジガレの決済基盤がアーク上のUSDCに対応、バイナンス流出資産を北朝鮮が自作ミームコインで洗浄かなど（音声ニュース）",
-      "summary": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif…",
-      "url": "https://www.neweconomy.jp/posts/625607"
-    },
-    {
-      "date": "2026-11-10",
-      "title": "テザー、ユヴェントスの増資に参加へ。満額なら約51億円拠出＝報道",
-      "summary": "Tetherが増資権限の付与に賛成 テザー（Tether）のグループ会社テザー・インベストメンツ（Tether Investments）が、イタリアのサッカークラブ「ユヴェントス・フットボール・クラブ（Juventus …",
-      "url": "https://www.neweconomy.jp/posts/625644"
-    },
-    {
-      "date": "2026-11-10",
-      "title": "デジタルガレージ、米サークル関連会社とMOU。決済基盤が「アーク」上のUSDCに対応",
-      "summary": "JCBに決済基盤を先行提供、実店舗やECでの利用拡大へ デジタルガレージが、米ドル建てステーブルコイン「USDC」の発行を手がける米サークル・インターネット・グループ（Circle Internet Group）の関連会…",
-      "url": "https://www.neweconomy.jp/posts/625544"
+      "date": "2026-11-12",
+      "title": "JPYCの岡部氏がステーブルコインの重要性を主張、「銀行が停止しても使用は可能」",
+      "summary": "JPYC社の岡部氏は、銀行のサービスが止まるほどステーブルコインJPYCの評価が上がると主張。背景には、GMOあおぞらネット銀行による銀行APIサービスの一時停止がある。",
+      "url": "https://coinpost.jp/?p=747532"
     },
     {
       "date": "2026-11-11",
-      "title": "Global banks commit $270M to stablecoin venture targeting 2027 launch",
-      "summary": "Project Faro, backed by Goldman Sachs, Citigroup and BBVA, has secured $270 million in funding to launch a US …",
-      "url": "https://cointelegraph.com/news/banks-270m-project-faro-stablecoin-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      "title": "金融庁研究会でDeFi規制に意見 ゲートキーパーの担い手も論点に",
+      "summary": "金融庁は、10月20日に開いた「デジタル・分散型金融への対応のあり方等に関する研究会」初会合の議事要旨を公表した。DEX・DeFiで規制の空白を生まない対応や、ステーブルコイン発行者の大口償還に伴う国債売却リスクについて…",
+      "url": "https://coinpost.jp/?p=747494"
+    },
+    {
+      "date": "2026-11-12",
+      "title": "Crypto Long & Short: The GENIUS Act’s guarantees don’t cover DeFi lending",
+      "summary": "Institutions weighing DeFi lending tend to ask which markets are safest. Mike Hathaway and Joseph Quintilian o…",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/11/11/crypto-long-and-short-the-genius-act-s-guarantees-don-t-cover-defi-lending"
     },
     {
       "date": "2026-11-11",
-      "title": "Goldman Sachs, Citi among banks said to commit $270 million to stablecoin venture",
-      "summary": "The venture, known as Project Faro, plans to issue a dollar-denominated stablecoin and is expected to be incor…",
-      "url": "https://www.coindesk.com/business/2026/11/10/goldman-sachs-citi-among-banks-said-to-commit-usd270-million-to-stablecoin-venture"
+      "title": "Deutsche Bank launches crypto custody for companies and institutions",
+      "summary": "Clients can store and transfer Bitcoin, Ether and select stablecoins through the bank, which manages their wal…",
+      "url": "https://cointelegraph.com/news/deutsche-bank-debuts-digital-asset-custody-services-eu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    },
+    {
+      "date": "2026-11-11",
+      "title": "Paraguay bank collapse shows stablecoins can offer a lifeline... of sorts",
+      "summary": "Ueno’s collapse exposed the fragility of digital banking in Paraguay, as customers scrambled for access to the…",
+      "url": "https://cointelegraph.com/magazine/paraguay-bank-collapse-shows-stablecoins-can-offer-a-lifeline-of-sorts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     }
   ]
 }
