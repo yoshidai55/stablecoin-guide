@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-12T10:49:30+09:00",
+  "updated": "2026-11-13T09:56:09+09:00",
   "items": [
+    {
+      "date": "2026-11-13",
+      "title": "エセナとセキュリタイズ、BUIDL向けに160億円規模の流動性ファシリティ開始",
+      "summary": "エセナとセキュリタイズが、ブラックロックのトークン化ファンド「BUIDL」を市場時間外にUSDCなどと交換できる流動性ファシリティを立ち上げた。最大1億ドル規模となる。",
+      "url": "https://coinpost.jp/?p=747736",
+      "important": false
+    },
     {
       "date": "2026-11-12",
       "title": "仮想通貨の生命線、ステーブルコインが過去30日で2.2兆円減 4年超ぶりの資金流出",
@@ -21,6 +28,62 @@
       "summary": "Institutions weighing DeFi lending tend to ask which markets are safest. Mike Hathaway and Joseph Quintilian o…",
       "url": "https://www.coindesk.com/coindesk-indices/2026/11/11/crypto-long-and-short-the-genius-act-s-guarantees-don-t-cover-defi-lending",
       "important": true
+    },
+    {
+      "date": "2026-11-12",
+      "title": "カイア上のJPYC決済実証、大阪公立大の周辺飲食店で開始へ",
+      "summary": "大阪公立大学周辺でJPYC決済実証が開始へ 大阪公立大学発の個人・法人向けITサービス企業Mi&T（ミアット）が、同大学周辺の飲食店や小売店で、日本円建てステーブルコイン「JPYC」を利用できる決済アプリ「マタネ […]",
+      "url": "https://www.neweconomy.jp/posts/626199",
+      "important": true
+    },
+    {
+      "date": "2026-11-12",
+      "title": "スイのハードウェアウォレット「SuiBall」がPJ終了へ、予約注文者にUSDCで全額返金",
+      "summary": "スイボールがプロジェクト終了 レイヤー1ブロックチェーン「スイ（Sui）」向けハードウェアウォレット「スイボール（SuiBall）」の開発チームが、同プロジェクトの終了と予約注文者への全額返金を11月11日に発表した。返…",
+      "url": "https://www.neweconomy.jp/posts/626187",
+      "important": false
+    },
+    {
+      "date": "2026-11-12",
+      "title": "Thailand proposes $148K daily cap on stablecoin deposits and withdrawals",
+      "summary": "Thailand’s SEC would set separate daily caps for stablecoin deposits and withdrawals and require customers to …",
+      "url": "https://cointelegraph.com/news/thailand-tighter-stablecoin-rules-crypto-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-11-12",
+      "title": "Uber’s UK banking partner Griffin raises $20M for stablecoin services",
+      "summary": "The Series B valued Griffin at more than $100 million and will help fund stablecoin reserve services and oncha…",
+      "url": "https://cointelegraph.com/news/digital-bank-griffin-100m-valuation-card-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-11-12",
+      "title": "UK bank Griffin raises $20 million to expand into stablecoin payments",
+      "summary": "The Series B funding round, led by Octagon Partners valued the London-based company at more than $100 million.",
+      "url": "https://www.coindesk.com/business/2026/11/12/uk-bank-griffin-raises-usd20-million-to-expand-into-stablecoin-payments",
+      "important": true
+    },
+    {
+      "date": "2026-11-12",
+      "title": "Stablecoin supply falls $14.2B in biggest 30-day drop since June 2022",
+      "summary": "Crypto markets were left with “less fuel” to rally after the market cap of major stablecoins saw its biggest 3…",
+      "url": "https://cointelegraph.com/markets/stablecoin-supply-drops-worst-slump-since-mid-2022?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-11-12",
+      "title": "Tron and Tether bring in Chainalysis after T3 crime unit folds",
+      "summary": "The group will focus on illicit USDT activity on Tron and help law enforcement investigate suspicious transfer…",
+      "url": "https://cointelegraph.com/news/tron-tether-chainalysis-cybercrime-task-force-laundering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-11-12",
+      "title": "Gemini sells UK and European operations to stablecoin payments firm KAST for under $10 million",
+      "summary": "The sale follows the Winklevoss-founded crypto exchange’s retreat from several overseas markets as it restruct…",
+      "url": "https://www.coindesk.com/business/2026/11/12/gemini-sells-uk-and-european-operations-to-stablecoin-payments-firm-kast-for-under-usd10-million",
+      "important": false
     },
     {
       "date": "2026-11-11",
