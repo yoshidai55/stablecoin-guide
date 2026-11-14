@@ -1,41 +1,41 @@
 {
-  "updated": "2026-11-13T09:56:09+09:00",
+  "updated": "2026-11-14T09:45:07+09:00",
   "items": [
     {
+      "date": "2026-11-14",
+      "title": "ビットコイン7万ドル割れ、AI株安が波及しロング大量清算が下落を加速｜仮想NISHI",
+      "summary": "仮想通貨ビットコインは13日から14日にかけて大きく下落し、2日間で円建て100万円幅を超える下げとなった。米追加利上げへの警戒から買いが弱まるなか、エヌビディアのジェンスン・フアンCEO辞任を受けたハイテク株への不安が…",
+      "url": "https://coinpost.jp/?p=747946"
+    },
+    {
+      "date": "2026-11-14",
+      "title": "日本人のタイ旅行にステーブルコイン決済、タイ企業が新アプリ提供",
+      "summary": "タイのWaan ExchangeとWipayが、外国人観光客がステーブルコインをバーツに換えてQRコード決済できるアプリ「WORPT」の提供を始めた。日本を含む国の観光客を対象に、18カ月でアクティブ利用者約15万人を見…",
+      "url": "https://coinpost.jp/?p=747922"
+    },
+    {
+      "date": "2026-11-14",
+      "title": "東証上場アステリア、約3億円分のJPYCを現金同等物で保有",
+      "summary": "東証上場のアステリアは13日、2027年3月期の中間決算短信を公表した。現金及び現金同等物36億9,855万円のうち、ステーブルコインJPYCが2億9,900万円を占め、営業利益は302.6％増の21億757万円となった…",
+      "url": "https://coinpost.jp/?p=747923"
+    },
+    {
       "date": "2026-11-13",
-      "title": "エセナとセキュリタイズ、BUIDL向けに160億円規模の流動性ファシリティ開始",
-      "summary": "エセナとセキュリタイズが、ブラックロックのトークン化ファンド「BUIDL」を市場時間外にUSDCなどと交換できる流動性ファシリティを立ち上げた。最大1億ドル規模となる。",
-      "url": "https://coinpost.jp/?p=747736"
+      "title": "ジュピターの「Jupiter Lend」、米ドルステーブルコイン「USDGO」の貸借市場を追加",
+      "summary": "Jupiter LendにUSDGOの貸借市場が追加 ソラナ（Solana）上のオンチェーン取引サービスを展開するジュピター（Jupiter）が、レンディングサービス「ジュピターレンド（Jupiter Lend）」に、米…",
+      "url": "https://www.neweconomy.jp/posts/626590"
     },
     {
-      "date": "2026-11-12",
-      "title": "カイア上のJPYC決済実証、大阪公立大の周辺飲食店で開始へ",
-      "summary": "大阪公立大学周辺でJPYC決済実証が開始へ 大阪公立大学発の個人・法人向けITサービス企業Mi&T（ミアット）が、同大学周辺の飲食店や小売店で、日本円建てステーブルコイン「JPYC」を利用できる決済アプリ「マタネ […]",
-      "url": "https://www.neweconomy.jp/posts/626199"
+      "date": "2026-11-13",
+      "title": "ビットゴー、「BitGo Mint」でUSDCの発行・償還に対応",
+      "summary": "BitGo MintにUSDCが追加 米デジタル資産インフラ企業ビットゴー（BitGo）が、デジタル資産の発行・償還サービス「ビットゴーミント（BitGo Mint）」に、米ドル建てステーブルコイン「USDC」を追加した…",
+      "url": "https://www.neweconomy.jp/posts/626576"
     },
     {
-      "date": "2026-11-12",
-      "title": "スイのハードウェアウォレット「SuiBall」がPJ終了へ、予約注文者にUSDCで全額返金",
-      "summary": "スイボールがプロジェクト終了 レイヤー1ブロックチェーン「スイ（Sui）」向けハードウェアウォレット「スイボール（SuiBall）」の開発チームが、同プロジェクトの終了と予約注文者への全額返金を11月11日に発表した。返…",
-      "url": "https://www.neweconomy.jp/posts/626187"
-    },
-    {
-      "date": "2026-11-12",
-      "title": "Thailand proposes $148K daily cap on stablecoin deposits and withdrawals",
-      "summary": "Thailand’s SEC would set separate daily caps for stablecoin deposits and withdrawals and require customers to …",
-      "url": "https://cointelegraph.com/news/thailand-tighter-stablecoin-rules-crypto-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "date": "2026-11-12",
-      "title": "Uber’s UK banking partner Griffin raises $20M for stablecoin services",
-      "summary": "The Series B valued Griffin at more than $100 million and will help fund stablecoin reserve services and oncha…",
-      "url": "https://cointelegraph.com/news/digital-bank-griffin-100m-valuation-card-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "date": "2026-11-12",
-      "title": "UK bank Griffin raises $20 million to expand into stablecoin payments",
-      "summary": "The Series B funding round, led by Octagon Partners valued the London-based company at more than $100 million.",
-      "url": "https://www.coindesk.com/business/2026/11/12/uk-bank-griffin-raises-usd20-million-to-expand-into-stablecoin-payments"
+      "date": "2026-11-13",
+      "title": "英フィンテック企業向け銀行グリフィン、20Mドル調達。ステーブルコイン関連機能開発へ",
+      "summary": "英Griffinが2,000万ドル調達。ステーブルコイン関連機能開発へ 英フィンテック企業向け銀行グリフィン（Griffin）が、ステーブルコイン関連サービスとカード発行機能の開発に向け、シリーズBの資金調達ラウンドで2…",
+      "url": "https://www.neweconomy.jp/posts/626570"
     }
   ]
 }

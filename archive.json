@@ -1,11 +1,74 @@
 {
-  "updated": "2026-11-13T09:56:09+09:00",
+  "updated": "2026-11-14T09:45:07+09:00",
   "items": [
+    {
+      "date": "2026-11-14",
+      "title": "ビットコイン7万ドル割れ、AI株安が波及しロング大量清算が下落を加速｜仮想NISHI",
+      "summary": "仮想通貨ビットコインは13日から14日にかけて大きく下落し、2日間で円建て100万円幅を超える下げとなった。米追加利上げへの警戒から買いが弱まるなか、エヌビディアのジェンスン・フアンCEO辞任を受けたハイテク株への不安が…",
+      "url": "https://coinpost.jp/?p=747946",
+      "important": false
+    },
+    {
+      "date": "2026-11-14",
+      "title": "日本人のタイ旅行にステーブルコイン決済、タイ企業が新アプリ提供",
+      "summary": "タイのWaan ExchangeとWipayが、外国人観光客がステーブルコインをバーツに換えてQRコード決済できるアプリ「WORPT」の提供を始めた。日本を含む国の観光客を対象に、18カ月でアクティブ利用者約15万人を見…",
+      "url": "https://coinpost.jp/?p=747922",
+      "important": false
+    },
+    {
+      "date": "2026-11-14",
+      "title": "東証上場アステリア、約3億円分のJPYCを現金同等物で保有",
+      "summary": "東証上場のアステリアは13日、2027年3月期の中間決算短信を公表した。現金及び現金同等物36億9,855万円のうち、ステーブルコインJPYCが2億9,900万円を占め、営業利益は302.6％増の21億757万円となった…",
+      "url": "https://coinpost.jp/?p=747923",
+      "important": true
+    },
     {
       "date": "2026-11-13",
       "title": "エセナとセキュリタイズ、BUIDL向けに160億円規模の流動性ファシリティ開始",
       "summary": "エセナとセキュリタイズが、ブラックロックのトークン化ファンド「BUIDL」を市場時間外にUSDCなどと交換できる流動性ファシリティを立ち上げた。最大1億ドル規模となる。",
       "url": "https://coinpost.jp/?p=747736",
+      "important": false
+    },
+    {
+      "date": "2026-11-13",
+      "title": "ジュピターの「Jupiter Lend」、米ドルステーブルコイン「USDGO」の貸借市場を追加",
+      "summary": "Jupiter LendにUSDGOの貸借市場が追加 ソラナ（Solana）上のオンチェーン取引サービスを展開するジュピター（Jupiter）が、レンディングサービス「ジュピターレンド（Jupiter Lend）」に、米…",
+      "url": "https://www.neweconomy.jp/posts/626590",
+      "important": false
+    },
+    {
+      "date": "2026-11-13",
+      "title": "ビットゴー、「BitGo Mint」でUSDCの発行・償還に対応",
+      "summary": "BitGo MintにUSDCが追加 米デジタル資産インフラ企業ビットゴー（BitGo）が、デジタル資産の発行・償還サービス「ビットゴーミント（BitGo Mint）」に、米ドル建てステーブルコイン「USDC」を追加した…",
+      "url": "https://www.neweconomy.jp/posts/626576",
+      "important": false
+    },
+    {
+      "date": "2026-11-13",
+      "title": "英フィンテック企業向け銀行グリフィン、20Mドル調達。ステーブルコイン関連機能開発へ",
+      "summary": "英Griffinが2,000万ドル調達。ステーブルコイン関連機能開発へ 英フィンテック企業向け銀行グリフィン（Griffin）が、ステーブルコイン関連サービスとカード発行機能の開発に向け、シリーズBの資金調達ラウンドで2…",
+      "url": "https://www.neweconomy.jp/posts/626570",
+      "important": false
+    },
+    {
+      "date": "2026-11-13",
+      "title": "セキュリタイズとエセナ、ブラックロック「BUIDL」向け最大1億ドルの流動性供給枠を稼働",
+      "summary": "SecuritizeとEthenaがBUIDL向け流動性供給枠を稼働 資産トークン化基盤提供のセキュリタイズ（Securitize）と合成ドル「USDe」などを開発するエセナラボ（Ethena Labs）が、米資産運用会…",
+      "url": "https://www.neweconomy.jp/posts/626559",
+      "important": true
+    },
+    {
+      "date": "2026-11-13",
+      "title": "米アンカレッジ、ビザと提携 USDPTをVisaNet決済資産に追加",
+      "summary": "米アンカレッジ・デジタルは決済大手ビザと提携し、ウェスタンユニオン・ブランドのステーブルコインUSDPTをVisaNetの決済資産に加えると発表した。",
+      "url": "https://coinpost.jp/?p=747782",
+      "important": false
+    },
+    {
+      "date": "2026-11-13",
+      "title": "米国の国法銀行初のステーブルコイン、SoFiUSDがポリゴンにも対応",
+      "summary": "米国の国法銀行が発行する初のステーブルコイン「SoFiUSD」が、イーサリアム・ソラナに続きポリゴンに対応した。ソーファイ会員1,700万人超がアプリ内で購入・売却でき、企業向け決済基盤にも加わる。",
+      "url": "https://coinpost.jp/?p=747722",
       "important": false
     },
     {
