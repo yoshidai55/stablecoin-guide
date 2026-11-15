@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T08:43:20+09:00",
+  "updated": "2026-11-16T08:50:12+09:00",
   "items": [
     {
       "date": "2026-11-15",
@@ -7,6 +7,20 @@
       "summary": "Project Meridian FX APAC said it demonstrated how transactions can be coordinated across conventional settleme…",
       "url": "https://www.coindesk.com/policy/2026/11/14/uk-singapore-and-thailand-central-banks-test-cross-border-fx-settlement-as-stablecoins-gain-ground",
       "important": true
+    },
+    {
+      "date": "2026-11-15",
+      "title": "RWA protocol stUSDT winds down three years after $2.3B TVL peak",
+      "summary": "The stUSDT team did not disclose a reason for winding down the RWA protocol but assured holders that all under…",
+      "url": "https://cointelegraph.com/news/rwa-protocol-stusdt-winds-down-three-years-after-23b-tvl-peak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-11-15",
+      "title": "XRP crashes to its lowest since November 2024 as money leaves crypto",
+      "summary": "XRP tanked to its lowest level since November 2024 as ETF outflows and shrinking stablecoin supply add to pres…",
+      "url": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto",
+      "important": false
     },
     {
       "date": "2026-11-14",
