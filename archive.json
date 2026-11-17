@@ -1,6 +1,41 @@
 {
-  "updated": "2026-11-16T08:50:12+09:00",
+  "updated": "2026-11-17T11:48:44+09:00",
   "items": [
+    {
+      "date": "2026-11-17",
+      "title": "Brazil's central bank faces backlash over stablecoin money laundering remarks",
+      "summary": "A central bank official reportedly said legitimate funds become tainted when moved into stablecoins, comparing…",
+      "url": "https://www.coindesk.com/business/2026/11/16/brazil-s-central-bank-faces-backlash-over-stablecoin-money-laundering-remarks",
+      "important": true
+    },
+    {
+      "date": "2026-11-16",
+      "title": "トロン・テザー・チェイナリシス、金融犯罪対策組織「DCTF」設立。従来のT3 FCUは解散",
+      "summary": "トロン上のUSDTに関連する金融犯罪の特定・阻止へ ブロックチェーン「トロン（TRON）」のエコシステムを支援するトロンDAO（TRON DAO）、ステーブルコイン発行企業のテザー（Tether）、ブロックチェーン分析企…",
+      "url": "https://www.neweconomy.jp/posts/626993",
+      "important": false
+    },
+    {
+      "date": "2026-11-16",
+      "title": "Zelle picks Solana for ZelleUSD stablecoin and international payments",
+      "summary": "Zelle plans to use Solana for its ZelleUSD stablecoin and international payments, with confidential transfers …",
+      "url": "https://cointelegraph.com/news/zelle-solana-zelleusd-stablecoin-international-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-11-16",
+      "title": "Lighter recovers $5M after $10M exploit linked to compromised API keys",
+      "summary": "Lighter restored withdrawals after recovering approximately $5 million in USDC, while blockchain analysts trac…",
+      "url": "https://cointelegraph.com/news/lighter-dex-pauses-withdrawals-10m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-11-16",
+      "title": "Binance Pay Later offers credit backed by Bitcoin, Ether and BNB holdings",
+      "summary": "Eligible users can access up to 1,000 USDC in credit against their Bitcoin, Ether or BNB for purchases via Bin…",
+      "url": "https://cointelegraph.com/news/binance-pay-later-crypto-backed-credit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
     {
       "date": "2026-11-15",
       "title": "UK, Singapore, and Thailand central banks test cross-border FX settlement as stablecoins gain ground",
@@ -20,6 +55,13 @@
       "title": "XRP crashes to its lowest since November 2024 as money leaves crypto",
       "summary": "XRP tanked to its lowest level since November 2024 as ETF outflows and shrinking stablecoin supply add to pres…",
       "url": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto",
+      "important": false
+    },
+    {
+      "date": "2026-11-15",
+      "title": "Changing of Lagarde: How the candidates to be next ECB president view bitcoin, stablecoins and CBDCs",
+      "summary": "ECB President Christine Lagarde will step down from her post in February 2027, and none of the primary candida…",
+      "url": "https://www.coindesk.com/policy/2026/11/14/changing-of-lagarde-how-the-candidates-to-be-next-ecb-president-view-bitcoin-stablecoins-and-cbdcs",
       "important": false
     },
     {
