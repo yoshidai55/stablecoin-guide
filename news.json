@@ -1,41 +1,41 @@
 {
-  "updated": "2026-11-17T11:48:44+09:00",
+  "updated": "2026-11-18T11:11:52+09:00",
   "items": [
     {
-      "date": "2026-11-16",
-      "title": "トロン・テザー・チェイナリシス、金融犯罪対策組織「DCTF」設立。従来のT3 FCUは解散",
-      "summary": "トロン上のUSDTに関連する金融犯罪の特定・阻止へ ブロックチェーン「トロン（TRON）」のエコシステムを支援するトロンDAO（TRON DAO）、ステーブルコイン発行企業のテザー（Tether）、ブロックチェーン分析企…",
-      "url": "https://www.neweconomy.jp/posts/626993"
+      "date": "2026-11-18",
+      "title": "予測取引でビットコインを担保に、アンカレッジがカルシにサービス提供",
+      "summary": "アンカレッジ・デジタルがカルシ・プライムと提携し、機関投資家が保管中のビットコインとステーブルコインを証拠金として使えるようになった。資産の売却や送金をせず、保管先を変えずに取引できる。",
+      "url": "https://coinpost.jp/?p=748493"
     },
     {
       "date": "2026-11-17",
-      "title": "Brazil's central bank faces backlash over stablecoin money laundering remarks",
-      "summary": "A central bank official reportedly said legitimate funds become tainted when moved into stablecoins, comparing…",
-      "url": "https://www.coindesk.com/business/2026/11/16/brazil-s-central-bank-faces-backlash-over-stablecoin-money-laundering-remarks"
+      "title": "【11/17話題】野村HD・NRI・BOOSTRY、オンチェーン金融で協業検討、ライターで約1040万USDC流出、日本の銀行がステーブルコインの国際利用拡大に期待など（音声ニュース）",
+      "summary": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif…",
+      "url": "https://www.neweconomy.jp/posts/627510"
     },
     {
-      "date": "2026-11-16",
-      "title": "Zelle picks Solana for ZelleUSD stablecoin and international payments",
-      "summary": "Zelle plans to use Solana for its ZelleUSD stablecoin and international payments, with confidential transfers …",
-      "url": "https://cointelegraph.com/news/zelle-solana-zelleusd-stablecoin-international-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      "date": "2026-11-17",
+      "title": "グレースケール「仮想通貨市場のファンダメンタルズは堅調」と見解 下落要因を分析",
+      "summary": "グレースケールのリサーチ責任者は、11月の仮想通貨下落をステーブルコイン流出やAI関連株安の波及など複数要因が重なったと分析。ファンダメンタルズは堅調との見解も示した。",
+      "url": "https://coinpost.jp/?p=748224"
     },
     {
-      "date": "2026-11-16",
-      "title": "Lighter recovers $5M after $10M exploit linked to compromised API keys",
-      "summary": "Lighter restored withdrawals after recovering approximately $5 million in USDC, while blockchain analysts trac…",
-      "url": "https://cointelegraph.com/news/lighter-dex-pauses-withdrawals-10m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      "date": "2026-11-17",
+      "title": "ロシア国内発行のルーブル連動ステーブルコイン、2027年に貿易利用拡大へ＝ズベルバンク幹部",
+      "summary": "ルーブル連動ステーブルコインは国内発行と貿易利用が拡大と予測 ロシア最大手銀行ズベルバンク（Sberbank）の幹部は、ロシア国内で発行されるルーブル連動型ステーブルコインについて、2027年には貿易決済でのシェアが拡大…",
+      "url": "https://www.neweconomy.jp/posts/627429"
     },
     {
-      "date": "2026-11-16",
-      "title": "Binance Pay Later offers credit backed by Bitcoin, Ether and BNB holdings",
-      "summary": "Eligible users can access up to 1,000 USDC in credit against their Bitcoin, Ether or BNB for purchases via Bin…",
-      "url": "https://cointelegraph.com/news/binance-pay-later-crypto-backed-credit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      "date": "2026-11-17",
+      "title": "円建てステーブルコインは米ドル優位を崩せるか、日本の銀行が国際利用拡大に期待",
+      "summary": "日本の3メガバンクが円建てステーブルコインで国際送金効率化へ 日本円やユーロはこれまで、国際貿易における米ドルの圧倒的な地位を崩せずにきた。米国の金融市場は規模が大きく、海外からも利用しやすい。こうした強みが、米ドルの優…",
+      "url": "https://www.neweconomy.jp/posts/627412"
     },
     {
-      "date": "2026-11-15",
-      "title": "Changing of Lagarde: How the candidates to be next ECB president view bitcoin, stablecoins and CBDCs",
-      "summary": "ECB President Christine Lagarde will step down from her post in February 2027, and none of the primary candida…",
-      "url": "https://www.coindesk.com/policy/2026/11/14/changing-of-lagarde-how-the-candidates-to-be-next-ecb-president-view-bitcoin-stablecoins-and-cbdcs"
+      "date": "2026-11-18",
+      "title": "Eastern Europe crypto flows fall 7.9% as Ukraine draws $12B in stablecoins",
+      "summary": "Chainalysis found that Eastern Europe recorded the steepest decline in crypto activity of any region, while cr…",
+      "url": "https://cointelegraph.com/news/eastern-europe-crypto-activity-decline-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     }
   ]
 }
