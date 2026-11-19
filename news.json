@@ -1,41 +1,41 @@
 {
-  "updated": "2026-11-18T11:11:52+09:00",
+  "updated": "2026-11-19T10:45:51+09:00",
   "items": [
     {
-      "date": "2026-11-18",
-      "title": "予測取引でビットコインを担保に、アンカレッジがカルシにサービス提供",
-      "summary": "アンカレッジ・デジタルがカルシ・プライムと提携し、機関投資家が保管中のビットコインとステーブルコインを証拠金として使えるようになった。資産の売却や送金をせず、保管先を変えずに取引できる。",
-      "url": "https://coinpost.jp/?p=748493"
+      "date": "2026-11-19",
+      "title": "S&Pグローバル、テザー社USDTの安定性評価を最低ランクに据え置き",
+      "summary": "S&Pは、テザー社によるステーブルコインUSDTのドル連動維持能力を最低の「5」に据え置いた。高リスク資産の増加や、準備資産に関する開示不足を指摘している。",
+      "url": "https://coinpost.jp/?p=748636"
     },
     {
-      "date": "2026-11-17",
-      "title": "【11/17話題】野村HD・NRI・BOOSTRY、オンチェーン金融で協業検討、ライターで約1040万USDC流出、日本の銀行がステーブルコインの国際利用拡大に期待など（音声ニュース）",
-      "summary": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif…",
-      "url": "https://www.neweconomy.jp/posts/627510"
-    },
-    {
-      "date": "2026-11-17",
-      "title": "グレースケール「仮想通貨市場のファンダメンタルズは堅調」と見解 下落要因を分析",
-      "summary": "グレースケールのリサーチ責任者は、11月の仮想通貨下落をステーブルコイン流出やAI関連株安の波及など複数要因が重なったと分析。ファンダメンタルズは堅調との見解も示した。",
-      "url": "https://coinpost.jp/?p=748224"
-    },
-    {
-      "date": "2026-11-17",
-      "title": "ロシア国内発行のルーブル連動ステーブルコイン、2027年に貿易利用拡大へ＝ズベルバンク幹部",
-      "summary": "ルーブル連動ステーブルコインは国内発行と貿易利用が拡大と予測 ロシア最大手銀行ズベルバンク（Sberbank）の幹部は、ロシア国内で発行されるルーブル連動型ステーブルコインについて、2027年には貿易決済でのシェアが拡大…",
-      "url": "https://www.neweconomy.jp/posts/627429"
-    },
-    {
-      "date": "2026-11-17",
-      "title": "円建てステーブルコインは米ドル優位を崩せるか、日本の銀行が国際利用拡大に期待",
-      "summary": "日本の3メガバンクが円建てステーブルコインで国際送金効率化へ 日本円やユーロはこれまで、国際貿易における米ドルの圧倒的な地位を崩せずにきた。米国の金融市場は規模が大きく、海外からも利用しやすい。こうした強みが、米ドルの優…",
-      "url": "https://www.neweconomy.jp/posts/627412"
+      "date": "2026-11-19",
+      "title": "ステーブルコイン規則案で州と連邦に差 米上院6議員が是正要請",
+      "summary": "米上院の超党派6議員がベッセント財務長官に書簡を送り、ジーニアス法の施行で州規制下のステーブルコイン発行体にも連邦申請者と同等の猶予措置を設けるよう求めた。2027年1月の施行を前に、州と連邦の扱いの差が論点に浮上してい…",
+      "url": "https://coinpost.jp/?p=748628"
     },
     {
       "date": "2026-11-18",
-      "title": "Eastern Europe crypto flows fall 7.9% as Ukraine draws $12B in stablecoins",
-      "summary": "Chainalysis found that Eastern Europe recorded the steepest decline in crypto activity of any region, while cr…",
-      "url": "https://cointelegraph.com/news/eastern-europe-crypto-activity-decline-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      "title": "テザー、ブラジルのフィンテック「Nomad」に15Mドル出資。USDTなどの導入模索",
+      "summary": "ノマドのサービスでUSDTや金トークンの活用を検討 米ドル連動型ステーブルコイン「USDT」を発行するテザー（Tether）の投資部門テザー・キャピタル（Tether Capital）が、ブラジルのフィンテック企業ノマド…",
+      "url": "https://www.neweconomy.jp/posts/627940"
+    },
+    {
+      "date": "2026-11-18",
+      "title": "ホットリンクG傘下のNonagon Capital、AIエージェントのデータ購入を円建てステーブルコインで実証",
+      "summary": "3大学の研究者らが参加、データの検索から決済・分析まで検証 東証グロース上場ホットリンクのグループ企業ノナゴンキャピタル（Nonagon Capital）が、AIエージェントによるデータ購入に円建てステーブルコインを用い…",
+      "url": "https://www.neweconomy.jp/posts/627919"
+    },
+    {
+      "date": "2026-11-18",
+      "title": "DBS銀行とサークル、アジアの機関向けUSDC発行・償還で提携",
+      "summary": "米ドルとUSDCの受け渡しに24時間365日対応へ シンガポールの大手銀行DBS銀行（DBS Bank）と、米サークル・インターネット・グループ（Circle Internet Group）が、アジアの機関顧客によるUS…",
+      "url": "https://www.neweconomy.jp/posts/627901"
+    },
+    {
+      "date": "2026-11-18",
+      "title": "世界銀行のステーブルコインプロジェクトをサークルが支援、USDCで決済効率化を模索",
+      "summary": "世界銀行グループは、ステーブルコインのインフラ構築を模索すると発表。USDC発行企業のサークルとシティと協力し、決済の効率化を目指す。",
+      "url": "https://coinpost.jp/?p=748503"
     }
   ]
 }

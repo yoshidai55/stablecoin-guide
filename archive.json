@@ -1,6 +1,27 @@
 {
-  "updated": "2026-11-18T11:11:52+09:00",
+  "updated": "2026-11-19T10:45:51+09:00",
   "items": [
+    {
+      "date": "2026-11-19",
+      "title": "S&Pグローバル、テザー社USDTの安定性評価を最低ランクに据え置き",
+      "summary": "S&Pは、テザー社によるステーブルコインUSDTのドル連動維持能力を最低の「5」に据え置いた。高リスク資産の増加や、準備資産に関する開示不足を指摘している。",
+      "url": "https://coinpost.jp/?p=748636",
+      "important": false
+    },
+    {
+      "date": "2026-11-19",
+      "title": "ステーブルコイン規則案で州と連邦に差 米上院6議員が是正要請",
+      "summary": "米上院の超党派6議員がベッセント財務長官に書簡を送り、ジーニアス法の施行で州規制下のステーブルコイン発行体にも連邦申請者と同等の猶予措置を設けるよう求めた。2027年1月の施行を前に、州と連邦の扱いの差が論点に浮上してい…",
+      "url": "https://coinpost.jp/?p=748628",
+      "important": true
+    },
+    {
+      "date": "2026-11-19",
+      "title": "Tether invokes The Big Short in swipe at S&P over USDT reserve risks",
+      "summary": "S&P Global made no downward adjustment in its latest Stablecoin Stability Assessment, as 5 is the lowest avail…",
+      "url": "https://cointelegraph.com/news/tether-usdt-sp-stability-assessment-reserve-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
     {
       "date": "2026-11-18",
       "title": "予測取引でビットコインを担保に、アンカレッジがカルシにサービス提供",
@@ -21,6 +42,55 @@
       "summary": "Hong Kong and Swift expanded their efforts to connect tokenized bank deposits across currencies, building on e…",
       "url": "https://www.coindesk.com/business/2026/11/17/hong-kong-swift-test-tokenized-deposits-as-banks-chase-stablecoin-style-speed",
       "important": true
+    },
+    {
+      "date": "2026-11-18",
+      "title": "テザー、ブラジルのフィンテック「Nomad」に15Mドル出資。USDTなどの導入模索",
+      "summary": "ノマドのサービスでUSDTや金トークンの活用を検討 米ドル連動型ステーブルコイン「USDT」を発行するテザー（Tether）の投資部門テザー・キャピタル（Tether Capital）が、ブラジルのフィンテック企業ノマド…",
+      "url": "https://www.neweconomy.jp/posts/627940",
+      "important": false
+    },
+    {
+      "date": "2026-11-18",
+      "title": "ホットリンクG傘下のNonagon Capital、AIエージェントのデータ購入を円建てステーブルコインで実証",
+      "summary": "3大学の研究者らが参加、データの検索から決済・分析まで検証 東証グロース上場ホットリンクのグループ企業ノナゴンキャピタル（Nonagon Capital）が、AIエージェントによるデータ購入に円建てステーブルコインを用い…",
+      "url": "https://www.neweconomy.jp/posts/627919",
+      "important": true
+    },
+    {
+      "date": "2026-11-18",
+      "title": "DBS銀行とサークル、アジアの機関向けUSDC発行・償還で提携",
+      "summary": "米ドルとUSDCの受け渡しに24時間365日対応へ シンガポールの大手銀行DBS銀行（DBS Bank）と、米サークル・インターネット・グループ（Circle Internet Group）が、アジアの機関顧客によるUS…",
+      "url": "https://www.neweconomy.jp/posts/627901",
+      "important": true
+    },
+    {
+      "date": "2026-11-18",
+      "title": "世界銀行のステーブルコインプロジェクトをサークルが支援、USDCで決済効率化を模索",
+      "summary": "世界銀行グループは、ステーブルコインのインフラ構築を模索すると発表。USDC発行企業のサークルとシティと協力し、決済の効率化を目指す。",
+      "url": "https://coinpost.jp/?p=748503",
+      "important": false
+    },
+    {
+      "date": "2026-11-18",
+      "title": "Circle turns to DBS as banks build rival digital payment systems across Asia",
+      "summary": "The Singapore bank will let institutional clients buy and redeem USDC directly as banks across Asia develop th…",
+      "url": "https://www.coindesk.com/business/2026/11/18/circle-turns-to-dbs-as-banks-build-rival-digital-payment-systems-across-asia",
+      "important": true
+    },
+    {
+      "date": "2026-11-18",
+      "title": "World Bank partners with Circle, Citi to explore stablecoins for payments",
+      "summary": "The initiative builds on the World Bank’s existing blockchain platform, which aims to create more fund traceab…",
+      "url": "https://cointelegraph.com/news/world-bank-circle-citi-explore-stablecoins-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-11-18",
+      "title": "Hyundai tests AI agent commerce on JPMorgan’s Kinexys blockchain",
+      "summary": "The exploration of AI agents with JPMorgan builds on Hyundai’s recent stablecoin-based cross-border remittance…",
+      "url": "https://www.coindesk.com/business/2026/11/18/hyundai-tests-ai-agent-commerce-on-jpmorgan-s-kinexys-blockchain",
+      "important": false
     },
     {
       "date": "2026-11-17",
