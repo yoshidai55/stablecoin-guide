@@ -1,6 +1,27 @@
 {
-  "updated": "2026-11-19T10:45:51+09:00",
+  "updated": "2026-11-20T10:41:17+09:00",
   "items": [
+    {
+      "date": "2026-11-20",
+      "title": "バイナンスウォレット、配分不足でアンソロピックIPOの申込金を全額返金",
+      "summary": "バイナンスウォレットは20日、アンソロピックIPOの配分が申込総額に届かなかったとして、申込金のUSDCを全額返金すると発表した。",
+      "url": "https://coinpost.jp/?p=748816",
+      "important": false
+    },
+    {
+      "date": "2026-11-20",
+      "title": "MoonPay seeks US bank charter for stablecoin, custody services",
+      "summary": "MoonPay’s proposed national trust bank would offer stablecoin issuance and redemption, reserve management and …",
+      "url": "https://cointelegraph.com/news/moonpay-seeks-us-bank-charter-for-stablecoin-custody-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-11-20",
+      "title": "Sky's USDS stablecoin shrinks 35% as $1.5 billion exits reserves after illicit-finance report",
+      "summary": "USDS held its $1 peg as a large holder linked to Poloniex withdrew much of decentralized protocol Sky's USDC l…",
+      "url": "https://www.coindesk.com/business/2026/11/19/sky-s-usds-stablecoin-shrinks-35-as-usd1-5-billion-exits-reserves-after-illicit-finance-report",
+      "important": false
+    },
     {
       "date": "2026-11-19",
       "title": "S&Pグローバル、テザー社USDTの安定性評価を最低ランクに据え置き",
@@ -20,6 +41,41 @@
       "title": "Tether invokes The Big Short in swipe at S&P over USDT reserve risks",
       "summary": "S&P Global made no downward adjustment in its latest Stablecoin Stability Assessment, as 5 is the lowest avail…",
       "url": "https://cointelegraph.com/news/tether-usdt-sp-stability-assessment-reserve-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-11-19",
+      "title": "テザー支援の米ドルステーブルコイン「USAT」、アバランチに対応",
+      "summary": "アーベの機関向け融資市場で活用へ 米ドル連動型ステーブルコイン「USAT」が、ブロックチェーン「アバランチ（Avalanche）」で利用可能になった。テザー（Tether）が11月18日（日本時間）にUSATの公式サイト…",
+      "url": "https://www.neweconomy.jp/posts/628235",
+      "important": false
+    },
+    {
+      "date": "2026-11-19",
+      "title": "香港金融管理局、暗号資産のマネロン対策にAI活用を検討",
+      "summary": "不正取引額の84%がステーブルコイン 香港金融管理局（HKMA）が、暗号資産（仮想通貨）に関連する不審な資金移動を銀行が検知できるよう、エージェント型AI（人工知能）の開発を検討している。同局のレイモンド・チャン（Ray…",
+      "url": "https://www.neweconomy.jp/posts/628179",
+      "important": false
+    },
+    {
+      "date": "2026-11-19",
+      "title": "North Korean hackers used Sky's stablecoin system, putting billions at freeze risk",
+      "summary": "Blockchain investigation traced $518 million in illicit-linked activity, including the 2025 Bybit hack, throug…",
+      "url": "https://www.coindesk.com/business/2026/11/19/north-korean-hackers-used-sky-s-stablecoin-system-putting-billions-at-freeze-risk",
+      "important": false
+    },
+    {
+      "date": "2026-11-19",
+      "title": "Senators warn GENIUS Act rules could push stablecoin firms toward federal oversight",
+      "summary": "The lawmakers urged Treasury to extend safe harbor protections to stablecoin issuers in states expected to est…",
+      "url": "https://cointelegraph.com/news/us-senators-genius-act-rules-favor-federal-stablecoin-issuers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-11-19",
+      "title": "Binance hackers stole 192 tokens across 11 networks, court docs show",
+      "summary": "Stablecoins accounted for at least $3.46 billion of the $6.3 billion stolen, while the hackers also took memec…",
+      "url": "https://cointelegraph.com/news/binance-hackers-stole-192-tokens-across-11-networks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "important": false
     },
     {

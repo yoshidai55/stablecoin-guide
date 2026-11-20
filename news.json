@@ -1,41 +1,41 @@
 {
-  "updated": "2026-11-19T10:45:51+09:00",
+  "updated": "2026-11-20T10:41:17+09:00",
   "items": [
     {
-      "date": "2026-11-19",
-      "title": "S&Pグローバル、テザー社USDTの安定性評価を最低ランクに据え置き",
-      "summary": "S&Pは、テザー社によるステーブルコインUSDTのドル連動維持能力を最低の「5」に据え置いた。高リスク資産の増加や、準備資産に関する開示不足を指摘している。",
-      "url": "https://coinpost.jp/?p=748636"
+      "date": "2026-11-20",
+      "title": "バイナンスウォレット、配分不足でアンソロピックIPOの申込金を全額返金",
+      "summary": "バイナンスウォレットは20日、アンソロピックIPOの配分が申込総額に届かなかったとして、申込金のUSDCを全額返金すると発表した。",
+      "url": "https://coinpost.jp/?p=748816"
     },
     {
       "date": "2026-11-19",
-      "title": "ステーブルコイン規則案で州と連邦に差 米上院6議員が是正要請",
-      "summary": "米上院の超党派6議員がベッセント財務長官に書簡を送り、ジーニアス法の施行で州規制下のステーブルコイン発行体にも連邦申請者と同等の猶予措置を設けるよう求めた。2027年1月の施行を前に、州と連邦の扱いの差が論点に浮上してい…",
-      "url": "https://coinpost.jp/?p=748628"
+      "title": "テザー支援の米ドルステーブルコイン「USAT」、アバランチに対応",
+      "summary": "アーベの機関向け融資市場で活用へ 米ドル連動型ステーブルコイン「USAT」が、ブロックチェーン「アバランチ（Avalanche）」で利用可能になった。テザー（Tether）が11月18日（日本時間）にUSATの公式サイト…",
+      "url": "https://www.neweconomy.jp/posts/628235"
     },
     {
-      "date": "2026-11-18",
-      "title": "テザー、ブラジルのフィンテック「Nomad」に15Mドル出資。USDTなどの導入模索",
-      "summary": "ノマドのサービスでUSDTや金トークンの活用を検討 米ドル連動型ステーブルコイン「USDT」を発行するテザー（Tether）の投資部門テザー・キャピタル（Tether Capital）が、ブラジルのフィンテック企業ノマド…",
-      "url": "https://www.neweconomy.jp/posts/627940"
+      "date": "2026-11-19",
+      "title": "香港金融管理局、暗号資産のマネロン対策にAI活用を検討",
+      "summary": "不正取引額の84%がステーブルコイン 香港金融管理局（HKMA）が、暗号資産（仮想通貨）に関連する不審な資金移動を銀行が検知できるよう、エージェント型AI（人工知能）の開発を検討している。同局のレイモンド・チャン（Ray…",
+      "url": "https://www.neweconomy.jp/posts/628179"
     },
     {
-      "date": "2026-11-18",
-      "title": "ホットリンクG傘下のNonagon Capital、AIエージェントのデータ購入を円建てステーブルコインで実証",
-      "summary": "3大学の研究者らが参加、データの検索から決済・分析まで検証 東証グロース上場ホットリンクのグループ企業ノナゴンキャピタル（Nonagon Capital）が、AIエージェントによるデータ購入に円建てステーブルコインを用い…",
-      "url": "https://www.neweconomy.jp/posts/627919"
+      "date": "2026-11-20",
+      "title": "MoonPay seeks US bank charter for stablecoin, custody services",
+      "summary": "MoonPay’s proposed national trust bank would offer stablecoin issuance and redemption, reserve management and …",
+      "url": "https://cointelegraph.com/news/moonpay-seeks-us-bank-charter-for-stablecoin-custody-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     },
     {
-      "date": "2026-11-18",
-      "title": "DBS銀行とサークル、アジアの機関向けUSDC発行・償還で提携",
-      "summary": "米ドルとUSDCの受け渡しに24時間365日対応へ シンガポールの大手銀行DBS銀行（DBS Bank）と、米サークル・インターネット・グループ（Circle Internet Group）が、アジアの機関顧客によるUS…",
-      "url": "https://www.neweconomy.jp/posts/627901"
+      "date": "2026-11-20",
+      "title": "Sky's USDS stablecoin shrinks 35% as $1.5 billion exits reserves after illicit-finance report",
+      "summary": "USDS held its $1 peg as a large holder linked to Poloniex withdrew much of decentralized protocol Sky's USDC l…",
+      "url": "https://www.coindesk.com/business/2026/11/19/sky-s-usds-stablecoin-shrinks-35-as-usd1-5-billion-exits-reserves-after-illicit-finance-report"
     },
     {
-      "date": "2026-11-18",
-      "title": "世界銀行のステーブルコインプロジェクトをサークルが支援、USDCで決済効率化を模索",
-      "summary": "世界銀行グループは、ステーブルコインのインフラ構築を模索すると発表。USDC発行企業のサークルとシティと協力し、決済の効率化を目指す。",
-      "url": "https://coinpost.jp/?p=748503"
+      "date": "2026-11-19",
+      "title": "North Korean hackers used Sky's stablecoin system, putting billions at freeze risk",
+      "summary": "Blockchain investigation traced $518 million in illicit-linked activity, including the 2025 Bybit hack, throug…",
+      "url": "https://www.coindesk.com/business/2026/11/19/north-korean-hackers-used-sky-s-stablecoin-system-putting-billions-at-freeze-risk"
     }
   ]
 }
