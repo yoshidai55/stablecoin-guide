@@ -1,6 +1,20 @@
 {
-  "updated": "2026-11-20T10:41:17+09:00",
+  "updated": "2026-11-21T10:09:34+09:00",
   "items": [
+    {
+      "date": "2026-11-21",
+      "title": "Sky Protocol sees $2 billion in stablecoin withdrawals, disputes illicit fund claims",
+      "summary": "Sky says its USDS stablecoin held its $1 value despite more than $2 billion in withdrawals, as it disputes a r…",
+      "url": "https://cointelegraph.com/news/sky-protocol-sees-2b-in-stablecoin-withdrawals-disputes-illicit-fund-claims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-11-21",
+      "title": "DBS bets it can lose the deposit and keep the client",
+      "summary": "The Singapore bank earned a record $208 million in transaction services fees in the third quarter — now it’s h…",
+      "url": "https://cointelegraph.com/news/dbs-bets-it-can-lose-the-deposit-and-keep-the-client?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
     {
       "date": "2026-11-20",
       "title": "バイナンスウォレット、配分不足でアンソロピックIPOの申込金を全額返金",
@@ -21,6 +35,20 @@
       "summary": "USDS held its $1 peg as a large holder linked to Poloniex withdrew much of decentralized protocol Sky's USDC l…",
       "url": "https://www.coindesk.com/business/2026/11/19/sky-s-usds-stablecoin-shrinks-35-as-usd1-5-billion-exits-reserves-after-illicit-finance-report",
       "important": false
+    },
+    {
+      "date": "2026-11-20",
+      "title": "【11/20話題】アンソロピック上場の日本需要は1.5兆円超か、MUFGとプログマがトークン化投信で振替制度の活用案、日本直販が通販サイトでJPYC決済試験導入など（音声ニュース）",
+      "summary": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif…",
+      "url": "https://www.neweconomy.jp/posts/628734",
+      "important": true
+    },
+    {
+      "date": "2026-11-20",
+      "title": "通販会社『日本直販』、自社ECにJPYC決済を試験導入",
+      "summary": "通販会社の日本直販は19日、日本円ステーブルコインJPYCによる決済機能を自社ECサイトに試験導入したと発表した。流通前のトークンAYETの将来的な決済活用を見据えた基盤構築の第一歩で、顧客はガス代を負担せずに支払える。",
+      "url": "https://coinpost.jp/?p=748901",
+      "important": true
     },
     {
       "date": "2026-11-19",
