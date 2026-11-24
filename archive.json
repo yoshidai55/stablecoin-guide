@@ -1,6 +1,34 @@
 {
-  "updated": "2026-11-21T10:09:34+09:00",
+  "updated": "2026-11-24T13:39:13+09:00",
   "items": [
+    {
+      "date": "2026-11-24",
+      "title": "BTC・ETH・ステーブルコインを一部企業の運営費に算入可、米CFTCスタッフが見解",
+      "summary": "米商品先物取引委員会は、一部事業者がビットコイン・イーサリアム・決済用ステーブルコインを12か月分の運営費要件に算入できるとの見解を公表した。",
+      "url": "https://coinpost.jp/?p=749215",
+      "important": false
+    },
+    {
+      "date": "2026-11-24",
+      "title": "米司法省、バイナンスハッキング関連の1700億円超USDC、押収求め提訴",
+      "summary": "米司法省は23日、バイナンスのハッキングに関連する約11.7億ドル相当のUSDCの没収を求め、連邦地裁に提訴した。訴状は北朝鮮軍のハッカー集団による犯行との米当局の分析を示している。",
+      "url": "https://coinpost.jp/?p=749134",
+      "important": false
+    },
+    {
+      "date": "2026-11-24",
+      "title": "CFTC staff say exchanges can count Bitcoin toward operating reserves",
+      "summary": "The staff guidance allows Bitcoin, Ether and payment stablecoins to count towards operating reserves.",
+      "url": "https://cointelegraph.com/news/cftc-staff-say-exchanges-can-count-bitcoin-toward-operating-reserves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-11-24",
+      "title": "US seeks to recover $1.1B in crypto stolen in North Korea-linked Binance hack",
+      "summary": "US prosecutors are seeking control of stolen USDC, while Elliptic says hackers have moved $247 million through…",
+      "url": "https://cointelegraph.com/news/us-seeks-11b-crypto-stolen-north-korea-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
     {
       "date": "2026-11-21",
       "title": "Sky Protocol sees $2 billion in stablecoin withdrawals, disputes illicit fund claims",
@@ -6971,34 +6999,6 @@
       "title": "ビザ・ストライプ・ゾディアの3社、決済向けL1「テンポ」のバリデータに参加",
       "summary": "ステーブルコインなどの決済向けL1ブロックチェーンのテンポは、ビザ、ストライプ、ゾディアカストディがテンポのバリデータになったことを発表。今後の計画も説明した。",
       "url": "https://coinpost.jp/?p=702017",
-      "important": false
-    },
-    {
-      "date": "2026-04-15",
-      "title": "ステーブルコイン最大手テザー、AIエージェント対応の独自ウォレット「tether.wallet」を一般公開",
-      "summary": "テザーが独自ウォレット「tether.wallet」を発表。USDTやビットコインを簡潔に管理でき、5億7000万人のユーザーへの金融インフラを直接提供する狙いだ。",
-      "url": "https://coinpost.jp/?p=701963",
-      "important": false
-    },
-    {
-      "date": "2026-04-14",
-      "title": "Yコンビネータが初めてステーブルコインで50万ドル投資、ソラナチェーンで決済",
-      "summary": "スタートアップ育成の世界的リーダー「Y Combinator」が予測市場Totalisに50万ドルをUSDCで投資。ブロックチェーン上で即座に決済され、初の仮想通貨のみによるYC投資となった。スタートアップ資金調達の形態…",
-      "url": "https://coinpost.jp/?p=701785",
-      "important": false
-    },
-    {
-      "date": "2026-03",
-      "title": "米OCC、GENIUS Actの規則案を公表",
-      "summary": "通貨監督庁が発行体向けの具体的な規則案を提示。意見公募を経て2026年内の本格運用に向け整備が進む。",
-      "url": "",
-      "important": true
-    },
-    {
-      "date": "2026-03",
-      "title": "PayPalのPYUSD、70カ国に展開拡大",
-      "summary": "アジア太平洋・欧州を含む70市場でPYUSDの売買・送受信が可能に。MastercardやFiservとの連携も進む。",
-      "url": "",
       "important": false
     }
   ]

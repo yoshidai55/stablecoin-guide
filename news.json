@@ -1,6 +1,18 @@
 {
-  "updated": "2026-11-23T09:37:12+09:00",
+  "updated": "2026-11-24T13:39:13+09:00",
   "items": [
+    {
+      "date": "2026-11-24",
+      "title": "BTC・ETH・ステーブルコインを一部企業の運営費に算入可、米CFTCスタッフが見解",
+      "summary": "米商品先物取引委員会は、一部事業者がビットコイン・イーサリアム・決済用ステーブルコインを12か月分の運営費要件に算入できるとの見解を公表した。",
+      "url": "https://coinpost.jp/?p=749215"
+    },
+    {
+      "date": "2026-11-24",
+      "title": "米司法省、バイナンスハッキング関連の1700億円超USDC、押収求め提訴",
+      "summary": "米司法省は23日、バイナンスのハッキングに関連する約11.7億ドル相当のUSDCの没収を求め、連邦地裁に提訴した。訴状は北朝鮮軍のハッカー集団による犯行との米当局の分析を示している。",
+      "url": "https://coinpost.jp/?p=749134"
+    },
     {
       "date": "2026-11-20",
       "title": "【11/20話題】アンソロピック上場の日本需要は1.5兆円超か、MUFGとプログマがトークン化投信で振替制度の活用案、日本直販が通販サイトでJPYC決済試験導入など（音声ニュース）",
@@ -8,22 +20,16 @@
       "url": "https://www.neweconomy.jp/posts/628734"
     },
     {
-      "date": "2026-11-21",
-      "title": "Sky Protocol sees $2 billion in stablecoin withdrawals, disputes illicit fund claims",
-      "summary": "Sky says its USDS stablecoin held its $1 value despite more than $2 billion in withdrawals, as it disputes a r…",
-      "url": "https://cointelegraph.com/news/sky-protocol-sees-2b-in-stablecoin-withdrawals-disputes-illicit-fund-claims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      "date": "2026-11-24",
+      "title": "CFTC staff say exchanges can count Bitcoin toward operating reserves",
+      "summary": "The staff guidance allows Bitcoin, Ether and payment stablecoins to count towards operating reserves.",
+      "url": "https://cointelegraph.com/news/cftc-staff-say-exchanges-can-count-bitcoin-toward-operating-reserves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     },
     {
-      "date": "2026-11-21",
-      "title": "DBS bets it can lose the deposit and keep the client",
-      "summary": "The Singapore bank earned a record $208 million in transaction services fees in the third quarter — now it’s h…",
-      "url": "https://cointelegraph.com/news/dbs-bets-it-can-lose-the-deposit-and-keep-the-client?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    },
-    {
-      "date": "2026-11-20",
-      "title": "MoonPay seeks US bank charter for stablecoin, custody services",
-      "summary": "MoonPay’s proposed national trust bank would offer stablecoin issuance and redemption, reserve management and …",
-      "url": "https://cointelegraph.com/news/moonpay-seeks-us-bank-charter-for-stablecoin-custody-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      "date": "2026-11-24",
+      "title": "US seeks to recover $1.1B in crypto stolen in North Korea-linked Binance hack",
+      "summary": "US prosecutors are seeking control of stolen USDC, while Elliptic says hackers have moved $247 million through…",
+      "url": "https://cointelegraph.com/news/us-seeks-11b-crypto-stolen-north-korea-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     }
   ]
 }
