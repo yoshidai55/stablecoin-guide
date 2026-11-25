@@ -1,6 +1,20 @@
 {
-  "updated": "2026-11-24T13:39:13+09:00",
+  "updated": "2026-11-25T12:24:52+09:00",
   "items": [
+    {
+      "date": "2026-11-25",
+      "title": "XRPレジャーのDEX、出来高が前年比約倍増",
+      "summary": "米上場のXRPトレジャー企業エバーノースは24日、XRPレジャーの第3四半期レポートを公開した。分散型取引所（DEX）の板取引の1日平均出来高は前年同期の2.8倍の451万XRPで、上位10口座が65％を占めた。XRPL…",
+      "url": "https://coinpost.jp/?p=749348",
+      "important": true
+    },
+    {
+      "date": "2026-11-25",
+      "title": "BlackRock launches tokenized money market fund accepting stablecoins in Hong Kong",
+      "summary": "The tokenized fund launched with approximately $100 million in assets, with Standard Chartered and Ant Interna…",
+      "url": "https://cointelegraph.com/news/blackrock-launches-tokenized-money-market-fund-stablecoins-hong-kong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
     {
       "date": "2026-11-24",
       "title": "BTC・ETH・ステーブルコインを一部企業の運営費に算入可、米CFTCスタッフが見解",
@@ -27,6 +41,34 @@
       "title": "US seeks to recover $1.1B in crypto stolen in North Korea-linked Binance hack",
       "summary": "US prosecutors are seeking control of stolen USDC, while Elliptic says hackers have moved $247 million through…",
       "url": "https://cointelegraph.com/news/us-seeks-11b-crypto-stolen-north-korea-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-11-24",
+      "title": "USDT buyers face 22% VAT when Moscow Exchange opens crypto trading",
+      "summary": "Buyers will pay VAT on top of the trade price in December because Russia’s tax code has no explicit exemption …",
+      "url": "https://cointelegraph.com/news/russia-usdt-buyer-face-22-tax-december-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-11-24",
+      "title": "South Korea proposes bank-led stablecoins, 20% cap on crypto exchange stakes",
+      "summary": "The draft bill would also reopen domestic initial coin offerings after a ban dating to 2017 and require issuer…",
+      "url": "https://cointelegraph.com/news/south-korea-draft-bill-crypto-innovation-user-protection?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-11-24",
+      "title": "U.S. seeks $1.1 billion seized in Binance hack as North Korean funds keep moving",
+      "summary": "U.S. seeks to recover $1.1 billion in frozen USDC as billions more from the Binance hack remain unaccounted fo…",
+      "url": "https://www.coindesk.com/policy/2026/11/24/u-s-seeks-usd1-1-billion-seized-in-binance-hack-as-north-korean-funds-keep-moving",
+      "important": false
+    },
+    {
+      "date": "2026-11-24",
+      "title": "South Korea regulator backs bank-controlled stablecoins after months of dispute",
+      "summary": "Fintech firms could lead stablecoin ventures, but banks would need to own more than half of any issuer.",
+      "url": "https://www.coindesk.com/policy/2026/11/24/south-korea-regulator-backs-bank-controlled-stablecoins-after-months-of-dispute",
       "important": true
     },
     {
@@ -6957,48 +6999,6 @@
       "title": "テザー、XAUT担保ドル連動資産「aUSDT」終了へ、中核製品にリソース集中で",
       "summary": "テザーがaUSDTとアロイ・バイ・テザーを終了へ ステーブルコイン「USDT」発行元のテザー（Tether）が、デジタル資産「aUSDT」および関連プラットフォーム「アロイ・バイ・テザー（Alloy by Tether）…",
       "url": "https://www.neweconomy.jp/posts/584486",
-      "important": false
-    },
-    {
-      "date": "2026-06-19",
-      "title": "米当局、GENIUS法に基づくステーブルコイン発行者向け顧客識別プログラム規則案を公表",
-      "summary": "GENIUS法の実施ルール整備進む 米国の複数の規制当局が、ステーブルコイン規制法「ジーニアス法（GENIUS Act）」に基づき、許可済み決済ステーブルコイン発行者（PPSI）に対して、銀行や信用組合に適用される顧客識…",
-      "url": "https://www.neweconomy.jp/posts/584462",
-      "important": true
-    },
-    {
-      "date": "2026-06-19",
-      "title": "U.S. agencies seek stablecoin customer-ID rules akin to banks in new GENIUS Act pitch",
-      "summary": "The Federal Reserve, Treasury and other regulators have issued a proposed rule that would set identification s…",
-      "url": "https://www.coindesk.com/policy/2026/06/18/u-s-agencies-seek-stablecoin-customer-id-rules-akin-to-banks-in-new-genius-act-rule",
-      "important": true
-    },
-    {
-      "date": "2026-06",
-      "title": "金融庁、円建てステーブルコイン「JPYC」を資金移動業で位置づけ",
-      "summary": "法的枠組みが明確化し、国内決済インフラとしての実需拡大が期待される。JPYCはシリーズBで約17.8億円の調達も進行。",
-      "url": "",
-      "important": true
-    },
-    {
-      "date": "2026-05",
-      "title": "ステーブルコイン市場規模が過去最高の約3,230億ドルに到達",
-      "summary": "全体の時価総額が史上最高を更新。USDTも約1,900億ドルの新高値をつけ、4カ月ぶりにシェアを回復した。",
-      "url": "",
-      "important": true
-    },
-    {
-      "date": "2026-04-15",
-      "title": "米超党派議員による「クラリティー法案」合意に向けた解決案、近日公開目指す",
-      "summary": "米上院議員が超党派でクラリティ法案の合意に向けた案をまもなく公表する意向を示した。銀行と仮想通貨業界が対立するステーブルコイン利回り問題に決着なるか注目される。",
-      "url": "https://coinpost.jp/?p=702024",
-      "important": true
-    },
-    {
-      "date": "2026-04-15",
-      "title": "ビザ・ストライプ・ゾディアの3社、決済向けL1「テンポ」のバリデータに参加",
-      "summary": "ステーブルコインなどの決済向けL1ブロックチェーンのテンポは、ビザ、ストライプ、ゾディアカストディがテンポのバリデータになったことを発表。今後の計画も説明した。",
-      "url": "https://coinpost.jp/?p=702017",
       "important": false
     }
   ]
