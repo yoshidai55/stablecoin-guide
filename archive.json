@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T12:24:52+09:00",
+  "updated": "2026-11-26T11:41:29+09:00",
   "items": [
     {
       "date": "2026-11-25",
@@ -13,6 +13,55 @@
       "title": "BlackRock launches tokenized money market fund accepting stablecoins in Hong Kong",
       "summary": "The tokenized fund launched with approximately $100 million in assets, with Standard Chartered and Ant Interna…",
       "url": "https://cointelegraph.com/news/blackrock-launches-tokenized-money-market-fund-stablecoins-hong-kong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-11-25",
+      "title": "SBI Solana Global始動 三井住友FG・ソラナ財団と合弁",
+      "summary": "SBIホールディングスと三井住友FG、ソラナ財団の合弁会社「SBI Solana Global」が本格始動した。旧SBI R3 Japanを商号変更し、ステーブルコイン決済やRWAトークン化など4領域でオンチェーン金融事…",
+      "url": "https://coinpost.jp/?p=749518",
+      "important": false
+    },
+    {
+      "date": "2026-11-25",
+      "title": "ビットコイン日次新規アドレス数が約5万件増、相場軟調でも＝サンティメント",
+      "summary": "仮想通貨分析企業サンティメントによると、ビットコインとイーサリアム上のUSDTで新規アドレスの作成が過去1カ月で加速した。BTCは1日あたりの新規アドレス数が1カ月前より約5万件、USDTは約2万5000件増えた。相場が…",
+      "url": "https://coinpost.jp/?p=749487",
+      "important": false
+    },
+    {
+      "date": "2026-11-25",
+      "title": "ナスダック上場ネクスト・テクノロジー、500ビットコイン売却 AI開発へ",
+      "summary": "ナスダック上場のネクスト・テクノロジーが21日に約500BTCを売却したと開示した。手取りは2,922万USDT、平均売却価格は1BTCあたり5万8,468USDT。保有は5,333BTCとなり、資金はAI関連の研究開発…",
+      "url": "https://coinpost.jp/?p=749473",
+      "important": true
+    },
+    {
+      "date": "2026-11-25",
+      "title": "Japan’s SBI, SMFG launch Solana venture for stablecoins, tokenization",
+      "summary": "SBI Solana Global plans to develop stablecoin payment infrastructure, explore AI agent micropayments and token…",
+      "url": "https://cointelegraph.com/news/sbi-smfg-solana-global-stablecoin-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-11-25",
+      "title": "French Senate rejects 100K euro crypto wallet disclosure requirement",
+      "summary": "Senators also rejected stablecoin-swap and crypto exit-tax proposals, while the 2027 budget remains under parl…",
+      "url": "https://cointelegraph.com/news/french-senate-rejects-disclosing-self-custodied-crypto-wallets-100k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-11-25",
+      "title": "Stablecoin redemptions hit $12B in 30 days, echoing 2022 bear market",
+      "summary": "Crypto research firm Kaiko said the cash-out was smaller than in 2022 and has slowed, with stablecoin supply d…",
+      "url": "https://cointelegraph.com/markets/stablecoin-cash-out-2022-bear-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-11-25",
+      "title": "South Korea’s crypto bill could move stablecoin race beyond token issuance",
+      "summary": "South Korea’s draft bill favors bank-led stablecoin issuance but allows fintech and technology companies to be…",
+      "url": "https://cointelegraph.com/news/south-korea-crypto-bill-stablecoin-race-beyond-issuance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "important": true
     },
     {
@@ -6951,55 +7000,6 @@
       "summary": "The remittances firm has become a validator on the Solana blockchain, helping process and secure transactions …",
       "url": "https://www.coindesk.com/business/2026/06/22/moneygram-joins-solana-as-validator-amid-stablecoin-payment-push",
       "important": true
-    },
-    {
-      "date": "2026-06-22",
-      "title": "Bank of England eases stablecoin rules, introduces 40B pound issuance cap",
-      "summary": "The Bank of England published draft rules for systemic stablecoins, easing reserve requirements and replacing …",
-      "url": "https://cointelegraph.com/news/bank-of-england-stablecoin-rules-clears-path-for-2027-launch?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "important": true
-    },
-    {
-      "date": "2026-06-22",
-      "title": "Bank of England backs down on strict stablecoin holding limits, sets $50 billion issuance cap",
-      "summary": "The U.K. central bank abandons retail holding limits for a 40-billion-pound aggregate cap and sweetens yield t…",
-      "url": "https://www.coindesk.com/policy/2026/06/22/bank-of-england-backs-down-on-strict-stablecoin-holding-limits-sets-usd50-billion-issuance-cap",
-      "important": true
-    },
-    {
-      "date": "2026-06-22",
-      "title": "MoneyGram joins Solana as validator, expanding role in blockchain infrastructure",
-      "summary": "The remittance giant is staking SOL and processing transaction blocks as stablecoin adoption accelerates acros…",
-      "url": "https://cointelegraph.com/news/moneygram-joins-solana-validator-expanding-role-blockchain-infrastructure?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "important": false
-    },
-    {
-      "date": "2026-06-21",
-      "title": "Ethereum's biggest 'sandwich' bot drained of $7.5 million in ironic exploit",
-      "summary": "Blockaid said an attacker tricked Jaredfromsubway.eth into approving fake trading routes, then used those appr…",
-      "url": "https://www.coindesk.com/tech/2026/06/21/ethereum-s-biggest-sandwich-bot-drained-of-usd7-5-million-in-ironic-exploit",
-      "important": false
-    },
-    {
-      "date": "2026-06-20",
-      "title": "Crypto industry looks to stablecoins and DeFi revisions in MiCA 2.0",
-      "summary": "The European Commission is seeking comment on how it can tweak MiCA, its regulatory framework for the crypto a…",
-      "url": "https://cointelegraph.com/features/crypto-industry-stablecoins-defi-mica?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "important": true
-    },
-    {
-      "date": "2026-06-19",
-      "title": "【6/19話題】GENIUS法ステーブルコイン発行者向け顧客識別プログラム規則案公表、EFのワン共同エグゼクティブディレクター兼理事が退任など（音声ニュース）",
-      "summary": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif…",
-      "url": "https://www.neweconomy.jp/posts/584539",
-      "important": true
-    },
-    {
-      "date": "2026-06-19",
-      "title": "テザー、XAUT担保ドル連動資産「aUSDT」終了へ、中核製品にリソース集中で",
-      "summary": "テザーがaUSDTとアロイ・バイ・テザーを終了へ ステーブルコイン「USDT」発行元のテザー（Tether）が、デジタル資産「aUSDT」および関連プラットフォーム「アロイ・バイ・テザー（Alloy by Tether）…",
-      "url": "https://www.neweconomy.jp/posts/584486",
-      "important": false
     }
   ]
 }
