@@ -1,6 +1,48 @@
 {
-  "updated": "2026-11-26T11:41:29+09:00",
+  "updated": "2026-11-27T11:41:11+09:00",
   "items": [
+    {
+      "date": "2026-11-27",
+      "title": "USDT供給量、2022年8月以来最大の減少幅 相場回復には流動性必要＝クリプトクアント",
+      "summary": "クリプトクアントは、イーサリアムとトロン上のUSDT供給量が60日間で81億ドル減少したと報告。仮想通貨相場の持続的回復には流動性の回復が必要と指摘した。",
+      "url": "https://coinpost.jp/?p=749697",
+      "important": false
+    },
+    {
+      "date": "2026-11-27",
+      "title": "BIS chief Pablo Hernández de Cos set to become next ECB president: FT",
+      "summary": "The Spanish economist has questioned the viability of stablecoins for widespread payments while backing the de…",
+      "url": "https://cointelegraph.com/news/bis-chief-pablo-hernndez-de-cos-next-ecb-president?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-11-26",
+      "title": "ビットコイン、5万3250ドルへの下落を警戒＝21シェアーズ",
+      "summary": "21シェアーズは、ビットコインの下値で注視すべき水準の一つとして実現価格の約5万3250ドルを挙げた。ステーブルコイン供給の18日間の減少幅は2022年のテラ崩壊以来で、バイナンスへのハッキング後の下落は強制清算が深めた…",
+      "url": "https://coinpost.jp/?p=749617",
+      "important": false
+    },
+    {
+      "date": "2026-11-26",
+      "title": "【11/26話題】SBI Solana Globalが本格始動、メタマスクがステーブルコイン決済カードを日本で提供開始、MEXCとの送付・受取停止へなど（音声ニュース）",
+      "summary": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif…",
+      "url": "https://www.neweconomy.jp/posts/630315",
+      "important": false
+    },
+    {
+      "date": "2026-11-26",
+      "title": "金融庁、DeFi規制の対象を誰にするか 研究会で論点提示",
+      "summary": "金融庁は26日の研究会で、分散型取引所（DEX）を含むDeFiとアンホステッド・ウォレットのリスク低減策を議論した。規制の名宛人をどう特定するか、ステーブルコイン発行者など接点を持つ事業者を通じたAML対策が論点となった…",
+      "url": "https://coinpost.jp/?p=749639",
+      "important": true
+    },
+    {
+      "date": "2026-11-26",
+      "title": "ドコモアジア、ステーブルコイン越境決済の実証に参加。日本発の送金で当日着金",
+      "summary": "StraitsXとOCBCが企業間の越境決済を実証 NTTドコモグループのシンガポール現地法人ドコモアジア（NTT DOCOMO ASIA）が、ステーブルコインを活用した企業間の越境決済実証に、最初の利用企業として参加し…",
+      "url": "https://www.neweconomy.jp/posts/630269",
+      "important": false
+    },
     {
       "date": "2026-11-25",
       "title": "XRPレジャーのDEX、出来高が前年比約倍増",
@@ -6958,48 +7000,6 @@
       "summary": "EU lawmakers backed a legal framework to develop an ECB digital currency by 2029 so the continent can stop rel…",
       "url": "https://www.coindesk.com/policy/2026/06/23/european-parliament-clears-last-step-for-a-digital-euro-to-break-u-s-payment-grip",
       "important": false
-    },
-    {
-      "date": "2026-06-23",
-      "title": "Former BIS chief softens stance on stablecoins, backs coexistence with fiat",
-      "summary": "Former BIS general manager Agustín Carstens said stablecoins can enhance financial inclusion and innovation bu…",
-      "url": "https://cointelegraph.com/news/former-bis-chief-softens-stance-stablecoins-coexistence-fiat?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "important": false
-    },
-    {
-      "date": "2026-06-23",
-      "title": "Ripple targets EU, wins preliminary MiCA approval from Luxembourg financial regulator",
-      "summary": "The license will enable Ripple to offer its stablecoin payment systems to European companies and expand into b…",
-      "url": "https://www.coindesk.com/policy/2026/06/23/ripple-targets-eu-wins-preliminary-mica-approval-from-luxembourg-financial-regulator",
-      "important": true
-    },
-    {
-      "date": "2026-06-23",
-      "title": "Opera's MiniPay launches Visa debit card for stablecoin spending",
-      "summary": "The card will allow MiniPay's 16 million users to spend stablecoins through Visa's network as adoption of digi…",
-      "url": "https://cointelegraph.com/news/operas-minipay-launches-visa-debit-card-for-stablecoin-spending?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "important": true
-    },
-    {
-      "date": "2026-06-23",
-      "title": "Bitmine, Sharplink and Joe Lubin back Ethereum R&D nonprofit",
-      "summary": "Sharplink says the new nonprofit, Ethlabs, “exists to ensure the network is ready to absorb” the demand that i…",
-      "url": "https://cointelegraph.com/news/bitmine-sharplink-and-joe-lubin-back-ethereum-rd-nonprofit?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "important": false
-    },
-    {
-      "date": "2026-06-22",
-      "title": "LINEミニアプリ版ステーブルコイン基盤サービス「Unifi mini」、LINE NEXTが日本で提供開始",
-      "summary": "Unifi miniが日本で提供開始 ラインネクスト（LINE NEXT）が、ステーブルコイン基盤のフィンテックサービス「ユニファイミニ（Unifi mini）」をLINEミニアプリ（MINI App）として日本国内向け…",
-      "url": "https://www.neweconomy.jp/posts/584979",
-      "important": false
-    },
-    {
-      "date": "2026-06-22",
-      "title": "MoneyGram joins Solana as validator amid stablecoin payment push",
-      "summary": "The remittances firm has become a validator on the Solana blockchain, helping process and secure transactions …",
-      "url": "https://www.coindesk.com/business/2026/06/22/moneygram-joins-solana-as-validator-amid-stablecoin-payment-push",
-      "important": true
     }
   ]
 }
