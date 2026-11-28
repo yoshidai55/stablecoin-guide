@@ -1,6 +1,20 @@
 {
-  "updated": "2026-11-27T11:41:11+09:00",
+  "updated": "2026-11-28T11:31:10+09:00",
   "items": [
+    {
+      "date": "2026-11-28",
+      "title": "取引情報を保護するステーブルコイン決済、ミッドナイト・ファウンデーションなど3社が検討",
+      "summary": "プライバシー強化型チェーンを推進するミッドナイト・ファウンデーションなど3社が、ステーブルコイン決済の協業検討に向けた基本合意書を締結した。決済の高速化や加盟店取引の保護などを共同で検討する。",
+      "url": "https://coinpost.jp/?p=749845",
+      "important": false
+    },
+    {
+      "date": "2026-11-28",
+      "title": "トランプ一族関連のワールド・リバティ、32億円相当のイーサリアム系資産を清算",
+      "summary": "トランプ一族が関与するワールドリバティ・フィナンシャルの関連ウォレットが、WETHとmETHを約2,000万ドル相当のステーブルコインに交換した。約1,659万USDCをDolomiteに送り、ETH、WETH、mETH…",
+      "url": "https://coinpost.jp/?p=749830",
+      "important": false
+    },
     {
       "date": "2026-11-27",
       "title": "USDT供給量、2022年8月以来最大の減少幅 相場回復には流動性必要＝クリプトクアント",
@@ -13,6 +27,62 @@
       "title": "BIS chief Pablo Hernández de Cos set to become next ECB president: FT",
       "summary": "The Spanish economist has questioned the viability of stablecoins for widespread payments while backing the de…",
       "url": "https://cointelegraph.com/news/bis-chief-pablo-hernndez-de-cos-next-ecb-president?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-11-27",
+      "title": "HSBCの香港ドル建てステーブルコイン「RCHKD」、開始約1か月で利用者10万人突破",
+      "summary": "RCHKD利用者が提供開始1か月で10万人突破 香港の大手銀行である香港上海銀行（HSBC）が発行する香港ドル建てステーブルコイン「HSBCレッドコイン（HSBC RedCoin：RCHKD）」の利用者数が、10万人を突…",
+      "url": "https://www.neweconomy.jp/posts/630808",
+      "important": false
+    },
+    {
+      "date": "2026-11-27",
+      "title": "日銀・神山理事、中銀マネーのトークン化は「一つの選択肢」",
+      "summary": "日本銀行の神山一成理事が27日、IMFのセミナーで講演し、DLT連携サンドボックスで中銀マネーのトークン化も含めて検討していると説明した。トークン化国債の資金決済などに注目し、ステーブルコインには中銀マネーとの連携が重要…",
+      "url": "https://coinpost.jp/?p=749772",
+      "important": false
+    },
+    {
+      "date": "2026-11-27",
+      "title": "What was Coinbase worth while Nasdaq was closed?",
+      "summary": "A Thanksgiving buyer paid 106.24 USDC per Coinbase share. Whether that looked like a holiday rally depended on…",
+      "url": "https://cointelegraph.com/news/what-was-coinbase-worth-while-nasdaq-was-closed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": false
+    },
+    {
+      "date": "2026-11-27",
+      "title": "Brazil’s stock exchange pushes stablecoin launch back to 2027",
+      "summary": "Brazil’s stock exchange is working with six major financial institutions on a real-backed stablecoin that coul…",
+      "url": "https://cointelegraph.com/news/brazil-b3-stablecoin-tokenization-launch-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "important": true
+    },
+    {
+      "date": "2026-11-27",
+      "title": "Next ECB chief favors tokenized bank deposits over stablecoins and bitcoin",
+      "summary": "Pablo Hernández de Cos, chosen to succeed Christine Lagarde, favors blockchain-based banking and has warned ag…",
+      "url": "https://www.coindesk.com/policy/2026/11/27/next-ecb-chief-favors-tokenized-bank-deposits-over-stablecoins-and-bitcoin",
+      "important": true
+    },
+    {
+      "date": "2026-11-27",
+      "title": "Brazil’s stock exchange teams up with major banks to launch real-pegged stablecoin",
+      "summary": "Banco B3 will issue the token, backed one-to-one by reais, and other financial institutions can join from laun…",
+      "url": "https://www.coindesk.com/business/2026/11/27/brazil-s-stock-exchange-teams-up-with-major-banks-to-launch-real-pegged-stablecoin",
+      "important": true
+    },
+    {
+      "date": "2026-11-27",
+      "title": "Tether can freeze stolen crypto in minutes. Getting it back can take years.",
+      "summary": "Tether says it has returned $1.28 billion in frozen USDT, but victims can wait years to recover their money an…",
+      "url": "https://www.coindesk.com/business/2026/11/27/tether-can-freeze-stolen-crypto-in-minutes-getting-it-back-can-take-years",
+      "important": false
+    },
+    {
+      "date": "2026-11-27",
+      "title": "Ripple's lending plan moves closer to tapping XRP Ledger's $800 million in stablecoins",
+      "summary": "The vaults that would hold lenders' money are on track to switch on Dec. 9. The loan system that draws from th…",
+      "url": "https://www.coindesk.com/markets/2026/11/27/ripple-s-lending-plan-moves-closer-to-tapping-xrp-ledger-s-usd950-million-in-stablecoins",
       "important": false
     },
     {
@@ -6930,76 +7000,6 @@
       "summary": "JPYSCが近日に発行開始か SBIホールディングスとスターテイルグループ（Startale Group）が共同開発を進めている日本円ステーブルコイン「JPYSC」が、今週内にも発行開始されると、「日本経済新聞」が6月2…",
       "url": "https://www.neweconomy.jp/posts/586128",
       "important": true
-    },
-    {
-      "date": "2026-06-24",
-      "title": "The banking lobby is wrong about stablecoins and community banks",
-      "summary": "Congress should not kneecap one of the clearest advances in payment infrastructure to protect community banks …",
-      "url": "https://www.coindesk.com/opinion/2026/06/24/the-banking-lobby-is-wrong-about-stablecoins-and-community-banks",
-      "important": true
-    },
-    {
-      "date": "2026-06-24",
-      "title": "OpenPayd secures MiCA license as stablecoin adoption grows in Europe",
-      "summary": "OpenPayd, which provides infrastructure to companies including Kraken crypto exchange, can now offer regulated…",
-      "url": "https://cointelegraph.com/news/openpayd-mica-license-stablecoin-adoption-europe?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "important": true
-    },
-    {
-      "date": "2026-06-23",
-      "title": "【6/23話題】イーサリアム財団の元研究者ら設立のEthlabs、英中銀がステーブルコイン規制を緩和、ストラテジーとビットマインの追加取得など（音声ニュース）",
-      "summary": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif…",
-      "url": "https://www.neweconomy.jp/posts/586066",
-      "important": true
-    },
-    {
-      "date": "2026-06-23",
-      "title": "SBI新生信託銀行、円連動ステーブルコイン「JPYSC」を6月中に発行 信託型で国内初＝日本経済新聞",
-      "summary": "SBIグループが日本円連動のステーブルコイン「JPYSC」を週内にも発行する。SBI新生信託銀行が発行体となる信託型では国内初。発行額の上限がなく機関投資家・グローバル企業の大口利用を見込む。3メガバンクの共同発行構想に…",
-      "url": "https://coinpost.jp/?p=719292",
-      "important": false
-    },
-    {
-      "date": "2026-06-23",
-      "title": "米サークル「USDC」と「EURC」、クロノスに対応へ。CCTPも導入予定",
-      "summary": "USDC・EURC・CCTPがCronosに導入へ 米サークル（Circle Internet Financial）発行の米ドル建てステーブルコイン「USDC」とユーロ建てステーブルコイン「EURC」が、レイヤー1ブロッ…",
-      "url": "https://www.neweconomy.jp/posts/585645",
-      "important": false
-    },
-    {
-      "date": "2026-06-23",
-      "title": "仮想通貨市場、6月の下落銘柄比率が87％ 「年間最弱月」の可能性＝CryptoRank",
-      "summary": "CryptoRankのデータによると、ステーブルコインを除くトップ100銘柄のうち87.1％が6月に下落し、2026年最高水準を記録した。平均リターンはマイナス8.6％、中央値はマイナス12.3％と広範な下落となっている…",
-      "url": "https://coinpost.jp/?p=719215",
-      "important": false
-    },
-    {
-      "date": "2026-06-23",
-      "title": "英中銀がステーブルコイン規制を緩和、保有上限見送りで発行総額上限方式へ",
-      "summary": "業界からは歓迎と懸念の声 英中央銀行のイングランド銀行（BoE）が、英ポンド建てシステミック・ステーブルコイン発行体の規制に関する政策声明および実務規範（コード・オブ・プラクティス）草案を6月22日に公表した。昨年11月…",
-      "url": "https://www.neweconomy.jp/posts/585577",
-      "important": true
-    },
-    {
-      "date": "2026-06-23",
-      "title": "英中銀、ポンド建てステーブルコインの行動規範案を公開 発行上限や利回り禁止など提案",
-      "summary": "イングランド銀行は、金融システム上重要なポンド建てステーブルコインを対象とした行動規範草案を公開した。発行上限、利回り禁止、償還などの内容を盛り込んでいる。",
-      "url": "https://coinpost.jp/?p=719027",
-      "important": true
-    },
-    {
-      "date": "2026-06-23",
-      "title": "Former Robinhood Crypto COO Tanya Denisova joins stablecoin issuer Agora as head of operations",
-      "summary": "The former Robinhood Crypto executive will oversee operations as Agora scales its rapidly growing AUSD stablec…",
-      "url": "https://www.coindesk.com/business/2026/06/23/former-robinhood-crypto-coo-tanya-denisova-joins-stablecoin-issuer-agora-as-head-of-operations",
-      "important": false
-    },
-    {
-      "date": "2026-06-23",
-      "title": "The ECB digital euro takes step forward after winning key European Parliament vote",
-      "summary": "EU lawmakers backed a legal framework to develop an ECB digital currency by 2029 so the continent can stop rel…",
-      "url": "https://www.coindesk.com/policy/2026/06/23/european-parliament-clears-last-step-for-a-digital-euro-to-break-u-s-payment-grip",
-      "important": false
     }
   ]
 }
